@@ -4,30 +4,40 @@
     "id": "gita",
     "title": "Bhagavad Gita",
     "author": "Veda Vyasa (as part of the Mahabharata)",
-    "path": "bhagavadGita.json"
+    "path": "bhagavadGita.json",
+    "coverImage": "images/KrishaArjuna.png",
+    "audioUrl": "https://example.com/path/to/full_gita_audio.mp3" 
   },
   {
     "id": "chalisa",
     "title": "Hanuman Chalisa",
     "author": "Tulsidas",
-    "path": "hanumanChalisa.json"
+    "path": "hanumanChalisa.json",
+    "coverImage": "images/HanumanChalisa.png",
+    "audioUrl": "https://example.com/path/to/full_gita_audio.mp3"  
   },
   {
     "id": "lalita",
     "title": "Lalita Sahasranama",
     "author": "Sage Hayagrīva (narrated in Brahmanda Purana)",
-    "path": "lalitaSahasranama.json"
+    "path": "lalitaSahasranama.json",
+    "coverImage": "images/LalithaSahasranama.png",
+    "audioUrl": "https://example.com/path/to/full_gita_audio.mp3"     
   },
   {
     "id": "shiva",
     "title": "Shiva Tandava Stotram",
     "author": "Ravana",
-    "path": "shivaTandavaStotram.json"
+    "path": "shivaTandavaStotram.json",
+    "coverImage": "images/ShivaTandav.png",
+    "audioUrl": "https://example.com/path/to/full_gita_audio.mp3"       
   },
   {
     "id": "vishnu",
     "title": "Vishnu Sahasranama",
     "author": "Veda Vyasa (from the Mahabharata, Anushasana Parva)",
     "path": "vishnuSahasranama.json"
+    "coverImage": "images/VishnuSahasranama.png",
+    "audioUrl": "https://example.com/path/to/full_gita_audio.mp3" 
   }
 ]
