@@ -36,7 +36,7 @@
     "id": "vishnu",
     "title": "Vishnu Sahasranama",
     "author": "Veda Vyasa (from the Mahabharata, Anushasana Parva)",
-    "path": "vishnuSahasranama.json"
+    "path": "vishnuSahasranama.json",
     "coverImage": "images/VishnuSahasranama.png",
     "audioUrl": "https://example.com/path/to/full_gita_audio.mp3" 
   }
