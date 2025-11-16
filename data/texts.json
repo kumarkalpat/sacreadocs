@@ -14,7 +14,7 @@
     "author": "Tulsidas",
     "path": "hanumanChalisa.json",
     "coverImage": "images/HanumanChalisa.png",
-    "audioUrl": "https://example.com/path/to/full_gita_audio.mp3"  
+    "audioUrl": "https://archive.org/details/HanumanChalisa_201806"  
   },
   {
     "id": "lalita",
@@ -22,7 +22,7 @@
     "author": "Sage Hayagrīva (narrated in Brahmanda Purana)",
     "path": "lalitaSahasranama.json",
     "coverImage": "images/LalithaSahasranama.png",
-    "audioUrl": "https://example.com/path/to/full_gita_audio.mp3"     
+    "audioUrl": "https://dn720706.ca.archive.org/0/items/19-sri-lalita-sahasranama-stotram/19%20Sri%20Lalita%20Sahasranama%20Stotram.mp3"     
   },
   {
     "id": "shiva",
