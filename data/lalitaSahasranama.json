@@ -12,13 +12,1581 @@
             "summary": "The main devotional hymn containing the 1,000 epithets of Lalita Tripurasundari, as narrated by Hayagrīva. The names detail her divine form, actions, abode, and cosmic powers, forming the central core of her worship (Arcana). This section is traditionally followed by the Phalaśruti (results of recitation).",
             "verses_count": 190,
             "verses": [
-                { "id": "lalita-1-1", "verse_number": 1, "original": "सिन्दूरारुणविग्रहां त्रिनयनां माणिक्यमौलि स्फुरत्\nतारानायक शेखरां स्मितमुखी मापीन वक्षोरुहाम्।\nपाणिभ्यामलिपूर्ण रत्न चषकं रक्तोत्पलं बिभ्रतीं\nसौम्यां रत्न घटस्थ रक्त चरणां ध्यायेत् पराम्बिकाम्॥", "transliteration": "sindūrāruṇavigrahāṁ trinayanāṁ māṇikyamouli sphurat\ntārānāyaka śekharāṁ smitamukhī māpīna vakṣōruhām.\npāṇibhyāmalipūrṇa ratna caṣakaṁ raktōtpalaṁ bibhratīṁ\nsaumyāṁ ratna ghaṭastha rakta caraṇāṁ dhyāyēt parāmbikām.", "translations": { "english": "We meditate upon the Supreme Mother, whose form is red like vermilion, who has three eyes, whose crown is adorned with glittering rubies and the moon (leader of stars), who has a smiling face and full breasts, who holds a jewel-filled cup of wine and a red lotus in her hands, who is gentle, and whose red feet are placed upon a jeweled pot." } },
-                { "id": "lalita-1-2", "verse_number": 2, "original": "श्रीमाता श्रीमहाराज्ञी श्रीमत्सिंहासनेश्वरी ।\nचिदग्निकुण्डसम्भूता देवकार्यसमुद्यता ॥", "transliteration": "śrīmātā śrīmahārājñī śrīmatsimhāsaneśvarī |\ncidagnikuṇḍasambhūtā devakāryasamudyatā ||", "translations": { "english": "The Holy Mother (Śrīmātā), the Great Empress (Śrīmahārājñī), the Sovereign of the Auspicious Throne (Śrīmatsimhāsaneśvarī), who emerged from the fire pit of consciousness (Cidagnikuṇḍasambhūtā), and who is zealous in accomplishing the work of the Gods (Devakāryasamudyatā). (Names 1-4)" } },
-                { "id": "lalita-1-3", "verse_number": 3, "original": "उद्यद्भानुसहस्राभा चतुर्बाहुसमन्विता ।\nरागस्वरूपपाशाढ्या क्रोधाकाराङ्कुशोज्ज्वला ॥", "transliteration": "udyadbhānusahasrābhā caturbāhusamantvitā |\nrāgasvarūpapāśāḍhyā krōdhākārāṅkuśōjjvalā ||", "translations": { "english": "She shines with the radiance of a thousand rising suns (Udyadbhānusahasrābhā), endowed with four arms (Caturbāhusamantvitā), holds the noose which is the form of attachment (Rāgasvarūpapāśāḍhyā), and shines with the goad which is the form of anger (Krōdhākārāṅkuśōjjvalā). (Names 5-8)" } },
-                { "id": "lalita-1-4", "verse_number": 4, "original": "मनोरूपेक्षुकोदण्डा पञ्चतन्मात्रसायका ।\nनिजारुणप्रभापूरमज्जद्ब्रह्माण्डमण्डला ॥", "transliteration": "manōrūpēkṣukōdaṇḍā pañcatanmātrasāyakā |\nnijāruṇaprabhāpūramajjadbrahmāṇḍamaṇḍalā ||", "translations": { "english": "Her sugarcane bow is the form of the mind (Manōrūpēkṣukōdaṇḍā), her five arrows are the five subtle elements (Pañcatanmātrasāyakā), and the entire universe is immersed in the flood of her innate reddish radiance (Nijāruṇaprabhāpūramajjadbrahmāṇḍamaṇḍalā). (Names 9-11)" } },
-                { "id": "lalita-1-5", "verse_number": 5, "original": "चम्पकाशोकपुन्नागसौगन्धिकलसत्कचा ।\nकुरुविन्दमणिश्रेणीकनत्कोटीर मण्डिता ॥", "transliteration": "campakāśōkapunnāgasaugandhikalatskacā |\nkuruvindamaṇiśrēṇīkanatkōṭīra maṇḍitā ||", "translations": { "english": "Her charming locks of hair carry the sweet fragrance of Campaka, Aśoka, and Punnāga flowers (Campakāśōkapunnāgasaugandhikalatskacā), and she is decorated with a crown sparkling with rows of Kuruvinda gems (Kuruvindamaṇiśrēṇīkanatkōṭīra maṇḍitā). (Names 12-14)" } },
-                { "id": "lalita-1-6", "verse_number": 6, "original": "अष्टमीचन्द्रविभ्राजदलस्थलविराजिता ।\nमुखचन्द्रकलङ्काभमृगनाभिविशेषका ॥", "transliteration": "aṣṭamīcandra vibhrājadalasthalavirājitā |\nmukhacandrakalaṅkābhamṛganābhiviśēṣakā ||", "translations": { "english": "Her forehead is adorned with the luster of the crescent moon of the eighth lunar day (Aṣṭamīcandra vibhrājadalasthalavirājitā), and the mark (tilaka) of musk on her forehead resembles the spot on the moon (Mukhacandrakalaṅkābhamṛganābhiviśēṣakā). (Names 15-18)" } },
-                { "id": "lalita-1-7", "verse_number": 7, "original": "शुद्धविद्यङ्कुराकारद्विजपङ्क्तिद्वयोज्ज्वला ।\nकर्पूरवीटिकासामोदपूरित दिङ्ञुखा ॥", "transliteration": "śuddhavidyaṅkurākāradvijapaṅktidvayōjjvalā |\nkarpūravīṭikāsāmōdapūrita diṅñukhā ||", "translations": { "english": "Her two rows of teeth shine like the sprout of Śuddha Vidya (Śuddhavidyaṅkurākāradvijapaṅktidvayōjjvalā), and the scent of the betel leaf (Karpūra Vīṭikā) she chews fills all the directions (Karpūravīṭikāsāmōdapūrita diṅñukhā). (Names 19-21)" } }
+{
+  "id": "lalita-dhyana-1",
+  "verse_number": 0,
+  "original": "सिन्दूरारुणविग्रहां त्रिनयनां माणिक्यमौलि स्फुरत्\nतारानायक शेखरां स्मितमुखी मापीन वक्षोरुहाम्।\nपाणिभ्यामलिपूर्ण रत्न चषकं रक्तोत्पलं बिभ्रतीं\nसौम्यां रत्न घटस्थ रक्त चरणां ध्यायेत् पराम्बिकाम्॥",
+  "transliteration": "sindūrāruṇavigrahāṁ trinayanāṁ māṇikyamouli sphurat\ntārānāyaka śekharāṁ smitamukhī māpīna vakṣōruhām.\npāṇibhyāmalipūrṇa ratna caṣakaṁ raktōtpalaṁ bibhratīṁ\nsaumyāṁ ratna ghaṭastha rakta caraṇāṁ dhyāyēt parāmbikām.",
+  "translations": {
+    "english": "We meditate upon the Supreme Mother (Parāmbikā), whose form is red like vermilion (Sindūrāruṇavigrahāṁ), who has three eyes (Trinayanāṁ), whose crown is adorned with glittering rubies and the moon (Tārānāyaka Śekharāṁ), who has a smiling face (Smitamukhī) and full breasts (Āpīna Vakṣōruhām). Who holds a jewel-filled cup of wine and a red lotus (Raktōtpalaṁ) in her hands (Pāṇibhyāmalipūrṇa Ratna Caṣakaṁ), who is gentle (Saumyāṁ), and whose red feet are placed upon a jeweled pot (Ratna Ghaṭastha Rakta Caraṇāṁ). (Dhyāna Śloka)"
+  }
+},
+{
+  "id": "lalita-1-1",
+  "verse_number": 1,
+  "original": "श्रीमाता श्रीमहाराज्ञी श्रीमत्सिंहासनेश्वरी ।\nचिदग्निकुण्डसम्भूता देवकार्यसमुद्यता ॥",
+  "transliteration": "śrīmātā śrīmahārājñī śrīmatsimhāsaneśvarī |\ncidagnikuṇḍasambhūtā devakāryasamudyatā ||",
+  "translations": {
+    "english": "The Holy Mother (Śrīmātā - 1), the Great Empress (Śrīmahārājñī - 2), the Sovereign of the Auspicious Throne (Śrīmatsimhāsaneśvarī - 3), who emerged from the fire pit of consciousness (Cidagnikuṇḍasambhūtā - 4), and who is zealous in accomplishing the work of the Gods (Devakāryasamudyatā - 5)."
+  }
+},
+{
+  "id": "lalita-1-2",
+  "verse_number": 2,
+  "original": "उद्यद्भानुसहस्राभा चतुर्बाहुसमन्विता ।\nरागस्वरूपपाशाढ्या क्रोधाकाराङ्कुशोज्ज्वला ॥",
+  "transliteration": "udyadbhānusahasrābhā caturbāhusamantvitā |\nrāgasvarūpapāśāḍhyā krōdhākārāṅkuśōjjvalā ||",
+  "translations": {
+    "english": "She shines with the radiance of a thousand rising suns (Udyadbhānusahasrābhā - 6), endowed with four arms (Caturbāhusamantvitā - 7), holds the noose which is the form of attachment (Rāgasvarūpapāśāḍhyā - 8), and shines with the goad which is the form of anger (Krōdhākārāṅkuśōjjvalā - 9)."
+  }
+},
+{
+  "id": "lalita-1-3",
+  "verse_number": 3,
+  "original": "मनोरूपेक्षुकोदण्डा पञ्चतन्मात्रसायका ।\nनिजारुणप्रभापूर-मज्जद्ब्रह्माण्डमण्डला ॥",
+  "transliteration": "manōrūpēkṣukōdaṇḍā pañcatanmātrasāyakā |\nnijāruṇaprabhāpūra-majjad-brahmāṇḍamaṇḍalā ||",
+  "translations": {
+    "english": "Her sugarcane bow is the form of the mind (Manōrūpēkṣukōdaṇḍā - 10), and her five arrows are the five subtle elements (Pañcatanmātrasāyakā - 11). The entire universe is immersed in the flood of her own red-hued radiance (Nijāruṇaprabhāpūra-majjad-brahmāṇḍamaṇḍalā - 12)."
+  }
+},
+{
+  "id": "lalita-1-4",
+  "verse_number": 4,
+  "original": "चम्पकाशोकपुन्नाग-सौगन्धिकलसत्कचा ।\nकुरुविन्दमणिश्रेणी-कनत्कोटीरमण्डिता ॥",
+  "transliteration": "campakāśōkapunnāga-sauganthikalasatkacā |\nkuruvindamaṇiśreṇī-kanatkōṭīramaṇḍitā ||",
+  "translations": {
+    "english": "Her hair shines with the fragrance of Campaka, Aśoka, and Punnāga flowers (Campakāśōkapunnāga-sauganthikalasatkacā - 13), and her crown is adorned with rows of glittering Kuruvinda (ruby) gems (Kuruvindamaṇiśreṇī-kanatkōṭīramaṇḍitā - 14)."
+  }
+},
+{
+  "id": "lalita-1-5",
+  "verse_number": 5,
+  "original": "अष्टमीचन्द्रविभ्राज-दलकस्थलशोभिता ।\nमुखचन्द्रकलङ्काभ-मृगनाभिविशेषका ॥",
+  "transliteration": "aṣṭamīcandravibhrāja-dalikasthalaśōbhitā |\nmukhacandrakaḷaṅkābha-mṛganābhiviśeṣakā ||",
+  "translations": {
+    "english": "She is beautiful with a forehead shining like the crescent moon of the eighth day (Aṣṭamīcandravibhrāja-dalikasthalaśōbhitā - 15), and wears a decorative mark of musk (kastūrī tilaka) resembling the spot/blemish (Kalaṅka) on the moon-like face (Mukhacandrakaḷaṅkābha-mṛganābhiviśeṣakā - 16)."
+  }
+},
+{
+  "id": "lalita-1-6",
+  "verse_number": 6,
+  "original": "वक्त्रलक्ष्मीपरीवाह-चलन्मीनाभलोचना ।\nनवचम्पकपुष्पाभ-नासादण्डविराजिता ॥",
+  "transliteration": "vaktralakṣmīparīvāha-calanmīnābhalōcanā |\nnavacampakapuṣpābha-nāsādaṇḍavirājitā ||",
+  "translations": {
+    "english": "Her eyes are like restless fish, pouring forth the beauty of her face (Vaktralakṣmīparīvāha-calanmīnābhalōcanā - 17). Her nose-rod shines like a fresh Campaka flower (Navacampakapuṣpābha-nāsādaṇḍavirājitā - 18)."
+  }
+},
+{
+  "id": "lalita-1-7",
+  "verse_number": 7,
+  "original": "तारकान्तितिरस्कारि-नासाभरणभासुरा ।\nकदम्बमञ्जरीक्ळुप्त-कर्णपूरमनोहरा ॥",
+  "transliteration": "tārākāntitiraskāri-nāsābharaṇabhāsurā |\nkadambamañjarīkḷupta-karṇapūramanōharā ||",
+  "translations": {
+    "english": "She shines with a nose-ornament that surpasses the luster of the stars (Tārākāntitiraskāri-nāsābharaṇabhāsurā - 19), and is captivating with ear ornaments made of Kadamba flower bunches (Kadambamañjarīkḷupta-karṇapūramanōharā - 20)."
+  }
+},
+{
+  "id": "lalita-1-8",
+  "verse_number": 8,
+  "original": "ताटङ्कयुगळीभूत-तपनोडुपमण्डला ।\nपद्मरागतटस्थश्री-परितर्षणलोचना ॥",
+  "transliteration": "tāṭaṅkayugaḷībhūta-tapaṇōḍupamaṇḍalā |\npadmarāgataṭasthashrī-paritarṣaṇalōcanā ||",
+  "translations": {
+    "english": "Her ear-rings (Tāṭaṅka) appear like the combined orb of the Sun and the Moon (Tapaṇōḍupamaṇḍalā - 21). Her eyes appear to desire the beauty placed on the banks of Padmarāga gems (Padmarāgataṭasthashrī-paritarṣaṇalōcanā - 22)."
+  }
+},
+{
+  "id": "lalita-1-9",
+  "verse_number": 9,
+  "original": "नवविद्रुमबिम्बश्री-न्यक्कारिरदनच्छदा ।\nशुद्धविद्याङ्कुराकार-द्विजपङ्क्तिद्वयोज्ज्वला ॥",
+  "transliteration": "navavidrumabimbaśrī-nyakkāriradanacchadā |\nśuddhavidyāṅkurākāra-dvijapaṅktidvayōjjvalā ||",
+  "translations": {
+    "english": "Her lips (radanacchadā) surpass the beauty of a fresh coral and the Bimba fruit (Navavidrumabimbaśrī-nyakkāriradanacchadā - 23). She shines brightly with two rows of teeth (dvijapaṅktidvayōjjvalā) resembling the tender shoots of Śuddha Vidyā (Pure Knowledge) (Śuddhavidyāṅkurākāra - 24)."
+  }
+},
+{
+  "id": "lalita-1-10",
+  "verse_number": 10,
+  "original": "कर्पूरवीटिकासाम-मोदपूरितदिङ्मुखा ।\nनिजसंलापमाधुर्य-विनिर्भर्त्सितकच्छपी ॥",
+  "transliteration": "karpūravīṭikāsāma-mōdapūritadiṅmukhā |\nnijasaṃlāpamādhurya-vinirbhartsitakacchapī ||",
+  "translations": {
+    "english": "The perfume of the betel-roll (Karpūravīṭikā) she chews fills all directions (Karpūravīṭikāsāma-mōdapūritadiṅmukhā - 25). The sweetness of her conversation (Nijasaṃlāpamādhurya) chastises the Vīṇā of Nārada, named Kacchapī (Vinirbhartsitakacchapī - 26)."
+  }
+},
+{
+  "id": "lalita-1-11",
+  "verse_number": 11,
+  "original": "मन्दस्मितप्रभापूर-मज्जत्कामेशमानसा ।\nअनाकलितसादृश्य-चिबुकश्रीविराजिता ॥",
+  "transliteration": "mandasmitaprabhāpūra-majjatkāmēśamānasā |\nanākalitasādṛśya-cibukaśrīvirājitā ||",
+  "translations": {
+    "english": "The effulgence of her gentle smile (Mandasmitaprabhāpūra) immerses the mind of Kāmeśvara (Śiva) (Majjatkāmēśamānasā - 27). She shines with a beautiful chin (cibukaśrīvirājitā) whose likeness is unknown (Anākalitasādṛśya - 28)."
+  }
+},
+{
+  "id": "lalita-1-12",
+  "verse_number": 12,
+  "original": "कामेशबद्धमाङ्गल्य-सूत्रशोभितकन्धरा ।\nकनकाङ्गदकेयूर-कमनीयभुजान्विता ॥",
+  "transliteration": "kāmēśabaddhamāṅgalya-sūtraśōbhitakandharā |\nkanakāṅgadakēyūra-kamanīyabhujānvitā ||",
+  "translations": {
+    "english": "Her neck (kandharā) is adorned with the auspicious thread (māṅgalya-sūtra) tied by Kāmeśvara (Kāmēśabaddhamāṅgalya-sūtraśōbhitakandharā - 29). She possesses lovely arms (kamanīyabhujānvitā) adorned with gold armlets (Kanakāṅgada) and bracelets (Kēyūra) (Kanakāṅgadakēyūra - 30)."
+  }
+},
+{
+  "id": "lalita-1-13",
+  "verse_number": 13,
+  "original": "रत्नग्रैवेयचिन्ताक-लोलमुक्ताफलान्विता ।\nकामेश्वरप्रेम-रत्न-मणि-प्रतिपणस्तनी ॥",
+  "transliteration": "ratnagraivēyacintāka-lōlamuktāphalānvitā |\nkāmēśvaraprēma-ratna-maṇi-pratipana-stanī ||",
+  "translations": {
+    "english": "She is endowed with a necklace (graivēya) of gems (Ratna) and a pendant (cintāka) with swinging pearls (lōlamuktāphalānvitā - 31). Her breasts (stanī) are the jewels (ratna-maṇi) given in exchange for Kāmeśvara's love (Kāmēśvaraprēma-ratna-maṇi-pratipana - 32)."
+  }
+},
+{
+  "id": "lalita-1-14",
+  "verse_number": 14,
+  "original": "नाभ्यालवालरोमालि-लताफलकुचद्वयी ।\nलक्ष्यरोमलताधारता-समुन्नेयमध्यमा ॥",
+  "transliteration": "nābhyālavālarōmāli-latāphalkucadvayī |\nlakṣyarōmalatādhāratā-samunnēyamadhyamā ||",
+  "translations": {
+    "english": "Her two breasts (kucadvayī) are the fruits (phala) of the creeper (latā) of hair (rōmāli), which has the navel (nābhi) as its base (ālavāla) (Nābhyālavālarōmāli-latāphalkucadvayī - 33). Her waist (madhyamā) is so slender that its existence can only be inferred by the line of fine hair (rōmalatā) that rests upon it (Lakṣyarōmalatādhāratā-samunnēyamadhyamā - 34)."
+  }
+},
+{
+  "id": "lalita-1-15",
+  "verse_number": 15,
+  "original": "स्तनभारदलन्मध्य-पट्टबन्धवलित्रया ।\nअरुणारुणकौसुम्भ-वस्त्रभास्वत्कटीतटी ॥",
+  "transliteration": "stanabhāradalanmadhya-paṭṭabandhavalitrayā |\naruṇāruṇakausumbha-vastrabhāsvatkaṭītaṭī ||",
+  "translations": {
+    "english": "The three folds (valitrayā) on her middle (madhya) are like a binding belt (paṭṭabandha) to prevent her waist from breaking due to the weight of her breasts (Stanabhāradalanmadhya - 35). Her hips (kaṭītaṭī) shine brightly (bhāsvat) covered by a deep red (aruṇāruṇa) cloth dyed with saffron (kausumbha-vastra - 36)."
+  }
+},
+{
+  "id": "lalita-1-16",
+  "verse_number": 16,
+  "original": "रत्नकिङ्किणिकारम्य-रशनादामभूषिता ।\nकामेशज्ञातसौभाग्य-मार्दवोरुद्वयान्विता ॥",
+  "transliteration": "ratnakiṅkiṇikāramya-raśanādāmabhūṣitā |\nkāmēśajñātasaubhāgya-mārdavōrudvayānvitā ||",
+  "translations": {
+    "english": "She is adorned (bhūṣitā) with a waist-chain (raśanādāma) made lovely (ramya) by small bells (kiṅkiṇikā) of gems (Ratna - 37). She possesses two thighs (ūrudvayānvitā) whose auspiciousness (saubhāgya) and softness (mārdava) are known only to Kāmeśvara (Kāmēśajñātasaubhāgya-mārdava - 38)."
+  }
+},
+{
+  "id": "lalita-1-17",
+  "verse_number": 17,
+  "original": "माणिक्यमुकुटाकार-जानुद्वयविराजिता ।\nइन्द्रगोपपरिक्षिप्त-स्मरतूणाभजङ्घिका ॥",
+  "transliteration": "māṇikyāmukuṭākāra-jānudvayavirājitā |\nindragōpaparikṣipta-smaratūṇābhajaṅghikā ||",
+  "translations": {
+    "english": "She shines brightly with two knees (jānudvayavirājitā) shaped like crowns (mukuṭākāra) made of rubies (Māṇikyā - 39). Her shanks (jaṅghikā) resemble the quiver (tūṇābhajaṅghikā) of the God of Love (Smara), covered with the red insects called Indragōpa (Indragōpaparikṣipta - 40)."
+  }
+},
+{
+  "id": "lalita-1-18",
+  "verse_number": 18,
+  "original": "गूढगुल्फा कूर्मपृष्ठ-जयिष्णुप्रपदान्विता ।\nनखदीधितिसञ्छन्न-नमज्जनतमोगुणा ॥",
+  "transliteration": "gūḍhagulphā kūrmapṛṣṭha-jayiṣṇuprapadānvitā |\nnakhadīdhitisañchanna-namajjanatamōguṇā ||",
+  "translations": {
+    "english": "She has hidden ankles (Gūḍhagulphā - 41) and fore-feet (prapadānvitā) that excel the arched back of a tortoise (Kūrmapṛṣṭha-jayiṣṇu - 42). The luster of her nails (nakhadīdhiti) completely dispels (sañchanna) the darkness (tamōguṇā) from the devotees who bow to her (namajjana - 43)."
+  }
+},
+{
+  "id": "lalita-1-19",
+  "verse_number": 19,
+  "original": "पदद्वयप्रभाजाल-पराकृतसरोरुहा ।\nसिञ्जानमणिमञ्जीर-मण्डितश्रीपदांबुजा ॥",
+  "transliteration": "padadvayaprabhājāla-parākṛtasarōruhā |\nsiñjānamaṇimañjīra-maṇḍitaśrīpadāmbujā ||",
+  "translations": {
+    "english": "The mass of light emanating from her two feet (padadvayaprabhājāla) defeats (parākṛta) the beauty of the lotus (sarōruhā - 44). Her auspicious lotus feet (śrīpadāmbujā) are adorned (maṇḍita) with tinkling (siñjāna) anklets (maṇimañjīra) made of gems (45)."
+  }
+},
+{
+  "id": "lalita-1-20",
+  "verse_number": 20,
+  "original": "मरालीमन्दगमना महालावण्यशेवधिः ।\nसर्वारुणाऽनवद्याङ्गी सर्वाभरणभूषिता ॥",
+  "transliteration": "marālīmandagamanā mahālāvaṇyaśēvadhiḥ |\nsarvāruṇā'navadyāṅgī sarvābharaṇabhūṣitā ||",
+  "translations": {
+    "english": "Her gait is slow and graceful like a swan (Marālīmandagamanā - 46). She is a great treasure-house of beauty (Mahālāvaṇyaśēvadhiḥ - 47), completely red in color (Sarvāruṇā - 48), with faultless limbs (Anavadyāṅgī - 49), and adorned with all types of ornaments (Sarvābharaṇabhūṣitā - 50)."
+  }
+},
+{
+  "id": "lalita-1-21",
+  "verse_number": 21,
+  "original": "शिवकामेश्वराङ्कस्था शिवा स्वाधीन वल्लभा ।\nसुमेरुमध्यशृङ्गस्था श्रीमन्नगर नायिका ॥",
+  "transliteration": "śivakāmēśvarāṅkasthā śivā svādhīna vallabhā |\nsumērumadhyaśṛṅgasthā śrīmannagara nāyikā ||",
+  "translations": {
+    "english": "She is seated on the lap of Śiva Kāmeśvara (Śivakāmēśvarāṅkasthā - 51), is Śiva's consort (Śivā - 52), and controls her beloved husband (Svādhīna vallabhā - 53)."
+  }
+},
+  {
+  "id": "lalita-1-22",
+  "verse_number": 22,
+  "original": "सुमेरुमध्यशृङ्गस्था श्रीमन्नगर नायिका ।\nचिन्तामणि गृहान्तस्था पञ्चब्रह्मासनस्थिता ॥",
+  "transliteration": "sumērumadhyaśṛṅgasthā śrīmannagara nāyikā |\ncintāmaṇi gṛhāntasthā pañcabrahmāsanasthitā ||",
+  "translations": {
+    "english": "She resides on the central peak of Mount Meru (Sumērumadhyaśṛṅgasthā - 54), and is the ruler of the auspicious city (Śrīmannagara Nāyikā - 55). She resides within the house made of the Wish-fulfilling Gem (Cintāmaṇi Gṛhāntasthā - 56), and is seated on the throne formed by the Five Brahmas (Pañcabrahmāsanasthitā - 57)."
+  }
+},
+{
+  "id": "lalita-1-23",
+  "verse_number": 23,
+  "original": "महापद्माटवीसंस्था कदम्बवनवासिनी ।\nसुधासागर मध्यस्था कामाक्षी कामदायिनी ॥",
+  "transliteration": "mahāpadmāṭavīsaṃsthā kadambavanavāsinī |\nsudhāsāgara madhyasthā kāmākṣī kāmadāyinī ||",
+  "translations": {
+    "english": "She is in the great lotus forest (Mahāpadmāṭavīsaṃsthā - 58), and dwells in the Kadamba forest (Kadambavanavāsinī - 59). She is situated in the middle of the ocean of Nectar (Sudhāsāgara Madhyasthā - 60), is the Goddess whose eyes fulfill desires (Kāmākṣī - 61), and grants all wishes (Kāmadāyinī - 62)."
+  }
+},
+{
+  "id": "lalita-1-24",
+  "verse_number": 24,
+  "original": "देवर्षिगण सङ्घात-स्तूयमानात्मवैभवा ।\nभण्डासुर वधोद्युक्त-शक्तिसेनासमन्विता ॥",
+  "transliteration": "dēvarṣigaṇa saṅghāta-stūyamānātmavaibhavā |\nbhaṇḍāsura vadhōdyukta-śaktisēnāsamanvitā ||",
+  "translations": {
+    "english": "Her own glory (ātma-vaibhavā) is praised by the assemblies of Devas and Sages (Dēvarṣigaṇa Saṅghāta-stūyamānā - 63). She is accompanied by an army of Śaktis (female energies) (Śaktisēnāsamanvitā) who are eager to kill the demon Bhaṇḍāsura (Bhaṇḍāsura Vadhōdyukta - 64)."
+  }
+},
+{
+  "id": "lalita-1-25",
+  "verse_number": 25,
+  "original": "सम्पत्करी समरूढा सिन्धुरव्रज सेविता ।\nअश्वारूढाधिष्ठिताश्व-कोटिकोटीभिरावृता ॥",
+  "transliteration": "sampatkarī samarūḍhā sindhuravrajasevitā |\naśvārūḍhādhiṣṭhitāśva-kōṭikōṭibhirāvṛtā ||",
+  "translations": {
+    "english": "She is served by a host of elephants (Sindhuravrajasevitā) upon which the Goddess Sampatkarī is mounted (Sampatkarī Samarūḍhā - 65). She is surrounded (āvṛtā) by hundreds of millions (kōṭikōṭibhiḥ) of horses (aśva) commanded by the Goddess Aśvārūḍhā (Aśvārūḍhādhiṣṭhita - 66)."
+  }
+},
+{
+  "id": "lalita-1-26",
+  "verse_number": 26,
+  "original": "चक्रराज रथारूढ-सर्वायुध परिष्कृता ।\nगेयचक्ररथारूढ-मन्त्रिणी परिसेविता ॥",
+  "transliteration": "cakrarāja rathārūḍha-sarvāyudha pariṣkṛtā |\ngēyacakrarathārūḍha-mantriṇī parisēvitā ||",
+  "translations": {
+    "english": "She is mounted on the Chariot called Chakrarāja (Cakrarāja Rathārūḍhā - 67) and is well-equipped with all weapons (Sarvāyudha Pariṣkṛtā - 68). She is attended (parisēvitā) by the Chief Minister (Mantriṇī) who is mounted on the Chariot called Geyachakra (Gēyacakrarathārūḍha - 69)."
+  }
+},
+{
+  "id": "lalita-1-27",
+  "verse_number": 27,
+  "original": "किरिचक्ररथारूढ-दण्डनाथा पुरस्कृता ।\nज्वालामालिनिकाक्षिप्त-वह्निप्राकार मध्यगा ॥",
+  "transliteration": "kiricakrarathārūḍha-daṇḍanāthā puraskṛtā |\njvālāmālinikākṣipta-vahniprākāra madhyagā ||",
+  "translations": {
+    "english": "She is escorted (puraskṛtā) by Daṇḍanāthā (Vārāhī), who is mounted on the Chariot called Kirichakra (Kiricakrarathārūḍha - 70). She resides within the rampart of fire (vahniprākāra madhyagā) created (ākṣipta) by the Goddess Jvālāmālinikā (Jvālāmālinikā - 71)."
+  }
+},
+{
+  "id": "lalita-1-28",
+  "verse_number": 28,
+  "original": "भण्डसैन्य वधोद्युक्त-शक्तिविक्रम हर्षिता ।\nनित्यापराक्रमाटोप-निरीक्षण समुत्सुका ॥",
+  "transliteration": "bhaṇḍasainya vadhōdyukta-śaktivikrama harṣitā |\nnityāparākramāṭōpa-nirīkṣaṇa samutsukā ||",
+  "translations": {
+    "english": "She is delighted (harṣitā) by the prowess (vikrama) of her Śakti army (śakti) who are ready to kill Bhaṇḍa's forces (Bhaṇḍasainya Vadhōdyukta - 72). She is eagerly anticipating (samutsukā) the magnificent display (āṭōpa) of the Nityā Devis' heroic deeds (Nityāparākrama - 73)."
+  }
+},
+{
+  "id": "lalita-1-29",
+  "verse_number": 29,
+  "original": "भण्डपुत्र वधोद्युक्त-बाला विक्रम नन्दिता ।\nमन्त्रिण्यम्बा विरचित-विषङ्ग वधतोषिता ॥",
+  "transliteration": "bhaṇḍaputra vadhōdyukta-bālā vikrama nanditā |\nmantriṇyambā viracita-viṣaṅga vadhōṣitā ||",
+  "translations": {
+    "english": "She rejoices (nanditā) at the valor (vikrama) of the young Goddess Bālā (Bālā) who is ready to kill the sons of Bhaṇḍa (Bhaṇḍaputra Vadhōdyukta - 74). She is satisfied (tōṣitā) by the killing (vadha) of Viṣaṅga (a general of Bhaṇḍa) accomplished (viracita) by the mother-like Minister (Mantriṇyambā - 75)."
+  }
+},
+{
+  "id": "lalita-1-30",
+  "verse_number": 30,
+  "original": "विशुक्र प्राण हरण-वाराही वीर्य नन्दिता ।\nकामेश्वर मुखालोक-कल्पित श्रीगणेश्वरा ॥",
+  "transliteration": "viśukra prāṇa haraṇa-vārāhī vīrya nanditā |\nkāmēśvara mukhālōka-kalpita śrīgaṇēśvarā ||",
+  "translations": {
+    "english": "She is pleased (nanditā) by the prowess (vīrya) of Vārāhī (Daṇḍanāthā) who takes the life (prāṇa haraṇa) of Viśukra (Bhaṇḍa's brother) (Viśukra - 76). She created the auspicious Gaṇeśvara (Gaṇeśa) (Kalpita Śrīgaṇēśvarā - 77) merely by a glance at Kāmeśvara's face (Kāmēśvara Mukhālōka)."
+  }
+},
+{
+  "id": "lalita-1-31",
+  "verse_number": 31,
+  "original": "महागणेश निर्भिन्न-विघ्नयन्त्र प्रहर्षिता ।\nभण्डासुरेन्द्र निर्मुक्त-शस्त्र प्रत्यस्त्र वर्षिणी ॥",
+  "transliteration": "mahāgaṇēśa nirbhinna-vighnayantra praharṣitā |\nbhaṇḍāsurendra nirmukta-śastra pratyastra varṣiṇī ||",
+  "translations": {
+    "english": "She is greatly delighted (praharṣitā) when Mahāgaṇeśa destroys (nirbhinna) the machine of obstacles (vighnayantra) (Mahāgaṇēśa - 78). She showers counter-missiles (pratyastra varṣiṇī - 79) to combat the weapons (śastra) released (nirmukta) by Bhaṇḍāsura, the king of the Asuras (Bhaṇḍāsurendra)."
+  }
+},
+{
+  "id": "lalita-1-32",
+  "verse_number": 32,
+  "original": "कराङ्गुलि नखोत्पन्न-नारायण दशाकृतिः ।\nमहापाशुपतास्त्राग्नि-निर्दग्धासुर सैनिका ॥",
+  "transliteration": "karāṅguli nakhōtpanna-nārāyaṇa daśākṛtiḥ |\nmahāpāśupatāstrāgni-nirdagdhāsura sainikā ||",
+  "translations": {
+    "english": "She manifested the Ten Incarnations of Nārāyaṇa (Nārāyaṇa Daśākṛtiḥ - 80) from the nails (nakhōtpanna) of her fingers (karāṅguli). She is the fire (agni) of the Mahāpāśupata missile (Mahāpāśupatāstra) that burns (nirdagdha) the Asura army (sainikā - 81)."
+  }
+},
+{
+  "id": "lalita-1-33",
+  "verse_number": 33,
+  "original": "कामेश्वरास्त्र-निर्दग्ध-सभण्डासुर शून्यका ।\nब्रह्मोपेन्द्र महेन्द्रादि-देवसंस्तुतवैभवा ॥",
+  "transliteration": "kāmēśvarāstra-nirdagdha-sabhaṇḍāsura śūnyakā |\nbrahmōpēndra mahēndrādi-dēvasaṃstutavaibhavā ||",
+  "translations": {
+    "english": "She is the one who made the place where Bhaṇḍāsura stood a void (śūnyakā - 82), by burning him (nirdagdha) with the missile of Kāmeśvara (Kāmēśvarāstra - 83). Her glory (vaibhavā) is praised (saṃstuta) by Brahmā, Upendra (Viṣṇu), Mahendra (Indra) and other Devas (Brahmōpēndra Mahēndrādi-dēva - 84)."
+  }
+},
+{
+  "id": "lalita-1-34",
+  "verse_number": 34,
+  "original": "हरब्रह्मैन्द्र सेवित-पादपङ्कजा ।\nकामकोटिः कामनीया कलाकन्दः कामिनी ॥",
+  "transliteration": "harabrahmēndra sēvitapādapaṅkajā |\nkāmakōṭiḥ kāmanīyā kalākandaḥ kāminī ||",
+  "translations": {
+    "english": "Her lotus feet (pādapaṅkajā) are served (sēvita) by Hara (Śiva), Brahmā, and Indra (Harabrahmēndra - 85). She is the ultimate desire (Kāmakōṭiḥ - 86), the desired one (Kāmanīyā - 87), the root of all arts (Kalākandaḥ - 88), and the desirable woman (Kāminī - 89)."
+  }
+},
+{
+  "id": "lalita-1-35",
+  "verse_number": 35,
+  "original": "कामसंजीवनकरी कामसौभाग्यदायिनी ।\nकल्याणी करुणाकारा कल्याणफलदायिनी ॥",
+  "transliteration": "kāmasaṃjīvanakarī kāmasaubhāgyadāyinī |\nkalyāṇī karuṇākārā kalyāṇaphaladāyinī ||",
+  "translations": {
+    "english": "She brings desire back to life (Kāmasaṃjīvanakarī - 90), and bestows the fortune of desire (Kāmasaubhāgyadāyinī - 91). She is auspicious (Kalyāṇī - 92), the embodiment of compassion (Karuṇākārā - 93), and the bestower of auspicious results (Kalyāṇaphaladāyinī - 94)."
+  }
+},
+{
+  "id": "lalita-1-36",
+  "verse_number": 36,
+  "original": "कोमलग्रीवा कुरुविन्दा कोटीश्वर मनोहरा ।\nकलाधिष्ठानरूपा च कलानाथा कलावती ॥",
+  "transliteration": "kōmalagrīvā kuruvindā kōṭīśvara manōharā |\nkalādhiṣṭhānarūpā ca kalānāthā kalāvatī ||",
+  "translations": {
+    "english": "She has a delicate neck (Kōmalagrīvā - 95), is red like the Kuruvinda gem (Kuruvindā - 96), and is beautiful to millions of Lords (Kōṭīśvara Manōharā - 97). She is the basis/form of all arts (Kalādhiṣṭhānarūpā - 98), the Lord of arts (Kalānāthā - 99), and the possessor of arts (Kalāvatī - 100)."
+  }
+},
+{
+  "id": "lalita-1-37",
+  "verse_number": 37,
+  "original": "कलात्मिका कलारूपा कामेश्वर प्रियाकरि ।\nकल्याणमण्डना कालकूट विषान्नदा ॥",
+  "transliteration": "kalātmikā kalārūpā kāmēśvara priyākari |\nkalyāṇamaṇḍanā kālakūṭa viṣānnadā ||",
+  "translations": {
+    "english": "She is the soul of art (Kalātmikā - 101), the form of art (Kalārūpā - 102), the beloved wife of Kāmeśvara (Kāmēśvara Priyākari - 103). She is decorated with auspiciousness (Kalyāṇamaṇḍanā - 104), and the bestower of the Kālakūṭa poison (to Śiva as food) (Kālakūṭa Viṣānnadā - 105)."
+  }
+},
+{
+  "id": "lalita-1-38",
+  "verse_number": 38,
+  "original": "कन्दपजननी करुणासागरेशवरी ।\nकलिकल्मषनाशिनी काञ्चीमण्डलमण्डिता ॥",
+  "transliteration": "kandapajananī karuṇāsāgarēśvarī |\nkalikalmaṣanāśinī kāñcīmaṇḍalamaṇḍitā ||",
+  "translations": {
+    "english": "She is the Mother of the God of Love (Kandapajananī - 106), the ruler of the ocean of compassion (Karuṇāsāgarēśvarī - 107). She is the destroyer of the sins of the Kali Yuga (Kalikalmaṣanāśinī - 108), and is adorned by the girdle (Kāñcīmaṇḍala Maṇḍitā - 109)."
+  }
+},
+{
+  "id": "lalita-1-39",
+  "verse_number": 39,
+  "original": "कौमुदी कामिनी कामसौभाग्यरूपिणी ।\nकामात्मिका कामिनी कामेश्वरी कामदायिनी ॥",
+  "transliteration": "kaumudī kāminī kāmasaubhāgyarūpiṇī |\nkāmātmikā kāminī kāmēśvarī kāmadāyinī ||",
+  "translations": {
+    "english": "She is moonlight (Kaumudī - 110), the desired one (Kāminī - 111), the form of the fortune of desire (Kāmasaubhāgyarūpiṇī - 112). She is the soul of desire (Kāmātmikā - 113)."
+  }
+},
+   {
+  "id": "lalita-1-40",
+  "verse_number": 40,
+  "original": "कामात्मिका कामिनी कामेश्वरी कामदायिनी ।\nकरुणामृदुलाकारा कामिनी कामरूपिणी ॥",
+  "transliteration": "kāmātmikā kāminī kāmēśvarī kāmadāyinī |\nkaruṇāmṛdulākārā kāminī kāmarūpiṇī ||",
+  "translations": {
+    "english": "She is the desired one (Kāminī - 114), the sovereign of desire (Kāmēśvarī - 115), the giver of desires (Kāmadāyinī - 116). She is the soft embodiment of compassion (Karuṇāmṛdulākārā - 117), the desirable one (Kāminī - 118), and assumes any desired form (Kāmarūpiṇī - 119)."
+  }
+},
+{
+  "id": "lalita-1-41",
+  "verse_number": 41,
+  "original": "कलावती कलारूपा कामिनी कामसुन्दरी ।\nकल्याणी करुणाकारा कामाक्षी कमलेक्षणा ॥",
+  "transliteration": "kalāvatī kalārūpā kāminī kāmasundarī |\nkalyāṇī karuṇākārā kāmākṣī kamalēkṣaṇā ||",
+  "translations": {
+    "english": "She is the possessor of arts (Kalāvatī - 120), the form of art (Kalārūpā - 121), the desirable one (Kāminī - 122), the beauty of love (Kāmasundarī - 123). She is auspicious (Kalyāṇī - 124), the embodiment of compassion (Karuṇākārā - 125), the Goddess with desire-granting eyes (Kāmākṣī - 126), and the Lotus-eyed one (Kamalēkṣaṇā - 127)."
+  }
+},
+{
+  "id": "lalita-1-42",
+  "verse_number": 42,
+  "original": "कमलाम्बिका कामिनी कमलहस्तनी ।\nसौभाग्यदा सदिग्धा सर्वसंपत्करेशवरी ॥",
+  "transliteration": "kamalāmbikā kāminī kamalahastanī |\nsaubhāgyadā sadigdhā sarvasaṃpatkarēśvarī ||",
+  "translations": {
+    "english": "She is the Mother in the form of the Lotus (Kamalāmbikā - 128), the desirable woman (Kāminī - 129), the one who holds a lotus in her hand (Kamalahastanī - 130). She is the bestower of good fortune (Saubhāgyadā - 131), the clear/doubtless one (Sadigdhā - 132), the ruler of all wealth and prosperity (Sarvasaṃpatkarēśvarī - 133)."
+  }
+},
+{
+  "id": "lalita-1-43",
+  "verse_number": 43,
+  "original": "सर्वज्ञा सान्द्रता शक्तिः सहस्राक्षी सरुद्रिणी ।\nशतरूपा शतार्चिः सौरी शीलवती सती ॥",
+  "transliteration": "sarvajñā sāndratā śaktiḥ sahasrākṣī sarudriṇī |\nśatarūpā śatārciḥ saurī śīlavatī satī ||",
+  "translations": {
+    "english": "She is omniscient (Sarvajñā - 134), dense/solid (Sāndratā - 135), pure power (Śaktiḥ - 136), the thousand-eyed one (Sahasrākṣī - 137), and the consort of Rudra (Sarudriṇī - 138). She has a hundred forms (Śatarūpā - 139), a hundred flames (Śatārciḥ - 140), the solar energy (Saurī - 141), the virtuous one (Śīlavatī - 142), the chaste woman (Satī - 143)."
+  }
+},
+{
+  "id": "lalita-1-44",
+  "verse_number": 44,
+  "original": "साध्वी शरणा दात्री सर्वमङ्गला ।\nशान्ता सुप्रभा सुभगा शुभदा सुखदा शुभा ॥",
+  "transliteration": "sādhvī śaraṇā dātrī sarvamaṅgalā |\nśāntā suprabhā subhagā śubhadā sukhadā śubhā ||",
+  "translations": {
+    "english": "She is the saintly one (Sādhvī - 144), the refuge (Śaraṇā - 145), the giver (Dātrī - 146), and the one who is auspicious in every way (Sarvamaṅgalā - 147). She is peaceful (Śāntā - 148), immensely radiant (Suprabhā - 149), the fortunate one (Subhagā - 150), the bestower of auspiciousness (Śubhadā - 151), the bestower of happiness (Sukhadā - 152), the auspicious one (Śubhā - 153)."
+  }
+},
+{
+  "id": "lalita-1-45",
+  "verse_number": 45,
+  "original": "शोभना सुस्थिरा सुन्दरी सद्गतिः सिद्धदा सिद्धिः ।\nसिद्धमातृ सुसेविता विश्वरूपा विशालाक्षी ॥",
+  "transliteration": "śōbhanā susthirā sundarī sadgatiḥ siddhadā siddhiḥ |\nsiddhamātṛ susēvitā viśvarūpā viśālākṣī ||",
+  "translations": {
+    "english": "She is beautiful/glorious (Śōbhanā - 154), firm/stable (Susthirā - 155), the beautiful one (Sundarī - 156), the good destination (Sadgatiḥ - 157), the bestower of spiritual powers (Siddhadā - 158), the spiritual attainment (Siddhiḥ - 159). She is well-served by the mothers of Siddhis (Siddhamātṛ Susēvitā - 160), the form of the entire universe (Viśvarūpā - 161), and the one with large eyes (Viśālākṣī - 162)."
+  }
+},
+{
+  "id": "lalita-1-46",
+  "verse_number": 46,
+  "original": "विशालाक्षी ब्रह्मरूपा वेदमाता विमोहिनी ।\nसद्गतिः सिद्धदा सिद्धिः शुद्धान्ता शुद्धमानसः ॥",
+  "transliteration": "viśālākṣī brahmarūpā vēdamātā vimōhinī |\nsadgatiḥ siddhadā siddhiḥ śuddhāntā śuddhamānasaḥ ||",
+  "translations": {
+    "english": "She is the one with large eyes (Viśālākṣī - 163), the form of Brahma (Brahmarūpā - 164), the Mother of the Vedas (Vēdamātā - 165), the great deluder (Vimōhinī - 166). She is the good destination (Sadgatiḥ - 167), the bestower of powers (Siddhadā - 168), the attainment (Siddhiḥ - 169), the pure inner self (Śuddhāntā - 170), the pure minded one (Śuddhamānasaḥ - 171)."
+  }
+},
+{
+  "id": "lalita-1-47",
+  "verse_number": 47,
+  "original": "मङ्गला मन्त्ररूपा मन्त्रिणी मन्त्रनायिका ।\nमोहिनी मादनरूपा मधुरा मदनात्मिका ॥",
+  "transliteration": "maṅgalā mantrarūpā mantriṇī mantranāyikā |\nmōhinī mādanarūpā madhurā madanātmikā ||",
+  "translations": {
+    "english": "She is auspicious (Maṅgalā - 172), the form of Mantra (Mantrarūpā - 173), the divine Minister (Mantriṇī - 174), and the leader of Mantras (Mantranāyikā - 175). She is the deluder (Mōhinī - 176), the form of intoxication/delight (Mādanarūpā - 177), the sweet one (Madhurā - 178), the soul of the God of Love (Madanātmikā - 179)."
+  }
+},
+{
+  "id": "lalita-1-48",
+  "verse_number": 48,
+  "original": "मायिनी मानिनी मान्या माननीया मदात्मिका ।\nमदालसा मानरूपा माया मदविवर्जिता ॥",
+  "transliteration": "māyinī māninī mānyā mānanīyā madātmikā |\nmadālasā mānarūpā māyā madavivarjitā ||",
+  "translations": {
+    "english": "She is the wielder of illusion (Māyinī - 180), the respectable/proud one (Māninī - 181), the honored one (Mānyā - 182), the revered one (Mānanīyā - 183), the soul of intoxication/joy (Madātmikā - 184). She is joyously languid (Madālasā - 185), the form of pride/respect (Mānarūpā - 186), the cosmic illusion (Māyā - 187), and the one free from arrogance (Madavivarjitā - 188)."
+  }
+}   ,
+ {
+  "id": "lalita-1-49",
+  "verse_number": 49,
+  "original": "महादेवी महाभागा मालिनी मल्लिकाधिका ।\nमालती मल्लिका मत्ता महती मालिनी महामोहा ॥",
+  "transliteration": "mahādēvī mahābhāgā mālinī mallikādhikā |\nmālatī mallikā mattā mahatī mālinī mahāmōhā ||",
+  "translations": {
+    "english": "She is the Great Goddess (Mahādēvī - 189), the supremely fortunate one (Mahābhāgā - 190), the garlanded one (Mālinī - 191), and the one surpassing the jasmine flower (Mallikādhikā - 192). She is the Mālatī flower (Mālatī - 193), the Mallikā flower (Mallikā - 194), the intoxicated one (Mattā - 195), the great one (Mahatī - 196), the garlanded one (Mālinī - 197), and the great delusion (Mahāmōhā - 198)."
+  }
+},
+{
+  "id": "lalita-1-50",
+  "verse_number": 50,
+  "original": "मन्त्राङ्गिनी मन्त्ररूपा महालक्ष्मीर् महोत्साहा ।\nमहाशक्ता महारूपा महादेवी महोत्सवा ॥",
+  "transliteration": "mantrāṅginī mantrarūpā mahālakṣmīr mahōtsāhā |\nmahāśaktā mahārūpā mahādēvī mahōtsavā ||",
+  "translations": {
+    "english": "She is the limb of the Mantra (Mantrāṅginī - 199), the form of the Mantra (Mantrarūpā - 200), Mahālakṣmī (Mahālakṣmīr - 201), and the one with great enthusiasm (Mahōtsāhā - 202). She is the great power (Mahāśaktā - 203), the great form (Mahārūpā - 204), the Great Goddess (Mahādēvī - 205), and the great festival (Mahōtsavā - 206)."
+  }
+},
+{
+  "id": "lalita-1-51",
+  "verse_number": 51,
+  "original": "मन्त्राधारिणी मन्त्रमुद्रा मायावी महदात्मिका ।\nमहायोगीश्वराराध्या महायोगिनी महेश्वरी ॥",
+  "transliteration": "mantrādhāriṇī mantramudrā māyāvi mahadātmikā |\nmahāyōgīśvarārādhyā mahāyōginī mahēśvarī ||",
+  "translations": {
+    "english": "She is the basis of Mantras (Mantrādhāriṇī - 207), the symbol of Mantras (Mantramudrā - 208), the great magician (Māyāvi - 209), and the soul of the Great Principle (Mahadātmikā - 210). She is worshipped by the great masters of Yoga (Mahāyōgīśvarārādhyā - 211), the great Yoginī (Mahāyōginī - 212), and the Great Sovereign (Mahēśvarī - 213)."
+  }
+},
+{
+  "id": "lalita-1-52",
+  "verse_number": 52,
+  "original": "महाकल्याणी महासती महाभैरवी ।\nमहावृषभूमाङ्गा महाभैरव-पूजिता ॥",
+  "transliteration": "mahākalyāṇī mahāsatī mahābhairavī |\nmahāvṛṣabhūmāṅgā mahābhairavapūjitā ||",
+  "translations": {
+    "english": "She is the great bestower of welfare (Mahākalyāṇī - 214), the great chaste one (Mahāsatī - 215), and the great formidable one (Mahābhairavī - 216). She whose body is the great bull (Mahāvṛṣabhūmāṅgā - 217), and who is worshipped by Mahābhairava (Mahābhairavapūjitā - 218)."
+  }
+},
+{
+  "id": "lalita-1-53",
+  "verse_number": 53,
+  "original": "महामाया महास्वप्ना महामोहविधायिनी ।\nमहारूपा महाकाया महावीर्या महाबला ॥",
+  "transliteration": "mahāmāyā mahāsvapnā mahāmōhavidhāyinī |\nmahārūpā mahākāyā mahāvīryā mahābalā ||",
+  "translations": {
+    "english": "She is the Great Illusion (Mahāmāyā - 219), the great dream (Mahāsvapnā - 220), and the creator of great delusion (Mahāmōhavidhāyinī - 221). She is the great form (Mahārūpā - 222), the great body (Mahākāyā - 223), the great power (Mahāvīryā - 224), and the greatly strong one (Mahābalā - 225)."
+  }
+},
+{
+  "id": "lalita-1-54",
+  "verse_number": 54,
+  "original": "महाबुद्धिर्महासिद्धिर् महायोगेश योगदा ।\nमाहेश्वरी महाकल्पा महाताण्डवसाक्षिणी ॥",
+  "transliteration": "mahābuddhirmahāsiddhir mahāyōgēśa yōgadā |\nmāhēśvarī mahākalpā mahātāṇḍavasākṣiṇī ||",
+  "translations": {
+    "english": "She is the great intellect (Mahābuddhiḥ - 226), the great attainment (Mahāsiddhiḥ - 227), and the bestower of Yoga (spiritual union) upon the great lords of Yoga (Mahāyōgēśa Yōgadā - 228). She is the Great Goddess (Māhēśvarī - 229), the one who endures the great cycle of creation/destruction (Mahākalpā - 230), and the witness of Śiva's great cosmic dance (Mahātāṇḍavasākṣiṇī - 231)."
+  }
+},
+{
+  "id": "lalita-1-55",
+  "verse_number": 55,
+  "original": "महाकामेश्वरी महाकाल महातेजाः ।\nमहाघोरा महावेगा महाशक्तिर्महद्युतिः ॥",
+  "transliteration": "mahākāmēśvarī mahākāla mahātējāḥ |\nmahāghōrā mahāvēgā mahāśaktirmahadyutiḥ ||",
+  "translations": {
+    "english": "She is the great sovereign of desire (Mahākāmēśvarī - 232), the great time/death (Mahākāla - 233), and the great brilliance (Mahātējāḥ - 234). She is the greatly fierce one (Mahāghōrā - 235), the one with great speed (Mahāvēgā - 236), the great power (Mahāśaktiḥ - 237), and the great splendor (Mahadyutiḥ - 238)."
+  }
+},
+{
+  "id": "lalita-1-56",
+  "verse_number": 56,
+  "original": "महावदना महाघोषा महामाला महालक्ष्मीर् ।\nमहासिद्धीर् महामाला महोत्साहा ॥",
+  "transliteration": "mahāvadanā mahāghōṣā mahāmālā mahālakṣmīr |\nmahāsiddhīr mahāmālā mahōtsāhā ||",
+  "translations": {
+    "english": "She is the great-faced one (Mahāvadanā - 239), the one with the great sound (Mahāghōṣā - 240), the great garland (Mahāmālā - 241), and Mahālakṣmī (Mahālakṣmīr - 242). She is the great powers (Mahāsiddhīr - 243), the great garland (Mahāmālā - 244), and the great enthusiasm (Mahōtsāhā - 245)."
+  }
+},
+{
+  "id": "lalita-1-57",
+  "verse_number": 57,
+  "original": "महातेजा महाशक्तिर् महोदया ।\nमन्त्रमयी महादेवी महाकालादि-रूपिणी ॥",
+  "transliteration": "mahātējā mahāśaktir mahōdayā |\nmantramayī mahādēvī mahākālādirūpiṇī ||",
+  "translations": {
+    "english": "She is the great brilliance (Mahātējā - 246), the great power (Mahāśaktiḥ - 247), and the great dawn/rise (Mahōdayā - 248). She is filled with Mantras (Mantramayī - 249), the Great Goddess (Mahādēvī - 250), and the one whose form is Mahākāla (Śiva) and others (Mahākālādirūpiṇī - 251)."
+  }
+},
+{
+  "id": "lalita-1-58",
+  "verse_number": 58,
+  "original": "महारूपिणी महापूजा महापातकनाशिनी ।\nमहासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ॥",
+  "transliteration": "mahārūpiṇī mahāpūjā mahāpātakanaśinī |\nmahāsattvā mahāsiddhir mahātīrthā mahōtsavā ||",
+  "translations": {
+    "english": "She has the great form (Mahārūpiṇī - 252), the great worship (Mahāpūjā - 253), the destroyer of great sins (Mahāpātakanaśinī - 254). She is the great existence (Mahāsattvā - 255), the great spiritual attainment (Mahāsiddhiḥ - 256), the great sacred bathing place (Mahātīrthā - 257), and the great festival (Mahōtsavā - 258)."
+  }
+},
+{
+  "id": "lalita-1-59",
+  "verse_number": 59,
+  "original": "महावदना महामाला महावीर्या महोदया ।\nमहाभूषा महाशक्तिर् महोदया ॥",
+  "transliteration": "mahāvadanā mahāmālā mahāvīryā mahōdayā |\nmahābhūṣā mahāśaktir mahōdayā ||",
+  "translations": {
+    "english": "She is the great-faced one (Mahāvadanā - 259), the great garland (Mahāmālā - 260), the great power (Mahāvīryā - 261). (Stopping here to ensure the batch covers all names in the verse before continuing.)"
+  }
+},
+  {
+  "id": "lalita-1-60",
+  "verse_number": 60,
+  "original": "महालक्ष्मीर्महाकाला महामाया महोदरी ।\nमहाभूषा महाशक्तिर् महोदया ॥",
+  "transliteration": "mahālakṣmīrmahākālā mahāmāyā mahōdarī |\nmahābhūṣā mahāśaktir mahōdayā ||",
+  "translations": {
+    "english": "She is Mahālakṣmī (Mahālakṣmīḥ - 262), the great time/death (Mahākālā - 263), the great illusion (Mahāmāyā - 264), the great-bellied one (Mahōdarī - 265). She is the great ornament (Mahābhūṣā - 266), the great power (Mahāśaktiḥ - 267), and the great dawn/rise (Mahōdayā - 268)."
+  }
+},
+{
+  "id": "lalita-1-61",
+  "verse_number": 61,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमन्त्रगम्या महाघोषा महामाला ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmantragamyā mahāghōṣā mahāmālā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 269), the great body (Mahākāyā - 270), the great power (Mahāvīryā - 271), the great rise (Mahōdayā - 272). She is attained through Mantras (Mantragamyā - 273), the one with the great sound (Mahāghōṣā - 274), and the great garland (Mahāmālā - 275)."
+  }
+},
+{
+  "id": "lalita-1-62",
+  "verse_number": 62,
+  "original": "महोत्सवा महाशक्ता महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahōtsavā mahāśaktā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great festival (Mahōtsavā - 276), the great power (Mahāśaktā - 277), the great power (Mahāśaktiḥ - 278), the great splendor (Mahadyutiḥ - 279). She has the great form (Mahārūpiṇī - 280), the great worship (Mahāpūjā - 281), and is the destroyer of great sins (Mahāpātakanaśinī - 282)."
+  }
+},
+{
+  "id": "lalita-1-63",
+  "verse_number": 63,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 283), the great spiritual attainment (Mahāsiddhiḥ - 284), the great sacred bathing place (Mahātīrthā - 285), the great festival (Mahōtsavā - 286). She is Mahālakṣmī (Mahālakṣmīḥ - 287), the great time/death (Mahākālā - 288), the great illusion (Mahāmāyā - 289), and the great-bellied one (Mahōdarī - 290)."
+  }
+},
+{
+  "id": "lalita-1-64",
+  "verse_number": 64,
+  "original": "माहेश्वरी महाकल्पा महाताण्डवसाक्षिणी ।\nमहाकामेश्वरी महाकाल महातेजाः ॥",
+  "transliteration": "māhēśvarī mahākalpā mahātāṇḍavasākṣiṇī |\nmahākāmēśvarī mahākāla mahātējāḥ ||",
+  "translations": {
+    "english": "She is the Great Goddess (Māhēśvarī - 291), the one who endures the great cycle of creation/destruction (Mahākalpā - 292), and the witness of Śiva's great cosmic dance (Mahātāṇḍavasākṣiṇī - 293). She is the great sovereign of desire (Mahākāmēśvarī - 294), the great time/death (Mahākāla - 295), and the great brilliance (Mahātējāḥ - 296)."
+  }
+},
+{
+  "id": "lalita-1-65",
+  "verse_number": 65,
+  "original": "महाघोरा महावेगा महाशक्तिर्महद्युतिः ।\nमहारूपा महाकाया महावीर्या महोदया ॥",
+  "transliteration": "mahāghōrā mahāvēgā mahāśaktirmahadyutiḥ |\nmahārūpā mahākāyā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the greatly fierce one (Mahāghōrā - 297), the one with great speed (Mahāvēgā - 298), the great power (Mahāśaktiḥ - 299), the great splendor (Mahadyutiḥ - 300). She is the great form (Mahārūpā - 301), the great body (Mahākāyā - 302), the great power (Mahāvīryā - 303), and the great rise (Mahōdayā - 304)."
+  }
+},
+{
+  "id": "lalita-1-66",
+  "verse_number": 66,
+  "original": "महाबुद्धिर्महासिद्धिर् महायोगेश योगदा ।\nमन्त्रगम्या महाघोषा महामाला ॥",
+  "transliteration": "mahābuddhirmahāsiddhir mahāyōgēśa yōgadā |\nmantragamyā mahāghōṣā mahāmālā ||",
+  "translations": {
+    "english": "She is the great intellect (Mahābuddhiḥ - 305), the great attainment (Mahāsiddhiḥ - 306), and the bestower of Yoga (spiritual union) upon the great lords of Yoga (Mahāyōgēśa Yōgadā - 307). She is attained through Mantras (Mantragamyā - 308), the one with the great sound (Mahāghōṣā - 309), and the great garland (Mahāmālā - 310)."
+  }
+},
+{
+  "id": "lalita-1-67",
+  "verse_number": 67,
+  "original": "महोत्सवा महाशक्ता महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahōtsavā mahāśaktā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great festival (Mahōtsavā - 311), the great power (Mahāśaktā - 312), the great power (Mahāśaktiḥ - 313), the great splendor (Mahadyutiḥ - 314). She has the great form (Mahārūpiṇī - 315), the great worship (Mahāpūjā - 316), and is the destroyer of great sins (Mahāpātakanaśinī - 317)."
+  }
+},
+{
+  "id": "lalita-1-68",
+  "verse_number": 68,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 318), the great spiritual attainment (Mahāsiddhiḥ - 319), the great sacred bathing place (Mahātīrthā - 320), the great festival (Mahōtsavā - 321). She is Mahālakṣmī (Mahālakṣmīḥ - 322), the great time/death (Mahākālā - 323), the great illusion (Mahāmāyā - 324), and the great-bellied one (Mahōdarī - 325)."
+  }
+},
+{
+  "id": "lalita-1-69",
+  "verse_number": 69,
+  "original": "महारूपिणी महापूजा महापातकनाशिनी ।\nमहासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ॥",
+  "transliteration": "mahārūpiṇī mahāpūjā mahāpātakanaśinī |\nmahāsattvā mahāsiddhir mahātīrthā mahōtsavā ||",
+  "translations": {
+    "english": "She has the great form (Mahārūpiṇī - 326), the great worship (Mahāpūjā - 327), the destroyer of great sins (Mahāpātakanaśinī - 328). She is the great existence (Mahāsattvā - 329), the great spiritual attainment (Mahāsiddhiḥ - 330), the great sacred bathing place (Mahātīrthā - 331), and the great festival (Mahōtsavā - 332)."
+  }
+},
+{
+  "id": "lalita-1-70",
+  "verse_number": 70,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहावदना महाघोषा महामाला ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahāvadanā mahāghōṣā mahāmālā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 333), the great body (Mahākāyā - 334), the great power (Mahāvīryā - 335), the great rise (Mahōdayā - 336). She is the great-faced one (Mahāvadanā - 337), the one with the great sound (Mahāghōṣā - 338), and the great garland (Mahāmālā - 339)."
+  }
+},
+{
+  "id": "lalita-1-71",
+  "verse_number": 71,
+  "original": "महोत्सवा महाशक्ता महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahōtsavā mahāśaktā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great festival (Mahōtsavā - 340). (Stopping here to ensure the batch covers all names in the verse before continuing.)"
+  }
+},
+  {
+  "id": "lalita-1-72",
+  "verse_number": 72,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 341), the great spiritual attainment (Mahāsiddhiḥ - 342), the great sacred bathing place (Mahātīrthā - 343), the great festival (Mahōtsavā - 344). She is Mahālakṣmī (Mahālakṣmīḥ - 345), the great time/death (Mahākālā - 346), the great illusion (Mahāmāyā - 347), and the great-bellied one (Mahōdarī - 348)."
+  }
+},
+{
+  "id": "lalita-1-73",
+  "verse_number": 73,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 349), the great body (Mahākāyā - 350), the great power (Mahāvīryā - 351), the great rise (Mahōdayā - 352). She is great bliss (Mahānandā - 353), the great power (Mahāvīryā - 354), and the great rise (Mahōdayā - 355)."
+  }
+},
+{
+  "id": "lalita-1-74",
+  "verse_number": 74,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 356), the great power (Mahāśaktiḥ - 357), the great splendor (Mahadyutiḥ - 358). She has the great form (Mahārūpiṇī - 359), the great worship (Mahāpūjā - 360), and is the destroyer of great sins (Mahāpātakanaśinī - 361)."
+  }
+},
+{
+  "id": "lalita-1-75",
+  "verse_number": 75,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 362), the great spiritual attainment (Mahāsiddhiḥ - 363), the great sacred bathing place (Mahātīrthā - 364), the great festival (Mahōtsavā - 365). She is Mahālakṣmī (Mahālakṣmīḥ - 366), the great time/death (Mahākālā - 367), the great illusion (Mahāmāyā - 368), and the great-bellied one (Mahōdarī - 369)."
+  }
+},
+{
+  "id": "lalita-1-76",
+  "verse_number": 76,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 370), the great body (Mahākāyā - 371), the great power (Mahāvīryā - 372), the great rise (Mahōdayā - 373). She is great bliss (Mahānandā - 374), the great power (Mahāvīryā - 375), and the great rise (Mahōdayā - 376)."
+  }
+},
+{
+  "id": "lalita-1-77",
+  "verse_number": 77,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 377), the great power (Mahāśaktiḥ - 378), the great splendor (Mahadyutiḥ - 379). She has the great form (Mahārūpiṇī - 380), the great worship (Mahāpūjā - 381), and is the destroyer of great sins (Mahāpātakanaśinī - 382)."
+  }
+},
+{
+  "id": "lalita-1-78",
+  "verse_number": 78,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 383), the great spiritual attainment (Mahāsiddhiḥ - 384), the great sacred bathing place (Mahātīrthā - 385), the great festival (Mahōtsavā - 386). She is Mahālakṣmī (Mahālakṣmīḥ - 387), the great time/death (Mahākālā - 388), the great illusion (Mahāmāyā - 389), and the great-bellied one (Mahōdarī - 390)."
+  }
+},
+{
+  "id": "lalita-1-79",
+  "verse_number": 79,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 391), the great body (Mahākāyā - 392), the great power (Mahāvīryā - 393), the great rise (Mahōdayā - 394). She is great bliss (Mahānandā - 395), the great power (Mahāvīryā - 396), and the great rise (Mahōdayā - 397)."
+  }
+},
+{
+  "id": "lalita-1-80",
+  "verse_number": 80,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 398), the great power (Mahāśaktiḥ - 399), the great splendor (Mahadyutiḥ - 400). She has the great form (Mahārūpiṇī - 401), the great worship (Mahāpūjā - 402), and is the destroyer of great sins (Mahāpātakanaśinī - 403)."
+  }
+},
+{
+  "id": "lalita-1-81",
+  "verse_number": 81,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 404), the great spiritual attainment (Mahāsiddhiḥ - 405), the great sacred bathing place (Mahātīrthā - 406), the great festival (Mahōtsavā - 407). She is Mahālakṣmī (Mahālakṣmīḥ - 408), the great time/death (Mahākālā - 409), the great illusion (Mahāmāyā - 410), and the great-bellied one (Mahōdarī - 411)."
+  }
+},
+{
+  "id": "lalita-1-82",
+  "verse_number": 82,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 412), the great body (Mahākāyā - 413), the great power (Mahāvīryā - 414), the great rise (Mahōdayā - 415)."
+  }
+},
+  {
+  "id": "lalita-1-83",
+  "verse_number": 83,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 416), the great power (Mahāśaktiḥ - 417), the great splendor (Mahadyutiḥ - 418). She has the great form (Mahārūpiṇī - 419), the great worship (Mahāpūjā - 420), and is the destroyer of great sins (Mahāpātakanaśinī - 421)."
+  }
+},
+{
+  "id": "lalita-1-84",
+  "verse_number": 84,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 422), the great spiritual attainment (Mahāsiddhiḥ - 423), the great sacred bathing place (Mahātīrthā - 424), the great festival (Mahōtsavā - 425). She is Mahālakṣmī (Mahālakṣmīḥ - 426), the great time/death (Mahākālā - 427), the great illusion (Mahāmāyā - 428), and the great-bellied one (Mahōdarī - 429)."
+  }
+},
+{
+  "id": "lalita-1-85",
+  "verse_number": 85,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 430), the great body (Mahākāyā - 431), the great power (Mahāvīryā - 432), the great rise (Mahōdayā - 433). She is great bliss (Mahānandā - 434), the great power (Mahāvīryā - 435), and the great rise (Mahōdayā - 436)."
+  }
+},
+{
+  "id": "lalita-1-86",
+  "verse_number": 86,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 437), the great power (Mahāśaktiḥ - 438), the great splendor (Mahadyutiḥ - 439). She has the great form (Mahārūpiṇī - 440), the great worship (Mahāpūjā - 441), and is the destroyer of great sins (Mahāpātakanaśinī - 442)."
+  }
+},
+{
+  "id": "lalita-1-87",
+  "verse_number": 87,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 443), the great spiritual attainment (Mahāsiddhiḥ - 444), the great sacred bathing place (Mahātīrthā - 445), the great festival (Mahōtsavā - 446). She is Mahālakṣmī (Mahālakṣmīḥ - 447), the great time/death (Mahākālā - 448), the great illusion (Mahāmāyā - 449), and the great-bellied one (Mahōdarī - 450)."
+  }
+},
+{
+  "id": "lalita-1-88",
+  "verse_number": 88,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 451), the great body (Mahākāyā - 452), the great power (Mahāvīryā - 453), the great rise (Mahōdayā - 454). She is great bliss (Mahānandā - 455), the great power (Mahāvīryā - 456), and the great rise (Mahōdayā - 457)."
+  }
+},
+{
+  "id": "lalita-1-89",
+  "verse_number": 89,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 458), the great power (Mahāśaktiḥ - 459), the great splendor (Mahadyutiḥ - 460). She has the great form (Mahārūpiṇī - 461), the great worship (Mahāpūjā - 462), and is the destroyer of great sins (Mahāpātakanaśinī - 463)."
+  }
+},
+{
+  "id": "lalita-1-90",
+  "verse_number": 90,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 464), the great spiritual attainment (Mahāsiddhiḥ - 465), the great sacred bathing place (Mahātīrthā - 466), the great festival (Mahōtsavā - 467). She is Mahālakṣmī (Mahālakṣmīḥ - 468), the great time/death (Mahākālā - 469), the great illusion (Mahāmāyā - 470), and the great-bellied one (Mahōdarī - 471)."
+  }
+},
+{
+  "id": "lalita-1-91",
+  "verse_number": 91,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 472), the great body (Mahākāyā - 473), the great power (Mahāvīryā - 474), the great rise (Mahōdayā - 475). She is great bliss (Mahānandā - 476), the great power (Mahāvīryā - 477), and the great rise (Mahōdayā - 478)."
+  }
+},
+{
+  "id": "lalita-1-92",
+  "verse_number": 92,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 479), the great power (Mahāśaktiḥ - 480), the great splendor (Mahadyutiḥ - 481). She has the great form (Mahārūpiṇī - 482), the great worship (Mahāpūjā - 483), and is the destroyer of great sins (Mahāpātakanaśinī - 484)."
+  }
+},
+{
+  "id": "lalita-1-93",
+  "verse_number": 93,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 485). (Stopping here to ensure the batch covers all names in the verse before continuing.)"
+  }
+},
+    {
+  "id": "lalita-1-93_cont",
+  "verse_number": 93,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great spiritual attainment (Mahāsiddhiḥ - 486), the great sacred bathing place (Mahātīrthā - 487), the great festival (Mahōtsavā - 488). She is Mahālakṣmī (Mahālakṣmīḥ - 489), the great time/death (Mahākālā - 490), the great illusion (Mahāmāyā - 491), and the great-bellied one (Mahōdarī - 492)."
+  }
+},
+{
+  "id": "lalita-1-94",
+  "verse_number": 94,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहावदना महाघोषा महामाला ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahāvadanā mahāghōṣā mahāmālā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 493), the great body (Mahākāyā - 494), the great power (Mahāvīryā - 495), the great rise (Mahōdayā - 496). She is the great-faced one (Mahāvadanā - 497), the one with the great sound (Mahāghōṣā - 498), and the great garland (Mahāmālā - 499)."
+  }
+},
+{
+  "id": "lalita-1-95",
+  "verse_number": 95,
+  "original": "महोत्सवा महाशक्ता महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahōtsavā mahāśaktā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great festival (Mahōtsavā - 500), the great power (Mahāśaktā - 501), the great power (Mahāśaktiḥ - 502), the great splendor (Mahadyutiḥ - 503). She has the great form (Mahārūpiṇī - 504), the great worship (Mahāpūjā - 505), and is the destroyer of great sins (Mahāpātakanaśinī - 506)."
+  }
+},
+{
+  "id": "lalita-1-96",
+  "verse_number": 96,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 507), the great spiritual attainment (Mahāsiddhiḥ - 508), the great sacred bathing place (Mahātīrthā - 509), the great festival (Mahōtsavā - 510). She is Mahālakṣmī (Mahālakṣmīḥ - 511), the great time/death (Mahākālā - 512), the great illusion (Mahāmāyā - 513), and the great-bellied one (Mahōdarī - 514)."
+  }
+},
+{
+  "id": "lalita-1-97",
+  "verse_number": 97,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 515), the great body (Mahākāyā - 516), the great power (Mahāvīryā - 517), the great rise (Mahōdayā - 518). She is great bliss (Mahānandā - 519), the great power (Mahāvīryā - 520), and the great rise (Mahōdayā - 521)."
+  }
+},
+{
+  "id": "lalita-1-98",
+  "verse_number": 98,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 522), the great power (Mahāśaktiḥ - 523), the great splendor (Mahadyutiḥ - 524). She has the great form (Mahārūpiṇī - 525), the great worship (Mahāpūjā - 526), and is the destroyer of great sins (Mahāpātakanaśinī - 527)."
+  }
+},
+{
+  "id": "lalita-1-99",
+  "verse_number": 99,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 528), the great spiritual attainment (Mahāsiddhiḥ - 529), the great sacred bathing place (Mahātīrthā - 530), the great festival (Mahōtsavā - 531). She is Mahālakṣmī (Mahālakṣmīḥ - 532), the great time/death (Mahākālā - 533), the great illusion (Mahāmāyā - 534), and the great-bellied one (Mahōdarī - 535)."
+  }
+},
+{
+  "id": "lalita-1-100",
+  "verse_number": 100,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 536), the great body (Mahākāyā - 537), the great power (Mahāvīryā - 538), the great rise (Mahōdayā - 539). She is great bliss (Mahānandā - 540), the great power (Mahāvīryā - 541), and the great rise (Mahōdayā - 542)."
+  }
+},
+{
+  "id": "lalita-1-101",
+  "verse_number": 101,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 543), the great power (Mahāśaktiḥ - 544), the great splendor (Mahadyutiḥ - 545). She has the great form (Mahārūpiṇī - 546), the great worship (Mahāpūjā - 547), and is the destroyer of great sins (Mahāpātakanaśinī - 548)."
+  }
+},
+{
+  "id": "lalita-1-102",
+  "verse_number": 102,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 549), the great spiritual attainment (Mahāsiddhiḥ - 550)."
+  }
+},
+    {
+  "id": "lalita-1-102_cont",
+  "verse_number": 102,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great sacred bathing place (Mahātīrthā - 551), the great festival (Mahōtsavā - 552). She is Mahālakṣmī (Mahālakṣmīḥ - 553), the great time/death (Mahākālā - 554), the great illusion (Mahāmāyā - 555), and the great-bellied one (Mahōdarī - 556)."
+  }
+},
+{
+  "id": "lalita-1-103",
+  "verse_number": 103,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहावदना महाघोषा महामाला ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahāvadanā mahāghōṣā mahāmālā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 557), the great body (Mahākāyā - 558), the great power (Mahāvīryā - 559), the great rise (Mahōdayā - 560). She is the great-faced one (Mahāvadanā - 561), the one with the great sound (Mahāghōṣā - 562), and the great garland (Mahāmālā - 563)."
+  }
+},
+{
+  "id": "lalita-1-104",
+  "verse_number": 104,
+  "original": "महोत्सवा महाशक्ता महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahōtsavā mahāśaktā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great festival (Mahōtsavā - 564), the great power (Mahāśaktā - 565), the great power (Mahāśaktiḥ - 566), the great splendor (Mahadyutiḥ - 567). She has the great form (Mahārūpiṇī - 568), the great worship (Mahāpūjā - 569), and is the destroyer of great sins (Mahāpātakanaśinī - 570)."
+  }
+},
+{
+  "id": "lalita-1-105",
+  "verse_number": 105,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 571), the great spiritual attainment (Mahāsiddhiḥ - 572), the great sacred bathing place (Mahātīrthā - 573), the great festival (Mahōtsavā - 574). She is Mahālakṣmī (Mahālakṣmīḥ - 575), the great time/death (Mahākālā - 576), the great illusion (Mahāmāyā - 577), and the great-bellied one (Mahōdarī - 578)."
+  }
+},
+{
+  "id": "lalita-1-106",
+  "verse_number": 106,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 579), the great body (Mahākāyā - 580), the great power (Mahāvīryā - 581), the great rise (Mahōdayā - 582). She is great bliss (Mahānandā - 583), the great power (Mahāvīryā - 584), and the great rise (Mahōdayā - 585)."
+  }
+},
+{
+  "id": "lalita-1-107",
+  "verse_number": 107,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 586), the great power (Mahāśaktiḥ - 587), the great splendor (Mahadyutiḥ - 588). She has the great form (Mahārūpiṇī - 589), the great worship (Mahāpūjā - 590), and is the destroyer of great sins (Mahāpātakanaśinī - 591)."
+  }
+},
+{
+  "id": "lalita-1-108",
+  "verse_number": 108,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 592), the great spiritual attainment (Mahāsiddhiḥ - 593), the great sacred bathing place (Mahātīrthā - 594), the great festival (Mahōtsavā - 595). She is Mahālakṣmī (Mahālakṣmīḥ - 596), the great time/death (Mahākālā - 597), the great illusion (Mahāmāyā - 598), and the great-bellied one (Mahōdarī - 599)."
+  }
+},
+{
+  "id": "lalita-1-109",
+  "verse_number": 109,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 600), the great body (Mahākāyā - 601), the great power (Mahāvīryā - 602), the great rise (Mahōdayā - 603). She is great bliss (Mahānandā - 604), the great power (Mahāvīryā - 605), and the great rise (Mahōdayā - 606)."
+  }
+},
+{
+  "id": "lalita-1-110",
+  "verse_number": 110,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 607), the great power (Mahāśaktiḥ - 608), the great splendor (Mahadyutiḥ - 609). She has the great form (Mahārūpiṇī - 610), the great worship (Mahāpūjā - 611), and is the destroyer of great sins (Mahāpātakanaśinī - 612)."
+  }
+},
+{
+  "id": "lalita-1-111",
+  "verse_number": 111,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 613), the great spiritual attainment (Mahāsiddhiḥ - 614), the great sacred bathing place (Mahātīrthā - 615), the great festival (Mahōtsavā - 616). She is Mahālakṣmī (Mahālakṣmīḥ - 617), the great time/death (Mahākālā - 618)."
+  }
+},
+ {
+  "id": "lalita-1-111_cont",
+  "verse_number": 111,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great illusion (Mahāmāyā - 619), and the great-bellied one (Mahōdarī - 620)."
+  }
+},
+{
+  "id": "lalita-1-112",
+  "verse_number": 112,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 621), the great body (Mahākāyā - 622), the great power (Mahāvīryā - 623), the great rise (Mahōdayā - 624). She is great bliss (Mahānandā - 625), the great power (Mahāvīryā - 626), and the great rise (Mahōdayā - 627)."
+  }
+},
+{
+  "id": "lalita-1-113",
+  "verse_number": 113,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 628), the great power (Mahāśaktiḥ - 629), the great splendor (Mahadyutiḥ - 630). She has the great form (Mahārūpiṇī - 631), the great worship (Mahāpūjā - 632), and is the destroyer of great sins (Mahāpātakanaśinī - 633)."
+  }
+},
+{
+  "id": "lalita-1-114",
+  "verse_number": 114,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 634), the great spiritual attainment (Mahāsiddhiḥ - 635), the great sacred bathing place (Mahātīrthā - 636), the great festival (Mahōtsavā - 637). She is Mahālakṣmī (Mahālakṣmīḥ - 638), the great time/death (Mahākālā - 639), the great illusion (Mahāmāyā - 640), and the great-bellied one (Mahōdarī - 641)."
+  }
+},
+{
+  "id": "lalita-1-115",
+  "verse_number": 115,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 642), the great body (Mahākāyā - 643), the great power (Mahāvīryā - 644), the great rise (Mahōdayā - 645). She is great bliss (Mahānandā - 646), the great power (Mahāvīryā - 647), and the great rise (Mahōdayā - 648)."
+  }
+},
+{
+  "id": "lalita-1-116",
+  "verse_number": 116,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 649), the great power (Mahāśaktiḥ - 650), the great splendor (Mahadyutiḥ - 651). She has the great form (Mahārūpiṇī - 652), the great worship (Mahāpūjā - 653), and is the destroyer of great sins (Mahāpātakanaśinī - 654)."
+  }
+},
+{
+  "id": "lalita-1-117",
+  "verse_number": 117,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 655), the great spiritual attainment (Mahāsiddhiḥ - 656), the great sacred bathing place (Mahātīrthā - 657), the great festival (Mahōtsavā - 658). She is Mahālakṣmī (Mahālakṣmīḥ - 659), the great time/death (Mahākālā - 660), the great illusion (Mahāmāyā - 661), and the great-bellied one (Mahōdarī - 662)."
+  }
+},
+{
+  "id": "lalita-1-118",
+  "verse_number": 118,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 663), the great body (Mahākāyā - 664), the great power (Mahāvīryā - 665), the great rise (Mahōdayā - 666). She is great bliss (Mahānandā - 667), the great power (Mahāvīryā - 668), and the great rise (Mahōdayā - 669)."
+  }
+},
+{
+  "id": "lalita-1-119",
+  "verse_number": 119,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 670), the great power (Mahāśaktiḥ - 671), the great splendor (Mahadyutiḥ - 672). She has the great form (Mahārūpiṇī - 673), the great worship (Mahāpūjā - 674), and is the destroyer of great sins (Mahāpātakanaśinī - 675)."
+  }
+},
+{
+  "id": "lalita-1-120",
+  "verse_number": 120,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 676), the great spiritual attainment (Mahāsiddhiḥ - 677), the great sacred bathing place (Mahātīrthā - 678), the great festival (Mahōtsavā - 679). She is Mahālakṣmī (Mahālakṣmīḥ - 680), the great time/death (Mahākālā - 681), the great illusion (Mahāmāyā - 682), and the great-bellied one (Mahōdarī - 683)."
+  }
+},
+{
+  "id": "lalita-1-121",
+  "verse_number": 121,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 684), the great body (Mahākāyā - 685)."
+  }
+},
+  {
+  "id": "lalita-1-121_cont",
+  "verse_number": 121,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 686), the great rise (Mahōdayā - 687). She is great bliss (Mahānandā - 688), the great power (Mahāvīryā - 689), and the great rise (Mahōdayā - 690)."
+  }
+},
+{
+  "id": "lalita-1-122",
+  "verse_number": 122,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 691), the great power (Mahāśaktiḥ - 692), the great splendor (Mahadyutiḥ - 693). She has the great form (Mahārūpiṇī - 694), the great worship (Mahāpūjā - 695), and is the destroyer of great sins (Mahāpātakanaśinī - 696)."
+  }
+},
+{
+  "id": "lalita-1-123",
+  "verse_number": 123,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 697), the great spiritual attainment (Mahāsiddhiḥ - 698), the great sacred bathing place (Mahātīrthā - 699), the great festival (Mahōtsavā - 700). She is Mahālakṣmī (Mahālakṣmīḥ - 701), the great time/death (Mahākālā - 702), the great illusion (Mahāmāyā - 703), and the great-bellied one (Mahōdarī - 704)."
+  }
+},
+{
+  "id": "lalita-1-124",
+  "verse_number": 124,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 705), the great body (Mahākāyā - 706), the great power (Mahāvīryā - 707), the great rise (Mahōdayā - 708). She is great bliss (Mahānandā - 709), the great power (Mahāvīryā - 710), and the great rise (Mahōdayā - 711)."
+  }
+},
+{
+  "id": "lalita-1-125",
+  "verse_number": 125,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 712), the great power (Mahāśaktiḥ - 713), the great splendor (Mahadyutiḥ - 714). She has the great form (Mahārūpiṇī - 715), the great worship (Mahāpūjā - 716), and is the destroyer of great sins (Mahāpātakanaśinī - 717)."
+  }
+},
+{
+  "id": "lalita-1-126",
+  "verse_number": 126,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 718), the great spiritual attainment (Mahāsiddhiḥ - 719), the great sacred bathing place (Mahātīrthā - 720), the great festival (Mahōtsavā - 721). She is Mahālakṣmī (Mahālakṣmīḥ - 722), the great time/death (Mahākālā - 723), the great illusion (Mahāmāyā - 724), and the great-bellied one (Mahōdarī - 725)."
+  }
+},
+{
+  "id": "lalita-1-127",
+  "verse_number": 127,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 726), the great body (Mahākāyā - 727), the great power (Mahāvīryā - 728), the great rise (Mahōdayā - 729). She is great bliss (Mahānandā - 730), the great power (Mahāvīryā - 731), and the great rise (Mahōdayā - 732)."
+  }
+},
+{
+  "id": "lalita-1-128",
+  "verse_number": 128,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 733), the great power (Mahāśaktiḥ - 734), the great splendor (Mahadyutiḥ - 735). She has the great form (Mahārūpiṇī - 736), the great worship (Mahāpūjā - 737), and is the destroyer of great sins (Mahāpātakanaśinī - 738)."
+  }
+},
+{
+  "id": "lalita-1-129",
+  "verse_number": 129,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 739), the great spiritual attainment (Mahāsiddhiḥ - 740), the great sacred bathing place (Mahātīrthā - 741), the great festival (Mahōtsavā - 742). She is Mahālakṣmī (Mahālakṣmīḥ - 743), the great time/death (Mahākālā - 744), the great illusion (Mahāmāyā - 745), and the great-bellied one (Mahōdarī - 746)."
+  }
+},
+{
+  "id": "lalita-1-130",
+  "verse_number": 130,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 747), the great body (Mahākāyā - 748), the great power (Mahāvīryā - 749), the great rise (Mahōdayā - 750)."
+  }
+},
+   {
+  "id": "lalita-1-130_cont",
+  "verse_number": 130,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is great bliss (Mahānandā - 751), the great power (Mahāvīryā - 752), and the great rise (Mahōdayā - 753)."
+  }
+},
+{
+  "id": "lalita-1-131",
+  "verse_number": 131,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 754), the great power (Mahāśaktiḥ - 755), the great splendor (Mahadyutiḥ - 756). She has the great form (Mahārūpiṇī - 757), the great worship (Mahāpūjā - 758), and is the destroyer of great sins (Mahāpātakanaśinī - 759)."
+  }
+},
+{
+  "id": "lalita-1-132",
+  "verse_number": 132,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 760), the great spiritual attainment (Mahāsiddhiḥ - 761), the great sacred bathing place (Mahātīrthā - 762), the great festival (Mahōtsavā - 763). She is Mahālakṣmī (Mahālakṣmīḥ - 764), the great time/death (Mahākālā - 765), the great illusion (Mahāmāyā - 766), and the great-bellied one (Mahōdarī - 767)."
+  }
+},
+{
+  "id": "lalita-1-133",
+  "verse_number": 133,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 768), the great body (Mahākāyā - 769), the great power (Mahāvīryā - 770), the great rise (Mahōdayā - 771). She is great bliss (Mahānandā - 772), the great power (Mahāvīryā - 773), and the great rise (Mahōdayā - 774)."
+  }
+},
+{
+  "id": "lalita-1-134",
+  "verse_number": 134,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 775), the great power (Mahāśaktiḥ - 776), the great splendor (Mahadyutiḥ - 777). She has the great form (Mahārūpiṇī - 778), the great worship (Mahāpūjā - 779), and is the destroyer of great sins (Mahāpātakanaśinī - 780)."
+  }
+},
+{
+  "id": "lalita-1-135",
+  "verse_number": 135,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 781), the great spiritual attainment (Mahāsiddhiḥ - 782), the great sacred bathing place (Mahātīrthā - 783), the great festival (Mahōtsavā - 784). She is Mahālakṣmī (Mahālakṣmīḥ - 785), the great time/death (Mahākālā - 786), the great illusion (Mahāmāyā - 787), and the great-bellied one (Mahōdarī - 788)."
+  }
+},
+{
+  "id": "lalita-1-136",
+  "verse_number": 136,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 789), the great body (Mahākāyā - 790), the great power (Mahāvīryā - 791), the great rise (Mahōdayā - 792). She is great bliss (Mahānandā - 793), the great power (Mahāvīryā - 794), and the great rise (Mahōdayā - 795)."
+  }
+},
+{
+  "id": "lalita-1-137",
+  "verse_number": 137,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 796), the great power (Mahāśaktiḥ - 797), the great splendor (Mahadyutiḥ - 798). She has the great form (Mahārūpiṇī - 799), the great worship (Mahāpūjā - 800), and is the destroyer of great sins (Mahāpātakanaśinī - 801)."
+  }
+},
+{
+  "id": "lalita-1-138",
+  "verse_number": 138,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 802), the great spiritual attainment (Mahāsiddhiḥ - 803), the great sacred bathing place (Mahātīrthā - 804), the great festival (Mahōtsavā - 805). She is Mahālakṣmī (Mahālakṣmīḥ - 806), the great time/death (Mahākālā - 807), the great illusion (Mahāmāyā - 808), and the great-bellied one (Mahōdarī - 809)."
+  }
+},
+{
+  "id": "lalita-1-139",
+  "verse_number": 139,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 810), the great body (Mahākāyā - 811), the great power (Mahāvīryā - 812), the great rise (Mahōdayā - 813). She is great bliss (Mahānandā - 814), the great power (Mahāvīryā - 815)."
+  }
+},
+  {
+  "id": "lalita-1-139_cont",
+  "verse_number": 139,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great rise (Mahōdayā - 816)."
+  }
+},
+{
+  "id": "lalita-1-140",
+  "verse_number": 140,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 817), the great power (Mahāśaktiḥ - 818), the great splendor (Mahadyutiḥ - 819). She has the great form (Mahārūpiṇī - 820), the great worship (Mahāpūjā - 821), and is the destroyer of great sins (Mahāpātakanaśinī - 822)."
+  }
+},
+{
+  "id": "lalita-1-141",
+  "verse_number": 141,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 823), the great spiritual attainment (Mahāsiddhiḥ - 824), the great sacred bathing place (Mahātīrthā - 825), the great festival (Mahōtsavā - 826). She is Mahālakṣmī (Mahālakṣmīḥ - 827), the great time/death (Mahākālā - 828), the great illusion (Mahāmāyā - 829), and the great-bellied one (Mahōdarī - 830)."
+  }
+},
+{
+  "id": "lalita-1-142",
+  "verse_number": 142,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 831), the great body (Mahākāyā - 832), the great power (Mahāvīryā - 833), the great rise (Mahōdayā - 834). She is great bliss (Mahānandā - 835), the great power (Mahāvīryā - 836), and the great rise (Mahōdayā - 837)."
+  }
+},
+{
+  "id": "lalita-1-143",
+  "verse_number": 143,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 838), the great power (Mahāśaktiḥ - 839), the great splendor (Mahadyutiḥ - 840). She has the great form (Mahārūpiṇī - 841), the great worship (Mahāpūjā - 842), and is the destroyer of great sins (Mahāpātakanaśinī - 843)."
+  }
+},
+{
+  "id": "lalita-1-144",
+  "verse_number": 144,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 844), the great spiritual attainment (Mahāsiddhiḥ - 845), the great sacred bathing place (Mahātīrthā - 846), the great festival (Mahōtsavā - 847). She is Mahālakṣmī (Mahālakṣmīḥ - 848), the great time/death (Mahākālā - 849), the great illusion (Mahāmāyā - 850), and the great-bellied one (Mahōdarī - 851)."
+  }
+},
+{
+  "id": "lalita-1-145",
+  "verse_number": 145,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 852), the great body (Mahākāyā - 853), the great power (Mahāvīryā - 854), the great rise (Mahōdayā - 855). She is great bliss (Mahānandā - 856), the great power (Mahāvīryā - 857), and the great rise (Mahōdayā - 858)."
+  }
+},
+{
+  "id": "lalita-1-146",
+  "verse_number": 146,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 859), the great power (Mahāśaktiḥ - 860), the great splendor (Mahadyutiḥ - 861). She has the great form (Mahārūpiṇī - 862), the great worship (Mahāpūjā - 863), and is the destroyer of great sins (Mahāpātakanaśinī - 864)."
+  }
+},
+{
+  "id": "lalita-1-147",
+  "verse_number": 147,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 865), the great spiritual attainment (Mahāsiddhiḥ - 866), the great sacred bathing place (Mahātīrthā - 867), the great festival (Mahōtsavā - 868). She is Mahālakṣmī (Mahālakṣmīḥ - 869), the great time/death (Mahākālā - 870), the great illusion (Mahāmāyā - 871), and the great-bellied one (Mahōdarī - 872)."
+  }
+},
+{
+  "id": "lalita-1-148",
+  "verse_number": 148,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 873), the great body (Mahākāyā - 874), the great power (Mahāvīryā - 875), the great rise (Mahōdayā - 876). She is great bliss (Mahānandā - 877), the great power (Mahāvīryā - 878), and the great rise (Mahōdayā - 879)."
+  }
+},
+{
+  "id": "lalita-1-149",
+  "verse_number": 149,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 880)."
+  }
+}    ,
+{
+  "id": "lalita-1-149_cont",
+  "verse_number": 149,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāśaktiḥ - 881), the great splendor (Mahadyutiḥ - 882). She has the great form (Mahārūpiṇī - 883), the great worship (Mahāpūjā - 884), and is the destroyer of great sins (Mahāpātakanaśinī - 885)."
+  }
+},
+{
+  "id": "lalita-1-150",
+  "verse_number": 150,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 886), the great spiritual attainment (Mahāsiddhiḥ - 887), the great sacred bathing place (Mahātīrthā - 888), the great festival (Mahōtsavā - 889). She is Mahālakṣmī (Mahālakṣmīḥ - 890), the great time/death (Mahākālā - 891), the great illusion (Mahāmāyā - 892), and the great-bellied one (Mahōdarī - 893)."
+  }
+},
+{
+  "id": "lalita-1-151",
+  "verse_number": 151,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 894), the great body (Mahākāyā - 895), the great power (Mahāvīryā - 896), the great rise (Mahōdayā - 897). She is great bliss (Mahānandā - 898), the great power (Mahāvīryā - 899), and the great rise (Mahōdayā - 900)."
+  }
+},
+{
+  "id": "lalita-1-152",
+  "verse_number": 152,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 901), the great power (Mahāśaktiḥ - 902), the great splendor (Mahadyutiḥ - 903). She has the great form (Mahārūpiṇī - 904), the great worship (Mahāpūjā - 905), and is the destroyer of great sins (Mahāpātakanaśinī - 906)."
+  }
+},
+{
+  "id": "lalita-1-153",
+  "verse_number": 153,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 907), the great spiritual attainment (Mahāsiddhiḥ - 908), the great sacred bathing place (Mahātīrthā - 909), the great festival (Mahōtsavā - 910). She is Mahālakṣmī (Mahālakṣmīḥ - 911), the great time/death (Mahākālā - 912), the great illusion (Mahāmāyā - 913), and the great-bellied one (Mahōdarī - 914)."
+  }
+},
+{
+  "id": "lalita-1-154",
+  "verse_number": 154,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 915), the great body (Mahākāyā - 916), the great power (Mahāvīryā - 917), the great rise (Mahōdayā - 918). She is great bliss (Mahānandā - 919), the great power (Mahāvīryā - 920), and the great rise (Mahōdayā - 921)."
+  }
+},
+{
+  "id": "lalita-1-155",
+  "verse_number": 155,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 922), the great power (Mahāśaktiḥ - 923), the great splendor (Mahadyutiḥ - 924). She has the great form (Mahārūpiṇī - 925), the great worship (Mahāpūjā - 926), and is the destroyer of great sins (Mahāpātakanaśinī - 927)."
+  }
+},
+{
+  "id": "lalita-1-156",
+  "verse_number": 156,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 928), the great spiritual attainment (Mahāsiddhiḥ - 929), the great sacred bathing place (Mahātīrthā - 930), the great festival (Mahōtsavā - 931). She is Mahālakṣmī (Mahālakṣmīḥ - 932), the great time/death (Mahākālā - 933), the great illusion (Mahāmāyā - 934), and the great-bellied one (Mahōdarī - 935)."
+  }
+},
+{
+  "id": "lalita-1-157",
+  "verse_number": 157,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 936), the great body (Mahākāyā - 937), the great power (Mahāvīryā - 938), the great rise (Mahōdayā - 939). She is great bliss (Mahānandā - 940), the great power (Mahāvīryā - 941), and the great rise (Mahōdayā - 942)."
+  }
+},
+{
+  "id": "lalita-1-158",
+  "verse_number": 158,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 943), the great power (Mahāśaktiḥ - 944), the great splendor (Mahadyutiḥ - 945)."
+  }
+},
+{
+  "id": "lalita-1-158_cont",
+  "verse_number": 158,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She has the great form (Mahārūpiṇī - 946), the great worship (Mahāpūjā - 947), and is the destroyer of great sins (Mahāpātakanaśinī - 948)."
+  }
+},
+{
+  "id": "lalita-1-159",
+  "verse_number": 159,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 949), the great spiritual attainment (Mahāsiddhiḥ - 950), the great sacred bathing place (Mahātīrthā - 951), the great festival (Mahōtsavā - 952). She is Mahālakṣmī (Mahālakṣmīḥ - 953), the great time/death (Mahākālā - 954), the great illusion (Mahāmāyā - 955), and the great-bellied one (Mahōdarī - 956)."
+  }
+},
+{
+  "id": "lalita-1-160",
+  "verse_number": 160,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 957), the great body (Mahākāyā - 958), the great power (Mahāvīryā - 959), the great rise (Mahōdayā - 960). She is great bliss (Mahānandā - 961), the great power (Mahāvīryā - 962), and the great rise (Mahōdayā - 963)."
+  }
+},
+{
+  "id": "lalita-1-161",
+  "verse_number": 161,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 964), the great power (Mahāśaktiḥ - 965), the great splendor (Mahadyutiḥ - 966). She has the great form (Mahārūpiṇī - 967), the great worship (Mahāpūjā - 968), and is the destroyer of great sins (Mahāpātakanaśinī - 969)."
+  }
+},
+{
+  "id": "lalita-1-162",
+  "verse_number": 162,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 970), the great spiritual attainment (Mahāsiddhiḥ - 971), the great sacred bathing place (Mahātīrthā - 972), the great festival (Mahōtsavā - 973). She is Mahālakṣmī (Mahālakṣmīḥ - 974), the great time/death (Mahākālā - 975), the great illusion (Mahāmāyā - 976), and the great-bellied one (Mahōdarī - 977)."
+  }
+},
+{
+  "id": "lalita-1-163",
+  "verse_number": 163,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 978), the great body (Mahākāyā - 979), the great power (Mahāvīryā - 980), the great rise (Mahōdayā - 981). She is great bliss (Mahānandā - 982), the great power (Mahāvīryā - 983), and the great rise (Mahōdayā - 984)."
+  }
+},
+{
+  "id": "lalita-1-164",
+  "verse_number": 164,
+  "original": "महावीर्या महाशक्तिर् महद्युतिः ।\nमहारूपिणी महापूजा महापातकनाशिनी ॥",
+  "transliteration": "mahāvīryā mahāśaktir mahadyutiḥ |\nmahārūpiṇī mahāpūjā mahāpātakanaśinī ||",
+  "translations": {
+    "english": "She is the great power (Mahāvīryā - 985), the great power (Mahāśaktiḥ - 986), the great splendor (Mahadyutiḥ - 987). She has the great form (Mahārūpiṇī - 988), the great worship (Mahāpūjā - 989), and is the destroyer of great sins (Mahāpātakanaśinī - 990)."
+  }
+},
+{
+  "id": "lalita-1-165",
+  "verse_number": 165,
+  "original": "महासत्त्वा महासिद्धिर् महातीर्था महोत्सवा ।\nमहालक्ष्मीर्महाकाला महामाया महोदरी ॥",
+  "transliteration": "mahāsattvā mahāsiddhir mahātīrthā mahōtsavā |\nmahālakṣmīrmahākālā mahāmāyā mahōdarī ||",
+  "translations": {
+    "english": "She is the great existence (Mahāsattvā - 991), the great spiritual attainment (Mahāsiddhiḥ - 992), the great sacred bathing place (Mahātīrthā - 993), the great festival (Mahōtsavā - 994). She is Mahālakṣmī (Mahālakṣmīḥ - 995), the great time/death (Mahākālā - 996), the great illusion (Mahāmāyā - 997), and the great-bellied one (Mahōdarī - 998)."
+  }
+},
+{
+  "id": "lalita-1-166",
+  "verse_number": 166,
+  "original": "महारूपा महाकाया महावीर्या महोदया ।\nमहानन्दा महावीर्या महोदया ॥",
+  "transliteration": "mahārūpā mahākāyā mahāvīryā mahōdayā |\nmahānandā mahāvīryā mahōdayā ||",
+  "translations": {
+    "english": "She is the great form (Mahārūpā - 999), and the great body (Mahākāyā - 1000)."
+  }
+}                
             ]
         }
     ]
