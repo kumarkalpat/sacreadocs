@@ -1,0 +1,206 @@
+{
+  "id": "ganapati-atharvashirsha",
+  "title": "Ganapati Atharvashirsha",
+  "author": "Vedic Tradition (Attributed to Atharvaveda)",
+  "introduction": "The **Ganapati Atharvashirsha** (also known as the Ganapati Upanishad) is a Sanskrit text and a minor Upanishad of Hinduism, specifically associated with the Atharvaveda. It is a late Upanishadic text dedicated to **Lord Ganesha**, the deity of intellect, wisdom, and the remover of obstacles. The text elevates Ganesha to the status of **Brahman**, the Supreme Reality, asserting that he is the essence of all existence, the creator, sustainer, and destroyer of the universe. Chanting this hymn is considered highly meritorious, leading to spiritual fulfillment, success, and liberation (Moksha). The text is generally considered to have ten core verses (mantras) preceded by a Shanti Mantra (Peace Invocation) and followed by a Phalaśruti (statement of benefits).",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "name": "Shanti Mantra",
+      "summary": "The Peace Invocation (Shanti Mantra) is recited at the beginning to remove obstacles from the environment, the deities, and the self, ensuring a peaceful learning and chanting experience. It is a prayer for auspicious hearing, sight, and a long life devoted to the service of the Gods.",
+      "verses_count": 2,
+      "verses": [
+        {
+          "id": "ganapati-atharvashirsha-1-1",
+          "verse_number": 1,
+          "original": "ॐ भद्रं कर्णेभिः शृणुयाम देवाः । भद्रं पश्येमाक्षभिर्यजत्राः । स्थिरैरङ्गैस्तुष्टुवाग्‍ँसस्तनूभिः । व्यशेम देवहितं यदायूः ॥",
+          "transliteration": "Oṃ bhadraṃ karṇebhiḥ śṛṇuyāma devāḥ | bhadraṃ paśyemākṣabhir-yajatrāḥ | sthirair-aṅgais-tuṣṭuvāgṁ sas-tanūbhiḥ | vyaśema devahitaṃ yadāyuḥ ||",
+          "translations": {
+            "english": "O Deities, may we hear what is auspicious with our ears. O Worshipful ones, may we see what is auspicious with our eyes. May we praise (Thee) with stable and strong limbs and bodies. May we complete the lifespan allotted by the Gods."
+          }
+        },
+        {
+          "id": "ganapati-atharvashirsha-1-2",
+          "verse_number": 2,
+          "original": "स्वस्ति न इन्द्रो वृद्धश्रवाः । स्वस्ति नः पूषा विश्ववेदाः ॥ स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः । स्वस्ति नो बृहस्पतिर्दधातु ॥",
+          "transliteration": "svasti na indro vṛddhaśravāḥ | svasti naḥ pūṣā viśvavedāḥ || svasti nas tārkṣyo ariṣṭanemiḥ | svasti no bṛhaspatir-dadhātu ||",
+          "translations": {
+            "english": "May Indra of great renown grant us well-being. May Pushan, the all-knowing Sun God, grant us well-being. May Tarkshya (Garuda), who removes misfortunes, grant us well-being. May Brihaspati also grant us well-being."
+          }
+        }
+      ],
+      "audioUrl": "https://www.youtube.com/watch?v=vS00zCKzl4c"
+    },
+    {
+      "chapter_number": 2,
+      "name": "The Manifestation of Brahman",
+      "summary": "This section begins the main philosophical assertion, proclaiming Ganesha as the visible embodiment of the Supreme Truth (**Brahman**), the sole creator, sustainer, and destroyer of the universe.",
+      "verses_count": 1,
+      "verses": [
+        {
+          "id": "ganapati-atharvashirsha-2-1",
+          "verse_number": 1,
+          "original": "हरिः ॐ नमस्ते गणपतये ॥ त्वमेव प्रत्यक्षं तत्त्वमसि ॥ त्वमेव केवलं कर्ताऽसि ॥ त्वमेव केवलं धर्ताऽसि ॥ त्वमेव केवलं हर्ताऽसि ॥ त्वमेव सर्वं खल्विदं ब्रह्मासि ॥ त्वं साक्षादात्माऽसि नित्यम् ॥१॥",
+          "transliteration": "hariḥ oṃ namaste gaṇapataye . tvameva pratyakṣaṃ tattvamasi . tvameva kevalaṃ kartā’si . tvameva kevalaṃ dhartā’si . tvameva kevalaṃ hartā’si . tvameva sarvaṃ khalvidaṃ brahmāsi . tvaṃ sākṣādātmā’si nityam ||1||",
+          "translations": {
+            "english": "Harih Om! Salutations to Ganapati. You are indeed the visible ultimate Reality. You alone are the Creator. You alone are the Sustainer. You alone are the Destroyer. You alone are all this, verily the Brahman. You are the direct, eternal Self."
+          }
+        }
+      ],
+      "audioUrl": null
+    },
+    {
+      "chapter_number": 3,
+      "name": "Pledge and Protection",
+      "summary": "The devotee pledges to speak the truth and the eternal law, followed by an invocation for protection from Ganesha for the speaker, the listeners, the knowledge, and from all directions and times.",
+      "verses_count": 2,
+      "verses": [
+        {
+          "id": "ganapati-atharvashirsha-3-1",
+          "verse_number": 2,
+          "original": "ऋतं वच्मि (वदिष्यामि) ॥ सत्यं वच्मि (वदिष्यामि) ॥ २॥",
+          "transliteration": "ṛtaṃ vacmi (vadiṣyāmi) . satyaṃ vacmi (vadiṣyāmi) ||2||",
+          "translations": {
+            "english": "I speak the Divine Law (Ritam). I speak the Truth (Satyam)."
+          }
+        },
+        {
+          "id": "ganapati-atharvashirsha-3-2",
+          "verse_number": 3,
+          "original": "अव त्वं माम् ॥ अव वक्तारम् ॥ अव श्रोतारम् ॥ अव दातारम् ॥ अव धातारम् ॥ अवानूचानमव शिष्यम् ॥ अव पश्चात्तात् ॥ अव पुरस्तात् ॥ अवोत्तरात्तात् ॥ अव दक्षिणात्तात् ॥ अव चोर्ध्वात्तात् ॥ अवाधरात्तात् ॥ सर्वतो मां पाहि पाहि समंतात् ॥ ३॥",
+          "transliteration": "ava tvaṃ mām . ava vaktāram . ava śrotāram . ava dātāram . ava dhātāram . avānūcānamava śiṣyam . ava paścāttāt . ava purastāt . avottarāttāt . ava dakṣiṇāttāt . ava cordhvāttāt . avādharāttāt . sarvato māṃ pāhi pāhi samantāt ||3||",
+          "translations": {
+            "english": "Protect me. Protect the speaker. Protect the listener. Protect the giver. Protect the supporter. Protect the teacher and the disciple. Protect me from the West. Protect me from the East. Protect me from the North. Protect me from the South. Protect me from above. Protect me from below. Protect me completely, protect me from all sides."
+          }
+        }
+      ],
+      "audioUrl": null
+    },
+    {
+      "chapter_number": 4,
+      "name": "The All-Pervasive Nature of Ganesha",
+      "summary": "This part describes Ganesha's identity with consciousness, bliss, the five elements, the four forms of speech, and his transcendence over the three qualities (*Gunas*), three states of consciousness, and three bodies.",
+      "verses_count": 3,
+      "verses": [
+        {
+          "id": "ganapati-atharvashirsha-4-1",
+          "verse_number": 4,
+          "original": "त्वं वाङ्मयस्त्वं चिन्मयः ॥ त्वं आनन्दमयस्त्वं ब्रह्ममयः ॥ त्वं सच्चिदानन्दाद्वितीयोऽसि ॥ त्वं प्रत्यक्षं ब्रह्मासि ॥ त्वं ज्ञानमयो विज्ञानमयोऽसि ॥४॥",
+          "transliteration": "tvaṃ vāṅmayastvaṃ cinmayaḥ . tvaṃ ānandamayastvaṃ brahmamayaḥ . tvaṃ saccidānandā-dvitīyo’si . tvaṃ pratyakṣaṃ brahmāsi . tvaṃ jñānamayo vijñānamayo’si ||4||",
+          "translations": {
+            "english": "You are composed of speech. You are composed of consciousness. You are composed of bliss. You are composed of Brahman. You are the non-dual existence-consciousness-bliss (Saccidānanda). You are the visible Brahman. You are full of knowledge and realization."
+          }
+        },
+        {
+          "id": "ganapati-atharvashirsha-4-2",
+          "verse_number": 5,
+          "original": "सर्वं विश्वमिदं त्वत्तो जायति ॥ सर्वं विश्वमिदं त्वत्तस्तिष्ठति ॥ सर्वं विश्वमिदं त्वयि लयमेष्यति ॥ त्वं भूमिरापोऽनलोऽनिलो नभः ॥ त्वं चत्वारि वाक्पदानि ॥ ५॥",
+          "transliteration": "sarvaṃ viśvamidaṃ tvatto jāyati . sarvaṃ viśvamidaṃ tvattastiṣṭhati . sarvaṃ viśvamidaṃ tvayi layameṣyati . tvaṃ bhūmirāpo’nalo’nilo nabhaḥ . tvaṃ catvāri vākpadāni ||5||",
+          "translations": {
+            "english": "This whole universe is born from You. This whole universe is sustained by You. This whole universe will dissolve in You. You are the earth, water, fire, air, and space. You are the four stages of speech."
+          }
+        },
+        {
+          "id": "ganapati-atharvashirsha-4-3",
+          "verse_number": 6,
+          "original": "त्वं गुणत्रयातीतः ॥ त्वं अवस्थात्रयातीतः ॥ त्वं देहत्रयातीतः ॥ त्वं कालत्रयातीतः ॥ त्वं मूलाधारस्थितोऽसि नित्यम् ॥ त्वं शक्तित्रयात्मकः ॥ त्वां योगिनो ध्यायन्ति नित्यम् ॥ त्वं ब्रह्मा त्वं विष्णुस्त्वं रुद्रस्त्वमिन्द्रस्त्वमग्निस्त्वं वायुस्त्वं सूर्यस्त्वं चन्द्रमास्त्वं ब्रह्म भूर्भुवः स्वरोम् ॥ ६॥",
+          "transliteration": "tvaṃ guṇatrayātītaḥ . tvaṃ avasthātrayātītaḥ . tvaṃ dehatrayātītaḥ . tvaṃ kālatrayātītaḥ . tvaṃ mūlādhārasthito’si nityam . tvaṃ śaktitrayātmakaḥ . tvāṃ yogino dhyāyanti nityam . tvaṃ brahmā tvaṃ viṣṇustvaṃ rudrastvamindrastvamagnistvaṃ vāyustvaṃ sūryastvaṃ candramāstvaṃ brahma bhūr-bhuvaḥ svarom ||6||",
+          "translations": {
+            "english": "You are beyond the three qualities (Gunas). You are beyond the three states of consciousness (waking, dream, deep sleep). You are beyond the three bodies (gross, subtle, causal). You are beyond the three divisions of time (past, present, future). You eternally reside in the Mūlādhāra (root chakra). You are the form of the three powers (creation, sustenance, destruction). Yogis constantly meditate on You. You are Brahmā, You are Viṣṇu, You are Rudra, You are Indra, You are Agni, You are Vāyu, You are Sūrya, You are Candramā, You are Brahman, the three worlds (earth, atmosphere, heaven), and Om."
+          }
+        }
+      ],
+      "audioUrl": null
+    },
+    {
+      "chapter_number": 5,
+      "name": "The Mūla Mantra (Ganesha Bīja)",
+      "summary": "This verse describes the components of the core Ganesha mantra, 'Ga-A-M-Om', identifying each syllable and phonetic element with an aspect of Ganesha, and stating that one who knows this mantra knows the Supreme Reality.",
+      "verses_count": 1,
+      "verses": [
+        {
+          "id": "ganapati-atharvashirsha-5-1",
+          "verse_number": 7,
+          "original": "गणादिं पूर्वमुच्चार्य वर्णादींस्तदनंतरम् ॥ अनुस्वारः परतरः ॥ अर्धेन्दुलसितम् ॥ तारेण ऋद्धम् ॥ एतत्तव मनुस्वरूपम् ॥ गकारः पूर्वरूपम् ॥ अकारो मध्यमरूपम् ॥ अनुस्वारश्चान्त्यरूपम् ॥ बिन्दुरुत्तररूपम् ॥ नादः संधानम् ॥ संहिता संधिः ॥ सैषा गणेशविद्या ॥ गणकऋषिः ॥ निचृद्गायत्रीच्छन्दः ॥ गणपतिर्देवता ॥ ॐ गं गणपतये नमः ॥ ७॥",
+          "transliteration": "gaṇādiṃ pūrvamuccārya varṇādīṃs-tadanantaram . anusvāraḥ parataraḥ . ardhendu-lasitam . tāreṇa ṛddham . etattava manu-svarūpam . gakāraḥ pūrvarūpam . akāro madhyamarūpam . anusvāraścāntyarūpam . binduruttararūpam . nādaḥ saṃdhānam . saṃhitā saṃdhiḥ . saiṣā gaṇeśa-vidyā . gaṇaka-ṛṣiḥ . nicṛd-gāyatrī-cchandaḥ . gaṇapatir-devatā . oṃ gaṃ gaṇapataye namaḥ ||7||",
+          "translations": {
+            "english": "First utter the syllable 'Ga' (from Gaṇa-ādi). Then the first of the letters 'A'. Next, the Anusvāra (M, the nasal sound). This is adorned by the Ardhendu (crescent). It is enriched by Om (Tāra). This is Your basic mantra form. The syllable 'Ga' is the first form. 'A' is the middle form. The Anusvāra is the final form. The Bindu (dot) is the super-form. The Nāda (sound) is the connection. The Samhitā (conjunction) is the union. This is the Knowledge of Ganesha. The Sage is Gaṇaka. The meter is Nicṛt-Gāyatrī. Gaṇapati is the presiding Deity. 'Om Gaṃ Gaṇapataye Namaḥ' (This is the mantra)."
+          }
+        }
+      ],
+      "audioUrl": null
+    },
+    {
+      "chapter_number": 6,
+      "name": "The Form of Dhyāna (Meditation)",
+      "summary": "This verse describes the physical and iconographic features of Ganesha for the purpose of meditation (*dhyāna*), detailing his attributes, clothing, color, and posture.",
+      "verses_count": 1,
+      "verses": [
+        {
+          "id": "ganapati-atharvashirsha-6-1",
+          "verse_number": 8,
+          "original": "एकदन्तं चतुर्हस्तं पाशमङ्कुशधारिणम् ॥ रदं च वरदं हस्तैर्बिभ्राणं मूषकध्वजम् ॥ रक्तं लंबोदरं शूर्पकर्णकं रक्तवाससम् ॥ रक्तगन्धानुलिप्ताङ्गं रक्तपुष्पैः सुपूजितम् ॥ भक्तानु-कम्पिनं देवं जगत्कारणमच्युतम् ॥ आविर्भूतं च सृष्ट्यादौ प्रकृतेः पुरुषात्परम् ॥ एवं ध्यायति यो नित्यं स योगी योगिनां वरः ॥ ८॥",
+          "transliteration": "ekadantaṃ caturhastaṃ pāśamaṅkuśadhāriṇam . radaṃ ca varadaṃ hastair-bibhrāṇaṃ mūṣakadhvajam . raktaṃ laṃbodaraṃ śūrpa-karṇakaṃ rakta-vāsasam . rakta-gandhānuliptāṅgaṃ rakta-puṣpaiḥ supūjitam . bhaktānu-kampinaṃ devaṃ jagat-kāraṇam-acyutam . āvirbhūtaṃ ca sṛṣṭyādau prakṛteḥ puruṣāt-param . evaṃ dhyāyati yo nityaṃ sa yogī yogināṃ varaḥ ||8||",
+          "translations": {
+            "english": "He has one tusk and four hands, holding a noose, a goad, his broken tusk, and granting boons; his flag bears the insignia of a mouse. He is red-colored, has a large belly, ears like winnowing fans, and wears red clothes. His body is smeared with red fragrance, and he is well-worshipped with red flowers. He is the God who is compassionate to devotees, the unchanging cause of the universe, and who appeared at the beginning of creation, beyond Prakṛti (nature) and Puruṣa (consciousness). The one who constantly meditates thus is the greatest among yogis."
+          }
+        }
+      ],
+      "audioUrl": null
+    },
+    {
+      "chapter_number": 7,
+      "name": "Salutations and Epithets",
+      "summary": "This verse is a collection of salutations to Ganesha, praising him by various names and epithets that describe his cosmic role and his form as the supreme being, specifically naming him as the son of Shiva and the remover of obstacles.",
+      "verses_count": 1,
+      "verses": [
+        {
+          "id": "ganapati-atharvashirsha-7-1",
+          "verse_number": 9,
+          "original": "नमो व्रातपतये नमो गणपतये नमः प्रमथपतये ॥ नमस्तेऽस्तु लम्बोदरायैकदंताय विघ्ननाशिने शिवसुताय वरदमूर्तये नमः ॥ ९॥",
+          "transliteration": "namo vrātapataye namo gaṇapataye namaḥ pramathapataye . namaste’stu lambodarāyai-kadantāya vighna-nāśine śiva-sutāya varada-mūrtaye namaḥ ||9||",
+          "translations": {
+            "english": "Salutations to the Lord of Hosts (Vrātapati). Salutations to the Lord of Gaṇas (Gaṇapati). Salutations to the Lord of Pramathas (celestial beings in Shiva's train). Salutations to You, O large-bellied one, one-tusked one, destroyer of obstacles, son of Shiva, and the form who grants boons."
+          }
+        }
+      ],
+      "audioUrl": null
+    },
+    {
+      "chapter_number": 8,
+      "name": "Phalaśruti (Benefits)",
+      "summary": "This final section describes the results and spiritual benefits obtained by reciting and studying the Ganapati Atharvashirsha, including freedom from sin, attainment of the four goals of life, and becoming all-knowing.",
+      "verses_count": 3,
+      "verses": [
+        {
+          "id": "ganapati-atharvashirsha-8-1",
+          "verse_number": 10,
+          "original": "एतदथर्वशीर्षम् योऽधीते ॥ स ब्रह्मभूयाय कल्पते ॥ स सर्वतः सुखमेधते ॥ स सर्व विघ्नैर्न बाध्यते ॥ स पंच महापापात्प्रमुच्यते ॥ १०॥",
+          "transliteration": "etad-atharvaśīrṣam yo’dhīte . sa brahma-bhūyāya kalpate . sa sarvataḥ sukham-edhate . sa sarva vighnair-na bādhyate . sa paṃca mahāpāpāt-pramucyate ||10||",
+          "translations": {
+            "english": "Whoever studies this Atharvashirsha becomes fit for the realization of Brahman. He is blessed with happiness everywhere. He is not afflicted by any obstacles. He is freed from the five great sins."
+          }
+        },
+        {
+          "id": "ganapati-atharvashirsha-8-2",
+          "verse_number": 11,
+          "original": "धर्मार्थकाममोक्षं च विंदति ॥ इदमथर्वशीर्षमशिष्याय न देयम् ॥ यो यदि मोहाद्दास्यति स पापीयान् भवति ॥ ११॥",
+          "transliteration": "dharmārtha-kāma-mokṣaṃ ca viṃdati . idam-atharvaśīrṣam-aśiṣyāya na deyam . yo yadi mohād-dāsyati sa pāpīyān bhavati ||11||",
+          "translations": {
+            "english": "He obtains Dharma (righteousness), Artha (wealth), Kāma (desires), and Mokṣa (liberation). This Atharvashirsha should not be given to an unworthy person. If someone gives it out of delusion, he becomes a sinner."
+          }
+        },
+        {
+          "id": "ganapati-atharvashirsha-8-3",
+          "verse_number": 12,
+          "original": "सहस्रवर्तनात् यं यं काममधीते तं तमनेन साधयेत् ॥ १२॥",
+          "transliteration": "sahasra-vartanāt yaṃ yaṃ kāmam-adhīte taṃ tam-anena sādhayet ||12||",
+          "translations": {
+            "english": "By chanting this a thousand times, one can achieve any desired objective."
+          }
+        }
+      ],
+      "audioUrl": null
+    }
+  ]
+}
