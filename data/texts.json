@@ -1,4 +1,4 @@
-[
+t t[
   {
     "id": "gita",
     "title": "Bhagavad Gita",
@@ -40,6 +40,6 @@
     "title": "Soundarya Lahari",
     "author": "Adi Shankara",
     "path": "soundaryaLahiri.json",
-    "coverImage": "images/soundaryaLahiri.png"
+    "coverImage": "images/soundaryaLahari.png"
   }
 ]
