@@ -1,0 +1,286 @@
+{
+  "id": "thiruppavai",
+  "title": "Thiruppavai (திருப்பா­வை)",
+  "author": "Andal (Aṇḍāḷ / Gōdā Dēvi)",
+  "introduction": "Thiruppavai is a collection of thirty verses (Pāsurams) in Tamil written by Andal, one of the twelve Alvars. These verses are recited during the auspicious month of Mārkaḻi (mid-December to mid-January).\n\nThe text is structured as a 'Gopi Vratam,' a vow undertaken by the Gopis (cowherd girls) of Ayppāḍi (Gokulam). The ultimate goal is to awaken Lord Krishna and obtain his grace, which is represented by the 'Parai' (a divine reward/drum). The verses progress from invoking the rains, stating the rules of the vow, waking up fellow Gopis, waking up Krishna and his family, requesting boons, and concluding with the Phalashruti (the fruit of reading the text).",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "name": "The Vow of the Gopis (Gopi Vratam)",
+      "summary": "This single chapter contains all 30 Pāsurams of the Thiruppavai, covering the invocation of the vow, awakening the devotees and the Lord, and realizing the supreme goal of eternal service to Lord Krishna.",
+      "verses_count": 30,
+      "verses": [
+        {
+          "id": "thiruppavai-p1",
+          "verse_number": 1,
+          "original": "மார்கழித் திங்கள் மதிநிறைந்த நன்னாளால்\nநீராடப் போதுவீர் போதுமினோ நேரிழையீர்\nசீர்மல்கும் ஆய்ப்பாடிச் செல்வச் சிறுமீர்காள்\nகூர்வேல் கொடுந்தொழிலன் நந்தகோபன் குமரன்\nஏரார்ந்த கண்ணி யசோதை இளம்சிங்கம்\nகார்மேனிச் செங்கண் கதிர்மதியம் போல் முகத்தான்\nநாராயணனே நமக்கே பறை தருவான்\nபாரோரும் புகழப் படிந்து ஏலோர் எம்பாவாய்.",
+          "transliteration": "Mārkaḻit tiṅkaḷ matinirainta naṉṉāḷāl\nNīrāṭap pōtuvīr pōtumiṉō nēriḻaiyīr\nCīrmalkum āypāṭic celvac ciṟumīrkāḷ\nKūrvēl koṭuntōḻilaṉ nantakōpaṉ kumaraṉ\nĒrārnta kaṇṇi yacōtai iḷaṅciṅkam\nKārmēṉic ceṅkaṇ katirmatiyam pōl mukattāṉ\nNārāyaṇanē namakkē paṟai taruvāṉ\nPārōrum pukaḻap paṭintu ēlōr empāvāy.",
+          "translations": {
+            "english": "It is the sacred month of Mārkaḻi, on a day blessed by the full moon! O girls adorned with shining jewels! Come quickly, you wealthy young girls of the prosperous Ayppāḍi, to take the holy bath. Nārāyaṇa himself, the son of Nanda Gopa, the cruel wielder of the sharp spear, the young lion cub of Yaśodā with lovely eyes, whose form is dark like a cloud, whose eyes are red, and whose face is like the sun and the moon—He alone will grant us the Parai (the Divine reward), praised by all people on earth. Come, let us plunge into the water!"
+          }
+        },
+        {
+          "id": "thiruppavai-p2",
+          "verse_number": 2,
+          "original": "வையத்து வாழ்வீர்காள் நாமும்நம் பாவைக்குச்\nசெய்யும்கிரிசைகள் கேளீரோ பாற்கடலுள்\nபையத்துயின்ற பரமனடி பாடி\nநெய்யுண்ணோம் பாலுண்ணோம் நாட்காலே நீராடி\nமையிட்டு எழுதோம் மலரிட்டு நாம் முடியோம்\nசெய்யாதன செய்யோம் தீக்குறளைச் சென்றோதோம்\nஐயமும் பிச்சையும் ஆந்தனையும் கைகாட்டி\nஉய்யுமா றெண்ணி உகந்து ஏலோர் எம்பாவாய்.",
+          "transliteration": "Vaiyattu vāḻvīrkāḷ nāmum nam pāvaikkucc\nCeyyum kiricaikaḷ kēḷīrō pārkaṭaluḷ\nPaiyattu yiṉṟa paramaṉaṭi pāṭi\nNeyyuṇṇōm pāluṇṇōm nāṭkālē nīrāṭi\nMaiyiṭṭu eḻutōm malariṭṭu nām muṭiyōm\nCeyyātaṉa ceyyōm tīkkuṟaḷaic ceṉṟōtōm\nAiyamum piccaiyum āntanaiyum kaikkāṭṭi\nUyyumā ṟeṇṇi ukantu ēlōr empāvāy.",
+          "translations": {
+            "english": "O people living happily in this world! Listen to the rites we shall observe for our vow: We shall sing the praises of the supreme Lord who reclines gently on the milky ocean. We shall abstain from consuming ghee and milk. We shall take the bath early in the morning. We shall not use collyrium for the eyes nor adorn our hair with flowers. We shall avoid doing wrong deeds and abstain from backbiting. We shall give away alms and charity to the extent we can. Let us live by these virtuous thoughts, rejoicing!"
+          }
+        },
+        {
+          "id": "thiruppavai-p3",
+          "verse_number": 3,
+          "original": "ஓங்கி உலகளந்த உத்தமன் பேர் பாடி\nநாங்கள்நம் பாவைக்குச் சாற்றி நீராடினால்\nதீங்கின்றி நாடெல்லாம் திங்கள்மும் மாரிபெய்து\nஓங்குபெருஞ் செந்நெலூடு கயலுகள\nபூங்குவளைப் போதில் பொறிவண்டு கண்படுப்ப\nதேங்காதே புக்கிருந்து சீர்த்த முலை பற்றி\nவாங்கிக்குடம் நிறைக்கு வள்ளல் பெரும்பசுக்கள்\nநீங்காத செல்வம் நிறைந்த ஏலோர் எம்பாவாய்.",
+          "transliteration": "Ōṅki ulakaḷanta uttamaṉ pēr pāṭi\nNāṅkaḷ nam pāvaikkucc cāṟṟi nīrāṭiṉāl\nTīṅkiṉṟi nāṭellām tiṅkaḷ mum māripeytu\nŌṅkuperuñ ceṉṉelūṭu kayaḷukaḷa\nPūṅkuvaḷaip pōtil poṟivaṇṭu kaṇpaṭuppa\nTēṅkātē pukkiṟuntu cīrtta mulai paṟṟi\nVāṅkikkuṭam niṟaikku vaḷḷal perumpacukkaḷ\nNīṅkāta celvam niṟainta ēlōr empāvāy.",
+          "translations": {
+            "english": "If we chant the names of the Supreme Lord who grew tall and measured the worlds, and perform our vow and bath, the entire land will be free from all harm. Rains will fall thrice a month; fish will leap amidst the tall red paddy fields; spotted bees will sleep within the blossoming blue lilies; and generous, large cows will fill the pots without delay, yielding copious milk from their full udders. Thus shall our wealth be everlasting!"
+          }
+        },
+        {
+          "id": "thiruppavai-p4",
+          "verse_number": 4,
+          "original": "ஆழி மழைக்கண்ணா ஒன்றும்நீ கை கரவேல்\nஆழி புகுந்து மடுத்துக் கொடு ஆர்த்தேறி\nஊழி முதல்வன் உருவம்போல் மெய் கறுத்து\nபாழியந் தோளுடைப் பற்பநாபன் கையில்\nஆழிபோல் மின்னி வலம்புரிபோல் நின்று அதிர்ந்து\nதாழாதே சார்ங்க முதைத்த சரமழைபோல்\nவாழ உலகினில் பெய்திடாய் நாங்களும்\nமார்கழி நீராட மகிழ்ந்து ஏலோர் எம்பாவாய்.",
+          "transliteration": "Āḻi maḻaikkaṇṇā oṉṟumnī kai karavēl\nĀḻi pukuntu maṭuttuk koṭu ārttēṟi\nŪḻi mutalvaṉ uruvampōl mey kaṟuttu\nPāḻiyam tōḷuṭaip paṟpanāpaṉ kaiyil\nĀḻipōl miṉṉi vaḷampuripōl niṉṟu atirntu\nTāḻātē cāraṅkam utaitta caramaliyap\nVāḻa ulakiṉil peytitāy nāṅkaḷum\nMārkaḻi nīrāṭa makiḻntu ēlōr empāvāy.",
+          "translations": {
+            "english": "O Rain God, whose form resembles the deep ocean! Do not hold back anything! Enter the sea, draw up the water, roar loudly as you ascend, and let your body darken like the form of the Lord of the Pralaya (Cosmic dissolution). Flash like the divine discus (Chakra) in the hand of Padmanābha of the mighty shoulders, thunder like his conch (Pañcajaṉya), and rain down continuously like the arrows shot from his mighty bow Śārṅga. Shower your rain upon the world so that we may live well and happily observe our Mārkaḻi bath!"
+          }
+        },
+        {
+          "id": "thiruppavai-p5",
+          "verse_number": 5,
+          "original": "மாயனை மன்னு வடமதுரை மைந்தனை\nதூய பெருநீர் யமுனைத் துறைவனை\nஆயர் குலத்தினில் தோன்றும் அணிவிளக்கைத்\nதாயைக் குடல்விளக்கம் செய்த தாமோதரனை\nதூயோமாய் வந்துநாம் தூமலர் தூவித்தொழுது\nவாயினால் பாடி மனத்தினால் சிந்திக்க\nபோய பிழையும் புகுதருவான் நின்றனவும்\nதீயினில் தூசாகும் செப்பு ஏலோர் எம்பாவாய்.",
+          "transliteration": "Māyaṉai maṉṉu vaṭamaturai maintaṉai\nTūya peru nīr yamunaitt tuṟaivaṉai\nĀyar kulattiṉil tōṉṟum aṇiviḷakkait\nTāyaik kuṭalviḷakkam ceyta tāmōtaraṉai\nTūyōmāy vantunām tūmalar tūvittolutu\nVāyiṉāl pāṭi maṉattiṉāl cintikka\nPōya piḻaiyum pukutaruvāṉ niṉṟaṉavum\nTīyiṉil tūcākum ceppu ēlōr empāvāy.",
+          "translations": {
+            "english": "If we come purified, scatter fresh flowers, worship the Lord, sing His glories with our mouths, and contemplate Him in our minds—Him, the Enchanter (Māyaṉ), the prince of the eternal Northern Mathurā, the Lord of the banks of the sacred Yamunā, the beautiful lamp lit in the cowherd clan, Dāmodara, who brought light to his mother's womb—then the sins we committed in the past and those we are about to commit in the future shall be reduced to ash in the fire. Say this, O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p6",
+          "verse_number": 6,
+          "original": "புள்ளும் சிலம்பினகாண் புள்ளரையன் கோயிலில்\nவெள்ளை விளிசங்கின் பேரரவம் கேட்டிலையோ\nபிள்ளாய் எழுந்திராய் பேய்முலை நஞ்சுண்டு\nகள்ளச் சகடம் கலக்கழியக் காலோச்சி\nவெள்ளத்தரவில் துயிலமர்ந்த வித்தினை\nஉள்ளத்துக் கொண்டு முனிவர்களும் யோகிகளும்\nமெள்ள எழுந்து அரியென்ற பேரரவம்\nஉள்ளம் புகுந்து குளிர்ந்து ஏலோர் எம்பாவாய்.",
+          "transliteration": "Puḷḷum cilampiṉakāṇ puḷḷaraiyan kōyilil\nVeḷḷai viḷicaṅkiṉ pēraravam kēṭṭilaiyō\nPiḷḷāy eḻuntirāy pēymulai nañcuṇṭu\nKaḷḷac cakaṭam kalakkaḻiyak kālōcci\nVeḷḷattaravil tuyilamarnta vittinai\nUḷḷattuk koṇṭu muṉivarkaḷum yōgikaḷum\nMeḷḷa eḻuntu ariyeṉṟa pēraravam\nUḷḷam pukuntu kuḷirntu ēlōr empāvāy.",
+          "translations": {
+            "english": "The birds have begun to chirp! Haven't you heard the great sound of the white conch being blown in the temple of the Lord who rides the Garuda (Puḷḷaraiyan)? O child, wake up! The sages and yogis, meditating on the Prime Cause of the world who reclines on the serpent in the cosmic ocean—He who drank the poisonous milk from the demoness Pūtanā and kicked the illusory cart (Sakaṭāsura) to pieces—they have gently risen. The loud chanting of 'Hari, Hari!' entering our hearts, gives us peace. O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p7",
+          "verse_number": 7,
+          "original": "கீசு கீசென்று எங்கும் ஆனைச்சாத்தன் கலந்து\nபேசின பேச்சரவம் கேட்டிலையோ பேய்ப்பெண்ணே\nகாசும் பிறப்பும் கலகலப்பக் கைபேர்த்து\nவாச நறுங்குழல் ஆய்ச்சியர் மத்தினால்\nஓசை படுத்த தயிரரவம் கேட்டிலையோ\nநாயகப் பெண்பிள்ளாய் நாராயணன் மூர்த்தி\nகேசவனைப் பாடவும்நீ கேட்டியே கிடத்தியோ\nதேசமுடையாய் திற ஏலோர் எம்பாவாய்.",
+          "transliteration": "Kīcu kīceṉṟu eṅkum āṉaiccāttaṉ kalantu\nPēciṉa pēccaravam kēṭṭilaiyō pēppeṇṇē\nKācum piṟappum kalakalappak kaippērttu\nVāca naṟuṅkuḻal āycciyar mattiṉāl\nŌcai paṭutta tayiraravam kēṭṭilaiyō\nNāyakap peṇpiḷḷāy nārāyaṇan mūrti\nKēcavaṉaip pāṭavumnī kēṭṭiyē kiṭattiyō\nTēcamuṭaiyāy tiṟa ēlōr empāvāy.",
+          "translations": {
+            "english": "Haven't you heard the 'Kīsu-Kīsu' chattering of the Ānai-cāttan (sparrows) everywhere? O dull girl (Peyppeṇṇē)! Haven't you heard the rhythmic sounds of the churning Gopi women—their bangles and necklaces clattering as they move their hands, churning the curds with the fragrant butter-churner? O foremost Maiden! When we sing the praises of Keśava, the form of Nārāyaṇa, do you pretend to listen while lying down? O radiant one, please open the door!"
+          }
+        },
+        {
+          "id": "thiruppavai-p8",
+          "verse_number": 8,
+          "original": "கீழ்ப்பானம் வெள்ளென்று எருமை சிறுவீடு\nமேய்ப்பாரன் போழ்துவிடியாது என்றன் மின்\nமாழைகள் மைதீட்டி மாதவம் செய்வார்காள்\nபூழைக்கண் புக்குப் பொழுக்கத்தோடு இன்ப\nஆழிக் குளித்து அகுந்து ஏலோர் எம்பாவாய்.",
+          "transliteration": "Kīḻppāṉam veḷḷeṉṟu erumai ciṟuvīṭu\nMeyppāraṉ pōḻtuvitiyātu eṉṟaṉ miṉ\nMāḻaikaḷ maitīṭṭi māta vam ceyvārkāḷ\nPūḻaikkaṇ pukkup poḻukkattōṭu iṉpa\nĀḻik kuḷittu akuntu ēlōr empāvāy.",
+          "translations": {
+            "english": "The east is glowing white! The herdsmen leading the buffaloes for pasture are already setting out. O maidens who performed great penance, adorning your wide eyes with collyrium! Do not say it is still dark. Come, let us rush through the narrow aperture (the door), bathe together in the great sea of bliss, and immerse ourselves completely!"
+          }
+        },
+        {
+          "id": "thiruppavai-p9",
+          "verse_number": 9,
+          "original": "தூமணி மாடத்துச் சுற்றும் விளக்கெரியத்\nதூபம் கமழ துயிலணைமேல் கண்வளரும்\nமாமான் மகளே மணிக்கதவம் தாழ்திறவாய்\nமாமீர் அவளை எழுப்பீரோ உன் மகள்தான்\nஊமையோ அன்றிச் செவிடோ அனந்தலோ\nஏமப் பெருந்துயில் மந்திரப் பட்டாளோ\nமாமாயன் மாதவன் வைகுந்தன் என்றென்று\nநாமம் பலவும் நவின்று ஏலோர் எம்பாவாய்.",
+          "transliteration": "Tūmaṇi māṭattuc cuṟṟum viḷakkeriyat\nTūpam kamaḻa tuyilaṇaimēl kaṇvaḷarum\nMāmāṉ makaḷē maṇikkatavam tāḻtiṟavāy\nMāmīr avaḷai eḻuppīrō uṉ makaḷtāṉ\nŪmaiyō aṉṟic ceviṭō aṉantalō\nĒmap peruntuyil mantirap paṭṭāḷō\nMāmāyaṉ mātavaṉ vaikuntaṉ eṉṟeṉṟu\nNāmam palavum naviṉṟu ēlōr empāvāy.",
+          "translations": {
+            "english": "O daughter of our uncle, sleeping on a soft bed with incense fragrance and lamps burning all around in your mansion of pure gems! Open the beautiful, bolted door! O Aunt (Māmīr)! Won't you please wake her up? Is your daughter mute, deaf, or suffering from exhaustion? Has she been cast under a spell of deep sleep? We are chanting the many names of the Great Enchanter (Māyāṉ), Mādhava, and Vaikuṇṭan. Say this, O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p10",
+          "verse_number": 10,
+          "original": "நோற்றுச் சுவர்க்கம் புகுகின்ற அம்மனாய்\nமாற்றமுந் தாராரோ வாசல் திறவாதார்\nநாற்றத் துழாய்முடி நாராயணன் நம்மால்\nபோற்றப் பறைதருவான் புண்ணியனால்\nபேற்றால் இவளையே பெற்றோம் பிறவிப்\nபிறவியம் பெறுவோம் நாம் ஏலோர் எம்பாவாய்.",
+          "transliteration": "Nōṟṟuc cuvarkkam pukukiṉṟa ammaṉāy\nMāṟṟamun tārārō vācal tiṟavātār\nNāṟṟat tuḻāymuṭi nārāyaṇan nammāl\nPōṟṟap paṟaitaruvāṉ puṇṇiyaṉāl\nPēṟṟāl ivaḷaiyē peṟṟōm piṟavip\nPiṟaviyam peṟuvōm nām ēlōr empāvāy.",
+          "translations": {
+            "english": "O Lady who, by performing penance, is now entering the divine heaven! Will those who do not open the door not even answer our calls? Nārāyaṇa, adorned with fragrant basil (Tulasi) on his crown, will certainly grant us the reward (Parai) for our devotion. Through some great merit, we have been blessed to be born with you. We shall be blessed in this and every subsequent birth! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p11",
+          "verse_number": 11,
+          "original": "கற்றுக் கறவைக் கணங்கள் பலகறந்து\nசெற்றார் திறலழியச் சென்று செருச்செய்யும்\nகுற்றமொன் றில்லாத கோவலர்தம் பொற்கொடியே\nபுற்றரவல்குல் புண்ணியனே புண்ணியக் கோன்\nநற்பொருளுக் கேலாவேல் நாரணனே\nமுற்றிலாப் புண்ணியத்தால் வா எம்பாவாய்.",
+          "transliteration": "Kaṟṟuk kaṟavaik kaṇaṅkaḷ palakaṟantu\nCeṟṟār tiṟaḻiyac ceṉṟu cerucceyyum\nKuṟṟamoṉ ṟillāta kōvalartam poṟkoṭiyē\nPuṟṟaravalkul puṇṇiyaṉē puṇṇiyak kōṉ\nNaṟporuḷuk kēlavēl nāraṇanē\nMuṟṟilāp puṇṇiyattāl vā empāvāy.",
+          "translations": {
+            "english": "O golden creeper (beautiful girl) of the flawless cowherd clan, which milks many herds of cows and goes to war to destroy the power of their enemies! You whose waist is thin like a snake in its anthill! O righteous one! O righteous king! O Nārāyaṇa, who is the true meaning (of existence)! Come, through the power of our unending good deeds! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p12",
+          "verse_number": 12,
+          "original": "கனைத்திளங் கற்றெருமை கன்றுக் கிரங்கி\nநினைத்து முலைவழியே நின்றுபால் சோர\nநனைத்தில்லம் சேறாக்கும் நற்செல்வன் தங்காய்\nபனித்தலை வீழநின் வாசல் கடைபற்றி\nசினத்தினால் தென்னிலங்கை கோமானைச் செற்ற\nமனத்துக்கு இனியானைப் பாடவும்நீ வாய் திறவாய்\nஇனித்தான் எழுந்திராய் ஈதென்ன பேர் உறக்கம்\nஅனைத்தில்லத்தாரும் அறிந்து ஏலோர் எம்பாவாய்.",
+          "transliteration": "Kaṉaittiḷaṅ kaṟṟerumai kaṉṟuk kiranki\nNiṉaittu mulaivaḻiyē niṉṟupāl cōra\nNaṉaittillam cēṟākkum naṟcelvaṉ taṅkāy\nPaṉittalai vīḻaniṉ vācal kaṭaipaṟṟi\nCiṉattiṉāl teṉṉilaṅkai kōmāṉaic ceṟṟa\nMaṉattukku iṉiyāṉaip pāṭavumnī vāytiṟavāy\nIṉittāṉ eḻuntirāy īteṉṉa pēr uṟakkam\nAṉaittillattārum aṟintu ēlōr empāvāy.",
+          "translations": {
+            "english": "O younger sister of the good-natured wealthy man, whose young, bellowing buffaloes, remembering their calves, overflow with milk, making the whole house muddy! We stand grasping your door, with dew falling upon our heads. Even as we sing the glories of the sweet Lord who destroyed the king of Southern Lanka (Rāvaṇa) in anger, you will not open your mouth! Wake up now! What kind of deep sleep is this? Everyone in the neighborhood knows! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p13",
+          "verse_number": 13,
+          "original": "புள்ளின் வாய் கீண்டானைப் பொல்லா அரக்கனை\nகிள்ளிக் களைந்தானைக் கீர்த்திமை பாடிப் போய்\nபிள்ளைகள் எல்லாரும் பாவைக் களம்புக்கார்\nவெள்ளை விளிசங்கின் பேரரவம் கேட்டிலையோ\nநாளைக்கு எழுந்திராய் நங்கைநீ நந்தகோபன்\nகோலக் கலவைச் சங்காடுங் கூத்தனார்\nசீலப் புருவமதைச் சென்று ஏலோர் எம்பாவாய்.",
+          "transliteration": "Puḷḷiṉ vāy kīṇṭāṉaip pollā arakkaṉai\nKiḷḷik kaḷaintāṉaik kīrttimai pāṭip pōy\nPiḷḷaikaḷ ellārum pāvaik kaḷampukkār\nVeḷḷai viḷicaṅkiṉ pēraravam kēṭṭilaiyō\nNāḷaikku eḻuntirāy naṅkanī nantakōpaṉ\nKōlak kalavaic caṅkāṭuṅ kūttaṉār\nCīlap puruvamadaic ceṉṟu ēlōr empāvāy.",
+          "translations": {
+            "english": "All the girls have gone to the place of the Vow, singing the glories of the Lord who tore the beak of the bird-demon (Bakasura) and plucked out the evil Rākṣasa (Rāvaṇa). Haven't you heard the great sound of the white conch? O Goddess-like girl! Wake up and come now, do not wait for tomorrow! Let us go and see the beautiful, virtuous eyebrows of the dancer (Krishna), the son of Nandagopa! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p14",
+          "verse_number": 14,
+          "original": "உங்கள் புழக்கடைத் தோட்டத்து வாவியுள்\nசெங்கழு நீர் வாய் நெகிழ்ந்து ஆம்பல் வாய் கூம்பினகாண்\nசெங்கற் பொடிக்கூறை வெண்பல் தவத்தவர்\nதங்கள் திருக்கோயிற் சங்கிடுவான் போதன்றார்\nஎங்களை முன்னம் எழுப்புவான் வாய்பேசும்\nநங்காய் எழுந்திராய் நாணாதாய் நாவுடையாய்\nசங்கொடு சக்கரமேந்தும் தடக் கையன்\nபங்கயக் கண்ணானைப் பாடு ஏலோர் எம்பாவாய்.",
+          "transliteration": "Uṅkaḷ puḻakkaṭait tōṭṭattu vāviyuḷ\nCeṅkaḻu nīr vāy nekīḻntu āmbal vāy kūmpiṉakāṇ\nCeṅkaṟ poṭikkūṟai veṇpal tavattavar\nTaṅkaḷ tirukkōyiṟ caṅkiṭuvāṉ pōtaṉṟār\nEṅkaḷai muṉṉam eḻuppuvāṉ vāypēcum\nNaṅkāy eḻuntirāy nāṇātāy nāvuṭaiyāy\nCaṅkoṭu cakkaramēntum taṭak kaiyaṉ\nPaṅkayak kaṇṇāṉaip pāṭu ēlōr empāvāy.",
+          "translations": {
+            "english": "Look! In the pond in your backyard garden, the red lotuses have opened their mouths, and the night lilies have closed theirs. The ascetics, with clothes colored by red ochre and with white teeth, are going to the temple to blow the conch. O beautiful girl, who used to promise to wake us up first! Rise up, you shameless, talkative girl! Let us sing the praises of the Lord who holds the Conch and the Discus in his broad hands and whose eyes are like lotuses!"
+          }
+        },
+        {
+          "id": "thiruppavai-p15",
+          "verse_number": 15,
+          "original": "எல்லே இளங்கிளியே இன்னும் உறங்குதியோ\nசில்லென்று அழையேன்மின் நங்கைமீர் போதருகிறேன்\nவல்லையாய நீயே வந் திறவாயோ நானாக\nவல்லாய்நீயே உன் மனத்தால் மகேசன்தான்\nமல்லாண்ட தோளுடை மணிவண்ணன் பேர்பாட\nபோற்றுவள் என்றுமே போத அருகினேன்\nநற்செய் நல்வினைக்கும் நாடேலோ ரெம்பாவாய்.",
+          "transliteration": "Ellē iḷaṅkiḷiyē iṉṉum uṟaṅkutiyō\nCilleṉṟu aḻaiyēṉmiṉ naṅkaimīr pōtarukiṟēṉ\nVallaiyāy nīyē van tiṟavāyō nāṉāka\nVallāynīyē uṉ maṉattāl makēcaṉtāṉ\nMallāṇṭa tōḷuṭai maṇivaṇṇaṉ pērpāṭa\nPōṟṟuvaḷ eṉṟumē pōta arukiṉēṉ\nNaṟcey nalviṉaikkum nāṭēlōr empāvāy.",
+          "translations": {
+            "english": "Gopis: 'Hello, O young parrot! Are you still sleeping?' The Sleeping Gopi: 'Do not speak harshly, O ladies! I am coming.' Gopis: 'If you are capable, why don't you come and open the door yourself?' The Sleeping Gopi: 'You are the capable one! I was only thinking in my mind about the Supreme Lord. I will always praise the name of Maṇivaṇṇaṉ, the one with shoulders that conquered the wrestlers. I was ready to leave even before you came.' Let us seek the fruits of our good deeds! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p16",
+          "verse_number": 16,
+          "original": "நாயகனாய் நின்ற நந்தகோபனுடைய\nகோயில் காப்பானே கொடித்தோன்றும் தோரண\nவாயில் காப்பானே மணிக்கதவம் தாழ்திறவாய்\nஆயர் சிறுமியரோமுக்கு அறைபறை\nமாயன் மணிவண்ணன் நென்னலே வாய் நேர்ந்து\nதூயோமாய் வந்தோம் துயில் எழப் பாடி\nவாயால் முன்னம் முன்னம் மாற்றாதே அம்மா\nநீயோ நாணாதாய் நின்ற ஏலோர் எம்பாவாய்.",
+          "transliteration": "Nāyakaṉāy niṉṟa nantakōpaṉuṭaiya\nKōyil kāppāṉē koṭittōṉṟum tōraṇa\nVāyil kāppāṉē maṇikkatavam tāḻtiṟavāy\nĀyar ciṟumiyarōmukku aṟaipaṟai\nMāyaṉ maṇivaṇṇaṉ neṉṉalē vāy nērntu\nTūyōmāy vantōm tuyil eḻap pāṭi\nVāyāl muṉṉam muṉṉam māṟṟātē ammā\nNīyō nāṇātāy niṉṟa ēlōr empāvāy.",
+          "translations": {
+            "english": "O Gatekeeper of the inner shrine of Nandagopa, who stands as the head of the community! O Gatekeeper of the ornamental archway with flags! Open the beautiful, bolted door! The Enchanter (Māyāṉ), Maṇivaṇṇaṉ, promised us the Parai (reward) yesterday. We, the little Gopi girls, have come purified, singing songs to wake Him up. O Mother! Do not deny us right at the door. You stand there without shame! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p17",
+          "verse_number": 17,
+          "original": "அம்பரமே தண்ணீரே சோறே அறஞ்செய்யும்\nஎம்பெருமான் நந்தகோபாலா எழுந்திராய்\nகொம்பனார்க்கு எல்லாம் கொழுந்தே குலவிளக்கே\nஎம்பெருமாட்டி யசோதாய் அறிவுறாய்\nஅம்பரம் ஊடறுத்து ஓங்கி உலகளந்த\nஉம்பர்கோமானே உறங்காது எழுந்திராய்\nசெம்பொற் கழலடிச் செல்வா பலதேவா\nஉம்பியும் நீயும் உறங்கு ஏலோர் எம்பாவாய்.",
+          "transliteration": "Ambaramē taṇṇīrē cōṟē aṟañceyyum\nEmperumāṉ nantakōpālā eḻuntirāy\nKompaṉārkku ellām koḻuntē kulaviḷakkē\nEmperumāṭṭi yacōtāy aṟivuṟāy\nAmbaram ūṭaṟuttu ōṅki ulakaḷanta\nUmparkōmāṉē uṟaṅkātu eḻuntirāy\nCempoṟ kaḻalaṭic celvā palatēvā\nUmpiyum nīyum uṟaṅku ēlōr empāvāy.",
+          "translations": {
+            "english": "O Nanda Gopālā, our Lord, who gives us clothes, water, food, and practices charity! Wake up! O Empress Yaśodā, who is the tender shoot for all ladies, the light of the entire clan! Become aware! O Lord of the Devas, who pierced the sky and measured the worlds! Wake up without sleeping! O Baladēva, rich with feet adorned with golden anklets! Are you and your younger brother still asleep? O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p18",
+          "verse_number": 18,
+          "original": "உந்துமதக் களிற்றன் ஓடாத தோள்வலியன்\nநந்தகோ பாலன் மருமகளே நப்பின்னாய்\nகந்தங் கமழும் குழலீ கடைதிறவாய்\nவந்து எங்கும் கோழி அழைத்தன காண் மாதவிப்\nபந்தல்மேல் பல்கால் குயிலினங்கள் கூவினகாண்\nபந்துஆர் விரலி உன் மைத்துனன் பேர்பாடச்\nசெந்தா மரைக்கையால் சீரார் வளையொலிப்ப\nவந்து திறவாய் மகிழ்ந்து ஏலோர் எம்பாவாய்.",
+          "transliteration": "Untumatak kaḷiṟṟaṉ ōṭāta tōḷvaliyaṉ\nNantakō pālaṉ marumakaḷē nappiṉṉāy\nKantaṅ kamaḻum kuḻalī kaṭaitiṟavāy\nVantu eṅkum kōḻi aḻaitaṉa kāṇ mātavip\nPantalmēl palkāl kuyiliṉaṅkaḷ kūviṉakāṇ\nPantuār virali uṉ maittuṉaṉ pēr pāṭac\nCenta māraikkaiyāl cīrār vaḷaiyolippa\nVantu tiṟavāy makiḻntu ēlōr empāvāy.",
+          "translations": {
+            "english": "O Nappinnai, the daughter-in-law of Nandagopa, who has mighty, never-retreating shoulders and drives rutting elephants! O girl with fragrant tresses! Open the door! Look, the cocks are crowing everywhere, and the cuckoos are calling many times from the Maadhavi creeper archway! O girl with fingers fit for playing with a ball, while your bracelets make a sweet sound from your red lotus-like hands, come open the door happily for us to sing the praises of your husband! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p19",
+          "verse_number": 19,
+          "original": "குத்து விளக்கெரியக் கோட்டுக்கால் கட்டில்மேல்\nமெத்தென்ற பஞ்ச சயனத்தின் மீதேறி\nகொத்தலர் பூங்குழல் நப்பின்னை கொங்கைமேல்\nவைத்துக் கிடந்த மலர்மார்பா வாய் திறவாய்\nமைத்தடங் கண்ணாய்நீ உன் மணாளனை\nஇத்தனை போதும் துயிலெழ ஒட்டாயோ\nஎத்தனை யேனும் பிரிவாற்ற கில்லாயால்\nஇத்தனை யேலும் எழுந்து ஏலோர் எம்பாவாய்.",
+          "transliteration": "Kuttu viḷakkeriyak kōṭṭukkāl kaṭṭilmēl\nMetteṉṟa pañca cayaṉattiṉ mītēṟi\nKottalar pūṅkuḻal nappiṉṉai koṅkaimēl\nVaittuk kiṭanta malarmārpā vāy tiṟavāy\nMaittaṭaṅ kaṇṇāynī uṉ maṇāḷaṉai\nIttaṉai pōtum tuyileḻa oṭṭāyō\nEttaṉai yēṉum pirivāṟṟa killāyāl\nIttaṉai yēlum eḻuntu ēlōr empāvāy.",
+          "translations": {
+            "english": "O Lord with the flower-like chest, who sleeps resting on the breasts of Nappinnai, whose braided hair is adorned with clusters of flowers, on the soft, silk bed on the ivory-legged cot, with lamps shining! Open your mouth! O lady with wide, dark eyes! Will you not allow your beloved husband to wake up even now? Since you cannot bear separation for even a moment, please at least wake up now! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p20",
+          "verse_number": 20,
+          "original": "முப்பத்து மூவர் அமரர்க்கு முன் சென்று\nகப்பம் தவிர்க்கும் கலியே துயிலெழாய்\nசெப்பமுடையாய் திறல் உடையாய் செற்றார்க்கு\nவெப்பங்கொடுக்கும் விமலா துயிலெழாய்\nசெப்பன்ன மென்முலை செவ்வாய்த் திருவுடைய\nநப்பின்னை நங்காய் திருவே துயிலெழாய்\nஉக்கமும் தட்டொளியும் தந்து உன்னைக்\nகொண்டு இற்றைப்பறை கொள்வான் என்று ஏலோர் எம்பாவாய்.",
+          "transliteration": "Muppattu mūvar amararkku muṉ ceṉṟu\nKappam tavirkkum kaliyē tuyileḻāy\nCeppamuṭaiyāy tiṟal uṭaiyāy ceṟṟārkku\nVeppaṅkoṭukkum vimalā tuyileḻāy\nCeppaṉṉa meṉmuli cevväyt tiruvuṭaiya\nNappiṉṉai naṅkāy tiruvē tuyileḻāy\nUkkamum taṭṭoḷiyum tantu uṉṉaik\nKoṇṭu iṟṟaippaṟai koḷvāṉ eṉṟu ēlōr empāvāy.",
+          "translations": {
+            "english": "O Mighty One, who goes before the thirty-three crore Devas and removes their distress! Wake up! O Virtuous One! O Powerful One! O Pure One (Vimala), who causes distress to enemies! Wake up! O Nappinnai, the Lady Lakshmi, whose soft breasts are like tender buds and whose lips are red! Wake up! Give us your fan and mirror, and come with us! We have come to receive the Parai (reward) today! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p21",
+          "verse_number": 21,
+          "original": "ஏற்ற கலங்கள் எதிர்பொங்கி மீதளிப்ப\nமாற்றாதே பால்சொரியும் வள்ளல் பெரும் பசுக்கள்\nஆற்றப் படைத்தான் மகனே அறிவுறாய்\nஊற்ற முடையாய் பெரியாய் உலகளந்த\nபேற்றால் உயர்ந்தாய் பெரியோர் இடுங்கலமே\nபோற்றி யாம் வந்தோம் புகழ்ந்து ஏலோர் எம்பாவாய்.",
+          "transliteration": "Ēṟṟa kalaṅkaḷ etirpoṅki mītaḷippa\nMāṟṟātē pālcōriyum vaḷḷal perum pacukkaḷ\nĀṟṟap paṭaittāṉ makaṉē aṟivuṟāy\nŪṟṟa muṭaiyāy periyāy ulakaḷanta\nPēṟṟāl uyarntāy periyōr iṭuṅkalmē\nPōṟṟi yām vantōm pukaḻntu ēlōr empāvāy.",
+          "translations": {
+            "english": "O Son of the one who owns a great multitude of generous cows that continuously yield milk, overflowing the vessels held beneath! Wake up and be aware! O Powerful One! O Great One! You who became exalted by the feat of measuring the worlds! You are the very foundation (Kalame) on which the great ones depend. We have come praising and worshipping you! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p22",
+          "verse_number": 22,
+          "original": "அங்கண்மா ஞாலத்து அரசர் அபிமான\nபங்கமாய் வந்துநின் பள்ளிக்கட் டிற் கீழே\nசங்க மிருந்துசர்வம் பிணங்கிடுமே\nகொங்கைக் குலமகளே கோவிந்தா உன்\nஅங்கண்மா ஞாலத்து அரசர் அபிமான\nபங்கமாய் வந்துநின் பள்ளிக்கட் டிற் கீழே\nசங்க மிருந்துசர்வம் பிணங்கிடுமே\nகொங்கைக் குலமகளே கோவிந்தா உன்\nதாமரையால் பாடு ஏலோர் எம்பாவாய்.",
+          "transliteration": "Aṅkaṇmā ñālattu aracar apimāṉa\nPaṅkamāy vantuniṉ paḷḷikkat ṭiṟ kīḻē\nCaṅka miruntu carvam piṇaṅkiṭumē\nKoṅkaik kulamakaḷē kōvintā uṉ\nAṅkaṇmā ñālattu aracar apimāṉa\nPaṅkamāy vantuniṉ paḷḷikkat ṭiṟ kīḻē\nCaṅka miruntu carvam piṇaṅkiṭumē\nKoṅkaik kulamakaḷē kōvintā uṉ\nTāmariayāl pāṭu ēlōr empāvāy.",
+          "translations": {
+            "english": "O Gōvindā! The kings of this wide, beautiful world, with their pride crushed, have come and gathered beneath your cot. They wait to worship you, fighting among themselves for your favor. O young girl with lovely breasts! Let us sing the praises of the Lord who has lotus feet! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p23",
+          "verse_number": 23,
+          "original": "மாரி மலைமுழைஞ்சில் மன்னிக் கிடந்து உறங்கும்\nசீரிய சிங்கம் அறிவுற்றுத் தீவிழித்து\nவேரி மயிர் பொங்க எப்பாடும் பேர்ந்து உதறி\nமூரி நிமிர்ந்து முழங்கிப் புறப்பட்டுப்\nபோதருமா போலே நீ பூவைப்பூ வண்ணா உன்\nகோயில் நின்று இங்ஙனே போதருளிக் கோப்புடைய\nசீரிய சிங்கா சனத்திலிருந்து யாம்பெற்ற\nபேரருள் வாழி பெருத்து ஏலோர் எம்பாவாய்.",
+          "transliteration": "Māri malaimuḻaiñcil maṉṉik kiṭantu uṟaṅkum\nCīriya ciṅkam aṟivuṟṟut tīviḻittu\nVēri mayir poṅka eppāṭum pērntu utaṟi\nMūri nimirntu muḻaṅkip puṟappaṭṭup\nPōtarumā pōlē nī pūvaippū vaṇṇā uṉ\nKōyil niṉṟu iṅṅaṉē pōtaruḷik kōppuṭaiya\nCīriya ciṅkā caṉattiliruntu yāmpeṟṟa\nPēraruḷ vāḻi peruttu ēlōr empāvāy.",
+          "translations": {
+            "english": "Just as a noble lion, resting in its mountain cave during the rainy season, wakes up, opens its fiery eyes, shakes its fragrant mane, stretches itself mightily, and roars before setting out—O Lord whose complexion is the color of the Kāyāmpoo flower! Please grant us your grace by coming forth from your temple, sitting upon your majestic, noble throne, and letting the great boon we receive from you flourish!"
+          }
+        },
+        {
+          "id": "thiruppavai-p24",
+          "verse_number": 24,
+          "original": "அன்றின் இவ் வுலகளந்த அடியைப் பாடி\nவென்ற பாவை திருநாமம் ஓர்ந்து எழாய்\nகுன்றென நிமிர்ந்துநின் கோவிந்தா என்றென்றும்\nமன்றில் புகுந்து விளையாடும் மாயனே\nசென்று சென்று உன் திருநாமம் பாடித்\nதாளாத பொன் அடிகள் தந்து ஏலோர் எம்பாவாய்.",
+          "transliteration": "Aṉṟiṉ iv vulakaḷanta aṭiyaip pāṭi\nVeṉṟa pāvai tirunāmam ōrntu eḻāy\nKuṉṟeṉa nimirntuniṉ kōvintā eṉṟeṉṟum\nMaṉṟil pukuntu viḷaiyāṭum māyaṉē\nCeṉṟu ceṉṟu uṉ tirunāmam pāṭit\nTāḷāta poṉ aṭikaḷ tantu ēlōr empāvāy.",
+          "translations": {
+            "english": "We, who sing the praise of the feet that measured the worlds on that very day, and meditate upon the sacred names of the victorious Lord! O Gōvindā, who rose tall like a mountain, the Enchanter (Māyāṉ) who forever plays in the great hall! Having repeatedly chanted your holy names, grant us your golden feet, which never cease to be worshipped! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p25",
+          "verse_number": 25,
+          "original": "ஒருத்தி மகனாய்ப் பிறந்த ஓர் இரவு\nஒருத்தி மகனாய் ஒளித்து வளர்ந்தவன்\nமறுத்துஞ் செறுவாரைச் சேனைச் செருச்செய்யும்\nகுழலால் கோவிந்தன் பேர்பாடி நீராட\nசேவடி தொழுது செங்கண் மலர்மேனி\nயாதும் வேண்டாமால் அருளப் பெறவேண்டும்\nசாதல் பிணியெலாந் தீர்க்கும் தயாபரனை\nபோற்றுவள் என்றுமே போத அருகினேன்.",
+          "transliteration": "Orutti makaṉāyp piṟanta ōr iravu\nOrutti makaṉāy oḷittu vaḷarntavaṉ\nMaṟuttuñ ceṟuvāraic cēṉaic cerucceyyum\nKuḻalāl kōvintaṉ pērpāṭi nīrāṭa\nCēvaṭi toḻutu ceṅkaṇ malarmēṉi\nYātum vēṇṭāmāl aruḷap peṟavēṇṭum\nCātal piṇiyelān tīrkkum tayāparaṉai\nPōṟṟuvaḷ eṉṟumē pōta arukiṉēṉ.",
+          "translations": {
+            "english": "He who was born the son of one woman (Devaki) for a single night, and secretly grew up as the son of another (Yaśodā)—the Compassionate One (Dayāparaṉ) who destroys all the sufferings of death and birth! We have come to sing the name of Gōvindā with our sweet voice and take the bath. We worship his reddish feet, his red eyes, and his beautiful form. We ask for the grace that we should never ask for anything else in this world! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p26",
+          "verse_number": 26,
+          "original": "மாலே மணிவண்ணா மார்கழி நீராடுவான்\nமேலையார் செய்வனகள் வேண்டுவன கேட்டியேல்\nஞாலத்தை யெல்லாம் நடுங்க முரலக்கும்\nகோலப் பறைவேண்டும் சங்கம் அதனையே\nகாலால் அவிழ்த்துக் காட்டித்திரு நாமத்தால்\nகாலப் பிரிந்த கழலடி கண்டின்பம்\nஆவா வென்றுன் அடியை ஏலோர் எம்பாவாய்.",
+          "transliteration": "Mālē maṇivaṇṇā mārkaḻi nīrāṭuvāṉ\nMēlaiyār ceyvaṉakaḷ vēṇṭuvaṉa kēṭṭiyēl\nÑālattai yellām naṭuṅka muralakkum\nKōlap paṟaivēṇṭum caṅkam ataṉaiyē\nKālāl aviḻttuk kāṭṭittiru nāmattāl\nKālap pirinta kaḻalaṭi kaṇṭiṉpam\nĀvā veṉṟuṉ aṭiyai ēlōr empāvāy.",
+          "translations": {
+            "english": "O Lord Mālaṇ, the Jewel-Hued One! If you ask us what necessities, as performed by our ancestors, we desire for this Mārkaḻi vow, listen: We require the beautiful Parai (drum/reward), the Sangu (conch) that roars loudly enough to shake the worlds, the lamps, the flag, and the canopy. We desire these to be granted by your holy name, so that we may see your anklet-adorned feet and cry out, 'Āvā!' in bliss! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p27",
+          "verse_number": 27,
+          "original": "கூடாரை வெல்லும் சீர்க் கோவிந்தா உன்றன்னை\nபாடிப் பறை கொண்டு யாம்பெறு சம்மானம்\nநாடுகேழ் பன்னும் கவரி வீசும் சவுந்தர\nதாடாளம் இட்ட கயற்கட் சிற்றாடை\nஆடியுடுத்த உன்றன் பாவையே என்றுமே\nநீடருளி நிற்க நின்னை விரும்பிய\nஆடியும் உடுத்தும் மகிழ்ந்து ஏலோர் எம்பாவாய்.",
+          "transliteration": "Kūṭārai vellum cīrk kōvintā uṉṟaṉṉai\nPāṭip paṟai koṇṭu yāmpeṟu cammāṉam\nNāṭukēḻ paṉṉum kavari vīcum cavuntara\nTāṭāḷam iṭṭa kayaṟkaṭ ciṟṟāṭai\nĀṭiyuṭutta uṉṟaṉ pāvaiyē eṉṟumē\nNīṭaruḷi niṟka niṉṉai virumpiya\nĀṭiyum uṭuttum makiḻntu ēlōr empāvāy.",
+          "translations": {
+            "english": "O Gōvindā of glorious fame, who conquers those who stand against Him! The rewards we receive after singing your praise and obtaining the Parai are these: Fans (Chowries) fit to be praised by the whole country, beautiful mirrors, the sight of your beloved form, and wearing the clothes you have worn. Grant us your lasting grace, that we may always serve you, wearing and rejoicing in the garments you wore! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p28",
+          "verse_number": 28,
+          "original": "குறைவொன்றும் இல்லாத கோவிந்தா உந்தன்னோ\nடுறவேல் நமக்கிங் கொழிக்க ஒழியாது\nஅறியாத பிள்ளைகளோம் அன்பினால் உந்தன்னைச்\nசிறுபேர் அழைத்தனவும் சீறி அருளாதே\nஇறைவா நீ தாராய் பறையேலோர் எம்பாவாய்.",
+          "transliteration": "Kuṟaivoṉṟum illāta kōvintā untaṉṉō\nṬuṟavēl namakkiṅ koḻikka oḻiyātu\nAṟiyāta piḷḷaikaḷōm aṉpiṉāl untaṉṉaic\nCiṟupēr aḻittaṉavum cīṟi aruḷātē\nIṟaivā nī tārāy paṟaiyēlōr empāvāy.",
+          "translations": {
+            "english": "O Gōvindā, who is flawless in every way! Our kinship with you is eternal and cannot be broken even if we wished it. We are ignorant girls, and out of sheer affection, we may have called you by small, inappropriate names. Please do not be angry. O Lord, grant us the Parai (reward)! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p29",
+          "verse_number": 29,
+          "original": "சிற்றம் சிறுகாலே வந்துன்னைச் சேவித்து உன்\nபொற்றா மரைஅடி போற்றும் பொருள்கேளாய்\nபெற்றமேய்த் துண்ணும் குலத்திற் பிறந்துநீ\nகுற்றேவல் எங்களைக் கொள்ளாமல் போகாதே\nஇற்றைப் பறை கொள்வான் அன்று காண் கோவிந்தா\nஎற்றைக்கும் ஏழேழ் பிறவிக்கு உன்தன்னோ\nடுற்றோமே யாவோம் உமக்கேநாம் ஆட்செய்வோம்\nமற்றுநம் காமங்கள் மாற்று ஏலோர் எம்பாவாய்.",
+          "transliteration": "Ciṟṟam ciṟukālē vantunṉaic cēvittu uṉ\nPoṟṟā maraiyaṭi pōṟṟum poruḷkēḷāy\nPeṟṟamēyt tuṇṇum kulattiṟ piṟantunī\nKuṟṟēval eṅkaḷaik koḷḷāmal pōkātē\nIṟṟaip paṟai koḷvāṉ aṉṟu kāṇ kōvintā\nEṟṟaikkum ēḻēḻ piṟavikku uṉtaṉṉō\nṬuṟṟōmē yāvōm umakkēnām āṭceyyōm\nMaṟṟunam kāmaṅkaḷ māṟṟu ēlōr empāvāy.",
+          "translations": {
+            "english": "Having come in the early morning to serve you and praise your golden, lotus-like feet, listen to our true purpose: You who were born into the cowherd clan that grazes and consumes its cattle wealth, do not leave without accepting our humble service! O Gōvindā! Note well, it is not just for the 'Parai' of today that we came. For all time, for seven times seven births, we desire only to be associated with you and serve you alone. Please remove all our other desires! O Maiden!"
+          }
+        },
+        {
+          "id": "thiruppavai-p30",
+          "verse_number": 30,
+          "original": "வங்கக் கடல்கடைந்த மாதவனை கேசவனை\nதிங்கள் திருமுகத்துச் சேயிழையார் சென்று\nஇங்கிப் பறை கொண்ட வாற்றை அணி புதுவைப்\nபைங்கமலத் தண் தெரியல் பட்டர்பிரான் கோதைசொன்ன\nசங்கத் தமிழ் மாலை முப்பதும் தப்பாமே\nஇங்கிப் பரிசால் இருமூன்று ஈன்ற\nஅங்கண்மா ஞாலத்து அரசர் அபிமான\nபங்கமாய் வந்துநின் பள்ளிக்கட் டிற் கீழே\nசங்க மிருந்துசர்வம் பிணங்கிடுமே\nகொங்கைக் குலமகளே கோவிந்தா உன்\nதாமரையால் பாடு ஏலோர் எம்பாவாய்.",
+          "transliteration": "Vaṅkak kaṭalkaṭainta mātavaṉai kēcavaṉai\nTiṅkaḷ tirumukattuc cēyiḻaiyār ceṉṟu\nIṅkip paṟai koṇṭa vāṟṟai aṇi putuvaip\nPaiṅkamalatt taṇ ṭeriyal paṭṭarpirāṉ kōtaicoṉṉa\nCaṅkat tamil mālai muppatum tappāmē\nIṅkip paricāl irumūṉṟu īṉṟa\nAṅkaṇmā ñālattu aracar apimāṉa\nPaṅkamāy vantuniṉ paḷḷikkat ṭiṟ kīḻē\nCaṅka miruntu carvam piṇaṅkiṭumē\nKoṅkaik kulamakaḷē kōvintā uṉ\nTāmariayāl pāṭu ēlōr empāvāy.",
+          "translations": {
+            "english": "Those who recite without fail this garland of thirty exquisite Tamil Pāsurams composed by Koḍai (Andal), the daughter of Paṭṭarpirāṉ (Periyazhwar) who wears a cool garland of fresh lotus flowers from beautiful Śrīvilliputtūr—which describes how the well-adorned Gopis with moon-like faces went and received the Parai (reward) from Mādhava and Keśava, who churned the mighty ocean—they shall be blessed with the joy of seeing Lord Krishna for all time, happily serving Him, with their other desires completely removed."
+          }
+        }
+      ]
+    }
+  ]
+}
