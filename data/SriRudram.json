@@ -1,0 +1,65 @@
+{
+  "id": "sri-rudram",
+  "title": "Sri Rudram (Namakam + Chamakam)",
+  "author": "Krishna Yajurveda, Taittiriya Samhita",
+  "introduction": "Sri Rudram is a Vedic hymn dedicated to Lord Rudra (Shiva). It consists of two parts: Namakam (11 anuvakas) praising Rudra in his many forms, and Chamakam (11 anuvakas) requesting blessings. Together they form 22 sections (~220 verses).",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "name": "Namakam - Anuvaka 1",
+      "summary": "Salutations to Rudra in his fierce and gentle forms.",
+      "verses_count": 11,
+      "verses": [
+        {
+          "id": "sri-rudram-namakam-1-1",
+          "verse_number": 1,
+          "original": "ॐ नमो भगवते रुद्राय",
+          "transliteration": "oṁ namo bhagavate rudrāya",
+          "translations": {
+            "english": "Salutations to the Blessed Rudra."
+          }
+        }
+        // ... more verses for Anuvaka 1
+      ],
+      "audioUrl": "https://archive.org/details/sri-rudram-namakam-anuvaka1"
+    },
+    {
+      "chapter_number": 2,
+      "name": "Namakam - Anuvaka 2",
+      "summary": "Further salutations to Rudra in diverse forms.",
+      "verses_count": 10,
+      "verses": [
+        {
+          "id": "sri-rudram-namakam-2-1",
+          "verse_number": 1,
+          "original": "नमो हिरण्यबाहवे",
+          "transliteration": "namo hiraṇya-bāhave",
+          "translations": {
+            "english": "Salutations to the golden-armed Rudra."
+          }
+        }
+      ],
+      "audioUrl": "https://archive.org/details/sri-rudram-namakam-anuvaka2"
+    },
+    // ... continue for all 11 Namakam anuvakas
+    {
+      "chapter_number": 12,
+      "name": "Chamakam - Anuvaka 1",
+      "summary": "Requests for blessings and prosperity.",
+      "verses_count": 12,
+      "verses": [
+        {
+          "id": "sri-rudram-chamakam-1-1",
+          "verse_number": 1,
+          "original": "चमे मे",
+          "transliteration": "ca me me",
+          "translations": {
+            "english": "May I have food."
+          }
+        }
+      ],
+      "audioUrl": "https://archive.org/details/sri-rudram-chamakam-anuvaka1"
+    }
+    // ... continue for all 11 Chamakam anuvakas
+  ]
+}
