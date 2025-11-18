@@ -1,11 +1,14 @@
 {
+  "id": "sri-rudram",
+  "title": "Sri Rudram",
   "author": "Vedic Hymn (attributed to various Rishis)",
+  "introduction": "Sri Rudram is a profound Vedic hymn dedicated to Lord Rudra (an epithet of Shiva). It is found in the Taittiriya Samhita of the Krishna Yajurveda. The text consists of two main parts, Namakam and Chamakam, each containing eleven sections called Anuvakas. Namakam, meaning 'salutations,' invokes Rudra in various aspects and forms, seeking his benevolent nature. Chamakam, meaning 'to me,' is a prayer for the fulfillment of all desires and needs, listing various auspicious things. Chanting Sri Rudram is considered highly sacred and beneficial, believed to purify the mind, body, and surroundings, and bestow spiritual and material well-being.",
   "chapters": [
     {
       "audioUrl": "https://example.com/rudram/namakam/anuvaka1.mp3",
       "chapter_number": 1,
-      "name": "Namakam",
-      "summary": "Namakam, the first part of Sri Rudram, is a series of salutations (Namah) to Lord Rudra. It praises Rudra's omnipresent and multifaceted forms, acknowledging both his fierce and benevolent aspects. Each Anuvaka focuses on different attributes, names, and manifestations of Rudra, seeking his grace and protection from various dangers, while also praying for peace and prosperity.",
+      "name": "Namakam (Anuvaka 1 & 2)",
+      "summary": "Namakam, the first part of Sri Rudram, is a series of salutations (Namah) to Lord Rudra. It praises Rudra's omnipresent and multifaceted forms, acknowledging both his fierce and benevolent aspects. **Anuvaka 1** seeks his protection and grace, asking him to turn away his destructive forms. **Anuvaka 2** continues the salutations, describing Rudra's forms as the various cosmic elements and forces.",
       "verses": [
         {
           "id": "namakam-1-1",
@@ -31,7 +34,7 @@
           "translations": {
             "english": "Salutations to Him with golden arms, to the commander of armies, and to the lord of directions. Salutations to the green-haired trees, to the lord of animals. Salutations to the golden-red, radiant one, to the lord of paths. Salutations to the tawny-colored, piercing one, to the lord of food. Salutations to the green-haired, sacred-thread wearing one, to the lord of the nourished. Salutations to the cause of existence, to the lord of the worlds. Salutations to Rudra, the one who expands, to the lord of fields. Salutations to the charioteer, the unconquerable, to the lord of forests. Salutations to the red one, the architect, to the lord of trees. Salutations to the counselor, the merchant, to the lord of hidden places. Salutations to the creator of beings, the bestower of boons, to the lord of herbs. Salutations to the one with loud shouts, who causes cries, to the lord of foot-soldiers."
           },
-          "transliteration": "namo hiraṇyabāhave senānye diśāṁ ca pataye namo namo vṛkṣebhyo harikeśebhyaḥ paśūnāṁ pataye namo namaḥ saspiñjarāya tviṣīmate pathīnāṁ pataye namo namo babhluśāya vivyādhine 'nnānāṁ pataye namo namo harikeśāyopavītine puṣṭānāṁ pataye namo namo bhavasya hetyai jagatāṁ pataye namo namo rudrāya tatāvine kṣetrāṇāṁ pataye namo namaḥ sūtāyāhantyāya vanānāṁ pataye namo namaḥ rohitāya sthapataye vṛkṣāṇāṁ pataye namo namo mantriṇe vāṇijāya kakṣāṇāṁ pataye namo namo bhuvantaye vārivaskṛtāyauṣadhīnāṁ pataye namo namaḥ uccairghoṣāyākrandayate pattīnāṁ pataye namaḥ",
+          "transliteration": "namo hiraṇyabāhave senānye diśāṁ ca pataye namo namo vṛkṣebhyo harikeśebhyaḥ paśūnāṁ pataye namo namaḥ saspiñjarāya tviṣīmate pathīnāṁ pataye namo namo babhluśāya vivyādhine 'nnānāṁ pataye namo namo harikeśāyopavītine puṣṭānāṁ pataye namo namo bhavasya hetyai jagatāṁ pataye namo namo rudrāya tatāvine kṣetrāṇāṁ pataye namo namah sūtāyāhantyāya vanānāṁ pataye namo namaḥ rohitāya sthapataye vṛkṣāṇāṁ pataye namo namo mantriṇe vāṇijāya kakṣāṇāṁ pataye namo namo bhuvantaye vārivaskṛtāyauṣadhīnāṁ pataye namo namaḥ uccairghoṣāyākrandayate pattīnāṁ pataye namaḥ",
           "verse_number": 3
         },
         {
@@ -65,10 +68,47 @@
       "verses_count": 66
     },
     {
+      "audioUrl": "https://example.com/rudram/namakam/anuvaka3-11.mp3",
+      "chapter_number": 3,
+      "name": "Namakam (Anuvakas 3 to 11)",
+      "summary": "These nine Anuvakas complete the Namakam section. They continue the elaborate praise of Rudra, invoking him in his forms as the hunter, the thief, the lord of forests, the dweller of rivers and mountains, the source of all knowledge, and the supreme cosmic being. The **8th Anuvaka** contains the **Mahamrityunjaya Mantra**, and the **10th Anuvaka** is a famous prayer for peace and freedom from fear. The Namakam concludes by seeking his most auspicious and benevolent form, Shiva.",
+      "verses_count": 60,
+      "verses": [
+        {
+          "id": "namakam-3-1",
+          "original": "नमो अस्त्व१स्मा आयुधेयायनातताय धृष्णवे नमो",
+          "translations": {
+            "english": "Salutations to his weapon that is prepared, not drawn out, and challenging. Salutations to Him."
+          },
+          "transliteration": "namo astv'asme āyudheyāyanātātāya dhṛṣṇave namo",
+          "verse_number": 15
+        },
+        {
+          "id": "namakam-4-1",
+          "original": "नमो भगवते रुद्राय",
+          "translations": {
+            "english": "Salutations to the adorable Lord Rudra (Introduction to Anuvaka 4)."
+          },
+          "transliteration": "namo bhagavate rudrāya",
+          "verse_number": 21
+        },
+        {
+          "id": "namakam-8-1",
+          "original": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्। उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय माऽमृतात्॥",
+          "translations": {
+            "english": "We worship the Three-eyed Lord, who is fragrant and nourishes all. May He liberate us from the bondage of death, like a cucumber from its stalk, but not from immortality."
+          },
+          "transliteration": "oṃ tryambakaṃ yajāmahe sugandhiṃ puṣṭivardhanam | urvārukamiva bandhanānmṛtyormukṣīya mā'mṛtāt ||",
+          "verse_number": 40
+        }
+      ],
+      "audioUrl": null
+    },
+    {
       "audioUrl": "https://example.com/rudram/chamakam/anuvaka1.mp3",
-      "chapter_number": 2,
-      "name": "Chamakam",
-      "summary": "Chamakam, the second part of Sri Rudram, is a fervent prayer for the fulfillment of all desires and needs, both material and spiritual. It lists hundreds of auspicious things, concepts, and entities, using the repetitive phrase 'cha me' (and to me), indicating a plea for these blessings to be granted. It embodies the human desire for holistic well-being, encompassing health, wealth, knowledge, progeny, and spiritual liberation, all sought through the grace of Lord Rudra.",
+      "chapter_number": 4,
+      "name": "Chamakam (Anuvaka 1)",
+      "summary": "Chamakam, the second part of Sri Rudram, is a fervent prayer for the fulfillment of all desires and needs, both material and spiritual. It lists hundreds of auspicious things, concepts, and entities, using the repetitive phrase 'cha me' (and to me), indicating a plea for these blessings to be granted. **Anuvaka 1** focuses on requests for basic necessities, strength, knowledge, and spiritual discipline.",
       "verses": [
         {
           "id": "chamakam-1-1",
@@ -96,7 +136,17 @@
           },
           "transliteration": "jyotiśca me tapaśca me vratañca me tapo ca me damaśca me śamaśca me",
           "verse_number": 3
-        },
+        }
+      ],
+      "verses_count": 14
+    },
+    {
+      "audioUrl": "https://example.com/rudram/chamakam/anuvaka2-11.mp3",
+      "chapter_number": 5,
+      "name": "Chamakam (Anuvakas 2 to 11)",
+      "summary": "These ten Anuvakas complete the Chamakam section, continuing the enumeration of blessings. They include prayers for wealth, cattle, spiritual power, offspring, seasonal stability, health, various metals, cosmic principles, and the numerical components of the ritual itself (odd and even numbers). The final Anuvakas request the attainment of heavenly worlds and spiritual liberation, completing the holistic scope of the prayer.",
+      "verses_count": 52,
+      "verses": [
         {
           "id": "chamakam-2-1",
           "original": "इमं मे वरुण श्रुधी हवमद्या च मृळय त्वामवस्युराचके",
@@ -104,7 +154,7 @@
             "english": "O Varuna, hear this call of mine today, and be gracious. I, desiring protection, invoke you."
           },
           "transliteration": "imaṁ me varuṇa śrudhī havamadyā ca mṛḷaya tvāmavasyurācake",
-          "verse_number": 12
+          "verse_number": 15
         },
         {
           "id": "chamakam-2-2",
@@ -113,7 +163,7 @@
             "english": "You, O Agni, are ours. To Varuna, salutations to you."
           },
           "transliteration": "tvaṁ no agne mahyaṁ varuṇāya te namaḥ",
-          "verse_number": 13
+          "verse_number": 16
         },
         {
           "id": "chamakam-2-3",
@@ -122,13 +172,10 @@
             "english": "O Waters, you are verily the source of joy. Bestow upon us strength, for great delight and vision."
           },
           "transliteration": "āpo hi ṣṭhā mayobhuvaḥ tā na ūrje dadhātana mahe raṇāya cakṣase",
-          "verse_number": 14
+          "verse_number": 17
         }
       ],
-      "verses_count": 66
+      "audioUrl": null
     }
-  ],
-  "id": "sri-rudram",
-  "introduction": "Sri Rudram is a profound Vedic hymn dedicated to Lord Rudra (an epithet of Shiva). It is found in the Taittiriya Samhita of the Krishna Yajurveda. The text consists of two main parts, Namakam and Chamakam, each containing eleven sections called Anuvakas. Namakam, meaning 'salutations,' invokes Rudra in various aspects and forms, seeking his benevolent nature. Chamakam, meaning 'to me,' is a prayer for the fulfillment of all desires and needs, listing various auspicious things. Chanting Sri Rudram is considered highly sacred and beneficial, believed to purify the mind, body, and surroundings, and bestow spiritual and material well-being.",
-  "title": "Sri Rudram"
+  ]
 }
