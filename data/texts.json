@@ -11,21 +11,25 @@
     "title": "Hanuman Chalisa",
     "author": "Tulsidas",
     "path": "hanumanChalisa.json",
-    "coverImage": "images/HanumanChalisa.png"
+    "coverImage": "images/HanumanChalisa.png",
+    "audioUrl": "https://archive.org/download/HanumanChalisaMSSubbulakshmiwww.Mp3MaD.Com/Hanuman_Chalisa-M_S_Subbulakshmi%5Bwww.Mp3MaD.Com%5D.mp3" 
   },
   {
     "id": "lalita",
     "title": "Lalita Sahasranama",
     "author": "Sage Hayagrīva (narrated in Brahmanda Purana)",
     "path": "lalitaSahasranama.json",
-    "coverImage": "images/LalithaSahasranama.png"
+    "coverImage": "images/LalithaSahasranama.png",
+    "audioUrl": "https://archive.org/download/sri-lalitha-sahasranamam-full-with-lyrics-lalita-devi-stotram-rajalakshmee-sanjay-devotional-320k/Sri%20Lalitha%20Sahasranamam%20Full%20With%20Lyrics%20-%20Lalita%20Devi%20Stotram%20-%20Rajalakshmee%20Sanjay%20-%20Devotional-320k.mp3"  
+
   },
   {
     "id": "shiva",
     "title": "Shiva Tandava Stotram",
     "author": "Ravana",
     "path": "shivaTandavaStotram.json",
-    "coverImage": "images/ShivaTandav.png"
+    "coverImage": "images/ShivaTandav.png",
+    "audioUrl": "https://archive.org/download/ShivaTandavaStotram_201707/Shiva_Tandava_Stotram.mp3"   
   },
   {
     "id": "vishnu",
@@ -40,7 +44,8 @@
     "title": "Soundarya Lahari",
     "author": "Adi Shankara",
     "path": "soundaryaLahiri.json",
-    "coverImage": "images/soundaryaLahari.png"
+    "coverImage": "images/soundaryaLahari.png",
+    "audioUrl": "https://archive.org/download/SoundaryaLahariBombaySisters/Soundarya%20Lahari-Bombay%20Sisters.mp3"
   },
   {
     "id": "thiruPugazh",
