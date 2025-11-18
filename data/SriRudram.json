@@ -19,7 +19,7 @@
             "english": "Salutations to the Blessed Rudra."
           }
         }
-        // ... more verses for Anuvaka 1
+  
       ],
       "audioUrl": "https://archive.org/details/sri-rudram-namakam-anuvaka1"
     },
@@ -41,7 +41,7 @@
       ],
       "audioUrl": "https://archive.org/details/sri-rudram-namakam-anuvaka2"
     },
-    // ... continue for all 11 Namakam anuvakas
+  
     {
       "chapter_number": 12,
       "name": "Chamakam - Anuvaka 1",
@@ -60,6 +60,6 @@
       ],
       "audioUrl": "https://archive.org/details/sri-rudram-chamakam-anuvaka1"
     }
-    // ... continue for all 11 Chamakam anuvakas
+
   ]
 }
