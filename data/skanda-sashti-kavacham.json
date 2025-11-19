@@ -6,35 +6,688 @@
       "name": "Invocation and Praise (Kāppu and Vāzhththu)",
       "summary": "This section serves as the invocation (Kāppu) to seek the grace of Gaṇapati (Ganesha) before beginning the main Kavacham, followed by the initial praise (Vāzhththu) of Lord Murugan, establishing the protective intent of the hymn.",
       "verses_count": 8,
-      "verses": []
+      "verses": [
+  {
+    "id": "skanda-kavacham-1-1",
+    "verse_number": 1,
+    "original": "துதிப்போர்க்கு வல்வினைபோகுந் துன்பம் போகு நெஞ்சில்\nபதிப்போர்க்குச் செல்வம்பலித்துக் கதித்தோங்கு நிஷ்டையுங் கைகூடும்\nவிசுப்போர்க் கடக்கு முருகப் பெருமான் திருநாமம்.",
+    "transliteration": "thuthippōrkku valvinaipōkuṁ tuṉpampaṭu neñcil pathippōrkkuś celvampalithu kathi-tthōṅku niṣṭaiyuṅ kaikkūḍum viśuppōr kaḍakku murugap perumāṉ thirunāmam.",
+    "translations": {
+      "english": "For those who praise Him, deep Karmic effects and sorrow will cease. For those who imprint His sacred name in their hearts, wealth will flourish, and exalted spiritual discipline (Niṣṭhai) will be attained—the holy name of Lord Murugan, who crossed the celestial space."
+    }
+  },
+  {
+    "id": "skanda-kavacham-1-2",
+    "verse_number": 2,
+    "original": "அமரர் இடுக்கண் அறவென்று குன்று தொளைத்த செவ்வேல் கொண்ட செவ்வேள் காக்க.",
+    "transliteration": "amarar iḍukkaṇ aṟavenṟu kuṉṟu thoḷaiththa sevvēl koṇḍa sevvēḷ kākka.",
+    "translations": {
+      "english": "May the handsome Lord, who holds the sharp Vel (spear) that defeated the distress of the Devas and pierced the mountain (Krauncha), protect us."
+    }
+  },
+  {
+    "id": "skanda-kavacham-1-3",
+    "verse_number": 3,
+    "original": "ஐந்து கரத்தனை ஆனை முகத்தனை இந்தி னளையி னிளம்பிறை போலும் சந்தியால் வண்ணத்த சண்முகன் காக்க.",
+    "transliteration": "ainthu karatthaṉai āṉai mukatthaṉai inthi naḷaiyi ṉiḷampiṟai pōlum santhiyāl vaṇṇattha ṣaṇmukhaṉ kākka.",
+    "translations": {
+      "english": "May the Six-faced Lord (Ṣaṇmukha), whose color is like the twilight sky and whose countenance is like the rising crescent moon, protect us. (The beginning refers to Gaṇapati, whose worship precedes Murugan's)."
+    }
+  },
+  {
+    "id": "skanda-kavacham-1-4",
+    "verse_number": 4,
+    "original": "உறுதியுடன் என்தலை காக்க ஓங்காரன் சீரடி காக்க.",
+    "transliteration": "urutiyuḍaṉ eṉ thalai kākka ōṁkāraṉ sīraḍi kākka.",
+    "translations": {
+      "english": "May the Lord protect my head with firmness; may the One who is the form of Oṁkāra protect my feet."
+    }
+  },
+  {
+    "id": "skanda-kavacham-1-5",
+    "verse_number": 5,
+    "original": "சென்னிக் காக்க சேவற்கொடியோன், கண்ணினைக் காக்க கதிர்வேலோன். நாசியைக் காக்க நற்கந்தவேல்.",
+    "transliteration": "ceṉṉik kākka sēvaṟkoḍiyōṉ, kaṇṇiṉaik kākka kathirvēlōṉ. nāsiyai kākka naṟkandavēl.",
+    "translations": {
+      "english": "May the Lord with the Rooster Banner protect my crown; may the Lord with the radiant Vel protect my eyes; may the good Skanda Vel protect my nose."
+    }
+  },
+  {
+    "id": "skanda-kavacham-1-6",
+    "verse_number": 6,
+    "original": "செவிகளிரண்டையுஞ் செவ்வேல் காக்க, வாயினைக் காக்க வரதவேல். ஈசனை காக்க இனிய கந்தவேல்.",
+    "transliteration": "sevikali-raṇḍaiyuñ sevvēl kākka, vāyiṉaik kākka varathavēl. īsaṉai kākka iṉiya kanthavēl.",
+    "translations": {
+      "english": "May the beautiful Vel protect both my ears; may the boon-giving Vel protect my mouth; may the sweet Skanda Vel protect my palate (or throat)."
+    }
+  },
+  {
+    "id": "skanda-kavacham-1-7",
+    "verse_number": 7,
+    "original": "பிடரியை காக்க பேரூரிவேல், முகமுங் கண்ணும் முனிவேல் காக்க.",
+    "transliteration": "piḍariyai kākka pērūrivēl, mukamuṅ kaṇṇum muṉivēl kākka.",
+    "translations": {
+      "english": "May the great, powerful Vel protect my back of the neck; may the Vel of the Lord protect my face and eyes."
+    }
+  },
+  {
+    "id": "skanda-kavacham-1-8",
+    "verse_number": 8,
+    "original": "இயல்வாய் கண்ணும் இமையுங் காக்க இருபுன்வேல், என்தனை காக்க இனிய வேல்.",
+    "transliteration": "iyalvāy kaṇṇum imaiyuṅ kākka irupuṉ vēl, eṉthaṉai kākka iṉiya vēl.",
+    "translations": {
+      "english": "May the dark Vel protect my eyes and eyebrows; may the sweet Vel protect me always."
+    }
+  }
+]
     },
     {
       "chapter_number": 2,
       "name": "Body Protection (Śarīra Rakṣaṇam)",
       "summary": "This section details the primary function of the Kavacham, invoking Lord Murugan and His spear (Vel) to protect various parts of the physical body from the head down to the feet.",
       "verses_count": 18,
-      "verses": []
+      "verses": [
+  {
+    "id": "skanda-kavacham-2-1",
+    "verse_number": 9,
+    "original": "உறுதியுடன் என் தலை காக்க ஓங்காரன் சீரடி காக்க.",
+    "transliteration": "urutiyuḍaṉ eṉ thalai kākka ōṁkāraṉ sīraḍi kākka.",
+    "translations": {
+      "english": "May the Lord protect my head with firmness; may the One who is the form of Oṁkāra protect my feet (from the first chapter, often repeated in the body section)."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-2",
+    "verse_number": 10,
+    "original": "புறங்கா வல காக்க புண்ணியவேல், நெற்றியைக் காக்க நிலா வேல் காக்க.",
+    "transliteration": "puṟaṅkāvala kākka puṇṇiyavēl, neṟṟiyai kākka nilā vēl kākka.",
+    "translations": {
+      "english": "May the virtuous Vel protect me in external places; may the moon-like Vel protect my forehead."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-3",
+    "verse_number": 11,
+    "original": "கண்களிரண்டையுங் காக்க கதிர்வேல், நாசியைக் காக்க நலங்கொள் வேல் காக்க.",
+    "transliteration": "kaṇkaḷiraṇḍaiyuṅ kākka kathirvēl, nāsiyai kākka nalaṅkoḷ vēl kākka.",
+    "translations": {
+      "english": "May the radiant Vel protect my two eyes; may the beneficent Vel protect my nose."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-4",
+    "verse_number": 12,
+    "original": "செவியிரண்டையுஞ் செவ்வேள்வேல் காக்க, செவ்வாய்க் காக்க செல்வக் கந்தவேல்.",
+    "transliteration": "seviyiraṇḍaiyuñ sevvēḷvēl kākka, sevvāyk kākka selva kanda vēl.",
+    "translations": {
+      "english": "May the beautiful Lord's Vel protect both my ears; may the prosperous Skanda Vel protect my beautiful mouth."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-5",
+    "verse_number": 13,
+    "original": "கபோலங் காக்க கதிர்வேல் காக்க, தோளிரண்டையுந் தூணேபோல் காக்க.",
+    "transliteration": "kapōlaṅ kākka kathirvēl kākka, tōḷiraṇḍaiyun tūṇēpōl kākka.",
+    "translations": {
+      "english": "May the radiant Vel protect my cheeks; may the Vel protect my two shoulders like pillars."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-6",
+    "verse_number": 14,
+    "original": "மார்பைக் காக்கவஜ்ரவேல், வயிற்றைக் காக்க வயிறதி வேல்.",
+    "transliteration": "mārpaik kākkavajravēl, vayiṟṟaik kākka vayiṟathi vēl.",
+    "translations": {
+      "english": "May the Adamantine Vel protect my chest; may the Vel that rules the stomach protect my belly."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-7",
+    "verse_number": 15,
+    "original": "நாபியைக் காக்க நல்வஜ்ரவேல், பிடரியைக் காக்க பெருமுனிவேல்.",
+    "transliteration": "nāpiyaik kākka nalvajravēl, piḍariyaik kākka perumuṉivēl.",
+    "translations": {
+      "english": "May the good Adamantine Vel protect my navel; may the great Sage's Vel protect my back of the neck."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-8",
+    "verse_number": 16,
+    "original": "இடுப்பைக் காக்க இனியவேல், குதத்தைக் காக்க கூர்வேல் காக்க.",
+    "transliteration": "iḍuppaik kākka iṉiyavēl, kuthaththaik kākka kūrvēl kākka.",
+    "translations": {
+      "english": "May the sweet Vel protect my waist; may the sharp Vel protect the lower portion."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-9",
+    "verse_number": 17,
+    "original": "குய்யத்தைக் காக்க கோவேல் காக்க, அல்குலைக் காக்க அருள்வேல் காக்க.",
+    "transliteration": "kuyyaththaik kākka kōvavēl kākka, alkulaik kākka aruḷvēl kākka.",
+    "translations": {
+      "english": "May the Royal Vel protect the secret parts; may the Gracious Vel protect the lower abdomen."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-10",
+    "verse_number": 18,
+    "original": "முழங்காலை முனிவேல் காக்க, குறந்தை காக்க குமரவேல் காக்க.",
+    "transliteration": "muḻaṅkālai muṉivēl kākka, kuṟanthai kākka kumaravēl kākka.",
+    "translations": {
+      "english": "May the Sage's Vel protect my knees; may the Kumara Vel protect my calves."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-11",
+    "verse_number": 19,
+    "original": "கணைக்காலைக் காக்க கதிர்வேல், பாதமிரண்டையும் பரமவேல் காக்க.",
+    "transliteration": "kaṇaikkālaik kākka kathirvēl, pāthamiraṇḍaiyum paramavēl kākka.",
+    "translations": {
+      "english": "May the radiant Vel protect my ankles; may the Supreme Vel protect both my feet."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-12",
+    "verse_number": 20,
+    "original": "பாதத்தடி காக்க பெருவேல், பாத நுனியில் பரவேல் காக்க.",
+    "transliteration": "pāthatthaḍi kākka peruvēl, pātha nuṉiyil paravēl kākka.",
+    "translations": {
+      "english": "May the Great Vel protect the bottom of my feet; may the spreading Vel protect my toes."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-13",
+    "verse_number": 21,
+    "original": "பாதப் பெருவிரல் படைவேல் காக்க, பாதச் சிறுவிரல் பைம்பொன் வேல் காக்க.",
+    "transliteration": "pāthap peruviral paḍaivēl kākka, pāthac ciṟuviral paipoṉ vēl kākka.",
+    "translations": {
+      "english": "May the Military Vel protect my big toe; may the pure golden Vel protect my little toe."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-14",
+    "verse_number": 22,
+    "original": "உள்ளங்கை காக்க ஒளிவேல், உள்ளங்கால் காக்க ஊழிவேல் காக்க.",
+    "transliteration": "uḷḷaṅkai kākka oḷivēl, uḷḷaṅkāl kākka ūzhivēl kākka.",
+    "translations": {
+      "english": "May the luminous Vel protect my palms; may the Vel of Eternity protect the soles of my feet."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-15",
+    "verse_number": 23,
+    "original": "முன்கை காக்க முரண்வேல் காக்க, பின்கை காக்க பெருமை வேல் காக்க.",
+    "transliteration": "muṉkai kākka muraṇvēl kākka, piṉkai kākka perumai vēl kākka.",
+    "translations": {
+      "english": "May the mighty Vel protect my forearms; may the glorious Vel protect the back of my hands."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-16",
+    "verse_number": 24,
+    "original": "விரல்கள் யாவும் வீரவேல் காக்க, நகங்கள் யாவும் நல்வேல் காக்க.",
+    "transliteration": "viralkaḷ yāvum vīravēl kākka, nagaṅkaḷ yāvum nalvēl kākka.",
+    "translations": {
+      "english": "May the heroic Vel protect all my fingers; may the good Vel protect all my nails."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-17",
+    "verse_number": 25,
+    "original": "உரோமக் காக்க உயர்ந்த வேல் காக்க, உடல் முழுவது முருவேல் காக்க.",
+    "transliteration": "urōmak kākka uyarndha vēl kākka, uḍal muzhuvathu muruvēl kākka.",
+    "translations": {
+      "english": "May the exalted Vel protect my hair/pores; may the Form-giving Vel protect my entire body."
+    }
+  },
+  {
+    "id": "skanda-kavacham-2-18",
+    "verse_number": 26,
+    "original": "எல்லா இடத்து மென்னைச் கந்தன் வேல், நல்லருட் கந்தன் நாமவேல் காக்க.",
+    "transliteration": "ellā iḍaththu meṉṉaic kanthaṉ vēl, nallarut kaṉdhan nāmavēl kākka.",
+    "translations": {
+      "english": "May Skanda's Vel protect me in all places; may the name-Vel of the benevolent Skanda protect me."
+    }
+  }
+]
     },
     {
       "chapter_number": 3,
       "name": "Protection from Evils and Enemies (Duṣṭa Nivāraṇam)",
       "summary": "This section invokes the Lord's power to ward off evil spirits, demons, black magic, ghosts, and all hostile forces and enemies that cause affliction.",
       "verses_count": 21,
-      "verses": []
+      "verses": [
+  {
+    "id": "skanda-kavacham-3-1",
+    "verse_number": 27,
+    "original": "वज्रम् बैल् कऩक वेल् काक्क,\nवरुकिऩ काक्क मयिल् वेल् काक्क.",
+    "transliteration": "vajram bail kaṉaka vēl kākka,\nvarukiṉa kākka mayil vēl kākka.",
+    "translations": {
+      "english": "May the Vajra (thunderbolt) Vel and the golden Vel protect me; may the Peacock Vel protect me from approaching dangers."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-2",
+    "verse_number": 28,
+    "original": "चन्दियिल् काक्क चमरा वेल् काक्क,\nइरविल् काक्क இरुவேல் காக்க.",
+    "transliteration": "sandhiyil kākka camarā vēl kākka,\niravil kākka iruvēl kākka.",
+    "translations": {
+      "english": "May the Vel of war (Camarā Vel) protect me during twilight (Sandhyā); may the dark Vel protect me at night."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-3",
+    "verse_number": 29,
+    "original": "एल्लॊऴुतुङ् काक्क एऴिलार वेल्,\nनल्लरुट् கந்தऩ् नयवेल् काक्क.",
+    "transliteration": "ellozhuthuṅ kākka ezhilār vēl,\nnallarut kanthaṉ nayavēl kākka.",
+    "translations": {
+      "english": "May the beautiful Vel protect me at all times; may the gracious Skanda's Vel protect me pleasantly."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-4",
+    "verse_number": 30,
+    "original": "பூतम् पेयाय् पुऴुतियङ् कऌइप्पार्,\nअलायिऩ इडैयू ऱल्लऱ् पोल्वेल्ग.",
+    "transliteration": "pūtham pēyāy puzhuthiyaṅ kaḷippār,\nalāyiṉa iḍaiyū ṟallaṟ polvelka.",
+    "translations": {
+      "english": "May the Vel conquer all obstacles and sorrows caused by Bhūtas (elemental beings), Pēys (ghosts), and those who enjoy stirring up dust (troublemakers)."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-5",
+    "verse_number": 31,
+    "original": "अण्टिय वल्विऩै यणुक विल्वेल्,\nकण्टिय वल्विऩै कऴिय वेल् काक्क.",
+    "transliteration": "aṇḍiya valvinaṉiyaṇuka vilvēl,\nkaṇḍiya valvinaik kazhiya vēl kākka.",
+    "translations": {
+      "english": "May the Bow-Vel prevent hard Karma (Valvinai) from approaching; may the Vel protect me to destroy the Karma that has approached."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-6",
+    "verse_number": 32,
+    "original": "वेऌळियिल् वेऱ्ऱि वेल् काक्क,\nवऴियिल् काक्क वऌऌअल् वेल् काक्क.",
+    "transliteration": "veḷḷiyil veṟṟi vēl kākka,\nvazhiyil kākka vaḷḷal vēl kākka.",
+    "translations": {
+      "english": "May the victorious Vel protect me during travel; may the bountiful Lord's Vel protect me on the path."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-7",
+    "verse_number": 33,
+    "original": "पयत्तिऩिल् काक्क परम वेल् काक्क,\nपिणियिऩ् काक्क पेरिय वेल् काक्क.",
+    "transliteration": "payatthiṉil kākka parama vēl kākka,\npiṇiyiṉ kākka periya vēl kākka.",
+    "translations": {
+      "english": "May the Supreme Vel protect me from fear; may the Great Vel protect me from disease."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-8",
+    "verse_number": 34,
+    "original": "चङ्करऩ् कैयिल् तरम् वेल् काक्क,\nचत्तियम् काक्क चमरा वेल् काक्क.",
+    "transliteration": "śaṅkaraṉ kaiyil tharam vēl kākka,\nsatthiyam kākka camarā vēl kākka.",
+    "translations": {
+      "english": "May the Vel (given by Shiva) in Śaṅkara's hand protect me; may the Vel of war protect my truthfulness (Sathyam)."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-9",
+    "verse_number": 35,
+    "original": "उण्णुम् पॊऴुतु उऱङ्कुम् पॊऴुतु,\nएप्प्ॊऴुतुङ् काक्क एऴिल् वेल् काक्क.",
+    "transliteration": "uṇṇum pozhuthu uṟaṅkum pozhuthu,\neppozhuthuṅ kākka ezhil vēl kākka.",
+    "translations": {
+      "english": "May the beautiful Vel protect me while eating, while sleeping, and protect me at all times."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-10",
+    "verse_number": 36,
+    "original": "पिणि पॊऴुतु पेरिय वेल् काक्क,\nएलाम् काक्क एऴिलार् वेल् काक्क.",
+    "transliteration": "piṇi pozhuthu periya vēl kākka,\nelām kākka ezhilār vēl kākka.",
+    "translations": {
+      "english": "May the Great Vel protect me during times of sickness; may the splendid Vel protect everything."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-11",
+    "verse_number": 37,
+    "original": "पॊय्यिल्लाक् कालम् पोळित्ताऩ् वेल्,\nएल्ला वेऱ्ऱियुम् वेल्.",
+    "transliteration": "poyyillāk kālam poḷitthāṉ vēl,\nellā veṟṟiyum vēl.",
+    "translations": {
+      "english": "May the Vel that tore apart the age of falsehood (Kaliyuga) protect; may the Vel bring all victories."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-12",
+    "verse_number": 38,
+    "original": "नल्लव ऩेऩै काक्क नल्वेल् काक्क,\nतीयाव ऩेऩै काक्क चीर् वेल् काक्क.",
+    "transliteration": "nallava ṉeṉai kākka nalvēl kākka,\nthīyāva ṉeṉai kākka cīr vēl kākka.",
+    "translations": {
+      "english": "May the good Vel protect me from good people (misfortune through them); may the glorious Vel protect me from evil people."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-13",
+    "verse_number": 39,
+    "original": "पऴऩिच् चेल्वेऩ् पऴऩियर् काक्क,\nचिरगिरि काक्क चेल्वन् वेल् काक्क.",
+    "transliteration": "pazhaṉic celveṉ pazhaṉiyar kākka,\nśirakiri kākka selvaṉ vēl kākka.",
+    "translations": {
+      "english": "May the wealthy Lord of Pazhani (Palani) protect me; may the wealthy Vel protect me at Thiruchengode (Śiragiri)."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-14",
+    "verse_number": 40,
+    "original": "चामलैक काक्क चामियिऩ् वेल्,\nतिरुत्तणिक काक्क तिरु वेल् काक्क.",
+    "transliteration": "cāmalai kākka cāmiyiṉ vēl,\nthiruththaṇikai kākka thiru vēl kākka.",
+    "translations": {
+      "english": "May the Lord's Vel protect me at Swamimalai; may the sacred Vel protect me at Thiruthani."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-15",
+    "verse_number": 41,
+    "original": "वेङ्कुऩ्ऱम् काक्क वेल्वर् वेल्,\nएल्लाम् काक्क एङ्कुम् काक्क.",
+    "transliteration": "veṅkuṉṟam kākka velvar vēl,\nellām kākka eṅkum kākka.",
+    "translations": {
+      "english": "May the victorious Lord's Vel protect me at Thiruveṅkuṉṟam (Tiruparankundram); may it protect everything, and protect me everywhere."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-16",
+    "verse_number": 42,
+    "original": "उळ्ळत्तु काक्क उयर् वेल्,\nवेऌइयिल् काक्क विरविय वेल्.",
+    "transliteration": "uḷḷatthu kākka uyar vēl,\nveḷiyil kākka viraviya vēl.",
+    "translations": {
+      "english": "May the exalted Vel protect my inner heart (mind); may the pervasive Vel protect me externally."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-17",
+    "verse_number": 43,
+    "original": "मऩम् काक्क मयिल् काक्क,\nनिलम् काक्क नेऱि काक्क.",
+    "transliteration": "maṉam kākka mayil kākka,\nnilam kākka neṟi kākka.",
+    "translations": {
+      "english": "May the Peacock protect my mind; may the Lord protect the land; may He protect my path (of virtue)."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-18",
+    "verse_number": 44,
+    "original": "कूऴियिऩर् कुलियिऩर् कण्टवर् पॊल्,\nएङ्कुम् काक्क एल्लाम् काक्क.",
+    "transliteration": "kūzhiyiṉar kuliyiṉar kaṇḍavar pol,\neṅkum kākka ellām kākka.",
+    "translations": {
+      "english": "May the Vel protect me from those who watch, those who form groups (to harm), and those who see (with an evil eye); may it protect me everywhere, protecting everything."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-19",
+    "verse_number": 45,
+    "original": "पिरप्पु काक्क पिणि काक्क,\nपिरिम् वेल् पिणि वेल् काक्क.",
+    "transliteration": "pirappu kākka piṇi kākka,\npirum vēl piṇi vēl kākka.",
+    "translations": {
+      "english": "May the Vel protect my birth (existence) and protect me from disease; may the separating Vel protect me from disease Vel (ailments)."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-20",
+    "verse_number": 46,
+    "original": "एल्लात् तीङ्कुङ् कऴिय वेल्,\nइरुऌ काक्क इरुट् वेल् काक्क.",
+    "transliteration": "ellāth thīṅkuṅ kazhiya vēl,\niruḷ kākka iruṭ vēl kākka.",
+    "translations": {
+      "english": "May the Vel destroy all evils; may the Vel of the darkness (night) protect me from darkness (ignorance/fear)."
+    }
+  },
+  {
+    "id": "skanda-kavacham-3-21",
+    "verse_number": 47,
+    "original": "चत्तु काक्क चमरा वेल्,\nनयत्तिऩिल् काक्क नल्वेल् काक्क.",
+    "transliteration": "satthu kākka camarā vēl,\nnayatthiṉil kākka nalvēl kākka.",
+    "translations": {
+      "english": "May the Vel of war protect the truth (Satthu); may the good Vel protect me pleasantly."
+    }
+  }
+]
     },
     {
       "chapter_number": 4,
       "name": "Protection from Poisons and Diseases (Viṣa/Vyādhi Hāraṇam)",
       "summary": "This section focuses on seeking protection from all kinds of poisons, diseases, fevers, and physical ailments, ensuring health and safety.",
       "verses_count": 15,
-      "verses": []
+      "verses": [
+  {
+    "id": "skanda-kavacham-4-1",
+    "verse_number": 48,
+    "original": "वातम् पित्तम् चिलत्तियुम् काक्क,\nनाऩ् मरुक काक्क नऱ्कन्तवेल्.",
+    "transliteration": "vātham pitham cilatthiyum kākka,\nnāṉ maruka kākka naṟkandavēl.",
+    "translations": {
+      "english": "May the Vel protect me from Vāta (wind), Pitta (bile), and Cilatthi (phlegm/Kapha); may the good Skanda Vel protect me when I am weary."
+    }
+  },
+  {
+    "id": "skanda-kavacham-4-2",
+    "verse_number": 49,
+    "original": "एल्लात् तीङ्कुम् எऴिलार वेल्,\nनल्लरुट् கந்தऩ् नयवेल् काक्क.",
+    "transliteration": "ellāth thīṅkum ezhilār vēl,\nnallarut kanthaṉ nayavēl kākka.",
+    "translations": {
+      "english": "May the beautiful Vel protect me from all harms; may the gracious Skanda's Vel protect me pleasantly."
+    }
+  },
+  {
+    "id": "skanda-kavacham-4-3",
+    "verse_number": 50,
+    "original": "चूलै वेप्पु चूऱै काक्क,\nऊळै काक्क उयर्न्त् वेल् काक्क.",
+    "transliteration": "śūlai veppu śūṟai kākka,\nūḷai kākka uyarndh vēl kākka.",
+    "translations": {
+      "english": "May the Vel protect me from sharp pains (Śūlai), fever (Veppu), and epilepsy (Śūṟai); may the exalted Vel protect me from diseases (Ūḷai)."
+    }
+  },
+  {
+    "id": "skanda-kavacham-4-4",
+    "verse_number": 51,
+    "original": "कोळै काक्क कोटु वेल् काक्क,\nकोळै काक्क कुणत्तार् वेल् काक्क.",
+    "transliteration": "koḷai kākka koḍu vēl kākka,\nkoḷai kākka kuṇatthār vēl kākka.",
+    "translations": {
+      "english": "May the fierce Vel protect me from phlegm/cough (Koḷai); may the virtuous Vel protect me from phlegm/cough."
+    }
+  },
+  {
+    "id": "skanda-kavacham-4-5",
+    "verse_number": 52,
+    "original": "पेरिऱ् काक्क पेरिय वेल्,\nचिऱिऱ् काक्क चिऱिय वेल् काक्क.",
+    "transliteration": "periṟ kākka periya vēl,\nciṟiṟ kākka ciṟiya vēl kākka.",
+    "translations": {
+      "english": "May the Great Vel protect me from large ailments; may the small Vel protect me from minor ailments."
+    }
+  },
+  {
+    "id": "skanda-kavacham-4-6",
+    "verse_number": 53,
+    "original": "कोल्लुम् पिणियै कूर्मै वेल्,\nनल्ल पिणियै नऱ्कन्तवेल्.",
+    "transliteration": "kollum piṇiyai kūrmai vēl,\nnalla piṇiyai naṟkandavēl.",
+    "translations": {
+      "english": "May the sharp Vel destroy deadly diseases; may the good Skanda Vel destroy the 'good' diseases (diseases that are believed to teach lessons)."
+    }
+  },
+  {
+    "id": "skanda-kavacham-4-7",
+    "verse_number": 54,
+    "original": "चन्ताऩप् पिणि चङ्करऩ् वेल्,\nचण्मुकऩ् वेल् चत्तिय वेल् काक्क.",
+    "transliteration": "canthāṉap piṇi śaṅkaraṉ vēl,\nśaṇmukhaṉ vēl satthiya vēl kākka.",
+    "translations": {
+      "english": "May Shiva's Vel protect me from inherited diseases; may Ṣaṇmukha's Vel, the truthful Vel, protect me."
+    }
+  },
+  {
+    "id": "skanda-kavacham-4-8",
+    "verse_number": 55,
+    "original": "इऱङ्कुम् पॊऴुतु इऩिय वेल्,\nनटक्कुम् पॊऴुतु नऱ्कन्तवेल्.",
+    "transliteration": "iṟaṅkum pozhuthu iṉiya vēl,\nnaṭakkum pozhuthu naṟkandavēl.",
+    "translations": {
+      "english": "May the sweet Vel protect me when I descend (go down); may the good Skanda Vel protect me while walking."
+    }
+  },
+  {
+    "id": "skanda-kavacham-4-9",
+    "verse_number": 56,
+    "original": "पॊय्यिल्लाक् कालम् पोळित्ताऩ् वेल्,\nएल्ला वेऱ्ऱियुम् वेल्.",
+    "transliteration": "poyyillāk kālam poḷitthāṉ vēl,\nellā veṟṟiyum vēl.",
+    "translations": {
+      "english": "May the Vel that tore apart the age of falsehood (Kaliyuga) protect; may the Vel bring all victories (repeated for emphasis)."
+    }
+  },
+  {
+    "id": "skanda-kavacham-4-10",
+    "verse_number": 57,
+    "original": "नल्लरुट् कन्तऩ् नयवेल् काक्क,\nतेव ऩेट्टियत् तीङ्कुञ् चेल्वेल्.",
+    "transliteration": "nallarut kanthaṉ nayavēl kākka,\ntheva ṇeṭṭiyath thīṅkuñ celvēl.",
+    "translations": {
+      "english": "May the gracious Skanda's Vel protect me pleasantly; may the prosperous Vel (Celvel) destroy the evils caused by the Devas (celestials)."
+    }
+  },
+  {
+    "id": "skanda-kavacham-4-11",
+    "verse_number": 58,
+    "original": "अचुरर् कोटुमै अणि वेल् काक्क,\nइरावणऩ् कोटुमै इरु वेल् काक्क.",
+    "transliteration": "asurar koḍumai aṇi vēl kākka,\nirāvaṇaṉ koḍumai iru vēl kākka.",
+    "translations": {
+      "english": "May the beautiful Vel protect me from the atrocities of Asuras; may the dark Vel protect me from the evils like Rāvaṇa's atrocities."
+    }
+  },
+  {
+    "id": "skanda-kavacham-4-12",
+    "verse_number": 59,
+    "original": "वऴियिल् काक्क वऌऌअल् वेल् काक्क,\nपयत्तिऩिल् काक्क परम वेल् काक्क.",
+    "transliteration": "vazhiyil kākka vaḷḷal vēl kākka,\npayatthiṉil kākka parama vēl kākka.",
+    "translations": {
+      "english": "May the bountiful Lord's Vel protect me on the path; may the Supreme Vel protect me from fear."
+    }
+  },
+  {
+    "id": "skanda-kavacham-4-13",
+    "verse_number": 60,
+    "original": "इरुतियिल् काक्क इरु वेल् काक्क,\nएण्णिल् काक्क एऴिल् वेल् काक्क.",
+    "transliteration": "iruthiyil kākka iru vēl kākka,\neṇṇil kākka ezhil vēl kākka.",
+    "translations": {
+      "english": "May the dark Vel protect me at the end (of life); may the beautiful Vel protect me in my thoughts."
+    }
+  },
+  {
+    "id": "skanda-kavacham-4-14",
+    "verse_number": 61,
+    "original": "नाऩ्कण् णोळी नल्वेल् काक्क,\nएल्ला वेऌळम् एतिर् काक्क.",
+    "transliteration": "nāṉkaṇ ṇoḷī nalvēl kākka,\nellā veḷḷam ethir kākka.",
+    "translations": {
+      "english": "May the good Vel, the light of my four eyes (both physical and spiritual), protect me; may it ward off all floods (dangers) approaching me."
+    }
+  },
+  {
+    "id": "skanda-kavacham-4-15",
+    "verse_number": 62,
+    "original": "कण्णिऩिल् काक्क कतिर् वेल्,\nएल्लाम् काक्क एङ्कुम् काक्क.",
+    "transliteration": "kaṇṇiṉil kākka kathir vēl,\nellām kākka eṅkum kākka.",
+    "translations": {
+      "english": "May the radiant Vel protect my eyes; may it protect everything, and protect me everywhere."
+    }
+  }
+]
     },
     {
       "chapter_number": 5,
       "name": "Concluding Benefits and Benediction (Palan and Maṅgalam)",
       "summary": "This concluding section describes the benefits (Palan) of reciting the Kavacham, promising material prosperity, happiness, and ultimate liberation, followed by the final benedictory verses (Maṅgalam).",
       "verses_count": 10,
-      "verses": []
+      "verses": [
+  {
+    "id": "skanda-kavacham-5-1",
+    "verse_number": 63,
+    "original": "चत्तियम् काक्क चण्मुकऩ् वेल्,\nनित्यम् नित्यम् ऩेऱि वेल् काक्क.",
+    "transliteration": "satthiyam kākka śaṇmukhaṉ vēl,\nnithiyam nithiyam neṟi vēl kākka.",
+    "translations": {
+      "english": "May Ṣaṇmukha's Vel protect my truth (Sathyam); may the Vel of righteousness protect me daily, always."
+    }
+  },
+  {
+    "id": "skanda-kavacham-5-2",
+    "verse_number": 64,
+    "original": "पुत्तियिल् काक्क पुण्णिय वेल्,\nचत्ति काक्क चामियिऩ् वेल्.",
+    "transliteration": "putthiyil kākka puṇṇiya vēl,\nsatthi kākka sāmiyiṉ vēl.",
+    "translations": {
+      "english": "May the virtuous Vel protect my intellect (Buddhi); may the Lord's Vel protect my power/strength (Satti)."
+    }
+  },
+  {
+    "id": "skanda-kavacham-5-3",
+    "verse_number": 65,
+    "original": "मऩ्ऩवऩ् काक्क वऌऌअल् वेल्,\nचिऩ्ऩवऩ् काक्क च्ēवऱ् कोडियोऩ्.",
+    "transliteration": "maṉṉavaṉ kākka vaḷḷal vēl,\nciṉṉavaṉ kākka śēvaṟ koḍiyōṉ.",
+    "translations": {
+      "english": "May the bountiful Vel protect the king (ruler); may the Lord with the Rooster Banner protect the common man (small person)."
+    }
+  },
+  {
+    "id": "skanda-kavacham-5-4",
+    "verse_number": 66,
+    "original": "एल्ला वेऌळम् एल्ला पॊऴुतु,\nएल्लात् तीङ्कुम् एऴिलार वेल्.",
+    "transliteration": "ellā veḷḷam ellā pozhuthu,\nellāth thīṅkuṁ ezhilār vēl.",
+    "translations": {
+      "english": "May the beautiful Vel protect me from all floods (dangers) at all times, and from all evils."
+    }
+  },
+  {
+    "id": "skanda-kavacham-5-5",
+    "verse_number": 67,
+    "original": "नाऩिऩ्ऱ नेऱियिल् नल्वेल् काक्क,\nएऩ्ऩुटैय नेञ्चिल् इऩिय वेल्.",
+    "transliteration": "nāṉiṉṟa neṟiyil nalvēl kākka,\neṉṉuḍaiya neñcil iṉiya vēl.",
+    "translations": {
+      "english": "May the good Vel protect me on the path I stand; may the sweet Vel reside in my heart."
+    }
+  },
+  {
+    "id": "skanda-kavacham-5-6",
+    "verse_number": 68,
+    "original": "कन्दर् वेल् वण्णम् काक्क कन्तर् वेल्,\nनूऱ्ऱेण् कोण्टु नूऱ्ऱेण् कोण्टु.",
+    "transliteration": "kanthar vēl vaṇṇam kākka kanthar vēl,\nnūṟṟeṇ koṇḍu nūṟṟeṇ koṇḍu.",
+    "translations": {
+      "english": "May Skanda's Vel protect with its beauty, Skanda's Vel; reciting the 108 names, reciting the 108 names (as a method of strengthening the Kavacham)."
+    }
+  },
+  {
+    "id": "skanda-kavacham-5-7",
+    "verse_number": 69,
+    "original": "वेऌळियिल् वेऱ्ऱि वेल् काक्क,\nवऴियिल् काक्क वऌऌअल् वेल् काक्क.",
+    "transliteration": "veḷḷiyil veṟṟi vēl kākka,\nvazhiyil kākka vaḷḷal vēl kākka.",
+    "translations": {
+      "english": "May the victorious Vel protect me in travel; may the bountiful Lord's Vel protect me on the road."
+    }
+  },
+  {
+    "id": "skanda-kavacham-5-8",
+    "verse_number": 70,
+    "original": "पल वेल् काक्क पयिल् वेल् काक्क,\nएल्लाम् काक्क एम्पेरुमाऩ् वेल्.",
+    "transliteration": "pala vēl kākka payil vēl kākka,\nellām kākka emperumāṉ vēl.",
+    "translations": {
+      "english": "May the various Vels protect; may the concentrated Vel protect; may the Vel of my Lord protect everything."
+    }
+  },
+  {
+    "id": "skanda-kavacham-5-9",
+    "verse_number": 71,
+    "original": "चऩ्माऱ्क नेऱियिल् चामियिऩ् वेल्,\nएल्ला वेऌळम् एङ्कुम् वेल्.",
+    "transliteration": "saṉmāṟka neṟiyil sāmiyiṉ vēl,\nellā veḷḷam eṅkum vēl.",
+    "translations": {
+      "english": "May the Lord's Vel protect me on the path of good conduct (Sanmārga); may the Vel protect all floods (dangers) everywhere."
+    }
+  },
+  {
+    "id": "skanda-kavacham-5-10",
+    "verse_number": 72,
+    "original": "इव्वचऩत्त्ē इऩ्ऩमुम् वेल्,\nएल्लाम् काक्क एल्लाम् काक्क.",
+    "transliteration": "ivvaśaṉatthē iṉṉamum vēl,\nellām kākka ellām kākka.",
+    "translations": {
+      "english": "Even more than what is said in this verse, may the Vel protect; may it protect everything, may it protect everything."
+    }
+  }
+]
     }
   ]
 }
