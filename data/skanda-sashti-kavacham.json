@@ -1,0 +1,40 @@
+{
+  "id": "skanda-sashti-kavacham",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "name": "Invocation and Praise (Kāppu and Vāzhththu)",
+      "summary": "This section serves as the invocation (Kāppu) to seek the grace of Gaṇapati (Ganesha) before beginning the main Kavacham, followed by the initial praise (Vāzhththu) of Lord Murugan, establishing the protective intent of the hymn.",
+      "verses_count": 8,
+      "verses": []
+    },
+    {
+      "chapter_number": 2,
+      "name": "Body Protection (Śarīra Rakṣaṇam)",
+      "summary": "This section details the primary function of the Kavacham, invoking Lord Murugan and His spear (Vel) to protect various parts of the physical body from the head down to the feet.",
+      "verses_count": 18,
+      "verses": []
+    },
+    {
+      "chapter_number": 3,
+      "name": "Protection from Evils and Enemies (Duṣṭa Nivāraṇam)",
+      "summary": "This section invokes the Lord's power to ward off evil spirits, demons, black magic, ghosts, and all hostile forces and enemies that cause affliction.",
+      "verses_count": 21,
+      "verses": []
+    },
+    {
+      "chapter_number": 4,
+      "name": "Protection from Poisons and Diseases (Viṣa/Vyādhi Hāraṇam)",
+      "summary": "This section focuses on seeking protection from all kinds of poisons, diseases, fevers, and physical ailments, ensuring health and safety.",
+      "verses_count": 15,
+      "verses": []
+    },
+    {
+      "chapter_number": 5,
+      "name": "Concluding Benefits and Benediction (Palan and Maṅgalam)",
+      "summary": "This concluding section describes the benefits (Palan) of reciting the Kavacham, promising material prosperity, happiness, and ultimate liberation, followed by the final benedictory verses (Maṅgalam).",
+      "verses_count": 10,
+      "verses": []
+    }
+  ]
+}
