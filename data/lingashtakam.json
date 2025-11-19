@@ -1,0 +1,85 @@
+{
+  "id": "lingashtakam",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "name": "The Eightfold Praise of the Lingam",
+      "summary": "This chapter contains the eight verses of the Aṣṭakam, each focusing on a distinct glorious attribute of the Śiva Liṅgam, culminating in the prayer for liberation.",
+      "verses_count": 8,
+      "verses": [
+        {
+          "id": "lingashtakam-1-1",
+          "verse_number": 1,
+          "original": "ब्रह्ममुरारिसुरार्चितलिङ्गं निर्मलभासितशोभितलिङ्गम् । जन्मजदुःखविनाशकलिङ्गं तत् प्रणमामि सदाशिवलिङ्गम् ॥",
+          "transliteration": "brahmamurārisurārcitaliṅgaṁ nirmalabhāsitaśobhitāliṅgam । janmajaduḥkhavināśakaliṅgaṁ tat praṇamāmi sadāśivaliṅgam ॥",
+          "translations": {
+            "english": "I bow to that Sadāśiva Liṅgam which is worshipped by Brahmā, Murāri (Viṣṇu), and the Suras (Gods); which shines with purity and splendor; and which destroys the sorrows arising from the cycle of births."
+          }
+        },
+        {
+          "id": "lingashtakam-1-2",
+          "verse_number": 2,
+          "original": "देवमुनिप्रवरार्चितलिङ्गं कामदहं करुणाकरलिङ्गम् । रावणदर्पविनाशकलिङ्गं तत् प्रणमामि सदाशिवलिङ्गम् ॥",
+          "transliteration": "devamunipravarārcitaliṅgaṁ kāmadahaṁ karuṇākaraliṅgam । rāvaṇadarpa-vināśakaliṅgaṁ tat praṇamāmi sadāśivaliṅgam ॥",
+          "translations": {
+            "english": "I bow to that Sadāśiva Liṅgam which is worshipped by the best among Devas and Sages; which burns Kāma (desire); which is the embodiment of compassion; and which destroyed the pride of Rāvaṇa."
+          }
+        },
+        {
+          "id": "lingashtakam-1-3",
+          "verse_number": 3,
+          "original": "सर्वसुगन्धिसुलेपितलिङ्गं बुद्धिविवर्धनकारणलिङ्गम् । सिद्धसुरासुरवन्दितलिङ्गं तत् प्रणमामि सदाशिवलिङ्गम् ॥",
+          "transliteration": "sarvasugandhisu-lepitaliṅgaṁ buddhivivardhanakāraṇaliṅgam । siddhasurāsuravanditaliṅgaṁ tat praṇamāmi sadāśivaliṅgam ॥",
+          "translations": {
+            "english": "I bow to that Sadāśiva Liṅgam which is smeared with all fragrant perfumes; which is the cause of the growth of intellect and wisdom; and which is venerated by Siddhas, Suras, and Asuras."
+          }
+        },
+        {
+          "id": "lingashtakam-1-4",
+          "verse_number": 4,
+          "original": "कनकमहामणिभूषितलिङ्गं फणिपतिवेष्टितशोभितलिङ्गम् । दक्षसुयज्ञविनाशकलिङ्गं तत् प्रणमामि सदाशिवलिङ्गम् ॥",
+          "transliteration": "kanakamahāmaṇibhūṣitaliṅgaṁ phaṇipativeṣṭitaśobhitāliṅgam । dakṣasuyajñavināśakaliṅgaṁ tat praṇamāmi sadāśivaliṅgam ॥",
+          "translations": {
+            "english": "I bow to that Sadāśiva Liṅgam which is adorned with great jewels and gold; which shines beautifully encircled by the Lord of Serpents (Vāsuki); and which destroyed the great sacrifice (Yajña) of Dakṣa."
+          }
+        },
+        {
+          "id": "lingashtakam-1-5",
+          "verse_number": 5,
+          "original": "कुङ्कुमचन्दनलेपितलिङ्गं पङ्कजहारसुपूजितलिङ्गम् । सञ्चितपापविनाशकलिङ्गं तत् प्रणमामि सदाशिवलिङ्गम् ॥",
+          "transliteration": "kuṅkumacandanalepitaliṅgaṁ paṅkajahārasupūjitaliṅgam । sañcitapāpavināśakaliṅgaṁ tat praṇamāmi sadāśivaliṅgam ॥",
+          "translations": {
+            "english": "I bow to that Sadāśiva Liṅgam which is smeared with saffron and sandalwood paste; which is well-worshipped with garlands of lotus flowers; and which destroys all accumulated sins."
+          }
+        },
+        {
+          "id": "lingashtakam-1-6",
+          "verse_number": 6,
+          "original": "देवगणार्चितसेवितलिङ्गं भावैर्भक्तिभिरेव च लिङ्गम् । दिनकरकोटिप्रभाकरलिङ्गं तत् प्रणमामि सदाशिवलिङ्गम् ॥",
+          "transliteration": "devagaṇārcitasevitāliṅgaṁ bhāvairbhaktibhireva ca liṅgam । dinakarakoṭiprabhākaraliṅgaṁ tat praṇamāmi sadāśivaliṅgam ॥",
+          "translations": {
+            "english": "I bow to that Sadāśiva Liṅgam which is worshipped and served by the hosts of Gods; which is worshipped with devotion and spiritual emotion; and which shines with the splendor of millions of suns."
+          }
+        },
+        {
+          "id": "lingashtakam-1-7",
+          "verse_number": 7,
+          "original": "अष्टदलोपरिवेष्टितलिङ्गं सर्वसमुद्भवकारणलिङ्गम् । अष्टदरिद्रविनाशकलिङ्गं तत् प्रणमामि सदाशिवलिङ्गम् ॥",
+          "transliteration": "aṣṭadalopariveṣṭitaliṅgaṁ sarvasamudbhavakāraṇaliṅgam । aṣṭadaridravināśakaliṅgaṁ tat praṇamāmi sadāśivaliṅgam ॥",
+          "translations": {
+            "english": "I bow to that Sadāśiva Liṅgam which is encircled by eight petals (representing the eight forms of nature); which is the cause of the manifestation of the entire universe; and which destroys the eight types of poverty."
+          }
+        },
+        {
+          "id": "lingashtakam-1-8",
+          "verse_number": 8,
+          "original": "सुरगुरुसुरवरपूजितलिङ्गं सुरवनपुष्पसदार्चितलिङ्गम् । परमपदं परमात्मकलिङ्गं तत् प्रणमामि सदाशिवलिङ्गम् ॥",
+          "transliteration": "suragurusuravarapūjitaliṅgaṁ suravanapuṣpasadārcitaliṅgam । paramapadaṁ paramātmakaliṅgaṁ tat praṇamāmi sadāśivaliṅgam ॥",
+          "translations": {
+            "english": "I bow to that Sadāśiva Liṅgam which is worshipped by the Guru of the Gods (Bṛhaspati) and the best of the Gods; which is ever worshipped with flowers from the celestial garden (Nandanavana); and which is the Supreme Abode and the Liṅgam of the Supreme Soul (Paramātman)."
+          }
+        }
+      ]
+    }
+  ]
+}
