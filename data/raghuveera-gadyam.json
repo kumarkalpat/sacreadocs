@@ -1,3 +1,20 @@
+//  this needs to go into texts.json, once the lyrics are matched with the audio ...
+  {
+    "id": "raghuveera-gadyam",
+    "title": "Raghuveera Gadyam",
+    "author": "Vedanta Desika",
+    "introduction": "The Raghuveera Gadyam is a famous Sanskrit prayer that narrates the entire story of Lord Rāma (Raghuveera) in a continuous, flowing prose style (Gadyam), often employing highly elaborate and descriptive compound words. It begins with the invocation 'Jayati' (Victory to) and ends with a description of the final coronation (Pattabhishekam). It is renowned for its literary brilliance and devotional fervor.",
+    "audioUrl": "https://music.youtube.com/watch?v=3cRA1o1MLy8",
+    "audioSource": "Abhishek Raghuram - Youtube Music",
+    "path": "raghuveera-gadyam.json",
+    "coverImage": "images/raghuveera-gadyam.png"
+  } 
+
+
+
+
+
+
 {
   "id": "raghuveera-gadyam-complete-core",
   "title": "Sri Raghuveera Gadyam (Mahavira Vaibhavam) - Core Text",
