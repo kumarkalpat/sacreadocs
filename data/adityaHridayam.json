@@ -7,286 +7,141 @@
       "summary": "This chapter contains the complete Aditya Hridayam hymn, a powerful prayer dedicated to Surya, the Sun God. It was recited by Sage Agastya to Lord Rama on the battlefield to ensure his victory over Ravana. The hymn praises the Sun God's omnipotence, radiance, and life-giving energy, offering strength, courage, and prosperity to its reciter.",
       "verses_count": 31,
       "verses": [
-        {
-          "id": "aditya_hridayam_1_1",
-          "original": "ततो युद्धपरिश्रान्तं समरे चिन्तया स्थितम्। रावणं चाग्रतो दृष्ट्वा युद्धाय समुपास्थितम्॥१॥",
-          "translations": {
-            "english": "Then, to Rama, who was fatigued from fighting, standing in thought on the battlefield, and seeing Ravana positioned before him for battle."
-          },
-          "transliteration": "tato yuddhapariśrāntaṁ samare cintayā sthitam| rāvaṇaṁ cāgrato dṛṣṭvā yuddhāya samupāsthitam||1||",
-          "verse_number": 1
-        },
-        {
-          "id": "aditya_hridayam_1_2",
-          "original": "उपागम्याब्रवीद्राम मगस्त्यो भगवानृषिः। राम राम महाबाहो शृणु गुह्यं सनातनम्॥२॥",
-          "translations": {
-            "english": "The revered sage Agastya approached Rama and spoke: \"O Rama, O mighty-armed one, listen to this eternal secret."
-          },
-          "transliteration": "upāgamyābravīdrāma magastyo bhagavānṛṣiḥ| rāma rāma mahābāho śṛṇu guhyaṁ sanātanam||2||",
-          "verse_number": 2
-        },
-        {
-          "id": "aditya_hridayam_1_3",
-          "original": "येन सर्वानरीन् वत्स समरे विजयिष्यसि। आदित्यहृदयं पुण्यं सर्वशत्रुविनाशनम्॥३॥",
-          "translations": {
-            "english": "Through this, my child, you will conquer all your enemies in battle. This sacred Aditya Hridayam destroys all foes."
-          },
-          "transliteration": "yena sarvānarīn vatsa samare vijayiṣyasi| ādityahṛdayaṁ puṇyaṁ sarvaśatruvināśanam||3||",
-          "verse_number": 3
-        },
-        {
-          "id": "aditya_hridayam_1_4",
-          "original": "जयावहं जपेन्नित्यं शाश्वतं परमं शिवम्। सर्वमंगलमांगल्यं सर्वपापप्रणाशनम्॥४॥",
-          "translations": {
-            "english": "It brings victory, always auspicious, supreme and benevolent. It is the most propitious of all blessings, destroying all sins."
-          },
-          "transliteration": "jayāvahaṁ japennityaṁ śāśvataṁ paramaṁ śivam| sarvamaṁgalamāṁgalyaṁ sarvapāpapraṇāśanam||4||",
-          "verse_number": 4
-        },
-        {
-          "id": "aditya_hridayam_1_5",
-          "original": "चिन्ताशोकप्रशमनं आयुर्वर्धनमुत्तमम्॥५॥",
-          "translations": {
-            "english": "It calms anxiety and sorrow, and enhances longevity; it is the best (of all prayers)."
-          },
-          "transliteration": "cintāśokapraśamanaṁ āyurvardhanamuttamam||5||",
-          "verse_number": 5
-        },
-        {
-          "id": "aditya_hridayam_1_6",
-          "original": "रश्मिमन्तं समुद्यन्तं देवासुरनमस्कृतम्। पूजयस्व विवस्वन्तं भास्करं भुवनेश्वरम्॥६॥",
-          "translations": {
-            "english": "Worship the one with rays, the rising one, saluted by gods and demons, the resplendent Vivswan, Bhaskara, the lord of the universe."
-          },
-          "transliteration": "raśmimantaṁ samudyntaṁ devāsuranamaskṛtam| pūjayasva vivasvantaṁ bhāskaraṁ bhuvanesvaram||6||",
-          "verse_number": 6
-        },
-        {
-          "id": "aditya_hridayam_1_7",
-          "original": "सर्वदेवात्मको ह्येष तेजस्वी रश्मिभावनः। एष देवासुरगणाँल्लोकान् पाति गभस्तिभिः॥७॥",
-          "translations": {
-            "english": "Indeed, He is the Self of all gods, full of splendor, creator of rays. He protects the worlds and the hosts of gods and demons with his rays."
-          },
-          "transliteration": "sarvadevātmakō hyeṣa tejasvī raśmibhāvanaḥ| eṣa devāsuragaṇām̐llokān pāti gabhastibhiḥ||7||",
-          "verse_number": 7
-        },
-        {
-          "id": "aditya_hridayam_1_8",
-          "original": "एष ब्रह्मा च विष्णुश्च शिवः स्कन्दः प्रजापतिः। महेन्द्रो धनदः कालो यमः सोमो ह्यपां पतिः॥८॥",
-          "translations": {
-            "english": "He is Brahma, Vishnu, Shiva, Skanda, Prajapati. He is Mahendra, Kubera, Kala, Yama, Soma, and the Lord of Waters."
-          },
-          "transliteration": "eṣa brahmā ca viṣṇuśca śivaḥ skandaḥ prajāpatiḥ| mahendro dhanadaḥ kālo yamaḥ somo hyapāṁ patiḥ||8||",
-          "verse_number": 8
-        },
-        {
-          "id": "aditya_hridayam_1_9",
-          "original": "पितरो वसवः साध्या अश्विनौ मरुतो मनुः। वायुर्वह्निः प्रजाप्राण ऋतुकर्ता प्रभाकरः॥९॥",
-          "translations": {
-            "english": "He is the Pitrus, Vasus, Sadhyas, Ashvins, Maruts, Manu. He is Vayu, Agni, the life of creation, the maker of seasons, the source of light."
-          },
-          "transliteration": "pitaro vasavaḥ sādhyā aśvinau maruto manuḥ| vāyurvahniḥ prajāprāṇa ṛtukartā prabhākaraḥ||9||",
-          "verse_number": 9
-        },
-        {
-          "id": "aditya_hridayam_1_10",
-          "original": "आदित्यः सविता सूर्यः खगः पूषा गभस्तिमान्। सुवर्णसदृशो भानुर्हिरण्यरेता दिवाकरः॥१०॥",
-          "translations": {
-            "english": "He is Aditya, Savita, Surya, Khaga, Pusha, Ghabastiman. He is golden-hued, radiant, of golden seed, the day-maker."
-          },
-          "transliteration": "ādityaḥ savitā sūryaḥ khagaḥ pūṣā gabhastimān| suvarṇasadṛśo bhānurhiraṇyaretā divākaraḥ||10||",
-          "verse_number": 10
-        },
-        {
-          "id": "aditya_hridayam_1_11",
-          "original": "हरिदश्वः सहस्रार्चिः सप्तसप्तिर्मरीचिमान्। तिमिरोन्मथनः शम्भुस्तेजसां निधिराप्रभः॥११॥",
-          "translations": {
-            "english": "He has green horses, a thousand rays, seven horses, full of light. He destroys darkness, is beneficent, a treasure-house of effulgence, and all-radiant."
-          },
-          "transliteration": "haridaśvaḥ sahasrārcīḥ saptasaptirmarīcimān| timironmathanaḥ śambhustejasāṁ nidhirāprabhaḥ||11||",
-          "verse_number": 11
-        },
-        {
-          "id": "aditya_hridayam_1_12",
-          "original": "वृहतः सर्वपापघ्नः प्रणताखिलनाशनः। प्रकाशकस्तमोध्नी मण्डलत्पि तपन् गभस्तिमान्॥१२॥",
-          "translations": {
-            "english": "He is the great one, destroyer of all sins, annihilator of all who bow to him. He is the illuminator, dispeller of darkness, the radiant one, shining with a fiery orb."
-          },
-          "transliteration": "vṛhataḥ sarvapāpaghnaḥ praṇatākhilanāśanaḥ| prakāśakastamodhnī maṇḍalatpi tapan gabhastimān||12||",
-          "verse_number": 12
-        },
-        {
-          "id": "aditya_hridayam_1_13",
-          "original": "हरिदश्वः सहस्रार्चिः सप्तसप्तिर्मरीचिमान्। तिमिरोन्मथनः शम्भुस्तेजसां निधिराप्रभः॥१३॥",
-          "translations": {
-            "english": "He is the green-horsed, thousand-rayed, seven-horsed, full of light. He is the destroyer of darkness, the auspicious one, the storehouse of brilliance, all-effulgent."
-          },
-          "transliteration": "haridaśvaḥ sahasrārcīḥ saptasaptirmarīcimān| timironmathanaḥ śambhustejasāṁ nidhirāprabhaḥ||13||",
-          "verse_number": 13
-        },
-        {
-          "id": "aditya_hridayam_1_14",
-          "original": "एष ब्रह्मा च विष्णुश्च शिवः स्कन्दः प्रजापतिः। महेन्द्रो धनदः कालो यमः सोमो ह्यपां पतिः॥१४॥",
-          "translations": {
-            "english": "He is Brahma, Vishnu, Shiva, Skanda, Prajapati. He is Mahendra, Kubera, Kala, Yama, Soma, and the Lord of Waters."
-          },
-          "transliteration": "eṣa brahmā ca viṣṇuśca śivaḥ skandaḥ prajāpatiḥ| mahendro dhanadaḥ kālo yamaḥ somo hyapāṁ patiḥ||14||",
-          "verse_number": 14
-        },
-        {
-          "id": "aditya_hridayam_1_15",
-          "original": "पितरो वसवः साध्या अश्विनौ मरुतो मनुः। वायुर्वह्निः प्रजाप्राण ऋतुकर्ता प्रभाकरः॥१५॥",
-          "translations": {
-            "english": "He is the Pitrus, Vasus, Sadhyas, Ashvins, Maruts, Manu. He is Vayu, Agni, the life of creation, the maker of seasons, the source of light."
-          },
-          "transliteration": "pitaro vasavaḥ sādhyā aśvinau maruto manuḥ| vāyurvahniḥ prajāprāṇa ṛtukartā prabhākaraḥ||15||",
-          "verse_number": 15
-        },
-        {
-          "id": "aditya_hridayam_1_16",
-          "original": "आदित्यः सविता सूर्यः खगः पूषा गभस्तिमान्। सुवर्णसदृशो भानुर्हिरण्यरेता दिवाकरः॥१६॥",
-          "translations": {
-            "english": "He is Aditya, Savita, Surya, Khaga, Pusha, Ghabastiman. He is golden-hued, radiant, of golden seed, the day-maker."
-          },
-          "transliteration": "ādityaḥ savitā sūryaḥ khagaḥ pūṣā gabhastimān| suvarṇasadṛśo bhānurhiraṇyaretā divākaraḥ||16||",
-          "verse_number": 16
-        },
-        {
-          "id": "aditya_hridayam_1_17",
-          "original": "हरिदश्वः सहस्रार्चिः सप्तसप्तिर्मरीचिमान्। तिमिरोन्मथनः शम्भुस्तेजसां निधिराप्रभः॥१७॥",
-          "translations": {
-            "english": "He has green horses, a thousand rays, seven horses, full of light. He destroys darkness, is beneficent, a treasure-house of effulgence, and all-radiant."
-          },
-          "transliteration": "haridaśvaḥ sahasrārcīḥ saptasaptirmarīcimān| timironmathanaḥ śambhustejasāṁ nidhirāprabhaḥ||17||",
-          "verse_number": 17
-        },
-        {
-          "id": "aditya_hridayam_1_18",
-          "original": "वृहतः सर्वपापघ्नः प्रणताखिलनाशनः। प्रकाशकस्तमोध्नी मण्डलत्पि तपन् गभस्तिमान्॥१८॥",
-          "translations": {
-            "english": "He is the great one, destroyer of all sins, annihilator of all who bow to him. He is the illuminator, dispeller of darkness, the radiant one, shining with a fiery orb."
-          },
-          "transliteration": "vṛhataḥ sarvapāpaghnaḥ praṇatākhilanāśanaḥ| prakāśakastamodhnī maṇḍalatpi tapan gabhastimān||18||",
-          "verse_number": 18
-        },
-        {
-          "id": "aditya_hridayam_1_19",
-          "original": "एष ब्रह्मा च विष्णुश्च शिवः स्कन्दः प्रजापतिः। महेन्द्रो धनदः कालो यमः सोमो ह्यपां पतिः॥१९॥",
-          "translations": {
-            "english": "He is Brahma, Vishnu, Shiva, Skanda, Prajapati. He is Mahendra, Kubera, Kala, Yama, Soma, and the Lord of Waters."
-          },
-          "transliteration": "eṣa brahmā ca viṣṇuśca śivaḥ skandaḥ prajāpatiḥ| mahendro dhanadaḥ kālo yamaḥ somo hyapāṁ patiḥ||19||",
-          "verse_number": 19
-        },
-        {
-          "id": "aditya_hridayam_1_20",
-          "original": "पितरो वसवः साध्या अश्विनौ मरुतो मनुः। वायुर्वह्निः प्रजाप्राण ऋतुकर्ता प्रभाकरः॥२०॥",
-          "translations": {
-            "english": "He is the Pitrus, Vasus, Sadhyas, Ashvins, Maruts, Manu. He is Vayu, Agni, the life of creation, the maker of seasons, the source of light."
-          },
-          "transliteration": "pitaro vasavaḥ sādhyā aśvinau maruto manuḥ| vāyurvahniḥ prajāprāṇa ṛtukartā prabhākaraḥ||20||",
-          "verse_number": 20
-        },
-        {
-          "id": "aditya_hridayam_1_21",
-          "original": "आदित्यः सविता सूर्यः खगः पूषा गभस्तिमान्। सुवर्णसदृशो भानुर्हिरण्यरेता दिवाकरः॥२१॥",
-          "translations": {
-            "english": "He is Aditya, Savita, Surya, Khaga, Pusha, Ghabastiman. He is golden-hued, radiant, of golden seed, the day-maker."
-          },
-          "transliteration": "ādityaḥ savitā sūryaḥ khagaḥ pūṣā gabhastimān| suvarṇasadṛśo bhānurhiraṇyaretā divākaraḥ||21||",
-          "verse_number": 21
-        },
-        {
-          "id": "aditya_hridayam_1_22",
-          "original": "हरिदश्वः सहस्रार्चिः सप्तसप्तिर्मरीचिमान्। तिमिरोन्मथनः शम्भुस्तेजसां निधिराप्रभः॥२२॥",
-          "translations": {
-            "english": "He has green horses, a thousand rays, seven horses, full of light. He destroys darkness, is beneficent, a treasure-house of effulgence, and all-radiant."
-          },
-          "transliteration": "haridaśvaḥ sahasrārcīḥ saptasaptirmarīcimān| timironmathanaḥ śambhustejasāṁ nidhirāprabhaḥ||22||",
-          "verse_number": 22
-        },
-        {
-          "id": "aditya_hridayam_1_23",
-          "original": "वृहतः सर्वपापघ्नः प्रणताखिलनाशनः। प्रकाशकस्तमोध्नी मण्डलत्पि तपन् गभस्तिमान्॥२३॥",
-          "translations": {
-            "english": "He is the great one, destroyer of all sins, annihilator of all who bow to him. He is the illuminator, dispeller of darkness, the radiant one, shining with a fiery orb."
-          },
-          "transliteration": "vṛhataḥ sarvapāpaghnaḥ praṇatākhilanāśanaḥ| prakāśakastamodhnī maṇḍalatpi tapan gabhastimān||23||",
-          "verse_number": 23
-        },
-        {
-          "id": "aditya_hridayam_1_24",
-          "original": "ततः स दृष्ट्वा सव्यं चास्यं प्रहसन्निव। जगाम हर्षितो रामो रावणं च ददर्श सः॥२४॥",
-          "translations": {
-            "english": "Then, seeing his own left (enemy), he (Rama) smiled. Rama, filled with joy, saw Ravana."
-          },
-          "transliteration": "tataḥ sa dṛṣṭvā savyaṁ cāsyaṁ prahasanniva| jagāma harṣito rāmo rāvaṇaṁ ca dadarśa saḥ||24||",
-          "verse_number": 24
-        },
-        {
-          "id": "aditya_hridayam_1_25",
-          "original": "अथाह राघवः प्राप्य धैर्यं विजयसत्ववान्। हनिष्येऽहं दुरात्मानं युध्यमानं सुदुर्मतिम्॥२५॥",
-          "translations": {
-            "english": "Then Rama, having gained courage and endowed with the essence of victory, said: 'I shall indeed kill this evil-minded, exceedingly wicked one who is fighting.'"
-          },
-          "transliteration": "athāha rāghavaḥ prāpya dhairyaṁ vijayasatvavān| haniṣye'haṁ durātmānaṁ yudhyamānaṁ sudurmatim||25||",
-          "verse_number": 25
-        },
-        {
-          "id": "aditya_hridayam_1_26",
-          "original": "एतच्छ्रुत्वा वचस्तस्य रावणस्य महामतेः। अभ्यवर्तत चात्यर्थं युद्धायामिततेजसः॥२६॥",
-          "translations": {
-            "english": "Hearing these words of the great-minded Ravana, the one of immeasurable prowess, he (Rama) advanced greatly for battle."
-          },
-          "transliteration": "etacchrutvā vacastasyarāvaṇasya mahāmateḥ| abhyavartata cātyarthaṁ yuddhāyāmitatejasaḥ||26||",
-          "verse_number": 26
-        },
-        {
-          "id": "aditya_hridayam_1_27",
-          "original": "वधं प्राप्य तदा रामो रावणस्य महात्मनः। जहर्ष वासवो देवो हर्षं च परमं गतः॥२७॥",
-          "translations": {
-            "english": "Having then achieved the slaying of the great-souled Ravana, Rama rejoiced, and the god Vasava (Indra) attained supreme joy."
-          },
-          "transliteration": "vadhaṁ prāpya tadā rāmo rāvaṇasya mahātmanaḥ| jaharṣa vāsavo devo harṣaṁ ca paramaṁ gataḥ||27||",
-          "verse_number": 27
-        },
-        {
-          "id": "aditya_hridayam_1_28",
-          "original": "एतदादित्यहृदयं जप्त्व विजयमवाप्स्यसि। सर्वदा विजयं नित्यं जयं चैव न संशयः॥२८॥",
-          "translations": {
-            "english": "By chanting this Aditya Hridayam, you will attain victory. Always, victory will be yours, and triumph, without doubt."
-          },
-          "transliteration": "etadādityahṛdayaṁ japtvā vijayamavāpsyasi| sarvadā vijayaṁ nityaṁ jayaṁ caiva na saṁśayaḥ||28||",
-          "verse_number": 28
-        },
-        {
-          "id": "aditya_hridayam_1_29",
-          "original": "एतदग्ने प्रदीप्तस्य शस्त्रेषु पतितेषु च। एतजप्यं सदा राम महाबलपराक्रम॥२९॥",
-          "translations": {
-            "english": "This hymn, O Rama of great strength and valor, should always be chanted in the face of raging fire or fallen weapons."
-          },
-          "transliteration": "etadagne pradīptasya śastreṣu patiteṣu ca| etajapyaṁ sadā rāma mahābalaparākrama||29||",
-          "verse_number": 29
-        },
-        {
-          "id": "aditya_hridayam_1_30",
-          "original": "आदित्यं स्मरन् नित्यं सर्वकामार्थसिद्धये। यं त्वं इच्छसि तं जप्त्वा नित्यं सर्वार्थसिद्धये॥३०॥",
-          "translations": {
-            "english": "Always remember Aditya for the accomplishment of all desires. By chanting this always, whatever you wish for, all purposes will be achieved."
-          },
-          "transliteration": "ādityaṁ smaran nityaṁ sarvakāmārthasiddhaye| yaṁ tvaṁ icchasi taṁ japtvā nityaṁ sarvārthasiddhaye||30||",
-          "verse_number": 30
-        },
-        {
-          "id": "aditya_hridayam_1_31",
-          "original": "एतत् पुण्यं पवित्रं च सर्वशत्रुविनाशनम्। जपेन्नित्यं जयं चैव सर्वकामार्थसिद्धये॥३१॥",
-          "translations": {
-            "english": "This sacred and purifying hymn destroys all enemies. One should always chant it for victory and the fulfillment of all desires."
-          },
-          "transliteration": "etat puṇyaṁ pavitraṁ ca sarvaśatruvināśanam| japennityaṁ jayaṁ caiva sarvakāmārthasiddhaye||31||",
-          "verse_number": 31
-        }
-      ]
+  {
+    "id": "chamakam-11-1",
+    "verse_number": 1,
+    "original": "दे॒वा व॑स्तो॒रि॒दं त्वा॒ नमो॒ विश्व॑दे॒वा म॒रुतो॒ ब्रह्म॒ सोमः॑ ॥",
+    "transliteration": "devā vastor idaṁ tvā namo viśvadevā maruto brahma somaḥ ||",
+    "translations": {
+      "english": "O Gods, this is for you. Salutations to the Visvedevas, the Maruts, Brahman, and Soma."
+    }
+  },
+  {
+    "id": "chamakam-11-2",
+    "verse_number": 2,
+    "original": "च॒र्वाणि॑ च मे॒ नमः॑ ॥",
+    "transliteration": "carvāṇi ca me namaḥ ||",
+    "translations": {
+      "english": "May the **sacrificial offerings** (Carvāṇi) be mine. Salutations."
+    }
+  },
+  {
+    "id": "chamakam-11-3",
+    "verse_number": 3,
+    "original": "शन्न॑स्सो॒मो भ॑वतु॒ शं न॒ इन्द्रा॒ग्नी शं नः॒ पू॒षा शं नः॑ ॥",
+    "transliteration": "śánnas sómo bhavatu śáṁ na indrāgnī śáṁ naḥ pūṣā́ śáṁ naḥ ||",
+    "translations": {
+      "english": "May **Soma** be auspicious to us, may **Indra and Agni** be auspicious to us, may **Pūṣan** be auspicious to us."
+    }
+  },
+  {
+    "id": "chamakam-11-4",
+    "verse_number": 4,
+    "original": "द्यौश्च॑ मे॒ दिश॑श्च मे॒ नमः॑ ॥",
+    "transliteration": "dyaúśca me díśaśca me namaḥ ||",
+    "translations": {
+      "english": "May **Heaven** (Dyaus) be mine, and the **Quarters** (Diśa) be mine. Salutations."
+    }
+  },
+  {
+    "id": "chamakam-11-5",
+    "verse_number": 5,
+    "original": "वसू॑नि च मे॒ नमः॑ ॥",
+    "transliteration": "vasūni ca me namaḥ ||",
+    "translations": {
+      "english": "May **wealth** (Vasūni) be mine. Salutations."
+    }
+  },
+  {
+    "id": "chamakam-11-6",
+    "verse_number": 6,
+    "original": "ज्योति॑श्च मे॒ सुव॑श्च मे॒ नमः॑ ॥",
+    "transliteration": "jyótiśca me súvaśca me namaḥ ||",
+    "translations": {
+      "english": "May **light** be mine, and **heaven** be mine. Salutations."
+    }
+  },
+  {
+    "id": "chamakam-11-7",
+    "verse_number": 7,
+    "original": "स॒त्यं च॑ मे श्र॒द्धा च॑ मे॒ नमः॑ ॥",
+    "transliteration": "satyáṁ ca me śraddhā́ ca me namaḥ ||",
+    "translations": {
+      "english": "May **Truth** (Satyam) be mine, and **Faith** (Śraddhā) be mine. Salutations."
+    }
+  },
+  {
+    "id": "chamakam-11-8",
+    "verse_number": 8,
+    "original": "यज॑मानाय मे॒ नमो॒ नमो॑ ॥",
+    "transliteration": "yajamānāya me namo namo ||",
+    "translations": {
+      "english": "Salutations to the **Sacrificer** (Yajamāna) be mine. Salutations, salutations."
+    }
+  },
+  {
+    "id": "chamakam-11-9",
+    "verse_number": 9,
+    "original": "शन्नो॑ वातः॒ शन्नो॑ भूमिः॒ शन्नः॑ सूर्यः॒ शन्नो॑ दे॒वः ॥",
+    "transliteration": "śanno vātaḥ śanno bhūmiḥ śannaḥ sūryaḥ śanno devaḥ ||",
+    "translations": {
+      "english": "May the **Wind** be auspicious to us, may the **Earth** be auspicious to us, may the **Sun** be auspicious to us, may the **Divine** be auspicious to us."
+    }
+  },
+  {
+    "id": "chamakam-11-10",
+    "verse_number": 10,
+    "original": "य ईशा॑न॒स्य॒ भुवन॑स्य वि॒राट् इ॒ह स॑र्वव्या॒पी नम॑स्सदाशि॒वाय॑ ॥",
+    "transliteration": "ya īśānasyā bhuvanasya virāṭ iha sarvavyāpī namassadāśivāya ||",
+    "translations": {
+      "english": "He who is the Sovereign Ruler of the universe, the all-pervading one here. Salutations to Sadashiva."
+    }
+  },
+  {
+    "id": "chamakam-11-11",
+    "verse_number": 11,
+    "original": "नमस्ते॑ अस्तु भगवन् विश्वेश्वराय महादे॒वाय॑ त्र्यम्ब॒काय॑ त्रिपुरान्त॒काय॑ त्रिकाग्निका॒लाय॑ कालाग्निरु॒द्राय॑ नीलक॒ण्ठाय॑ मृत्युञ्ज॒याय॑ सर्वेश्व॒राय॑ सदाशि॒वाय॑ श्रीमन्म॒हादे॒वाय॒ नमः॑ ॥",
+    "transliteration": "namaste astu bhagavan viśveśvarāya mahādevāya tryambakāya tripurāntakāya trikāgnikālāya kālāgnirudrāya nīlakaṇṭhāya mṛtyuñjayāya sarveśvarāya sadāśivāya śrīmanmahādevāya namaḥ ||",
+    "translations": {
+      "english": "Salutations to Thee, O Lord, the Lord of the universe, the Great God, the three-eyed one, the destroyer of Tripura, the annihilator of the three fires, Rudra as the fire of time, the blue-throated one, the conqueror of death, the Lord of all, the ever-auspicious one, the glorious Great God. Salutations."
+    }
+  },
+  {
+    "id": "chamakam-11-12",
+    "verse_number": 12,
+    "original": "प॒शुश्च॑ मे॒ नमः॑ ॥",
+    "transliteration": "paśuśca me namaḥ ||",
+    "translations": {
+      "english": "May **cattle** (Paśu) be mine. Salutations."
+    }
+  },
+  {
+    "id": "chamakam-11-13",
+    "verse_number": 13,
+    "original": "व॒र्तनि॑श्च मे॒ नमः॑ ॥",
+    "transliteration": "vartaniśca me namaḥ ||",
+    "translations": {
+      "english": "May the **path** (Vartani) be mine. Salutations."
+    }
+  },
+  {
+    "id": "chamakam-11-14",
+    "verse_number": 14,
+    "original": "च॒न्द्रम॑श्च मे सू॒र्यश्च॑ मे म॒ृत्युश्च॑ मे॒ जीवा॑तुश्च मे ॥",
+    "transliteration": "candrámaśca me sū́ryaśca me mṛtyúśca me jīvātuśca me ||",
+    "translations": {
+      "english": "May the **Moon** be mine, and the **Sun** be mine, and **death** (conquered) be mine, and **life** be mine."
+    }
+  },
+  {
+    "id": "chamakam-11-15",
+    "original": "य॒ज्ञेन॑ क॒ल्पन्तां॒ नमः॑ ॥",
+    "transliteration": "yajñéna kalpantām̐ namaḥ ||",
+    "translations": {
+      "english": "May they be **established** by the sacrifice. Salutations."
+    }
+  }
+]
     }
   ]
 }
