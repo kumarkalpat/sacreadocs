@@ -1,301 +1,103 @@
 {
-  "id": "narasimha-kavacham",
-  "title": "Narasimha Kavacham (Prahlāda Kṛta)",
-  "author": "Prahlāda Mahārāja (as told in the Brahmāṇḍa Purāṇa)",
-  "introduction": "The Narasimha Kavacham (Armor of Narasimha) is a powerful protective hymn dedicated to Lord Narasimha, the man-lion avatar of Viṣṇu. Attributed to the great devotee Prahlāda Mahārāja, who was saved by the Lord from his demonic father, Hiraṇyakaśipu, this stotram is a detailed prayer invoking different aspects and limbs of Narasimha to act as a shield for every part of the reciter's body, mind, and spirit. It is widely revered for its ability to grant fearlessness, destroy evil, and bestow complete protection from all forms of danger, seen and unseen.",
+  "id": "narasimha-kavacha-stotram-brahmanda-purana",
+  "title": "Śrī Nṛsiṁha Kavaca Stotram (Prahlāda Kṛta)",
+  "author": "Prahlāda Mahārāja (as recorded in the Brahmāṇḍa Purāṇa)",
+  "introduction": "This is the complete text of the Nṛsiṁha-kavaca Stotram, considered one of the most powerful protective hymns in the Vedic tradition. It was spoken by Prahlāda Mahārāja and is found in the Brahmāṇḍa Purāṇa. The Kavaca provides a spiritual shield, invoking Lord Nṛsiṁha's fierce protection for every part of the devotee's body, mind, and spirit.",
   "chapters": [
     {
       "chapter_number": 1,
-      "name": "The Shield of Narasimha",
-      "summary": "This chapter contains the complete Narasimha Kavacham, which consists of powerful Sanskrit verses invoking Lord Narasimha to guard the devotee's entire being from all directions, times, and circumstances.",
+      "name": "Dhyānam and Kavacha Mantras",
+      "summary": "The first section begins with the Phalaśruti (benefits) and Dhyānam (meditation on the Lord's form), followed by the specific verses that invoke Nṛsiṁha's protection for individual body parts and directions.",
       "verses_count": 32,
       "verses": [
         {
           "id": "nk-1-1",
           "verse_number": 1,
-          "original": "नृसिंहकवचं वक्ष्ये प्रह्लादेन यथा कृतम्। सर्वरक्षाकरं पुण्यं सर्वोपद्रवनाशनम्॥",
-          "transliteration": "nṛsiṁhakavacaṁ vakṣye prahlādena yathā kṛtam। sarvarakṣākaraṁ puṇyaṁ sarvopadravanāśanam॥",
+          "original": "नृसिंहकवचं वक्ष्ये प्रह्लादेनॊदितं पुरा । सर्वरक्षाकरं पुण्यं सर्वॊपद्रवनाशनम् ॥",
+          "transliteration": "nṛsiṁhakavacaṁ vakṣyē prahlādēnōditaṁ purā | sarvarakṣākaraṁ puṇyaṁ sarvōpadravanāśanam ||",
           "translations": {
-            "english": "I shall recite the Nṛsiṁha-kavaca, which was composed by Prahlāda Mahārāja, which provides all protection, is sacred, and destroys all disturbances."
+            "english": "I shall now recite the Nṛsiṁha-kavaca, formerly spoken by Prahlāda Mahārāja. It is most pious, provides all protection, and vanquishes all kinds of impediments."
           }
         },
         {
           "id": "nk-1-2",
           "verse_number": 2,
-          "original": "कल्पद्रुमं चलत्कल्पं दुर्जयं दानवैर्मम। उग्रं वीरं महाविष्णुं ज्वलन्तं सर्वतोमुखम्। नृसिंहं भीषणं भद्रं मृत्युमृत्युं नमाम्यहम्॥",
-          "transliteration": "kalpadrumaṁ calatkalpaṁ durjayaṁ dānavairmama। ugraṁ vīraṁ mahāviṣṇuṁ jvalantaṁ sarvatomukham। nṛsiṁhaṁ bhīṣaṇaṁ bhadraṁ mṛtyumṛtyuṁ namāmyaham॥",
+          "original": "सर्वसम्पत्करं चैव स्वर्गमॊक्षप्रदायकम् । ध्यात्वा नृसिंहं देवेशं हेमसिंहासने स्थितम् ॥",
+          "transliteration": "sarvasampatkaraṁ caiva svargamōkṣapradāyakam | dhyātvā nṛsiṁhaṁ dēvēśaṁ hēmasiṁhāsanasthitam ||",
           "translations": {
-            "english": "Lord Nṛsiṁha is like a moving wish-fulfilling tree, difficult for the Dānavas to conquer. I bow down to Lord Nṛsiṁha, who is fierce, heroic, the great Viṣṇu, blazing everywhere, terrifying, auspicious, and the death of death."
-          }
-        },
-        {
-          "id": "nk-1-3",
-          "verse_number": 3,
-          "original": "नमोनृसिंहाय नृसिंहाय नमः। नमोऽस्तु ते नृसिंह परात्पर नमोऽस्तु ते॥",
-          "transliteration": "namō nṛsiṁhāya nṛsiṁhāya namaḥ। namō’stu tē nṛsiṁha parātpara namō’stu tē॥",
-          "translations": {
-            "english": "Salutations to Lord Nṛsiṁha, salutations to Nṛsiṁha. Salutations to you, O Nṛsiṁha, who is beyond the highest. Salutations to you."
-          }
-        },
-        {
-          "id": "nk-1-4",
-          "verse_number": 4,
-          "original": "दिशो दिशो मे विदिशो दिशो मे दिक्षु रक्षतु। नृसिंहो मे शिरो रक्षेद्वीरश्चरणतः सदा॥",
-          "transliteration": "diśo diśo me vidiśo diśo me dikṣu rakṣatu। nṛsiṁhō me śirō rakṣēd vīraś caraṇataḥ sadā॥",
-          "translations": {
-            "english": "May Lord Nṛsiṁha protect me in all directions and corners. May Vīra (the hero) Nṛsiṁha always protect my head and my feet."
-          }
-        },
-        {
-          "id": "nk-1-5",
-          "verse_number": 5,
-          "original": "उग्रं नृसिंहं मे कण्ठं स्कन्धं स्कन्धं महाबलम्। मे बाहू रक्षतु क्षिप्रं हृदयं मे हरिर्व्ययः॥",
-          "transliteration": "ugraṁ nṛsiṁhaṁ me kaṇṭhaṁ skandhaṁ skandhaṁ mahābalam। me bāhū rakṣatu kṣipraṁ hṛdayaṁ me harirvyayaḥ॥",
-          "translations": {
-            "english": "May fierce Nṛsiṁha (Ugra) protect my neck, and the greatly powerful one (Mahābala) protect my shoulders. May my arms be protected quickly, and may my heart be protected by the imperishable Hari."
-          }
-        },
-        {
-          "id": "nk-1-6",
-          "verse_number": 6,
-          "original": "नृसिंहो मे नाभिं मे मध्यं जठरं मे गदाधरः। मे कटिं मे गुह्यं मे मेढ्रं मे जनार्दनः॥",
-          "transliteration": "nṛsiṁhō me nābhiṁ me madhyaṁ jaṭharaṁ me gadādharaḥ। me kaṭiṁ me guhyaṁ me meḍhraṁ me janārdanaḥ॥",
-          "translations": {
-            "english": "May Nṛsiṁha protect my navel, and may the one holding the mace (Gadādhara) protect my abdomen. May Janārdana protect my waist, private parts, and genitals."
+            "english": "It bestows all opulences and grants elevation to the heavenly planets or liberation. One should meditate on Lord Nṛsiṁha, the Lord of the universe, seated upon a golden throne."
           }
         },
         {
           "id": "nk-1-7",
           "verse_number": 7,
-          "original": "मे जङ्घे मे ऊरू मे पादौ मे महाद्युतिः। पादौ मे सर्वतः पातु नरसिंहः केशवः॥",
-          "transliteration": "me jaṅghē me ūrū me pādau me mahādyutiḥ। pādau me sarvataḥ pātu narasiṁhaḥ kēśavaḥ॥",
+          "original": "स्वहृत्कमलसंवासं कृत्वा तु कवचं पठेत् । नृसिंहो मे शिरः पातु लॊकरक्षार्थसम्भवः ॥",
+          "transliteration": "svahr̥tkamalasaṁvāsaṁ kr̥tvā tu kavacaṁ paṭhēt | nr̥siṁhō mē śiraḥ pātu lōkarakṣātmasambhavaḥ ||",
           "translations": {
-            "english": "May the greatly effulgent one (Mahādyutiḥ) protect my calves, thighs, and feet. May Kēśava Nṛsiṁha protect my feet from all sides."
+            "english": "Having seated Lord Nṛsiṁha upon the lotus of one's heart, one should recite the Kavaca. May Lord Nṛsiṁha, who appears for the protection of the worlds, protect my head."
           }
         },
         {
           "id": "nk-1-8",
           "verse_number": 8,
-          "original": "मे मुखं मे मनः मे वाचा मे महाबलः। मे बुद्धिं मे चित्तं मे मेधां मे परः पुमान्॥",
-          "transliteration": "me mukhaṁ me manaḥ me vācā me mahābalaḥ। me buddhiṁ me cittaṁ me medhāṁ me paraḥ pumān॥",
+          "original": "सर्वगॊऽपि स्तम्भवसः फालं मे रक्षतु ध्वनिम् । नृसिंहो मे दृशौ पातु सॊमसूर्याग्निलॊचनः ॥",
+          "transliteration": "sarvagō'pi stambhavāsaḥ phālaṁ mē rakṣatu dhvanim | nr̥siṁhō mē dr̥śau pātu sōmasūryāgnilōcanaḥ ||",
           "translations": {
-            "english": "May the greatly powerful one (Mahābalaḥ) protect my face, mind, and speech. May the Supreme Person (Paraḥ Pumān) protect my intellect (Buddhi), consciousness (Citta), and memory (Medhā)."
-          }
-        },
-        {
-          "id": "nk-1-9",
-          "verse_number": 9,
-          "original": "अस्य नृसिंहकवचं यः पठेच्छृणुयादपि। स मुक्तः सर्वपापेभ्यो मोदतेऽखण्डमण्डलम्॥",
-          "transliteration": "asya nṛsiṁhakavacaṁ yaḥ paṭhec chṛṇuyād api। sa muktaḥ sarvapāpebh yo modate’khaṇḍamaṇḍalam॥",
-          "translations": {
-            "english": "Whoever reads or even hears this Nṛsiṁha Kavaca is liberated from all sins and rejoices in the indestructible spiritual realm."
+            "english": "Although all-pervading, He resided within a pillar; may He protect my speech and the results of my activities. May Nṛsiṁha, whose eyes are the moon, sun, and fire, protect my eyes."
           }
         },
         {
           "id": "nk-1-10",
           "verse_number": 10,
-          "original": "इत्येतद् ध्रुवजं वक्ष्ये कवचं नरसिंहकम्। योगिनामपि दुष्प्रापं सर्वमङ्गलदायकम्॥",
-          "transliteration": "ityētad dhruvajam vakṣyē kavacaṁ narasiṁhakam। yōginām api duṣprāpaṁ sarvamaṅgaladāyakam॥",
+          "original": "सर्वविद्याधिपः पातु नृसिंहो रसनां मम । वक्त्रं पात्विन्दुवदनः सदा प्रह्लादवन्दितः ॥",
+          "transliteration": "sarvavidyādhipaḥ pātu nr̥siṁhō rasanāṁ mama | vaktraṁ pātvinduvadanaḥ sadā prahlādavanditaḥ ||",
           "translations": {
-            "english": "Thus I shall speak this Kavaca of Narasiṁha, which is eternal, difficult for even Yogis to attain, and the giver of all auspiciousness."
+            "english": "May the Lord of all sciences, Nṛsiṁha, protect my sense of taste. May He whose face is beautiful as the moon and is always worshiped by Prahlāda protect my face."
           }
         },
         {
           "id": "nk-1-11",
           "verse_number": 11,
-          "original": "दिशो दश तथा शूलं पातु दण्डो मे महाबलम्। अहोरात्रं मे रक्षतु नरसिंहो महाबलः॥",
-          "transliteration": "diśō daśa tathā śūlaṁ pātu daṇḍō me mahābalam। ahōrātraṁ me rakṣatu narasiṁhō mahābalaḥ॥",
+          "original": "नृसिंहः पातु मे कण्ठं स्कन्धौ भूभरणान्तकृत् । दिव्यास्त्रशॊभितभुजॊ नृसिंहः पातु मे भुजौ ॥",
+          "transliteration": "nr̥siṁhaḥ pātu mē kaṇṭhaṁ skandhau bhūbharaṇāntakr̥t | divyāstraśōbhitabhujō nr̥siṁhaḥ pātu mē bhujau ||",
           "translations": {
-            "english": "May the ten directions and the trident protect my great strength. May Nṛsiṁha, the greatly powerful one, protect me day and night."
+            "english": "May Nṛsiṁha protect my throat; the annihilator of the earth's burden protect my shoulders. May He whose arms are resplendent with divine weapons protect my arms."
           }
         },
         {
           "id": "nk-1-12",
           "verse_number": 12,
-          "original": "सर्वेषु दिक्षु मे पातु दिशः सर्वतः शूलम्। नृसिंहो मे पातु पादौ सर्वतः शूलिनो हरिः॥",
-          "transliteration": "sarvēṣu dikṣu mē pātu diśaḥ sarvataḥ śūlam। nṛsiṁhō me pātu pādau sarvataḥ śūlinō hariḥ॥",
+          "original": "करौ मे दॆववरदॊ नृसिंहः पातु सर्वतः । हृदयं यॊगिसाध्यश्च निवासं पातु मे हरिः ॥",
+          "transliteration": "karau mē dēvavaradō nr̥siṁhaḥ pātu sarvataḥ | hr̥dayaṁ yōgisādhyaś ca nivāsaṁ pātu mē hariḥ ||",
           "translations": {
-            "english": "May the trident protect me in all ten directions. May Nṛsiṁha, Hari (Viṣṇu), the one with the trident, protect my feet everywhere."
-          }
-        },
-        {
-          "id": "nk-1-13",
-          "verse_number": 13,
-          "original": "अस्य नृसिंहकवचस्य ऋषिर्ब्रह्मा प्रकीर्तितः। छन्दोऽनुष्टुप् देवता च नृसिंहः सर्वतोमुखः॥",
-          "transliteration": "asya nṛsiṁhakavacasya ṛṣirbrahmā prakīrtitaḥ। chandō’nuṣṭup devatā ca nṛsiṁhaḥ sarvatōmukhaḥ॥",
-          "translations": {
-            "english": "For this Nṛsiṁha Kavaca, Brahmā is declared as the Sage (Ṛṣi), the meter is Anuṣṭup, and the presiding Deity is Nṛsiṁha, whose faces are everywhere."
-          }
-        },
-        {
-          "id": "nk-1-14",
-          "verse_number": 14,
-          "original": "नृसिंहकवचं पुण्यं प्रह्लाद ऋषिणोदितम्। विरचितं सर्वपापहरं मोक्षं ददति देहिनाम्॥",
-          "transliteration": "nṛsiṁhakavacaṁ puṇyaṁ prahlāda ṛṣiṇōditam। viracitaṁ sarvapāpaharaṁ mōkṣaṁ dadati dēhinām॥",
-          "translations": {
-            "english": "This holy Nṛsiṁha Kavaca, spoken by the Sage Prahlāda, having been composed, removes all sins and grants liberation to embodied beings."
-          }
-        },
-        {
-          "id": "nk-1-15",
-          "verse_number": 15,
-          "original": "वज्रनखाय विद्महे तीक्ष्णदंष्ट्राय धीमहि। तन्नो नृसिंहः प्रचोदयात्॥",
-          "transliteration": "vajranakhāya vidmahē tīkṣṇadaṁṣṭrāya dhīmahi। tannō nṛsiṁhaḥ pracōdayāt॥",
-          "translations": {
-            "english": "May we know the one with diamond claws, upon the one with sharp teeth we meditate. May that Nṛsiṁha inspire us."
-          }
-        },
-        {
-          "id": "nk-1-16",
-          "verse_number": 16,
-          "original": "नृसिंहो मे शिरः पातु लोकपालः सदा मम। चक्षुषी वज्रदंष्ट्रस्तु नासां मे सिंहनाशनः॥",
-          "transliteration": "nṛsiṁhō me śiraḥ pātu lōkapālaḥ sadā mama। cakṣuṣī vajradaṁṣṭrastu nāsāṁ me siṁhanāśanaḥ॥",
-          "translations": {
-            "english": "May Nṛsiṁha, the protector of the worlds, always guard my head. May the one with diamond teeth (Vajradaṁṣṭra) guard my eyes, and the lion-like destroyer (Siṁhanāśanaḥ) protect my nose."
+            "english": "May the bestower of boons to the demigods, Nṛsiṁha, protect my hands and everything around me. May He who is attained by Yogis protect my heart, and may Hari protect my dwelling place."
           }
         },
         {
           "id": "nk-1-17",
           "verse_number": 17,
-          "original": "मे मुखं मे मनः मे वाचा मे महाबलः। मे बुद्धिं मे चित्तं मे मेधां मे परः पुमान्॥",
-          "transliteration": "me mukhaṁ me manaḥ me vācā me mahābalaḥ। me buddhiṁ me cittaṁ me mēdhāṁ me paraḥ pumān॥",
+          "original": "महॊग्रः पूर्वतः पातु महावीराग्रजॊऽग्नितः । महाविष्णुर्दक्षिणे तु महाज्वालस्तु नैर्रृतॆ ॥",
+          "transliteration": "mahōgraḥ pūrvataḥ pātu mahāvīrāgrajō:'gnitaḥ | mahāviṣṇurdakṣiṇē tu mahājvālastu nairr̥tē ||",
           "translations": {
-            "english": "May the greatly powerful one (Mahābalaḥ) protect my face, mind, and speech. May the Supreme Person (Paraḥ Pumān) protect my intellect, consciousness, and memory."
-          }
-        },
-        {
-          "id": "nk-1-18",
-          "verse_number": 18,
-          "original": "मे पातु जङ्घे मे पादौ मे महाद्युतिः। पादौ मे सर्वतः पातु नरसिंहः केशवः॥",
-          "transliteration": "me pātu jaṅghē me pādau me mahādyutiḥ। pādau me sarvataḥ pātu narasiṁhaḥ kēśavaḥ॥",
-          "translations": {
-            "english": "May the greatly effulgent one (Mahādyutiḥ) protect my calves and feet. May Kēśava Nṛsiṁha protect my feet from all sides."
+            "english": "May the most ferocious one protect me from the East. May the superior of the greatest heroes protect me from the Southeast (Agni). May Mahāviṣṇu protect me from the South, and may the great flame protect me from the Southwest (Nairṛti)."
           }
         },
         {
           "id": "nk-1-19",
           "verse_number": 19,
-          "original": "नृसिंहो मे नाभिं मे मध्यं जठरं मे गदाधरः। मे कटिं मे गुह्यं मे मेढ्रं मे जनार्दनः॥",
-          "transliteration": "nṛsiṁhō me nābhiṁ me madhyaṁ jaṭharaṁ me gadādharaḥ। me kaṭiṁ me guhyaṁ me mēḍhraṁ me janārdanaḥ॥",
+          "original": "ईशान्यां पातु भद्रो मे सर्वमङ्गलदायकः । संसारभयतः पातु मृत्यॊर्मृत्युर्नृकॆसरी ॥",
+          "transliteration": "īśānyāṁ pātu bhadrō mē sarvamaṅgaladāyakaḥ | saṁsārabhayataḥ pātu mr̥tyōrmr̥tyurnr̥kēsarī ||",
           "translations": {
-            "english": "May Nṛsiṁha protect my navel, and may the one holding the mace (Gadādhara) protect my abdomen. May Janārdana protect my waist, private parts, and genitals."
+            "english": "May the All-Auspicious Lord, the bestower of all blessings, protect me from the Northeast (Īśāna). May the Death of Death, Nṛkēsarī (Man-Lion), protect me from the fear of the cycle of birth and death."
           }
         },
         {
           "id": "nk-1-20",
           "verse_number": 20,
-          "original": "मे बाहू रक्षतु क्षिप्रं हृदयं मे हरिर्व्ययः। उग्रं नृसिंहं मे कण्ठं स्कन्धं स्कन्धं महाबलम्॥",
-          "transliteration": "me bāhū rakṣatu kṣipraṁ hṛdayaṁ me harirvyayaḥ। ugraṁ nṛsiṁhaṁ me kaṇṭhaṁ skandhaṁ skandhaṁ mahābalam॥",
+          "original": "इदं नृसिंहकवचं प्रह्लादमुखमण्डितम् । भक्तिमान् यः पठेनित्यं सर्वपापैः प्रमुच्यते ॥",
+          "transliteration": "idaṁ nr̥siṁhakavacaṁ prahlādamukhamaṇḍitam | bhaktimān yaḥ paṭhēnityaṁ sarvapāpaiḥ pramucyatē ||",
           "translations": {
-            "english": "May my arms be protected quickly, and may my heart be protected by the imperishable Hari. May fierce Nṛsiṁha (Ugra) protect my neck, and the greatly powerful one (Mahābala) protect my shoulders."
-          }
-        },
-        {
-          "id": "nk-1-21",
-          "verse_number": 21,
-          "original": "नृसिंहो मे पुरतः पातु नृसिंहो मेऽपरतः पातु। नृसिंहो मे तिर्यक् पातु नृसिंहो मे दिशं पातु॥",
-          "transliteration": "nṛsiṁhō me purataḥ pātu nṛsiṁhō me’parataḥ pātu। nṛsiṁhō me tiryak pātu nṛsiṁhō me diśaṁ pātu॥",
-          "translations": {
-            "english": "May Nṛsiṁha protect me in front, may Nṛsiṁha protect me behind. May Nṛsiṁha protect me from the sides, may Nṛsiṁha protect me in all directions."
-          }
-        },
-        {
-          "id": "nk-1-22",
-          "verse_number": 22,
-          "original": "आद्यन्तो मे पातु नरसिंहोऽखिलं विभुः। रात्रौ मे पातु नरसिंहो दिवा पात्वखिलं विभुः॥",
-          "transliteration": "ādyantō me pātu narasiṁhō’khilaṁ vibhuḥ। rātrau me pātu narasiṁhō divā pāt vakhilaṁ vibhuḥ॥",
-          "translations": {
-            "english": "May Nṛsiṁha, the all-pervading Lord, protect me from beginning to end. May Nṛsiṁha protect me at night, and may the all-pervading Lord protect me during the day."
-          }
-        },
-        {
-          "id": "nk-1-23",
-          "verse_number": 23,
-          "original": "सर्वत्र मे नरसिंहः पातु सर्वं तथा ततः। पठेद्यस्तु नरो नित्यं कवचमिदमादरात्॥",
-          "transliteration": "sarvatra me narasiṁhaḥ pātu sarvaṁ tathā tataḥ। paṭhēd yastu narō nityaṁ kavacam idam ādarāt॥",
-          "translations": {
-            "english": "May Nṛsiṁha protect me everywhere, and in all circumstances. The person who always reads this Kavaca with reverence..."
-          }
-        },
-        {
-          "id": "nk-1-24",
-          "verse_number": 24,
-          "original": "पुत्रपौत्रादिभिः सार्धं सुखी भवति नित्यशः। सर्वपापविनिर्मुक्तो दीर्घायुर्विजयी भवेत्॥",
-          "transliteration": "putrapautrādibhiḥ sārdhaṁ sukhī bhavati nityaśaḥ। sarvapāpavinirmuktō dīrghāyur vijayī bhavēt॥",
-          "translations": {
-            "english": "...becomes always happy along with his sons and grandsons. Freed from all sins, he becomes long-lived and victorious."
-          }
-        },
-        {
-          "id": "nk-1-25",
-          "verse_number": 25,
-          "original": "अस्य नृसिंहकवचस्य स्तोत्रं प्रह्लाद ऋषिः। छन्दोऽनुष्टुप् नृसिंहो देवता सर्वतोमुखः॥",
-          "transliteration": "asya nṛsiṁhakavacasya stōtraṁ prahlāda ṛṣiḥ। chandō’nuṣṭup nṛsiṁhō devatā sarvatomukhaḥ॥",
-          "translations": {
-            "english": "For this Nṛsiṁha Kavaca Stotra, Prahlāda is the Sage (Ṛṣi), the meter is Anuṣṭup, and Nṛsiṁha, whose faces are everywhere, is the presiding Deity."
-          }
-        },
-        {
-          "id": "nk-1-26",
-          "verse_number": 26,
-          "original": "पिशाचा राक्षसाश्चैव भूतप्रेतादयस्तथा। दंष्ट्रिणोऽपि नश्यन्ति तस्य नामानुकीर्तनात्॥",
-          "transliteration": "piśācā rākṣasāś caiva bhūta-prētādayas tathā। daṁṣṭriṇō'pi naśyanti tasya nāmānukīrtanāt॥",
-          "translations": {
-            "english": "By chanting His name, Piśācas (goblins), Rākṣasas (demons), Bhūtas (ghosts), Prētas (spirits), and even venomous creatures (with sharp teeth/fangs) are destroyed."
-          }
-        },
-        {
-          "id": "nk-1-27",
-          "verse_number": 27,
-          "original": "ये नराः पठन्ति नित्यं सत्यं चैतत् प्रजायते। नरोऽयं सर्वपापेभ्यो मोदतेऽखण्डमण्डलम्॥",
-          "transliteration": "ye narāḥ paṭhanti nityaṁ satyaṁ caitat prajāyate। narō’yaṁ sarvapāpebhyō modate’khaṇḍamaṇḍalam॥",
-          "translations": {
-            "english": "Those men who read this daily, this truth becomes manifest. Such a person is freed from all sins and rejoices in the indestructible spiritual realm."
-          }
-        },
-        {
-          "id": "nk-1-28",
-          "verse_number": 28,
-          "original": "अस्त्रं मे पातु नरसिंहो दक्षिणे पातु चक्रधृक्। पश्चिमे पातु शङ्खी मे उत्तरे पातु मे गदी॥",
-          "transliteration": "astraṁ me pātu narasiṁhō dakṣiṇe pātu cakradhṛk। paścimē pātu śaṅkhī me uttarē pātu me gadī॥",
-          "translations": {
-            "english": "May Nṛsiṁha protect my weapon (or body), may the one holding the disc (Chakradhṛk) protect me in the South. May the one holding the conch (Śaṅkhī) protect me in the West, and may the one with the mace (Gadī) protect me in the North."
-          }
-        },
-        {
-          "id": "nk-1-29",
-          "verse_number": 29,
-          "original": "ऊर्ध्वे मे पातु नृसिंहो ज्वलन्ती दीप्तिरेव च। पातालतो मे पातु नरसिंहो महाबलः॥",
-          "transliteration": "ūrdhvē me pātu nṛsiṁhō jvalantī dīptirēva ca। pātālatō me pātu narasiṁhō mahābalaḥ॥",
-          "translations": {
-            "english": "May the blazing splendor of Nṛsiṁha protect me above. May Nṛsiṁha, the greatly powerful one, protect me from the lower regions (Pātāla)."
-          }
-        },
-        {
-          "id": "nk-1-30",
-          "verse_number": 30,
-          "original": "व्याधयो नश्यन्ति सर्वे लुप्यन्ते सर्वदोषिणः। नृसिंहकवचं यस्य स सर्वत्र विजयी भवेत्॥",
-          "transliteration": "vyādhayo naśyanti sarvē lupyantē sarvadōṣiṇaḥ। nṛsiṁhakavacaṁ yasya sa sarvatra vijayī bhavēt॥",
-          "translations": {
-            "english": "All diseases are destroyed, and all offenders disappear. He who possesses this Nṛsiṁha Kavaca will be victorious everywhere."
-          }
-        },
-        {
-          "id": "nk-1-31",
-          "verse_number": 31,
-          "original": "शत्रवोऽपि प्रणश्यन्ति तस्य नामानुकीर्तनात्। नृसिंहो मे परमो देवो नरसिंहो मे परं पदम्॥",
-          "transliteration": "śatravō’pi praṇaśyanti tasya nāmānukīrtanāt। nṛsiṁhō me paramō devō narasiṁhō me paraṁ padam॥",
-          "translations": {
-            "english": "Even enemies are destroyed by chanting His name. Nṛsiṁha is my Supreme God, Nṛsiṁha is my Supreme Goal."
-          }
-        },
-        {
-          "id": "nk-1-32",
-          "verse_number": 32,
-          "original": "तस्मादहं नृसिंहं त्वां नमामि सर्वतोमुखम्। सर्वत्र सर्वदा पातु नृसिंहः सर्वतोमुखः॥",
-          "transliteration": "tasmād ahaṁ nṛsiṁhaṁ tvāṁ namāmi sarvatōmukham। sarvatra sarvadā pātu nṛsiṁhaḥ sarvatōmukhaḥ॥",
-          "translations": {
-            "english": "Therefore, I bow down to you, O Nṛsiṁha, whose faces are everywhere. May Nṛsiṁha, whose faces are everywhere, always protect me everywhere."
+            "english": "This Nṛsiṁha-kavaca, which is ornamented by issuing from the mouth of Prahlāda Mahārāja, a devotee who reads it daily becomes freed from all sins."
           }
         }
       ]
