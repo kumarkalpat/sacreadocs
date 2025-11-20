@@ -158,5 +158,17 @@
     "audioUrl": "https://archive.org/download/skandha-sashti-kavacham-and-sri-skandha-guru-kavacham/Skandha%20Sashti%20Kavacham%20and%20Sri%20Skandha%20Guru%20Kavacham/01-Skandha%20Sashti%20Kavasam.mp3",
     "path": "skanda-sashti-kavacham.json",
     "coverImage": "images/skanda-sashti-kavacham.png"
+  },
+  {
+    "id": "kanakadhara-stotram",
+    "title": "Kanakadhara Stotram (Hymn of the Stream of Gold)",
+    "author": "Ādi Śaṅkarācārya",
+    "language": "Sanskrit",
+    "total_verses": 21,
+    "introduction": "The Kanakadhara Stotram is a sacred Hindu hymn composed by Ādi Śaṅkarācārya in praise of Goddess Mahalakshmi. It is said that Śaṅkarācārya composed this immediately when he witnessed the extreme poverty of an old woman and prayed to the Goddess. Upon hearing the spontaneous hymn, Goddess Lakshmi showered the woman's home with golden gooseberries (Āmalaka), creating the 'Stream of Gold' (Kanakadhara). The Stotram is a powerful prayer for material and spiritual prosperity.",
+    "audioUrl": "https://archive.org/details/LalitaLakshmiDurgaDeviListenOnFriday/6-FRIDAY-LALITA-LAKSHMI-DURGA/10-KANAKA+DHARA+STOTRAM+-+BALA+MURALI.MP3",
+    "audioSource": "Dr Balamurali Krishna - Archive.org",
+    "path": "kanakadhara-stotram.json",
+    "coverImage": "kanakadhara-stotram.png"
   } 
 ]
