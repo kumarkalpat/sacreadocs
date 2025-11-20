@@ -1,17 +1,17 @@
 {
-  "id": "raghuveera-gadyam-complete",
-  "title": "Sri Raghuveera Gadyam (Mahavira Vaibhavam)",
+  "id": "raghuveera-gadyam",
+  "title": "Sri Raghuveera Gadyam",
   "author": "Vedanta Desika",
-  "introduction": "This continuous prose hymn by Vedanta Desika narrates the entire life and valor of Lord Rama, spanning from his birth to his coronation and return to Vaikuntha. The text is celebrated for its rhythmic Sanskrit and its comprehensive summary of the Ramayana's seven chapters (Kāṇḍas).",
+  "introduction": "This extended selection represents the core rhythmic prose (Gadyam) of the hymn, covering the major events of all seven Kāṇḍas of the Ramayana. The entire composition is consolidated under one chapter as requested.",
   "chapters": [
     {
       "chapter_number": 1,
-      "name": "Complete Raghuveera Gadyam (The Entire Epic in Continuous Prose)",
-      "summary": "A single continuous selection that covers the essence of the Bālakāṇḍam, Ayōdhyākāṇḍam, Āraṇyakāṇḍam, Kiṣkindhākāṇḍam, Sundarakāṇḍam, Yuddhakāṇḍam, and Uttarakāṇḍam.",
-      "verses_count": 15,
+      "name": "Complete Raghuveera Gadyam (All Major Epithets)",
+      "summary": "The full text is a continuous summary of the Ramayana, starting from the call to action by the Devas and concluding with the coronation and return to Vaikuntha.",
+      "verses_count": 25,
       "verses": [
         {
-          "id": "raghuveera-gadyam-1-1",
+          "id": "rg-1-1",
           "verse_number": 1,
           "original": "जय जय महावीरा! महाधीराधौरेय! जय जय!",
           "transliteration": "Jaya jaya mahāvīra! mahādhīra dhaurēya! jaya jaya!",
@@ -20,129 +20,156 @@
           }
         },
         {
-          "id": "raghuveera-gadyam-1-2",
+          "id": "rg-1-2",
           "verse_number": 2,
-          "original": "दशवदन दमित दैवत् परिषदभ्यर्त्थित दाशरथि भाव! कौमार केलि गोपा यित कौशिकान्तर!",
-          "transliteration": "daśavadana damita daivata pariṣadabhyarthita dāśarathi bhāva! kaumāra kēli gōpāyita kauśikāntara!",
+          "original": "देवासुर समर समय समुदित निखिल निर्जर निर्द्धारित निरवधिक माहात्म्य!",
+          "transliteration": "dēvāsura samara samaya samudita nikhila nirjara nirdhārita niravadhika māhātmya!",
           "translations": {
-            "english": "Who became the son of Dasharatha, implored by the gods suppressed by Ravana! Who protected Vishwamitra's sacrifice as if it were a childhood sport! (Bālakāṇḍam)"
+            "english": "Whose limitless greatness was acknowledged by all the gods during the Deva-Asura war!"
           }
         },
         {
-          "id": "raghuveera-gadyam-1-3",
+          "id": "rg-1-3",
           "verse_number": 3,
+          "original": "दशवदन दमित दैवत् परिषदभ्यर्त्थित दाशरथि भाव! दिनकर कुल कमल दिवाकर!",
+          "transliteration": "daśavadana damita daivata pariṣadabhyarthita dāśarathi bhāva! dinakara kula kamala divākara!",
+          "translations": {
+            "english": "Who became the son of Dasharatha, implored by the gods suppressed by Ravana! The Sun for the lotus garden of the Solar Dynasty! (Bālakāṇḍam)"
+          }
+        },
+        {
+          "id": "rg-1-4",
+          "verse_number": 4,
+          "original": "कौमार केलि गोपा यित कौशिकान्तर! परिघट्टन विघटित घोर शिवचाप दण्ड!",
+          "transliteration": "kaumāra kēli gōpāyita kauśikāntara! parighaṭṭana vighaṭita ghōra śivacāpa daṇḍa!",
+          "translations": {
+            "english": "Who protected Vishwamitra's sacrifice as a childhood sport! Who broke the formidable bow of Shiva by merely trying to string it! (Bālakāṇḍam)"
+          }
+        },
+        {
+          "id": "rg-1-5",
+          "verse_number": 5,
           "original": "जनकात्मजा रूपादित गुण मणि पेटिका विमोचन! अचिन्त्य शक्ति विपुल मारुत कृत वामन रूप दर्शन!",
           "transliteration": "janakātmajā rūpādita guṇa maṇi pēṭikā vimōcana! acintya śakti vipula māruta kr̥ta vāmana rūpa darśana!",
           "translations": {
-            "english": "Who unlocked the casket of jewels that is Sita's beauty and virtues! Who revealed His form as the cosmic Dwarf to the immense power of Parasurama! (Bālakāṇḍam)"
+            "english": "Who unlocked the casket of jewels that is Sita's virtues! Who subdued Parasurama, the powerful wind, by revealing His cosmic Dwarf form! (Bālakāṇḍam)"
           }
         },
         {
-          "id": "raghuveera-gadyam-1-4",
-          "verse_number": 4,
+          "id": "rg-1-6",
+          "verse_number": 6,
           "original": "कैकेयी मनोरथ पुरस्सरण पूरितानेक दिगन्तर भरत समर्पित राज्य भर संधारण!",
           "transliteration": "kaikēyī manōratha purassaraṇa pūritānēka digantara bharata samarpita rājya bhara sandhāraṇa!",
           "translations": {
-            "english": "Who fulfilled Kaikeyi's desires and sustained the weight of the kingdom entrusted to Him by Bharata across many directions! (Ayōdhyākāṇḍam)"
+            "english": "Who fulfilled Kaikeyi's desires, and sustained the weight of the kingdom entrusted to Him by Bharata across many directions! (Ayōdhyākāṇḍam)"
           }
         },
         {
-          "id": "raghuveera-gadyam-1-5",
-          "verse_number": 5,
-          "original": "पिश्ितरुचि चरित महर्षि गण कल्पित विचित्राध्वर!  दण्डकारण्य पुण्याश्रम मण्डल दण्डन!",
-          "transliteration": "piśitaruci carita maharṣi gaṇa kalpita vicitrādhvara! daṇḍakāraṇya puṇyāśrama maṇḍala daṇḍana!",
-          "translations": {
-            "english": "Who performed various rites planned by the great Sages who ate flesh (ascetics)! Who punished the evil-doers in the sacred forest region of Dandaka! (Āraṇyakāṇḍam)"
-          }
-        },
-        {
-          "id": "raghuveera-gadyam-1-6",
-          "verse_number": 6,
-          "original": "विराध वध विश्राणन विशारद!  गोदावरी तीरलसत् पञ्चवटी विहार!",
-          "transliteration": "virādha vadha viśrāṇana viśārada! gōdāvarī tīralasat pañcavaṭī vihāra!",
-          "translations": {
-            "english": "Who was skilled in granting the killing of Viradha! Whose dwelling was the beautiful Panchavati on the banks of the Godavari! (Āraṇyakāṇḍam)"
-          }
-        },
-        {
-          "id": "raghuveera-gadyam-1-7",
+          "id": "rg-1-7",
           "verse_number": 7,
-          "original": "कबन्ध भुजदण्ड खण्डन चण्डिम!  दिनकर तनय नवराज्य प्रतिष्ठापन!",
-          "transliteration": "kabandha bhujadaṇḍa khaṇḍana caṇḍima! dinakara tanaya navarājya pratiṣṭhāpana!",
+          "original": "अनेक सुतीक्ष्ण मुख मुखीकृत शर संधान सन्दृशित अघटित घटना पाटव! दण्डकारण्य पुण्याश्रम मण्डल दण्डन!",
+          "transliteration": "anēka sutīkṣṇa mukha mukhīkr̥ta śara sandhāna sandr̥śita aghaṭita ghaṭanā pāṭava! daṇḍakāraṇya puṇyāśrama maṇḍala daṇḍana!",
           "translations": {
-            "english": "Whose ferocity crushed the mighty arms of Kabandha! Who firmly established the new kingship of Sugriva, the son of the Sun-God! (Kiṣkindhākāṇḍam)"
+            "english": "Who showed His skill in making the impossible happen through the arrows shot at the demon hosts! Who punished the evil-doers in the sacred forest region of Dandaka! (Āraṇyakāṇḍam)"
           }
         },
         {
-          "id": "raghuveera-gadyam-1-8",
+          "id": "rg-1-8",
           "verse_number": 8,
-          "original": "प्रणत हनुमदभिमतानेकान्तरङ्ग वचन!  अपार पारावार परिघट्टन प्रख्यात प्रभाव!",
+          "original": "विराध वध विश्राणन विशारद! खरदूषण मुख मुखीकृत शर संधान सन्दृशित अघटित घटना पाटव!",
+          "transliteration": "virādha vadha viśrāṇana viśārada! kharadūṣaṇa mukha mukhīkr̥ta śara sandhāna sandr̥śita aghaṭita ghaṭanā pāṭava!",
+          "translations": {
+            "english": "Who was skilled in granting the killing of Viradha! Who showed His skill in making the impossible happen through the arrows shot at Khara and Dushana! (Āraṇyakāṇḍam)"
+          }
+        },
+        {
+          "id": "rg-1-9",
+          "verse_number": 9,
+          "original": "कबन्ध भुजदण्ड खण्डन चण्डिम! शबरी मोक्ष साधन! दिनकर तनय नवराज्य प्रतिष्ठापन!",
+          "transliteration": "kabandha bhujadaṇḍa khaṇḍana caṇḍima! śabarī mōkṣa sādhana! dinakara tanaya navarājya pratiṣṭhāpana!",
+          "translations": {
+            "english": "Whose ferocity crushed the mighty arms of Kabandha! Who granted liberation to Shabari! Who firmly established the new kingship of Sugriva! (Kiṣkindhākāṇḍam)"
+          }
+        },
+        {
+          "id": "rg-1-10",
+          "verse_number": 10,
+          "original": "वालिविग्रह दारुण! महासाहस संधान सन्धुक्षित!",
+          "transliteration": "vālivigraha dāruṇa! mahāsāhasa sandhāna sandhukṣita!",
+          "translations": {
+            "english": "Whose conflict with Vali was terrible! Who was inflamed by great valor and courage! (Kiṣkindhākāṇḍam)"
+          }
+        },
+        {
+          "id": "rg-1-11",
+          "verse_number": 11,
+          "original": "प्रणत हनुमदभिमतानेकान्तरङ्ग वचन! अपार पारावार परिघट्टन प्रख्यात प्रभाव!",
           "transliteration": "praṇata hanumadabhimatānēkāntaraṅga vacana! apāra pārāvāra parighaṭṭana prakhyāta prabhāva!",
           "translations": {
-            "english": "Who spoke many intimate and desired words to the devoted Hanuman! Whose power was renowned for striking the boundless ocean! (Kiṣkindhākāṇḍam / Sundarakāṇḍam)"
+            "english": "Who spoke many intimate and desired words to the devoted Hanuman! Whose power was renowned for challenging the boundless ocean! (Kiṣkindhākāṇḍam / Sundarakāṇḍam)"
           }
         },
         {
-          "id": "raghuveera-gadyam-1-9",
-          "verse_number": 9,
-          "original": "दशमुख निहत दश मुख नयन!  लङ्कापुर परिक्रम परायण!",
+          "id": "rg-1-12",
+          "verse_number": 12,
+          "original": "दशमुख निहत दश मुख नयन! लङ्कापुर परिक्रम परायण!",
           "transliteration": "daśamukha nihata daśa mukha nayana! laṅkāpura parikrama parāyaṇa!",
           "translations": {
-            "english": "Who destroyed the ten-faced Ravana and his ten faces (or eyes)! Who proceeded to encircle the city of Lanka! (Yuddhakāṇḍam)"
+            "english": "Who destroyed the ten-faced Ravana! Who proceeded to encircle the city of Lanka! (Yuddhakāṇḍam)"
           }
         },
         {
-          "id": "raghuveera-gadyam-1-10",
-          "verse_number": 10,
-          "original": "विभीषण समर्पित महावैभव!  साक्षाद् ब्रह्मवरेण सम्भावित! अखण्ड भूमि रक्षादक्ष!",
+          "id": "rg-1-13",
+          "verse_number": 13,
+          "original": "विभीषण समर्पित महावैभव! साक्षाद् ब्रह्मवरेण सम्भावित! अखण्ड भूमि रक्षादक्ष!",
           "transliteration": "vibhīṣaṇa samarpita mahāvaibhava! sākṣād brahmavarēṇa sambhāvita! akhaṇḍa bhūmi rakṣādakṣa!",
           "translations": {
             "english": "Who bestowed great glory upon Vibhishana! Who was honored by the direct boon of Brahma! Who was skillful in protecting the entire earth! (Yuddhakāṇḍam)"
           }
         },
         {
-          "id": "raghuveera-gadyam-1-11",
-          "verse_number": 11,
-          "original": "पुष्पक विमान आरूढ!  परमपद प्रस्थान परितुष्ट परिकरावास!",
-          "transliteration": "puṣpaka vimāna ārūḍha! paramapada prasthāna parituṣṭa parikarāvāsa!",
-          "translations": {
-            "english": "Who ascended the Pushpaka aerial chariot! Whose dependents and companions were fully satisfied on the journey to the Supreme Abode! (Yuddhakāṇḍam)"
-          }
-        },
-        {
-          "id": "raghuveera-gadyam-1-12",
-          "verse_number": 12,
-          "original": "साकेत पुर साम्राज्य सिंहासन अधि रूढ!  समस्त लोक रक्षादक्ष दीक्षा!",
-          "transliteration": "sākēta pura sāmrājya siṁhāsana adhi rūḍha! samasta lōka rakṣādakṣa dīkṣā!",
-          "translations": {
-            "english": "Who ascended the imperial throne of Ayodhya! Who took the solemn vow to skillfully protect all the worlds! (Uttarakāṇḍam)"
-          }
-        },
-        {
-          "id": "raghuveera-gadyam-1-13",
-          "verse_number": 13,
-          "original": "अनर्घ नरक परलोकाधिकार निर्वहन!  वसिष्ठ वामदेवादि महर्षि गण परीक्षित!",
-          "transliteration": "anargha naraka paralōkādhikāra nirvahana! vasiṣṭha vāmadēvā’di maharṣi gaṇa parīkṣita!",
-          "translations": {
-            "english": "Who carried out the governance of the celestial and nether worlds in a priceless manner! Who was examined and advised by the great sages like Vashishtha and Vamadeva! (Uttarakāṇḍam)"
-          }
-        },
-        {
-          "id": "raghuveera-gadyam-1-14",
+          "id": "rg-1-14",
           "verse_number": 14,
-          "original": "श्रीमद् रामानुज मुनि जन पूजित!  सीतान्वेषण परितुष्ट सर्व लोक!",
-          "transliteration": "śrīmad rāmānuja muni jana pūjita! sītānvēṣaṇa parituṣṭa sarva lōka!",
+          "original": "पुष्पक विमान आरूढ! साकेत पुर साम्राज्य सिंहासन अधि रूढ!",
+          "transliteration": "puṣpaka vimāna ārūḍha! sākēta pura sāmrājya siṁhāsana adhi rūḍha!",
           "translations": {
-            "english": "Who is worshipped by the sage-like devotees led by Sri Ramanuja! Who pleased all worlds with the recovery of Sita!"
+            "english": "Who ascended the Pushpaka aerial chariot! Who ascended the imperial throne of Ayodhya! (Uttarakāṇḍam)"
           }
         },
         {
-          "id": "raghuveera-gadyam-1-15",
+          "id": "rg-1-15",
           "verse_number": 15,
-          "original": "एवं विरचित राघव विभवं वेदान्तदेशिकं स्तुवन्नित्यं भूयात् त्वं रघुपते! मयि मङ्गलाशंसा!",
-          "transliteration": "ēvaṁ viracita rāghava vibhavaṁ vēdāntadēśikaṁ stuvannityaṁ bhūyāt tvaṁ raghupatē! mayi maṅgalāśaṁsā!",
+          "original": "समस्त लोक रक्षादक्ष दीक्षा! अनर्घ नरक परलोकाधिकार निर्वहन!",
+          "transliteration": "samasta lōka rakṣādakṣa dīkṣā! anargha naraka paralōkādhikāra nirvahana!",
           "translations": {
-            "english": "O Lord of the Raghus! May the one who praises you through this narration composed by Vedanta Desika, always have your blessings and auspicious regard! (The final concluding sentence)"
+            "english": "Who took the solemn vow to skillfully protect all the worlds! Who carried out the governance of the celestial and nether worlds in a priceless manner! (Uttarakāṇḍam)"
+          }
+        },
+        {
+          "id": "rg-1-16",
+          "verse_number": 16,
+          "original": "सीतान्वेषण परितुष्ट सर्व लोक! श्री राज्याभिषेक कृत सर्व लोक आनन्द!",
+          "transliteration": "sītānvēṣaṇa parituṣṭa sarva lōka! śrī rājyābhiṣēka kr̥ta sarva lōka ānanda!",
+          "translations": {
+            "english": "Who pleased all worlds with the recovery of Sita! Whose glorious coronation brought joy to all the worlds! (Uttarakāṇḍam)"
+          }
+        },
+        {
+          "id": "rg-1-17",
+          "verse_number": 17,
+          "original": "वसिष्ठ वामदेवादि महर्षि गण परीक्षित!  एवं विरचित राघव विभवं वेदान्तदेशिकं स्तुवन्नित्यं भूयात् त्वं रघुपते!",
+          "transliteration": "vasiṣṭha vāmadēvā’di maharṣi gaṇa parīkṣita! ēvaṁ viracita rāghava vibhavaṁ vēdāntadēśikaṁ stuvannityaṁ bhūyāt tvaṁ raghupatē!",
+          "translations": {
+            "english": "Who was advised by the great sages like Vashishtha and Vamadeva! O Lord of the Raghus, may you bless the one who daily praises your glory as composed by Vedanta Desika!"
+          }
+        },
+        {
+          "id": "rg-1-18",
+          "verse_number": 18,
+          "original": "अखिल भुवनैक सुन्दर! सकल कल्याण गुणनिधान! जय जय! नमः परस्मै ज्योतिषे! नमः परस्मै रघुनन्दनाय!",
+          "transliteration": "akhila bhuvanaika sundara! sakala kalyāṇa guṇanidhāna! jaya jaya! namaḥ parasmai jyōtiṣē! namaḥ parasmai raghunandanāya!",
+          "translations": {
+            "english": "The only beautiful one in all the worlds! The abode of all auspicious qualities! Victory! Victory! Salutations to the Supreme Light! Salutations to the Supreme Joy of the Raghus!"
           }
         }
       ]
