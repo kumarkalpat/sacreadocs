@@ -222,8 +222,7 @@
   {
     "id": "bhajans",
     "title": "Bhajans",
-    "author": "Various Artists)",
-    "introduction": "Bhajans by Various Artists",
+    "author": "Various Artists",
     "path": "bhajans.json",
     "coverImage": "images/bhajans.png"
   }
