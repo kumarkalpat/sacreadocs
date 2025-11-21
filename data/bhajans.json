@@ -38,7 +38,7 @@
           "id": "bhajans-6",
           "verse_number": 6,
           "audioUrl": "https://music.youtube.com/watch?v=fUCDA3p4r2k&si=TjZn-ezSMnCwid8x",
-          "audioSource": "Raghuveera Gadhyam - Vedanta Desika - Youtube Music"
+          "audioSource": "Raghuveera Gadhyam - Vedanta Desika - Abhishek Raghuram - Youtube Music"
         },
         {
           "id": "bhajans-7",
@@ -63,6 +63,18 @@
           "verse_number": 10,
           "audioUrl": "https://music.youtube.com/watch?v=4ikBnS2oDuw&si=fr_ps7C1oJ3L-F6X",
           "audioSource": "Baro Krishnayya I Spoorthi Rao I Kanakadasa - Youtube Music"
+        },
+        {
+          "id": "bhajans-11",
+          "verse_number": 11,
+          "audioUrl": "https://music.youtube.com/watch?v=KU0AixzMmHs&si=jfJmsLfGAIwstoq1",
+          "audioSource": "Achutam Keshavam - Kaun Kehte hai Bhagwan Aate nahi - Ankit Batrag | Krishna Bhajan - Youtube Music"
+        },
+        {
+          "id": "bhajans-12",
+          "verse_number": 12,
+          "audioUrl": "https://music.youtube.com/watch?v=2YdF87qDaro&si=xwjbPyVZUIfUq_19",
+          "audioSource": "Bhaja Govindam - MS Subbulakshmi - Youtube Music"
         }
       ]
     }
