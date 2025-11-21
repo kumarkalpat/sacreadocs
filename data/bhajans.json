@@ -13,8 +13,8 @@
         {
           "id": "bhajans-2",
           "verse_number": 2,
-          "audioUrl": "https://music.youtube.com/watch?v=GIJY5luxres&si=TagtiyLBqhzeuY95",
-          "audioSource": "Jagjit Singh - Jukebox - Youtube Music"
+          "audioUrl": "https://music.youtube.com/watch?v=ZD72mEhB6TE&si=ONkblN7lquWjEl6i",
+          "audioSource": "Jagjit Singh - Youtube Music"
         },
         {
           "id": "bhajans-3",
@@ -51,6 +51,18 @@
           "verse_number": 8,
           "audioUrl": "https://music.youtube.com/watch?v=PsSdXO220Hc&si=F4PckMUKq3WPHv-U",
           "audioSource": "Maze Maaher Pandhari - Pandit Bhimsen Joshi - Youtube Music"
+        },
+        {
+          "id": "bhajans-9",
+          "verse_number": 9,
+          "audioUrl": "https://music.youtube.com/watch?v=3o95qn8BjdQ&si=-TBfpOcmtVumRk_2",
+          "audioSource": "Mero Mann Vrindavan Mein Atko - Shri Indresh Upadhyay ji | MOhit Lalwani | Karan - Navdeep - Youtube Music"
+        },
+        {
+          "id": "bhajans-10",
+          "verse_number": 10,
+          "audioUrl": "https://music.youtube.com/watch?v=4ikBnS2oDuw&si=fr_ps7C1oJ3L-F6X",
+          "audioSource": "Baro Krishnayya I Spoorthi Rao I Kanakadasa - Youtube Music"
         }
       ]
     }
