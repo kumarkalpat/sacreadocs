@@ -77,7 +77,7 @@
           "id": "aditya-hridayam-7",
           "verse_number": 7,
           "startTime": 109,
-          "endTime": 0,
+          "endTime": 124,
           "original": "सर्वदेवात्मको ह्येष तेजस्वी रश्मिभावनः। एष देवासुरगणाँल्लोकान् पाति गभस्तिभिः॥",
           "transliteration": "sarvadevātmako hyeṣa tejasvī raśmibhāvanaḥ। eṣa devāsuragaṇām̐llokān pāti gabhastibhiḥ॥",
           "translations": {
@@ -87,8 +87,8 @@
         {
           "id": "aditya-hridayam-8",
           "verse_number": 8,
-          "startTime": 0,
-          "endTime": 0,
+          "startTime": 124,
+          "endTime": 137,
           "original": "एष ब्रह्मा च विष्णुश्च शिवः स्कन्दः प्रजापतिः। महेन्द्रो धनदः कालो यमः सोमो ह्यपां पतिः॥",
           "transliteration": "eṣa brahmā ca viṣṇuśca śivaḥ skandaḥ prajāpatiḥ। mahendro dhanadaḥ kālo yamaḥ somo hyapāṁ patiḥ॥",
           "translations": {
@@ -98,8 +98,8 @@
         {
           "id": "aditya-hridayam-9",
           "verse_number": 9,
-          "startTime": 0,
-          "endTime": 0,
+          "startTime": 138,
+          "endTime": 153,
           "original": "पितरो वसवः साध्या अश्विनौ मरुतो मनुः। वायुर्वह्निः प्रजाप्राण ऋतुकर्ता प्रभाकरः॥",
           "transliteration": "pitaro vasavaḥ sādhyā aśvinau maruto manuḥ। vāyurvahniḥ prajāprāṇa ṛtudkartā prabhākaraḥ॥",
           "translations": {
@@ -109,8 +109,8 @@
         {
           "id": "aditya-hridayam-10",
           "verse_number": 10,
-          "startTime": 0,
-          "endTime": 0,
+          "startTime": 153,
+          "endTime": 165,
           "original": "आदित्यः सविता सूर्यः खगः पूषा गभस्तिमान्। सुवर्णसदृशो भानुर्हिरण्यरेता दिवाकरः॥",
           "transliteration": "ādityaḥ savitā sūryaḥ khagaḥ pūṣā gabhastimān। suvarṇasadṛśo bhānurhiraṇyaretā divākaraḥ॥",
           "translations": {
@@ -120,7 +120,7 @@
         {
           "id": "aditya-hridayam-11",
           "verse_number": 11,
-          "startTime": 0,
+          "startTime": 166,
           "endTime": 0,
           "original": "हरिदश्वः सहस्रार्चिः सप्तसप्तिर्मरीचिमान्। तिमिरोन्मथनः शम्भुस्त्वष्टा मार्ताण्डकोऽंशुमान्॥",
           "transliteration": "haridaśvaḥ sahasrārciḥ saptasaptirmarīcimān। timironmathanaḥ śambhustvaṣṭā mārtāṇḍako’ṁśumān॥",
@@ -131,8 +131,8 @@
         {
           "id": "aditya-hridayam-12",
           "verse_number": 12,
-          "startTime": 0,
-          "endTime": 0,
+          "startTime": 166,
+          "endTime": 189,
           "original": "हिरण्यगर्भः शिशिरस्तपनो भास्करो रविः। अग्निगर्भोऽदितेः पुत्रः शङ्खः शिशिरनाशनः॥",
           "transliteration": "hiraṇyagarbhaḥ śiśirastapano bhāskaro raviḥ। agnigarbho’diteḥ putraḥ śaṅkhaḥ śiśiranāśanaḥ॥",
           "translations": {
@@ -142,7 +142,7 @@
         {
           "id": "aditya-hridayam-13",
           "verse_number": 13,
-          "startTime": 0,
+          "startTime": 189,
           "endTime": 0,
           "original": "व्योमनाथस्तमोभेदी ऋग्यजुःसामपारगः। घना वृष्टिरपां मित्रो विन्ध्यवीथीप्लवङ्गमः॥",
           "transliteration": "vyomanāthastamobhedī ṛgyajuḥsāmapāragaḥ। ghanā vṛṣṭirapāṁ mitro vindhyavīthīplavaṅgamaḥ॥",
