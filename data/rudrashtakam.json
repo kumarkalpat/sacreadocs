@@ -1,97 +1,110 @@
+
+
 {
-  "id": "rudrashtakam-tulsidas",
   "chapters": [
     {
       "chapter_number": 1,
-      "name": "Stuti (Praise)",
-      "verses_count": 8,
+      "name": "Verses 1-8",
+      "summary": "The complete octet",
+      "verses_count": 9,
       "verses": [
         {
           "id": "rudrashtakam-1-1",
           "verse_number": 1,
-          "original": "नमामीशमीशान निर्वाणरूपं\nविभुं व्यापकं ब्रह्म वेदस्वरूपम्।\nनिजं निर्गुणं निर्विकल्पं निरीहं\nचिदाकाशमाकाशवासं भजेऽहम्॥",
-          "transliteration": "namāmīśamīśāna nirvāṇarūpaṁ\nvibhuṁ vyāpakaṁ brahma vēdasvarūpam |\nnijaṁ nirguṇaṁ nirvikampaṁ nirīhaṁ\ncidākāśamākāśavāsaṁ bhajē'ham ||",
+          "startTime": 0,
+          "endTime": 25,
+          "original": "नमामीशमीशान निर्वाणरूपं\nविभुं व्यापकं ब्रह्मवेदस्वरूपम् ।\nनिजं निर्गुणं निर्विकल्पं निरीहं\nचिदाकाशमाकाशवासं भजेऽहम् ॥ १॥",
+          "transliteration": "namāmīśamīśāna nirvāṇarūpaṃ\nvibhuṃ vyāpakaṃ brahmavedasvarūpam .\nnijaṃ nirguṇaṃ nirvikalpaṃ nirīhaṃ\ncidākāśamākāśavāsaṃ bhaje'ham .. 1..",
           "translations": {
-            "english": "I bow to the Lord (Īśam), the ruler (Īśāna), whose form is liberation (Nirvāṇarūpam). He is pervasive (Vibhum), all-encompassing (Vyāpakam), the Brahman, whose essence is the Vedas (Vēdasvarūpam). He is the eternal Self (Nijam), without attributes (Nirguṇam), free from change (Nirvikalpaṁ), and desireless (Nirīham). I worship Him, the consciousness-space (Cidākāśam), who resides in the sky (Ākāśavāsam)."
+            "english": "I bow to the Ruler of the Universe, whose very form is Liberation, the Omnipresent and All-Pervading Brahma, He who is manifested as the Vedas. I worship Shiva, shining in his own glory, without physical qualities, Undifferentiated, Desireless, All-Pervading Sky of Consciousness and wearing the sky itself as His garment."
           }
         },
         {
           "id": "rudrashtakam-1-2",
           "verse_number": 2,
-          "original": "निराकारमोङ्कारमूलं तुरीयं\nगिरा ज्ञान गोतीतमीशं गिरीशम्।\nकरालं महाकाल कालं कृपालं\nगुणागार संसारपारं नतोऽहम्॥",
-          "transliteration": "nirākāramōṅkāramūlaṁ turīyaṁ\ngirā jñāna gōtītamīśaṁ girīśam |\nkarālaṁ mahākāla kālaṁ kṛpālaṁ\nguṇāgāra saṁsārapāraṁ natō'ham ||",
+          "startTime": 25,
+          "endTime": 47,
+          "original": "निराकारमोंकारमूलं तुरीयं\nगिरा ज्ञान गोतीतमीशं गिरीशम् ।\nकरालं महाकालकालं कृपालं\nगुणागारसंसारपारं नतोऽहम् ॥ २॥",
+          "transliteration": "nirākāramoṃkāramūlaṃ turīyaṃ\ngirā jñāna gotītamīśaṃ girīśam .\nkarālaṃ mahākālakālaṃ kṛpālaṃ\nguṇāgārasaṃsārapāraṃ nato'ham .. 2..",
           "translations": {
-            "english": "I bow to Him who is formless (Nirākāram), the root of Om (Oṁkāramūlam), the fourth state of consciousness (Turīyam). He is the Lord (Īśam) and Lord of the mountains (Girīśam), transcending speech, knowledge, and senses (Girā Jñāna Gōtītam). He is dreadful (Karālaṁ) and the Death of the great time (Mahākāla Kālam), yet merciful (Kṛpālam). The abode of all virtues (Guṇāgāra), who leads across Saṁsāra (Saṁsārapāram)."
+            "english": "I bow to You, the Formless One, the very root of Omkara, the Turiya (the fourth state of consciousness), One who is beyond the knowledge of senses. I bow to the Lord of the Mountains (Kailash), the Terrible One (to the wicked), the Destroyer of Time (Death) himself, the Compassionate One, the abode of all virtues, and the One who helps cross the ocean of worldly existence."
           }
         },
         {
           "id": "rudrashtakam-1-3",
           "verse_number": 3,
-          "original": "तुषाराद्रि सङ्काश गौरं गभीरं\nमनोभूत कोटि प्रभा श्री शरीरम्।\nस्फुरन् मौलि कल्लोलिनी चारु गङ्गा\nलसद् भाल बालेन्दु कण्ठे भुजङ्गा॥",
-          "transliteration": "tuṣārādri saṅkāśa gauraṁ gabhīraṁ\nmanōbhūta kōṭi prabhā śrī śarīram |\nsphuran mauli kallōlinī cāru gaṅgā\nlasad bhāla bālēndu kaṇṭhē bhujaṅgā ||",
+          "startTime": 47,
+          "endTime": 70,
+          "original": "तुषाराद्रिसंकाशगौरं गभीरं\nमनोभूतकोटिप्रभाश्री शरीरम् ।\nस्फुरन्मौलिकल्लोलिनी चारुगङ्गा\nलसद्भालबालेन्दु कण्ठे भुजङ्गा ॥ ३॥",
+          "transliteration": "tuṣārādrisaṃkāśagauraṃ gabhīraṃ\nmanobhūtakoṭiprabhāśrī śarīram .\nsphuranmaulikallolinī cārugaṅgā\nlasadbhalabālendu kaṇṭhe bhujaṅgā .. 3..",
           "translations": {
-            "english": "His complexion is white (Gauram) like a heap of snow (Tuṣārādri Saṅkāśa), and He is profound (Gabhīraṁ). His divine body (Śrī Śarīram) possesses the brilliance of millions of Cupids (Manōbhūta Kōṭi Prabhā). The beautiful Gaṅgā, the river (Kallōlinī Cāru Gaṅgā), shines on His head (Sphuran Mauli). His forehead is graced by the crescent moon (Lasad Bhāla Bālēndu), and around His neck are serpents (Kaṇṭhē Bhujaṅgā)."
+            "english": "I bow to Him, who is white like the snow-capped mountains, who is deep and profound, whose body radiates the splendor of ten million Cupids. On whose head the beautiful Ganges ripples, on whose forehead rests the crescent moon, and around whose neck adorns a serpent."
           }
         },
         {
           "id": "rudrashtakam-1-4",
           "verse_number": 4,
-          "original": "चलत् कुण्डल भ्रू सुनेत्रं विशालं\nप्रसन्नाननं नीलकण्ठं दयालम्।\nमृगाधीश चर्माम्बरं मुण्डमालं\nप्रियं शङ्करं सर्वनाथं भजामि॥",
-          "transliteration": "calat kuṇḍala bhrū sunētraṁ viśālaṁ\nprasannānanaṁ nīlakaṇṭhaṁ dayālam |\nmṛgādhīśa carmāmbaraṁ muṇḍamālaṁ\npriyaṁ śaṅkaraṁ sarvanāthaṁ bhajāmi ||",
+          "startTime": 70,
+          "endTime": 93,
+          "original": "चलत्कुण्डलं भ्रूसुनेत्रं विशालं\nप्रसन्नाननं नीलकण्ठं दयालम् ।\nमृगाधीशचर्माम्बरं मुण्डमालं\nप्रियं शंकरं सर्वनाथं भजामि ॥ ४॥",
+          "transliteration": "calatkuṇḍalaṃ bhrūsunetraṃ viśālaṃ\nprasannānanaṃ nīlakaṇṭhaṃ dayālam .\nmṛgādhīśacarmāmbaraṃ muṇḍamālaṃ\npriyaṃ śaṃkaraṃ sarvanāthaṃ bhajāmi .. 4..",
           "translations": {
-            "english": "I worship the beloved Śaṅkara, the Lord of all (Sarvanātham). His eyes are beautiful and large (Su Nētraṁ Viśālam), with moving earrings (Calat Kuṇḍala) and captivating eyebrows (Bhrū). He has a cheerful face (Prasannānanaṁ), a blue throat (Nīlakaṇṭhaṁ), and is compassionate (Dayālam). He wears the hide of an elephant/lion (Mṛgādhīśa Carmāmbaraṁ) and a garland of skulls (Muṇḍamālaṁ)."
+            "english": "I worship Shankara, the Beloved Lord of all, with swaying earrings, beautiful large eyes and arched brows, a cheerful face, a blue throat, and who is compassionate. Who wears the skin of a lion (or tiger) and a garland of skulls."
           }
         },
         {
           "id": "rudrashtakam-1-5",
           "verse_number": 5,
-          "original": "प्रचण्डं प्रकृष्टं प्रगल्भं परेशं\nअखण्डं अजं भानु कोटि प्रकाशम्।\nत्रयः शूल निर्मूलनं शूलपाणिं\nभजेऽहं भवानीपतिं भावगम्यम्॥",
-          "transliteration": "pracaṇḍaṁ prakṛṣṭaṁ pragalbhaṁ parēśaṁ\nakhaṇḍaṁ ajaṁ bhānu kōṭi prakāśam |\ntrayah śūla nirmūlanaṁ śūlapāṇiṁ\nbhajē'haṁ bhavānīpatiṁ bhāvagamyam ||",
+          "startTime": 93,
+          "endTime": 115,
+          "original": "प्रचण्डं प्रकृष्टं प्रगल्भं परेशं\nअखण्डं अजं भानुकोटिप्रकाशम् ।\nत्रयः शूलनिर्मूलनं शूलपाणिं\nभजेऽहं भवानीपतिं भावगम्यम् ॥ ५॥",
+          "transliteration": "pracaṇḍaṃ prakṛṣṭaṃ pragalbhaṃ pareśaṃ\nakhaṇḍaṃ ajaṃ bhānukoṭiprakāśam .\ntrayaḥ śūlanirmūlanaṃ śūlapāṇiṃ\nbhaje'haṃ bhavānīpatiṃ bhāvagamyam .. 5..",
           "translations": {
-            "english": "I worship Bhāvanī’s consort (Bhavānīpatiṁ), who is attained through pure feeling (Bhāvagamyam). He is tremendous (Pracaṇḍaṁ), excellent (Prakṛṣṭaṁ), valiant (Pragalbhaṁ), and the Supreme Lord (Parēśaṁ). He is indivisible (Akhaṇḍaṁ), unborn (Ajaṁ), and shines with the brilliance of millions of suns (Bhānu Kōṭi Prakāśam). He holds the trident (Śūlapāṇiṁ) and eradicates the three types of suffering (Trayah Śūla Nirmūlanam)."
+            "english": "I worship the Lord of Bhavani, who is attainable through devotion. He is Fierce, Exalted, Resolute, the Supreme Lord, Indivisible, Unborn, and radiant like ten million suns. He holds the trident and destroys the three kinds of suffering (physical, mental, and spiritual)."
           }
         },
         {
           "id": "rudrashtakam-1-6",
           "verse_number": 6,
-          "original": "कलातीत कल्याण कल्पान्तकारी\nसदा सज्जनानन्द दाता पुरारी।\nचिदानन्द सन्दोह मोहापहारी\nप्रसीद प्रसीद प्रभो मन्मथारी॥",
-          "transliteration": "kalātīta kalyāṇa kalpāntakārī\nsadā sajjanānanda dātā purārī |\ncidānanda sandōha mōhāpahārī\nprasīda prasīda prabhō manmathārī ||",
+          "startTime": 115,
+          "endTime": 138,
+          "original": "कलातीतकल्याण कल्पान्तकारी\nसदा सज्जनानन्ददाता पुरारी ।\nचिदानन्दसंदोह मोहापहारी\nप्रसीद प्रसीद प्रभो मन्मथारी ॥ ६॥",
+          "transliteration": "kalātītakalyāṇa kalpāntakārī\nsadā sajjanānandadātā purārī .\ncidānandasaṃdoha mohāpahārī\nprasīda prasīda prabho manmathārī .. 6..",
           "translations": {
-            "english": "O Lord, the enemy of Cupid (Manmathārī)! Be pleased, be pleased (Prasīda)! You are beyond the arts (Kalātīta), auspicious (Kalyāṇa), the destroyer at the end of the Kalpa (Kalpāntakārī). You are always the giver of joy to the virtuous (Sadā Sajjanānanda Dātā), the destroyer of the three cities (Purārī). You are an abundance of consciousness and bliss (Cidānanda Sandōha), and the remover of delusion (Mōhāpahārī)."
+            "english": "O Enemy of Kamadeva (Cupid)! O Lord! Be pleased! Be pleased! You are beyond time (art/attributes), the Embodiment of Auspiciousness, the Cause of the End of the Aeon. You are the Destroyer of the Tripuras, the Giver of eternal bliss to the virtuous, the Concentration of Consciousness and Bliss, and the Dispeller of Delusion."
           }
         },
         {
           "id": "rudrashtakam-1-7",
           "verse_number": 7,
-          "original": "न यावद् उमानाथ पादारविन्दं\nभजन्तीह लोके परे वा नराणाम्।\nन तावत् सुखं शान्ति सन्ताप नाशं\nप्रसीद प्रभो सर्वभूताधिवासम्॥",
-          "transliteration": "na yāvad umānātha pādāravindaṁ\nbhajantīha lōkē parē vā narāṇām |\nna tāvat sukhaṁ śānti santāpa nāśaṁ\nprasīda prabhō sarvabhūtādhivāsam ||",
+          "startTime": 138,
+          "endTime": 160,
+          "original": "न यावद् उमानाथपादारविन्दं\nभजन्तीह लोके परे वा नराणाम् ।\nन तावत्सुखं शान्ति सन्तापनाशं\nप्रसीद प्रभो सर्वभूताधिवासम् ॥ ७॥",
+          "transliteration": "na yāvad umānāthapādāravindaṃ\nbhajantīha loke pare vā narāṇām .\nna tāvatsukhaṃ śānti santāpanāśaṃ\nprasīda prabho sarvabhūtādhivāsam .. 7..",
           "translations": {
-            "english": "O Lord, the indweller of all beings (Sarvabhūtādhivāsam)! Be pleased! As long as people, either in this world or the next, do not worship the lotus feet of Umā’s Lord (Umānātha Pādāravindaṁ), they cannot attain happiness, peace, or the destruction of sorrow (Na Tāvat Sukhaṁ Śānti Santāpa Nāśaṁ)."
+            "english": "As long as humans do not worship the lotus feet of the Lord of Uma, they will find no happiness, peace, or end to suffering in this world or the next. O Lord who dwells in all beings! Be pleased!"
           }
         },
         {
           "id": "rudrashtakam-1-8",
           "verse_number": 8,
-          "original": "प्रसीद प्रभो सर्वभूताधिवासं\nन जानामि योगं जपं नैव पूजां\nनतोऽहं सदा सर्वदा शम्भु तुभ्यम्।\nजरा जन्म दुःखौघ तातप्यमानं\nप्रभो पाहि आपन्न मामीश शम्भो॥",
-          "transliteration": "na jānāmi yōgaṁ japaṁ naiva pūjāṁ\nnatō'haṁ sadā sarvadā śambhu tubhyam |\njarā janma duḥkhaugha tātapyamānaṁ\nprabhō pāhi āpanna māmīśa śambhō ||",
+          "startTime": 160,
+          "endTime": 182,
+          "original": "न जानामि योगं जपं नैव पूजां\nनतोऽहं सदा सर्वदा शम्भुतुभ्यम् ।\nजराजन्मदुःखौघ तातप्यमानं\nप्रभो पाहि आपन्नमामीश शम्भो ॥ ८॥",
+          "transliteration": "na jānāmi yogaṃ japaṃ naiva pūjāṃ\nnato'haṃ sadā sarvadā śambhutubhyam .\njarājanmaduḥkhaugha tātapyamānaṃ\nprabho pāhi āpannamāmīśa śambho .. 8..",
           "translations": {
-            "english": "I know neither Yoga, nor Japa (chanting), nor Pūjā (worship). I bow to you always, O Śambhu (Śambhu Tubhyam). O Lord (Prabhō), O Master (Īśa), O Giver of bliss (Śambhō), protect me, the distressed one (Āpanna Māmi), who is burning with the host of miseries of old age and birth (Jarā Janma Duḥkhaugha Tātapyamānaṁ)."
+            "english": "I do not know Yoga, Japa (chanting), or Puja (ritual worship). O Shambhu! I always bow to You. O Lord! Protect me from the burning sorrows of old age and the cycle of birth and death. O Lord Shambhu! I surrender to You! Protect me!"
           }
-        }
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "name": "Phala Shruti (Benefits of Recitation)",
-      "verses_count": 1,
-      "verses": [
-        {
-          "id": "rudrashtakam-2-1",
+        },
+         {
+          "id": "rudrashtakam-1-9",
           "verse_number": 9,
-          "original": "रुद्राष्टकमिदं प्रोक्तं विप्रेण हरतोषये\nये पठन्ति नरा भक्त्या तेषां शम्भुः प्रसीदति॥",
-          "transliteration": "rudrāṣṭakamidaṁ prōktaṁ viprēṇa haratōṣayē\nyē paṭhanti narā bhaktyā tēṣāṁ śambhuḥ prasīdati ||",
+          "startTime": 182,
+          "endTime": 215,
+          "original": "रुद्राष्टकमिदं प्रोक्तं विप्रेण हरतोषये ।\nये पठन्ति नरा भक्त्या तेषां शम्भुः प्रसीदति ॥",
+          "transliteration": "rudrāṣṭakamidaṃ proktaṃ vipreṇa haratoṣaye .\nye paṭhanti narā bhaktyā teṣāṃ śambhuḥ prasīdati ..",
           "translations": {
-            "english": "This Rudrashtakam was composed by the Brahmin (Viprēṇa) for the satisfaction of Hara (Lord Shiva). Those people who recite it with devotion (Bhaktyā), Śambhu (Lord Shiva) is pleased with them (Tēṣāṁ Śambhuḥ Prasīdati)."
+            "english": "This Rudrashtakam was spoken by the Brahmin (Lomash Rishi) to please Hara (Shiva). Those who recite it with devotion, Lord Shambhu becomes pleased with them."
           }
         }
       ]
