@@ -1,9 +1,85 @@
 {
   "id": "Devotional",
   "categories": {
-    "bhajans": "MyNSOu-Fl-k,ZD72mEhB6TE,pApyQSxCNsA,cFGHAavFIug,H1acGCRP9ww,fUCDA3p4r2k,PoNVVK7cVY0,PsSdXO220Hc,3o95qn8BjdQ,4ikBnS2oDuw,KU0AixzMmHs,2YdF87qDaro",
-    "discourses": "Q7hU2MhHTbg,qIZQWI4BXRo,PLbpMBktp5wzXcSh-jyRw7e0aPzQwTARp4",
-    "nadaswaram": "509NqwF7I30&si=Q7Eum8TK2MJaT5q6,is1je7gKLkA&si=8ctX-RaJ9pSAhNM1",
-    "shehnai": "yoH36u7zEK8&si=4zxqv2Bt18gQC-qd"
+    "bhajans": [
+      {
+        "id": "k&si=oWV6vb8FZ5YrCzjN",
+        "title": "Sri Ramachandra Krupalu - Soorya Gayatri - Kuldeep M Pai"
+      },
+      {
+        "id": "ZD72mEhB6TE&si=ONkblN7lquWjEl6i",
+        "title": "Jagjit Singh"
+      },
+      {
+        "id": "pApyQSxCNsA&si=D7aspHp-lwIKY7Ef",
+        "title": "Ye Chamak Ye Dhamak - Sudhir Vyas"
+      },
+      {
+        "id": "cFGHAavFIug&si=A86lPFxkqHl2X40j",
+        "title": "Sree Krishna Govinda Hare Murare - Jagjit Singh"
+      },
+      {
+        "id": "H1acGCRP9ww&si=g9m11ULlIim3ZRE-",
+        "title": "Endukayya Neekintha Daya - Ram Miryala - Sounds of Isha"
+      },
+      {
+        "id": "fUCDA3p4r2k&si=TjZn-ezSMnCwid8x",
+        "title": "Raghuveera Gadhyam - Vedanta Desika - Abhishek Raghuram"
+      },
+      {
+        "id": "PoNVVK7cVY0&si=E79EQNB_xXMVGNhQ",
+        "title": "Sur Niragas Ho - Trisha Kale"
+      },
+      {
+        "id": "PsSdXO220Hc&si=F4PckMUKq3WPHv-U",
+        "title": "Maze Maaher Pandhari - Pandit Bhimsen Joshi"
+      },
+      {
+        "id": "3o95qn8BjdQ&si=-TBfpOcmtVumRk_2",
+        "title": "Mero Mann Vrindavan Mein Atko - Shri Indresh Upadhyay ji | MOhit Lalwani | Karan - Navdeep"
+      },
+      {
+        "id": "4ikBnS2oDuw&si=fr_ps7C1oJ3L-F6X",
+        "title": "Baro Krishnayya I Spoorthi Rao I Kanakadasa"
+      },
+      {
+        "id": "KU0AixzMmHs&si=jfJmsLfGAIwstoq1",
+        "title": "Achutam Keshavam - Kaun Kehte hai Bhagwan Aate nahi - Ankit Batrag | Krishna Bhajan"
+      },
+      {
+        "id": "2YdF87qDaro&si=xwjbPyVZUIfUq_19",
+        "title": "Bhaja Govindam - MS Subbulakshmi"
+      }
+    ],
+    "discourses": [
+      {
+        "id": "MyNSOu-Fl-k",
+        "title": "Shiva Tandava"
+      },
+      {
+        "id": "ZD72mEhB6TE",
+        "title": "Aigiri Nandini"
+      }
+    ],
+    "nadaswaram": [
+      {
+        "id": "MyNSOu-Fl-k",
+        "title": "Shiva Tandava"
+      },
+      {
+        "id": "ZD72mEhB6TE",
+        "title": "Aigiri Nandini"
+      }
+    ],
+    "shehnai": [
+      {
+        "id": "MyNSOu-Fl-k",
+        "title": "Shiva Tandava"
+      },
+      {
+        "id": "ZD72mEhB6TE",
+        "title": "Aigiri Nandini"
+      }
+    ]
   }
 }
