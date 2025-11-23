@@ -75,20 +75,17 @@
           "audioSource": "Adi Shankaracharya - Vinay Varanasi"
         }
     ],
-    "nadaswaram": [
+    "Instrumental": [
        {
           "Track": 1,
           "audioUrl": "https://www.youtube.com/watch?v=LiEr-jexwjU&list=RDLiEr-jexwjU&start_radio=1",
-          "audioSource": "Raga Sahana - Mylai Karthikeyan"
+          "audioSource": "Nadaswaram - Raga Sahana - Mylai Karthikeyan"
         },
         {
           "Track": 2,
           "audioUrl": "https://www.youtube.com/watch?v=509NqwF7I30&list=RD509NqwF7I30&start_radio=1&t=132s",
-          "audioSource": "Mangala Vadyam - Jayashankar and Valayappatti AR Subramaniam"
+          "audioSource": "Nadaswaram - Mangala Vadyam - Jayashankar and Valayappatti AR Subramaniam"
         }
-    ],
-    "shehnai": [
-
     ]
   }
 }
