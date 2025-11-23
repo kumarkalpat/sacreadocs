@@ -2,84 +2,102 @@
   "id": "Devotional",
   "categories": {
     "bhajans": [
-      {
-        "id": "k&si=oWV6vb8FZ5YrCzjN",
-        "title": "Sri Ramachandra Krupalu - Soorya Gayatri - Kuldeep M Pai"
-      },
-      {
-        "id": "ZD72mEhB6TE&si=ONkblN7lquWjEl6i",
-        "title": "Jagjit Singh"
-      },
-      {
-        "id": "pApyQSxCNsA&si=D7aspHp-lwIKY7Ef",
-        "title": "Ye Chamak Ye Dhamak - Sudhir Vyas"
-      },
-      {
-        "id": "cFGHAavFIug&si=A86lPFxkqHl2X40j",
-        "title": "Sree Krishna Govinda Hare Murare - Jagjit Singh"
-      },
-      {
-        "id": "H1acGCRP9ww&si=g9m11ULlIim3ZRE-",
-        "title": "Endukayya Neekintha Daya - Ram Miryala - Sounds of Isha"
-      },
-      {
-        "id": "fUCDA3p4r2k&si=TjZn-ezSMnCwid8x",
-        "title": "Raghuveera Gadhyam - Vedanta Desika - Abhishek Raghuram"
-      },
-      {
-        "id": "PoNVVK7cVY0&si=E79EQNB_xXMVGNhQ",
-        "title": "Sur Niragas Ho - Trisha Kale"
-      },
-      {
-        "id": "PsSdXO220Hc&si=F4PckMUKq3WPHv-U",
-        "title": "Maze Maaher Pandhari - Pandit Bhimsen Joshi"
-      },
-      {
-        "id": "3o95qn8BjdQ&si=-TBfpOcmtVumRk_2",
-        "title": "Mero Mann Vrindavan Mein Atko - Shri Indresh Upadhyay ji | MOhit Lalwani | Karan - Navdeep"
-      },
-      {
-        "id": "4ikBnS2oDuw&si=fr_ps7C1oJ3L-F6X",
-        "title": "Baro Krishnayya I Spoorthi Rao I Kanakadasa"
-      },
-      {
-        "id": "KU0AixzMmHs&si=jfJmsLfGAIwstoq1",
-        "title": "Achutam Keshavam - Kaun Kehte hai Bhagwan Aate nahi - Ankit Batrag | Krishna Bhajan"
-      },
-      {
-        "id": "2YdF87qDaro&si=xwjbPyVZUIfUq_19",
-        "title": "Bhaja Govindam - MS Subbulakshmi"
-      }
+       {
+          "Track": 1,
+          "audioUrl": "https://music.youtube.com/watch?v=MyNSOu-Fl-k&si=oWV6vb8FZ5YrCzjN",
+          "audioSource": "Sri Ramachandra Krupalu - Soorya Gayatri - Kuldeep M Pai"
+        },
+        {
+          "Track": 2,
+          "audioUrl": "https://music.youtube.com/watch?v=ZD72mEhB6TE&si=ONkblN7lquWjEl6i",
+          "audioSource": "Jagjit Singh"
+        },
+        {
+           "Track": 3,
+          "audioUrl": "https://music.youtube.com/watch?v=pApyQSxCNsA&si=D7aspHp-lwIKY7Ef",
+          "audioSource": "Ye Chamak Ye Dhamak - Sudhir Vyas"
+        },
+        {
+          "Track": 4,
+          "audioUrl": "https://music.youtube.com/watch?v=cFGHAavFIug&si=A86lPFxkqHl2X40j",
+          "audioSource": "Sree Krishna Govinda Hare Murare - Jagjit Singh"
+        },
+        {
+          "Track": 5,
+          "audioUrl": "https://music.youtube.com/watch?v=H1acGCRP9ww&si=g9m11ULlIim3ZRE-",
+          "audioSource": "Endukayya Neekintha Daya - Ram Miryala - Sounds of Isha"
+        },
+        {
+          "Track": 6,
+          "audioUrl": "https://music.youtube.com/watch?v=fUCDA3p4r2k&si=TjZn-ezSMnCwid8x",
+          "audioSource": "Raghuveera Gadhyam - Vedanta Desika - Abhishek Raghuram"
+        },
+        {
+          "Track": 7,
+          "audioUrl": "https://music.youtube.com/watch?v=PoNVVK7cVY0&si=E79EQNB_xXMVGNhQ",
+          "audioSource": "Sur Niragas Ho - Trisha Kale"
+        },
+        {
+          "Track": 8,
+          "audioUrl": "https://music.youtube.com/watch?v=PsSdXO220Hc&si=F4PckMUKq3WPHv-U",
+          "audioSource": "Maze Maaher Pandhari - Pandit Bhimsen Joshi"
+        },
+        {
+          "Track": 9,
+          "audioUrl": "https://music.youtube.com/watch?v=3o95qn8BjdQ&si=-TBfpOcmtVumRk_2",
+          "audioSource": "Mero Mann Vrindavan Mein Atko - Shri Indresh Upadhyay ji | MOhit Lalwani | Karan - Navdeep"
+        },
+        {
+          "Track": 10,
+          "audioUrl": "https://music.youtube.com/watch?v=4ikBnS2oDuw&si=fr_ps7C1oJ3L-F6X",
+          "audioSource": "Baro Krishnayya I Spoorthi Rao I Kanakadasa"
+        },
+        {
+          "Track": 11,
+          "audioUrl": "https://music.youtube.com/watch?v=KU0AixzMmHs&si=jfJmsLfGAIwstoq1",
+          "audioSource": "Achutam Keshavam - Kaun Kehte hai Bhagwan Aate nahi - Ankit Batrag | Krishna Bhajan"
+        },
+        {
+          "Track": 12,
+          "audioUrl": "https://music.youtube.com/watch?v=2YdF87qDaro&si=xwjbPyVZUIfUq_19",
+          "audioSource": "Bhaja Govindam - MS Subbulakshmi"
+        }
     ],
     "discourses": [
-      {
-        "id": "MyNSOu-Fl-k",
-        "title": "Shiva Tandava"
-      },
-      {
-        "id": "ZD72mEhB6TE",
-        "title": "Aigiri Nandini"
-      }
+       {
+          "Track": 1,
+          "audioUrl": "https://music.youtube.com/watch?v=MyNSOu-Fl-k&si=oWV6vb8FZ5YrCzjN",
+          "audioSource": "Sri Ramachandra Krupalu - Soorya Gayatri - Kuldeep M Pai"
+        },
+        {
+          "Track": 2,
+          "audioUrl": "https://music.youtube.com/watch?v=ZD72mEhB6TE&si=ONkblN7lquWjEl6i",
+          "audioSource": "Jagjit Singh"
+        }
     ],
     "nadaswaram": [
-      {
-        "id": "MyNSOu-Fl-k",
-        "title": "Shiva Tandava"
-      },
-      {
-        "id": "ZD72mEhB6TE",
-        "title": "Aigiri Nandini"
-      }
+       {
+          "Track": 1,
+          "audioUrl": "https://music.youtube.com/watch?v=MyNSOu-Fl-k&si=oWV6vb8FZ5YrCzjN",
+          "audioSource": "Sri Ramachandra Krupalu - Soorya Gayatri - Kuldeep M Pai"
+        },
+        {
+          "Track": 2,
+          "audioUrl": "https://music.youtube.com/watch?v=ZD72mEhB6TE&si=ONkblN7lquWjEl6i",
+          "audioSource": "Jagjit Singh"
+        }
     ],
     "shehnai": [
-      {
-        "id": "MyNSOu-Fl-k",
-        "title": "Shiva Tandava"
-      },
-      {
-        "id": "ZD72mEhB6TE",
-        "title": "Aigiri Nandini"
-      }
+       {
+          "Track": 1,
+          "audioUrl": "https://music.youtube.com/watch?v=MyNSOu-Fl-k&si=oWV6vb8FZ5YrCzjN",
+          "audioSource": "Sri Ramachandra Krupalu - Soorya Gayatri - Kuldeep M Pai"
+        },
+        {
+          "Track": 2,
+          "audioUrl": "https://music.youtube.com/watch?v=ZD72mEhB6TE&si=ONkblN7lquWjEl6i",
+          "audioSource": "Jagjit Singh"
+        }
     ]
   }
 }
