@@ -1,31 +1,181 @@
-
 {
-    "id": "shiva",
-    "chapters": [
+  "id": "shiva-tandava-stotram",
+  "title": "Śiva Tāṇḍava Stotram",
+  "author": "Rāvaṇa (Daśakaṇṭha)",
+  "introduction": "The Shiva Tandava Stotram is a deeply powerful and rhythmic hymn that glorifies Lord Shiva’s cosmic dance, known as the Tāṇḍava. It is traditionally attributed to Ravana, the demon king of Lanka, who was a great devotee of Lord Shiva. More information on the Shiva Tandava Stotram can be found at the end of this page.",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "name": "The Hymn of the Cosmic Dance",
+      "summary": "This chapter contains the 15 verses of the stotram, praising Lord Shiva's fierce yet benevolent Tāṇḍava dance, His attributes (the Ganges, the serpent garland, the crescent moon), and His role as the destroyer of cosmic obstacles. The stotram concludes with the benefits (Phalaśruti) of its daily recitation.",
+      "verses_count": 15,
+      "verses": [
         {
-            "chapter_number": 1,
-            "name": "Shiva Tandava Stotram",
-            "summary": "A vigorous devotional hymn composed in the Pañcacāmara Jati meter, describing the Lord Shiva’s power and beauty. The hymn primarily focuses on Shiva’s cosmic dance (Tandava), his adornments (matted hair, Ganga, serpents, skull garland), and his role as the ultimate destroyer of illusion and bestower of bliss.",
-            "verses_count": 17,
-            "verses": [
-                { "id": "shiva-1-1", "verse_number": 1, "original": "जटा टवी गलज्जल प्रवाह पावित स्थले ।\nगलेऽवलम्ब्य लम्बितां भुजङ्ग तुङ्ग मालिकाम् ॥\nडमड् डमड् डमड् डमन् निनाद वड्डमर्वयम् ।\nचकार चण्ड ताण्डवं तनोतु नः शिवः शिवम् ॥", "transliteration": "jaṭā-tawī-galaj-jala-pravāha-pāvitā-sthalē |\ngalē-’valambya lambitāṁ bhujaṅga-tuṅga-mālikām ||\nḍamaḍ ḍamaḍ ḍamaḍ ḍaman-nināda-vaḍḍamarvayam |\ncakāra caṇḍa-tāṇḍavaṁ tanōtu naḥ śivaḥ śivam ||", "translations": { "english": "May Lord Shiva, who performs the fierce Tandava dance—with the place made holy by the stream of water flowing from his forest-like matted hair, and whose neck is adorned with the lofty garland of a serpent that hangs down—bestow prosperity upon us (śiva) as he makes the sound \"ḍamaḍ ḍamaḍ ḍamaḍ ḍamaḍ\" from his drum (ḍamaru)." } },
-                { "id": "shiva-1-2", "verse_number": 2, "original": "जटा कटा हसं भ्रम भ्रमन्निलिम्प निर्झरी ।\nविलोल वीचि वल्लरी विराजमान मूर्धनि ॥\nधगद् धगद् धगज् ज्वलल् ललाट पट्ट पावके ।\nकिशोर चन्द्र शेखरे रतिः प्रतिक्षणं मम ॥", "transliteration": "jaṭā-kaṭāha-sambhrama-bhramannilimpā-nirjharī |\nvilōla-vīci-vallarī-virājamāna-mūrdhani ||\ndhagad dhagad dhagaj-jvalal-lalāṭa-paṭṭa-pāvakē |\nkiśōra-candra-śēkharē ratiḥ pratikṣaṇaṁ mama ||", "translations": { "english": "My deep attachment (ratih) is for Lord Shiva, whose head is adorned and purified by the wandering river Ganga, who spirals within the hollow of his matted hair; whose forehead shines with the blazing fire (\"dhagad dhagad\") and who bears the crescent moon (kiśōra-candra) as his crest jewel." } },
-                { "id": "shiva-1-3", "verse_number": 3, "original": "धरा धरेन्द्र नन्दिनी विलास बन्धु बन्धुर ।\nस्फुरद् दिगन्त सन्तति प्रमोद मान मानसे ॥\nकृपा कटाक्ष धोरणी निरुद्ध दुर्धरापदि ।\nक्वचिद् दिगम्बरे मनो विनोदमेतु वस्तुनि ॥", "transliteration": "dharā-dharēndra-nandinī-vilāsa-bandhu-bandhura |\nsphurad-diganta-santati-pramōda-māna-mānasē ||\nkṛpā-kaṭākṣa-dhōraṇī-niruddha-durdharāpadi |\nkvacid-digambare manō vinōdamētu vastuni ||", "translations": { "english": "May my mind find joy in the reality of Lord Shiva, who is the handsome companion in the playful sports of the daughter of the mountain king (Pārvatī); whose mind rejoices in the multitude of dazzling worlds across the directions; and whose continuous stream of merciful side-glances holds back the most intractable calamities. He who is clad in the directions (Digambara)." } },
-                { "id": "shiva-1-4", "verse_number": 4, "original": "जटा भुजङ्ग पिङ्गल स्फुरत्फणा मणि प्रभा ।\nकदम्ब कुङ्कुम द्रव प्रलिप्त दिग्वधू मुखे ॥\nमदान्ध सिन्धुर स्फुरत् त्वगुत्तरीय मेदुरे ।\nमनो विनोदमद्भुतं बिभर्तु भूत भर्तरि ॥", "transliteration": "jaṭā-bhujaṅga-piṅgala-sphurat-phaṇā-maṇi-prabhā |\nkadamba-kuṅkuma-drava-pralipta-digvadhū-mukhē ||\nmadāndha-sindhura-sphurat-tvaguttarīya-mēdurē |\nmanō-vinōdam-adbhutaṁ bibhartu bhūta-bhartari ||", "translations": { "english": "May my heart find wondrous delight in the Lord of living beings (Bhūta Bhartari), whose shining gem on the hood of the coiling, tawny-colored serpent in his matted hair, illuminates the faces of the maidens of the directions (Digvadhū), which are anointed with the liquid of Kadamba flowers and saffron; and who is richly clad in the shining skin of a frenzied, intoxicated elephant." } },
-                { "id": "shiva-1-5", "verse_number": 5, "original": "सहस्र लोचन प्रभृत्य शेष लेख शेखर ।\nप्रसून धूलि धोरणी विधूसराङ्घ्रि पीठभूः ॥\nभुजङ्ग राज मालया निबद्ध जाट जूटक ।\nश्रियै चिराय जायतां चकोर बन्धु शेखरः ॥", "transliteration": "sahasra-lōcana-prabhṛty-aśeṣa-lēkha-śēkhara |\nprasūna-dhūli-dhōraṇī-vidhūsarāṅghri-pīṭha-bhūḥ ||\nbhujaṅga-rāja-mālayā-nibaddha-jāṭa-jūṭaka |\nśriyai cirāya jāyatāṁ cakōra-bandhu-śēkharaḥ ||", "translations": { "english": "May Lord Shiva, whose crest is adorned by the moon (the friend of the Chakora bird), whose footstool is made dusty by the continuous stream of pollen from the flowers on the heads of all the Gods—including Indra (the thousand-eyed), and whose matted hair is bound by a garland of the King of Serpents, grant us long-lasting prosperity." } },
-                { "id": "shiva-1-6", "verse_number": 6, "original": "ललाट चत्वर ज्वलद् धनञ्जय स्फुलिङ्गभा ।\nनिपीत पञ्च सायकां नमन् निलिम्प नायकम् ॥\nसुधा मयूख लेखया विराजमान शेखरं ।\nमहा कपालि सम्पदे शिरो जटा लमस्तु नः ॥", "transliteration": "lalāṭa-catvara-jvalad-dhanañjaya-sphuliṅgabhā |\nnipīta-pañca-sāyakaṁ naman-nilimpā-nāyakām ||\nsudhā-mayūkha-lēkhayā-virājamāna-śēkharaṁ |\nmahā-kapāli-sampadē śirō-jaṭā-lamastu naḥ ||", "translations": { "english": "May the matted hair on Shiva’s head, which contains the glowing, moon-like line of nectar and which bowed to the leader of the gods (Indra) whose five arrows (of Kama) were consumed by the sparkling fire (Dhananjaya) blazing on His forehead, grant us the wealth of the great skull-bearer (Mahakapali)." } },
-                { "id": "shiva-1-7", "verse_number": 7, "original": "कराल भाल पट्टिका धगद् धगद् धगज् ज्वलत् ।\nधनञ्जयाहुती कृत प्रचण्ड पञ्च सायके ॥\nधरा धरेन्द्र नन्दिनी कुचाग्र चित्र पत्रक ।\nप्रकल्प नैक शिल्पिनि त्रिलोचने रतिर्मम ॥", "transliteration": "karāla-bhāla-paṭṭikā-dhagad-dhagad-dhagaj-jvalat |\ndhanañjayāhutī-kṛta-pracaṇḍa-pañca-sāyakē ||\ndharā-dharēndra-nandinī-kucāgra-citra-patraka |\nprakalpa-naika-śilpini trilōcanē ratirmama ||", "translations": { "english": "My devotion (ratih) is in the three-eyed Lord (Trilocana), who is the sole artist in drawing beautiful decorative lines on the tips of the breasts of the Mountain King’s daughter (Parvati); whose mighty five arrows (of Kama) were consumed as an offering in the furiously blazing fire (\"dhagad dhagad\") on His terrible forehead." } },
-                { "id": "shiva-1-8", "verse_number": 8, "original": "नवीन मेघ मण्डली निरुद् धदुर् धर स्फुरत् ।\nकुहू निशीथिनी तमः प्रबन्ध बद्ध कन्धरः ॥\nनिलिम्प निर्झरी धरस् तनोतु कृत्ति सिन्धुरः ।\nकला निधान बन्धुरः श्रियं जगद् धुरन्धरः ॥", "transliteration": "navīna-mēgha-maṇḍalī-niruddha-durdhara-sphurat |\nkuhū-niśīthinī-tamaḥ-prabandha-baddha-kandharaḥ ||\nnilimpā-nirjharī-dharas-tanōtu kṛtti-sindhuraḥ |\nkalā-nidhāna-bandhuraḥ śriyaṁ jagad-dhurandharaḥ ||", "translations": { "english": "May Lord Shiva, who is beautiful with the moon (the treasure of arts), who bears the celestial river (Ganga), who is clad in an elephant skin (Kṛtti Sindura), whose neck is darkened like the impossible glow of a new moon night (Kuhu) obstructed by masses of fresh clouds, and who bears the entire universe, bestow prosperity upon us." } },
-                { "id": "shiva-1-9", "verse_number": 9, "original": "प्रफुल्ल नील पङ्कज प्रपञ्च कालिम प्रभा ।\nवलम्बि कण्ठ कन्दली रुचि प्रबन्ध कन्धरम् ॥\nस्मरच्छिदं पुरच्छिदं भवच्छिदं मखच्छिदम् ।\nगजच्छिदान्धकच्छिदं तमन्तकच्छिदं भजे ॥", "transliteration": "praphulla-nīla-paṅkaja-prapañca-kālimā-prabhā |\nvalambi-kaṇṭha-kandalī-ruci-prabandha-kandharam ||\nsmara-cchidaṁ pura-cchidaṁ bhava-cchidaṁ makha-cchidam |\ngaja-cchidāndhaka-cchidaṁ tamantaka-cchidaṁ bhajē ||", "translations": { "english": "I worship (bhajē) him who has a neck whose beauty is heightened by the dark radiance of a blooming blue lotus garland (Nīla Paṅkaja); who destroyed desire (Smara-cchidaṁ), destroyed the cities (Pura-cchidaṁ), destroyed worldy bondage (Bhava-cchidaṁ), destroyed the sacrifice (Makha-cchidaṁ), destroyed the elephant demon (Gaja-cchidā), destroyed the Andhaka demon (Andhaka-cchidā), and destroyed Death itself (Antaka-cchidā)." } },
-                { "id": "shiva-1-10", "verse_number": 10, "original": "अखर्व सर्व मङ्गला कला कदम्ब मञ्जरी ।\nरस प्रवाह माधुरी विजृम्भणा मधुव्रतम् ॥\nस्मरान्तकं पुरान्तकं भवान्तकं मखान्तकम् ।\nगजान्तकान्धकान्तकं तमन्तकान्तकं भजे ॥", "transliteration": "akharva-sarva-maṅgalā-kalā-kadamba-mañjarī |\nrasa-pravāha-mādhurī-vijṛmbhaṇā-madhuvratam ||\nsmarāntakaṁ purāntakaṁ bhavāntakaṁ makhāntakam |\ngajāntakāndhakāntakaṁ tamantakāntakaṁ bhajē ||", "translations": { "english": "I worship (bhajē) him who is like a bee (Madhu-vratam) feasting on the sweet nectar flowing from the glorious Kadamba flower clusters of all auspicious arts (Sarva-Maṅgalā); who terminated desire (Smara-antakam), terminated the cities (Pura-antakam), terminated worldly existence (Bhava-antakam), terminated the sacrifice (Makha-antakam), terminated the elephant demon and the Andhaka demon (Gajāntaka-Andhakāntakam), and terminated Death itself (Antaka-antakam)." } },
-                { "id": "shiva-1-11", "verse_number": 11, "original": "जयत्वदभ्र विभ्रम भ्रमद् भुजङ्ग मश्वसत् ।\nविनिर्गमत् क्रम स्फुरत् कराल भाल हव्यवाट् ॥\nधिमिद्धिमिद्धिमि ध्वनि मृदङ्ग तुङ्ग मङ्गल ।\nध्वनि क्रम प्रवर्तित प्रचण्ड ताण्डवः शिवः ॥", "transliteration": "jayatvad-abhrā-vibhrama-bhramad-bhujaṅga-maśvasat |\nvinirgamat-krama-sphurat-karāla-bhāla-havyavāṭ ||\ndhimi-dhimi-dhimi-dhvani-mṛdaṅga-tuṅga-maṅgala |\ndhvani-krama-pravartita-pracaṇḍa-tāṇḍavaḥ śivaḥ ||", "translations": { "english": "Victorious is Lord Shiva, whose fierce Tandava dance is set in motion by the succession of majestic and auspicious sounds (\"dhimi dhimi dhimi\") emanating from the Mṛdaṅga drum, while the fire on His terrifying forehead blazes with the sequential breaths of the great snakes whirling swiftly in the sky (like clouds)." } },
-                { "id": "shiva-1-12", "verse_number": 12, "original": "दृषद्विचित्र तल्पयोर् भुजङ्ग मौक्तिक स्रजोर् ।\nगरिष्ठ रत्न लोष्ठयोः सुहृद् विपक्ष पक्षयोः ॥\nतृणार विन्द चक्षुषोः प्रजा मही महेन्द्रयोः ।\nसमं प्रवर्तयन् मनः कदा सदाशिवं भजे ॥", "transliteration": "dṛṣad-vicitra-talpayōr-bhujaṅga-mauktika-srajōr |\ngariṣṭha-ratna-lōṣṭayōḥ suhṛd-vipakṣa-pakṣayōḥ ||\ntṛṇāra-vinda-cakṣuṣōḥ prajā-mahī-mahēndrayōḥ |\nsamaṁ pravartayan manaḥ kadā sadāśivaṁ bhajē ||", "translations": { "english": "When shall I worship (bhajē) the eternally benevolent Lord (Sadashiva), who views with equal mind (samaṁ pravartayan manaḥ) a multicolored stone and a soft bed, a snake garland and a pearl necklace, a valuable jewel and a lump of clay, the friendly side and the enemy side, a blade of grass and a lotus eye, and common people and the great emperor?" } },
-                { "id": "shiva-1-13", "verse_number": 13, "original": "कदा निलिम्प निर्झरी निकुञ्ज कोटरे वसन् ।\nविमुक्त दुर्मतिः सदा शिरः स्थमञ्जलिं वहन् ॥\nविमुक्त लोल लोचनो ललाट भाल लग्नकः ।\nशिवेति मन्त्रमुच्चरन् कदा सुखी भवाम्यहम् ॥", "transliteration": "kadā nilimpā-nirjharī-nikuñja-kōṭarē vasan |\nvimukta-durmatiḥ sadā śiraḥ-stham-añjaliṁ vahan ||\nvimukta-lōla-lōcanō lalāṭa-bhāla-lagnakaḥ |\nśivēti-mantram-uccaran-kadā sukhī bhavāmyaham ||", "translations": { "english": "When shall I become truly happy (kadā sukhī bhavāmyaham) by residing in a cave near the celestial river (Ganga) forest, with my evil thoughts banished, holding my folded hands above my head, concentrating my wavering sight on the forehead of Lord Shiva, and continually chanting the mantra \"Śivēti\" (Shiva)?" } },
-                { "id": "shiva-1-14", "verse_number": 14, "original": "निलिम्प नाथनागरी कदम्ब मौल मल्लिका ।\nनिगुम्फ निर्भक्ष्णिका मधुनिका मनोहरः ॥\nतनोतु नो मनोमुदं विनोदिनी महेसः ।\nपरिश्रय परं पदं तदालये स्थितः ॥", "transliteration": "nilimpā-nāthanāgarī-kadamba-maula-mallikā |\nniguṁpha-nirbhakṣṇikā-madhunikā-manōharaḥ ||\ntanōtu nō manōmudaṁ vinōdinī mahēsaḥ |\npariśraya paraṁ padaṁ tadālayē sthitaḥ ||", "translations": { "english": "May the great Lord (Maheśa), whose captivating garland of Kadamba and Mallikā flowers worn by the celestial city dwellers (Nāthanāgarī) is destroyed by the flow of honey, grant delight to our minds. May he who resides in his own abode and is the source of all joy grant us the Supreme State." } },
-                { "id": "shiva-1-15", "verse_number": 15, "original": "प्रचण्ड वाडवानल प्रभा शुभप्रचारिणी ।\nमहाष्ट सिद्धि कामिनी जनावहूत जल्पना ॥\nविमुक्त वाम लोचना सवधू निकृत वल्लरी ।\nसमप्रवृत्त दहनः कदा सदाशिवं भजे ॥", "transliteration": "pracaṇḍa-vāḍavānalā-prabhā-śubha-pracāriṇī |\nmahāṣṭa-siddhi-kāminī-janāvahūta-jalpanā ||\nvimukta-vāma-lōcanā-savadhū-nikṛta-vallarī |\nsamapravṛtta-dahanaḥ kadā sadāśivaṁ bhajē ||", "translations": { "english": "When shall I worship (bhajē) the eternally benevolent Lord (Sadāśiva), whose glorious power spreads like the great submarine fire (Vāḍavānala), whose divine attendants (Kāminī) possess the eight great powers (Mahāṣṭa-Siddhi) and engage in joyful chatter, and who is engaged in the equal destruction (Dahana) of the world?" } },
-                { "id": "shiva-1-16", "verse_number": 16, "original": "इमं हि नित्यमेवमुक्तमुत्तमोत्तमं स्तवम् ।\nपठन् स्मरन् ब्रुवन् नरो विशुद्धिमेति सन्ततम् ॥\nहरौ गुरौ सुभक्तिमाशु याति नान्यथा गतिः ।\nविमोहनं हि देहिनां सुशङ्करस्य चिन्तनम् ॥", "transliteration": "imaṁ hi nityamēvamuktam-uttamōttamaṁ stavam |\npaṭhan smaran bruvan narō viśuddhimēti santatam ||\nharau gurau subhaktim-āśu yāti nānyathā gatiḥ |\nvimōhanaṁ hi dēhināṁ suśaṅkarasya cintanam ||", "translations": { "english": "By continuously reciting, remembering, and narrating this highly excellent hymn (Stavam), a person attains constant purification (Viśuddhim). They quickly attain great devotion to the Lord (Hari) and Guru; there is no other path. Indeed, contemplation of the auspicious Shankara removes the delusion (Vimohanaṁ) of embodied beings." } },
-                { "id": "shiva-1-17", "verse_number": 17, "original": "पूजावसान समये दशवक्त्र गीतम् ।\nयः शम्भु पूजन परं पठति प्रदोषे ॥\nतस्य स्थिरां रथ गजेन्द्र तुरङ्ग युक्ताम् ।\nलक्ष्मीं सदैव सुमुखिं प्रददाति शम्भुः ॥", "transliteration": "pūjāvasāna-samayē daśavaktra-gītam |\nyaḥ śambhu-pūjana-paraṁ paṭhati pradōṣē ||\ntasya sthirāṁ ratha-gajēndra-turaṅga-yuktām |\nlakṣmīṁ sadaiva sumukhiṁ pradadāti śambhuḥ ||", "translations": { "english": "At the conclusion of the worship, whoever recites this hymn sung by the ten-headed (Ravana), being fully devoted to Shiva’s worship during the Pradosha (dusk) period, Lord Shiva (Shambhu) always bestows upon them stable prosperity (Lakshmi) endowed with chariots, magnificent elephants, and horses, and with a cheerful face." } }
-            ]
+          "id": "shiva-tandava-1-1",
+          "verse_number": 1,
+          "startTime": 0,
+          "endTime": 43,
+          "original": "जटाटवी गलज्जल प्रवाह पावितस्थले\nगलेवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम् ।\nडमड्डमड्डमड्डमन्निनादवड्डमर्वयं\nचकार चण्डताण्डवं तनोतु नः शिवः शिवम् ॥",
+          "transliteration": "jaṭāṭavī galajjala pravāha pāvitasthalē\ngalēvalambya lambitāṁ bhujaṅgatuṅgamālikām |\nḍamaḍḍamaḍḍamaḍḍamanninādavaḍḍamarvayaṁ\ncakāra caṇḍatāṇḍavaṁ tanōtu naḥ śivaḥ śivam || 1 ||",
+          "translations": {
+            "english": "From the forest of his matted lock, water flows and wets his neck, On which hangs the greatest of snake-like a garland, And his drum incessantly plays damat, damat, damat, damat, And Shiva is engaged in the very vigorous manly dance, To bless and shower, prosperity on all of us."
+          }
+        },
+        {
+          "id": "shiva-tandava-1-2",
+          "verse_number": 2,
+          "startTime": 44,
+          "endTime": 63,
+          "original": "जटाकटाहसम्भ्रमभ्रमन्निलिम्पनिर्झरी\nविलोलवीचिवल्लरी विराजमानमूर्धनि ।\nधगद्धगद्धगज्ज्वलल्ललाट पट्‍टपावके\nकिशोरचन्द्रशेखरे रतिः प्रतिक्षणं मम ॥",
+          "transliteration": "jaṭākaṭāhasambhramabhramannilimpanirjharī\nvilōlavīcivallarī virājamānamūrdhani |\ndhagaddhagaddhagajjvalallalāṭa paṭ-ṭapāvakē\nkiśōracandraśēkharē ratiḥ pratikṣaṇaṁ mama || 2 ||",
+          "translations": {
+            "english": "The celestial river agitatedly moving through his matted hair, Which makes his head shine with those soft waves, And his forehead shining like a brilliant fire-daga daga, And the crescent of moon which is an ornament to his head, Makes my mind love him each and every second."
+          }
+        },
+        {
+          "id": "shiva-tandava-1-3",
+          "verse_number": 3,
+          "startTime": 64,
+          "endTime": 88,
+          "original": "धराधरेन्द्र नन्दिनी विलासबन्धु बन्धुर\nस्फुरद्दिगन्त सन्तति प्रमोद मानमानसे ।\nकृपाकटाक्षधोरणी निरुद्ध दुर्धरापदि\nक्वचिद्दिगम्बरे मनोविनोदमेतु वस्तुनि ॥",
+          "transliteration": "dharādharēndra nandinī vilāsabandhu bandhura\nsphuraddiganta santati pramōda mānamānasē |\nkr̥pākaṭākṣadhōraṇī niruddha durdharāpadi\nkvaciddigambarē manōvinōdamētu vastuni || 3 ||",
+          "translations": {
+            "english": "The consort of the ever sportive daughter of the mountain, Whose mind rejoices at her side long glances, With the stream of merciful look which removes hardships, Makes my mind take pleasure in him who wears the directions as apparel."
+          }
+        },
+        {
+          "id": "shiva-tandava-1-4",
+          "verse_number": 4,
+          "startTime": 89,
+          "endTime": 110,
+          "original": "जटाभुजङ्ग पिङ्गल स्फुरत्फणा मणिप्रभा\nकदम्ब कुङ्कुम द्रव प्रलिप्त दिग्वधूमुखे ।\nमदान्ध सिन्धुर स्फुरत्त्वगुत्तरीयमेदुरे\nमनो विनोदमद्भुतं बिभर्तु भूतभर्तरि ॥",
+          "transliteration": "jaṭābhujaṅga piṅgala sphuratphaṇā maṇiprabhā\nkadamba kuṅkuma drava pralipta digvadhūmukhē |\nmadāndha sindhura sphurattvaguttarīyamēdurē\nmanō vinōdamadbhutaṁ bibhartu bhūtabhartari || 4 ||",
+          "translations": {
+            "english": "He, with the shining lustrous gem on the hood Of the serpent entwining his matted locks, He, who is with his bride whose face is decorated By the melting of red saffron Kumkum, And He who wears on his shoulder the hide Of the elephant which was blind with ferociousness, Makes my mind happy and contented, In him who is the leader of Bhoothas*."
+          }
+        },
+        {
+          "id": "shiva-tandava-1-5",
+          "verse_number": 5,
+          "startTime": 111,
+          "endTime": 161,
+          "original": "सहस्रलोचन प्रभृत्यशेषलेख शेखर\nप्रसूनधूलि धोरणी विधूसराङ्घ्रि पीठभूः ।\nभुजङ्गराजमालया निबद्ध जाटजूटकः\nश्रियै चिराय जायतां चकोरबन्धु शेखरः ॥",
+          "transliteration": "sahasralōcana prabhr̥tyaśēṣalēkha śēkhara\nprasūnadhūli dhōraṇī vidhūsarāṅghri pīṭhabhūḥ |\nbhujaṅgarājamālayā nibaddha jāṭajūṭakaḥ\nśriyai cirāya jāyatāṁ cakōrabandhu śēkharaḥ || 5 ||",
+          "translations": {
+            "english": "May he whose foot stool is decorated By the ever flowing flower dust. Falling the bent head of Indra and other Gods, And may He, whose matted locks are tied by the king of serpents, And may he, whose head is decorated By the crescent moon who a friend of Chakora* Shower prosperity for ever on me."
+          }
+        },
+        {
+          "id": "shiva-tandava-1-6",
+          "verse_number": 6,
+          "startTime": 162,
+          "endTime": 178,
+          "original": "ललाट चत्वरज्वलद्धनञ्जय स्फुलिङ्गभा\nनिपीत पञ्चसायकं नमन्निलिम्पनायकम् ।\nसुधामयूखलेखया विराजमान शेखरं\nमहाकपालि सम्पदे शिरोजटालमस्तु नः ॥",
+          "transliteration": "lalāṭa catvarajvaladdhanañjaya sphuliṅgabhā\nnipīta pañcasāyakaṁ namannilimpanāyakam |\nsudhāmayūkhalēkhayā virājamāna śēkharaṁ\nmahākapāli sampadē śirōjaṭālamastu naḥ || 6 ||",
+          "translations": {
+            "english": "May he with the raging fire In his forehead, who burnt the God of love, May He who is forever being saluted by king of devas, And may he who has collected The cool ambrosia like crescent moon on his head, And may he who wears the collection of skulls, Bless us to create wealth for us."
+          }
+        },
+        {
+          "id": "shiva-tandava-1-7",
+          "verse_number": 7,
+          "startTime": 179,
+          "endTime": 198,
+          "original": "कराल फालपट्‍टिका धगद्धगद्धगज्ज्वल-\n-द्धनञ्जयाहुतीकृत प्रचण्ड पञ्चसायके ।\nधराधरेन्द्र नन्दिनी कुचाग्र चित्रपत्रक-\n-प्रकल्पनैकशिल्पिनि त्रिलोचने रतिर्मम ॥",
+          "transliteration": "karāla phālapaṭ-ṭikā dhagaddhagaddhagajjvala-\nddhanañjayāhutīkr̥ta pracaṇḍa pañcasāyakē |\ndharādharēndra nandinī kucāgra citrapatraka-\nprakalpanaikaśilpini trilōcanē ratirmama || 7 ||",
+          "translations": {
+            "english": "May He in whose dreadful forehead, fire burns “Dhahaga”, “Dhaga,” May He who burnt the one with five arrows* as an offering to fire, May He who is the only one who can write decorative lines, On the tip of the breasts of the daughter of the mountain, And May He with three eyes makes mind enjoy in him."
+          }
+        },
+        {
+          "id": "shiva-tandava-1-8",
+          "verse_number": 8,
+          "startTime": 199,
+          "endTime": 213,
+          "original": "नवीनमेघमण्डली निरुद्ध दुर्धर स्फुरत्\nकुहू निशीथिनी तमः प्रबन्ध बद्ध कन्धरः ।\nनिलिम्प निर्झरीधरस्तनोतु कृत्तिसिन्धुरः\nकलानिधान बन्धुरः श्रियं जगद्धुरन्धरः ॥",
+          "transliteration": "navīnamēghamaṇḍalī niruddha durdhara sphurat\nkuhū niśīthinī tamaḥ prabandha baddha kandharaḥ |\nnilimpa nirjharīdharastanōtu kr̥ttisindhuraḥ\nkalānidhāna bandhuraḥ śriyaṁ jagaddhurandharaḥ || 8 ||",
+          "translations": {
+            "english": "May He whose black neck is as dark As several layers of new clouds, Packed closely on the night of the new moon. May He who wears the celestial river on his head, May He who killed the Gajasura with an elephant head, May He who is very handsome because of the crescent that he wears, And may he who carries the entire burden of the world, Bless us with all sorts of wealth."
+          }
+        },
+        {
+          "id": "shiva-tandava-1-9",
+          "verse_number": 9,
+          "startTime": 214,
+          "endTime": 253,
+          "original": "प्रफुल्ल नील पङ्कज प्रपञ्च कालिमप्रभा-\n-वलम्बि कण्ठ कन्दली रुचि प्रबद्ध कन्धरम् ।\nस्मरच्छिदं पुरच्छिदं भवच्छिदं मखच्छिदं\nगजच्छिदान्धकच्छिदं तमन्तकच्छिदं भजे ॥",
+          "transliteration": "praphulla nīla paṅkaja prapañca kālimaprabhā-\nvalambi kaṇṭha kandalī ruci prabaddha kandharam |\nsmaracchidaṁ puracchidaṁ bhavacchidaṁ makhacchidaṁ\ngajacchidāndhakacchidaṁ tamantakacchidaṁ bhajē || 9 ||",
+          "translations": {
+            "english": "I salute him, who shines with a black neck Similar to the well opened blue lotus, On which all the temples depend for prayer, And him who destroyed God of love, the three cities, The worldly problems and yaga destroyers, And him who destroyed elephant faced Asura and also God of death."
+          }
+        },
+        {
+          "id": "shiva-tandava-1-10",
+          "verse_number": 10,
+          "startTime": 254,
+          "endTime": 280,
+          "original": "अखर्व सर्वमङ्गला कलाकदम्बमञ्जरी\nरसप्रवाह माधुरी विजृम्भणा मधुव्रतम् ।\nस्मरान्तकं पुरान्तकं भवान्तकं मखान्तकं\nगजान्तकान्धकान्तकं तमन्तकान्तकं भजे ॥",
+          "transliteration": "akharva sarvamaṅgalā kalākadambamañjarī\nrasapravāha mādhurī vijr̥mbhaṇā madhuvratam |\nsmarāntakaṁ purāntakaṁ bhavāntakaṁ makhāntakaṁ\ngajāntakāndhakāntakaṁ tamantakāntakaṁ bhajē || 10 ||",
+          "translations": {
+            "english": "I salute him who is like the bee who drinks the sweetened honey, That flows from the flower bunch of collection of arts of the Goddess, And him who destroyed God of love, the three cities, The worldly problems and yaga destroyers, And him who destroyed elephant faced Asura and also God of death."
+          }
+        },
+        {
+          "id": "shiva-tandava-1-11",
+          "verse_number": 11,
+          "startTime": 281,
+          "endTime": 309,
+          "original": "जयत्वदभ्र विभ्रम भ्रमद्भुजङ्गमश्वस-\n-द्विनिर्गमत् क्रमस्फुरत् कराल फालहव्यवाट् ।\nधिमिद्धिमिद्धिमिध्वनन् मृदङ्ग तुङ्ग मङ्गल-\nध्वनिक्रम प्रवर्तित प्रचण्ड ताण्डवः शिवः ॥",
+          "transliteration": "jayatvadabhra vibhrama bhramadbhujaṅgamaśvasa-\ndvinirgamat kramasphurat karāla phālahavyavāṭ |\ndhimiddhimiddhimidhvanan mr̥daṅga tuṅga maṅgala-\ndhvanikrama pravartita pracaṇḍa tāṇḍavaḥ śivaḥ || 11 ||",
+          "translations": {
+            "english": "Victory to the great Shiva, who has the fire burning in his forehead, Which is increased by the breath of the snake wandering in the sky, And to Him who dances to the changing tunes and fierce sound, Of Dhimi, dhimi, dhimi coming out the auspicious drum."
+          }
+        },
+        {
+          "id": "shiva-tandava-1-12",
+          "verse_number": 12,
+          "startTime": 310,
+          "endTime": 325,
+          "original": "दृषद्विचित्र तल्पयोर्भुजङ्ग मौक्तिक स्रजो-\n-र्गरिष्ठ रत्नलोष्ठयोः सुहृद्विपक्ष पक्षयोः ।\nतृणारविन्द चक्षुषोः प्रजामही महेन्द्रयोः\nसमप्रवृत्तिकः कदा सदाशिवं भजाम्यहम् ॥",
+          "transliteration": "dr̥ṣadvicitra talpayōrbhujaṅga mauktika srajō-\nrgariṣṭha ratnalōṣṭhayōḥ suhr̥dvipakṣa pakṣayōḥ |\ntr̥ṇāravinda cakṣuṣōḥ prajāmahī mahēndrayōḥ\nsamapravr̥ttikaḥ kadā sadāśivaṁ bhajāmyaham || 12 ||",
+          "translations": {
+            "english": "When will I be able to worship that eternal shiva, With a feeling of equanimity towards snake and a garland, Towards great gems and dirt or friends and enemies, Or Towards a blade of grass and lotus like eyes, Or emperor and ordinary men."
+          }
+        },
+        {
+          "id": "shiva-tandava-1-13",
+          "verse_number": 13,
+          "startTime": 326,
+          "endTime": 355,
+          "original": "कदा निलिम्पनिर्झरी निकुञ्जकोटरे वसन्\nविमुक्त दुर्मतिः सदा शिरस्थमञ्जलिं वहन् ।\nविलोल लोललोचनो ललामफाललग्नकः\nशिवेति मन्त्रमुच्चरन् कदा सुखी भवाम्यहम् ॥",
+          "transliteration": "kadā nilimpanirjharī nikuñjakōṭarē vasan\nvimukta durmatiḥ sadā śirasthamañjaliṁ vahan |\nvilōla lōlalōcanō lalāmaphālalagnakaḥ\nśivēti mantramuccaran kadā sukhī bhavāmyaham || 13 ||",
+          "translations": {
+            "english": "When will I live the life of pleasure, meditating on Shiva, Sitting near a hollow place near the celestial river Ganga, Releasing all my bad thoughts and with hands clasped above my head, After releasing all passion for the pretty women with shifting eyes?"
+          }
+        },
+        {
+          "id": "shiva-tandava-1-14",
+          "verse_number": 14,
+          "startTime": 356,
+          "endTime": 384,
+          "original": "इमं हि नित्यमेवमुक्तमुत्तमोत्तमं स्तवं\nपठन् स्मरन् ब्रुवन्नरो विशुद्धिमेति सन्ततम् ।\nहरे गुरौ सुभक्तिमाशु याति नान्यथा गतिं\nविमोहनं हि देहिनां सुशङ्करस्य चिन्तनम् ॥",
+          "transliteration": "imaṁ hi nityamēvamuktamuttamōttamaṁ stavaṁ\npaṭhan smaran bruvannarō viśuddhimēti santatam |\nharē gurau subhaktimāśu yāti nānyathā gatiṁ\nvimōhanaṁ hi dēhināṁ suśaṅkarasya cintanam || 14 ||",
+          "translations": {
+            "english": "This greater than the great prayer if read, Remembered, or recited daily by man, Will make him pure, eternal, And he would get devotion to Shiva leading him to salvation, For remembering Lord Shiva, is a sure method of removal of detachment."
+          }
+        },
+        {
+          "id": "shiva-tandava-1-15",
+          "verse_number": 15,
+          "startTime": 385,
+          "endTime": null,
+          "original": "पूजावसानसमये दशवक्त्रगीतं\nयः शम्भुपूजनपरं पठति प्रदोषे ।\nतस्य स्थिरां रथगजेन्द्र तुरङ्गयुक्तां\nलक्ष्मीं सदैव सुमुखीं प्रददाति शम्भुः ॥",
+          "transliteration": "pūjāvasānasamayē daśavaktragītaṁ\nyaḥ śambhupūjanaparaṁ paṭhati pradōṣē |\ntasya sthirāṁ rathagajēndra turaṅgayuktāṁ\nlakṣmīṁ sadaiva sumukhīṁ pradadāti śambhuḥ || 15 ||",
+          "translations": {
+            "english": "He who sings this song composed by the ten-headed one, At the end of every worship or, Reads it after worship of Shiva on the Pradosha day, Will get the blessing of Lord Shiva, chariots, elephants and horses, As well as the affectionate sight of the god of wealth."
+          }
         }
-    ]
+      ]
+    }
+  ]
 }
