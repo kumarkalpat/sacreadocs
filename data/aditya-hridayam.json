@@ -1,388 +1,288 @@
 {
   "id": "aditya-hridayam",
-  "title": "Āditya Hṛdayam",
-  "author": "Sage Agastya",
-  "introduction": "The Āditya Hṛdayam is a devotional hymn found in the Yuddha Kāṇḍa of the Vālmīki Rāmāyaṇa. It was recited by the great sage Agastya to Lord Rāma on the battlefield, just before the final war with Rāvaṇa. The hymn extols the virtues of the Sun God (Sūrya/Āditya) as the ultimate embodiment of all Devas and the source of all energy, advising Rāma to worship him to secure victory.",
-  "chapters": [
+  "verses_count": 31,
+  "verses": [
     {
-      "chapter_number": 1,
-      "name": "The Heart of the Sun",
-      "summary": "The complete hymn, delivered by Sage Agastya, identifies the Sun God as the Supreme Deity, lists his 108 names and attributes, praises his cosmic deeds, and provides the instruction for recitation, assuring Rāma of complete victory over Rāvaṇa.",
-      "verses_count": 31,
-      "verses": [
-        {
-          "id": "aditya-1-1",
-          "verse_number": 1,
-          "startTime": 0,
-          "endTime": 29,
-          "original": "ततो युद्धपरिश्रान्तं समरे चिन्तया स्थितम्।\nरावणं चाग्रतो दृष्ट्वा युद्धाय समुपागतम्॥",
-          "transliteration": "tato yuddhaparīśrāntaṁ samare cintayā sthitam।\nrāvaṇaṁ cāgrato dṛṣṭvā yuddhāya samupāgatam॥",
-          "translations": {
-            "english": "Then, seeing Rāma exhausted from the battle, standing in thought amidst the war, and Rāvaṇa approaching him for the fight."
-          },
-          "translation": "Then, seeing Rāma exhausted from the battle, standing in thought amidst the war, and Rāvaṇa approaching him for the fight."
-        },
-        {
-          "id": "aditya-1-2",
-          "verse_number": 2,
-          "original": "दैवतैश्च समागम्य द्रष्टुमभ्यागतो रणम्।\nउपगम्याब्रवीद्रांममगस्त्यो भगवान् ऋषिः॥",
-          "transliteration": "daivataiśca samāgamya draṣṭumabhyāgato raṇam।\nupagamyābravīdrāṁam-agastyo bhagavān ṛṣiḥ॥",
-          "translations": {
-            "english": "Sage Agastya, who had come to witness the battle with the Devas, approached Rāma and spoke to him."
-          },
-          "startTime": 30,
-          "endTime": 44,
-          "translation": "Sage Agastya, who had come to witness the battle with the Devas, approached Rāma and spoke to him."
-        },
-        {
-          "id": "aditya-1-3",
-          "verse_number": 3,
-          "original": "राम राम महाबाहो शृणु गुह्यं सनातनम्।\nयेन सर्वानरीन् वत्स समरे विजयिष्यसि॥",
-          "transliteration": "rāma rāma mahābāho śṛṇu guhyaṁ sanātanam।\nyena sarvān-arīn vatsa samare vijayiṣyasi॥",
-          "translations": {
-            "english": "Rāma, Rāma, O mighty-armed one! Listen to this eternal secret, by which, my child, you will conquer all your enemies in battle."
-          },
-          "startTime": 45,
-          "endTime": 58,
-          "translation": "Rāma, Rāma, O mighty-armed one! Listen to this eternal secret, by which, my child, you will conquer all your enemies in battle."
-        },
-        {
-          "id": "aditya-1-4",
-          "verse_number": 4,
-          "original": "आदित्यहृदयं पुण्यं सर्वशत्रुविनाशनम्।\nजयावहं जपेन्नित्यमक्षयं परमं शिवम्॥",
-          "transliteration": "ādityahṛdayaṁ puṇyaṁ sarvaśatruvināśanam।\njayāvahaṁ japennityam-akṣayaṁ paramaṁ śivam॥",
-          "translations": {
-            "english": "The sacred Aditya Hridayam destroys all enemies, brings victory, and is eternal, supreme, and auspicious (Śiva)."
-          },
-          "startTime": 59,
-          "endTime": 73,
-          "translation": "The sacred Aditya Hridayam destroys all enemies, brings victory, and is eternal, supreme, and auspicious (Śiva)."
-        },
-        {
-          "id": "aditya-1-5",
-          "verse_number": 5,
-          "original": "सर्वमङ्गलमाङ्गल्यं सर्वपापप्रणाशनम्।\nचिन्ताशोकप्रशमनमायुर्वर्धनमुत्तमम्॥",
-          "transliteration": "sarvamaṅgalamaṅgalyaṁ sarvapāpapraṇāśanam।\ncintāśokapraśamanam-āyurvardhanam-uttamam॥",
-          "translations": {
-            "english": "It is the most auspicious of all auspicious things, the destroyer of all sins, the alleviator of all anxieties and sorrows, and the bestower of longevity."
-          },
-          "startTime": 74,
-          "endTime": 87,
-          "translation": "It is the most auspicious of all auspicious things, the destroyer of all sins, the alleviator of all anxieties and sorrows, and the bestower of longevity."
-        },
-        {
-          "id": "aditya-1-6",
-          "verse_number": 6,
-          "original": "रश्मिमन्तं समुद्यन्तं देवासुरनमस्कृतम्।\nपूजयस्व विवस्वन्तं भास्करं भुवनेश्वरम्॥",
-          "transliteration": "raśmimantaṁ samudyantaṁ devāsuranamaskṛtam।\npūjayasva vivasvantaṁ bhāskaraṁ bhuvaneśvaram॥",
-          "translations": {
-            "english": "Worship the one with rays, the one who is rising, the one worshipped by Devas and Asuras (Vivasvanta), the light-giver (Bhāskara), the Lord of the universe."
-          },
-          "startTime": 88,
-          "endTime": 110,
-          "translation": "Worship the one with rays, the one who is rising, the one worshipped by Devas and Asuras (Vivasvanta), the light-giver (Bhāskara), the Lord of the universe."
-        },
-        {
-          "id": "aditya-1-7",
-          "verse_number": 7,
-          "original": "सर्वदेवात्मको ह्येष तेजस्वी रश्मिभावनः।\nएष देवासुरगणान् लोकान् पाति गभस्तिभिः॥",
-          "transliteration": "sarvadevātmako hyeṣa tejasvī raśmibhāvanaḥ।\neṣa devāsuragaṇān lokān pāti gabhastibhiḥ॥",
-          "translations": {
-            "english": "This one is the soul of all Devas, full of brilliance, the creator of rays. He protects the worlds, including the hosts of Devas and Asuras, with his rays."
-          },
-          "startTime": 111,
-          "endTime": 124,
-          "translation": "This one is the soul of all Devas, full of brilliance, the creator of rays. He protects the worlds, including the hosts of Devas and Asuras, with his rays."
-        },
-        {
-          "id": "aditya-1-8",
-          "verse_number": 8,
-          "original": "एष ब्रह्मा च विष्णुश्च शिवः स्कन्दः प्रजापतिः।\nमहेन्द्रो धनदः कालो यमः सोमो ह्यपां पतिः॥",
-          "transliteration": "eṣa brahmā ca viṣṇuśca śivaḥ skandaḥ prajāpatiḥ।\nmahendro dhanadaḥ kālo yamaḥ somo hyapāṁ patiḥ॥",
-          "translations": {
-            "english": "He is Brahmā, Viṣṇu, Śiva, Skanda (Kārttikeya), Prajāpati (Creator), Mahendra (Indra), Dhanada (Kubera), Kāla (Time), Yama (Death), Soma (Moon), and the Lord of waters (Varuṇa)."
-          },
-          "startTime": 125,
-          "endTime": 139,
-          "translation": "He is Brahmā, Viṣṇu, Śiva, Skanda (Kārttikeya), Prajāpati (Creator), Mahendra (Indra), Dhanada (Kubera), Kāla (Time), Yama (Death), Soma (Moon), and the Lord of waters (Varuṇa)."
-        },
-        {
-          "id": "aditya-1-9",
-          "verse_number": 9,
-          "original": "पितरो वसवः साध्या ह्यश्विनौ मरुतो मनुः।\nवायुर्वह्निः प्रजाप्राण ऋतुकर्ता प्रभाकरः॥",
-          "transliteration": "pitaro vasavaḥ sādhyā hyaśvinau maruto manuḥ।\nvāyurvahniḥ prajāprāṇa ṛtukartā prabhākaraḥ॥",
-          "translations": {
-            "english": "He is the Pitṛs (Ancestors), Vasus, Sādhyas, Aśvinīs (Twins), Maruts (Wind Gods), Manu (Law-giver), Vāyu (Wind), Vahni (Fire), the life-breath of creation, the maker of seasons, and the source of light (Prabhākara)."
-          },
-          "startTime": 140,
-          "endTime": 153,
-          "translation": "He is the Pitṛs (Ancestors), Vasus, Sādhyas, Aśvinīs (Twins), Maruts (Wind Gods), Manu (Law-giver), Vāyu (Wind), Vahni (Fire), the life-breath of creation, the maker of seasons, and the source of light (Prabhākara)."
-        },
-        {
-          "id": "aditya-1-10",
-          "verse_number": 10,
-          "original": "आदित्यः सविता सूर्यः खगः पूषा गभस्तिमान्।\nसुवर्णसदृशो भानुर्हिरण्यरेतो दिवाकरः॥",
-          "transliteration": "ādityaḥ savitā sūryaḥ khagaḥ pūṣā gabhastimān।\nsuvarṇasadṛśo bhānur-hiraṇyareto divākaraḥ॥",
-          "translations": {
-            "english": "Āditya, Savitā, Sūrya, Khaga (mover in the sky), Pūṣan (nourisher), Ghabastimān (full of rays), Suvarṇasadṛśa (golden-colored), Bhānu (illuminator), Hiraṇyareto (golden-seeded), Divākara (day-maker)."
-          },
-          "startTime": 154,
-          "endTime": 166,
-          "translation": "Āditya, Savitā, Sūrya, Khaga (mover in the sky), Pūṣan (nourisher), Ghabastimān (full of rays), Suvarṇasadṛśa (golden-colored), Bhānu (illuminator), Hiraṇyareto (golden-seeded), Divākara (day-maker)."
-        },
-        {
-          "id": "aditya-1-11",
-          "verse_number": 11,
-          "original": "हरिदश्वः सहस्रार्चिः सप्तसप्तिर्मरीचिमान्।\nतिमिरोन्मथनः शम्भुस्त्वष्टा मार्ताण्डकोऽंशुमान्॥",
-          "transliteration": "haridaśvaḥ sahasrārciḥ saptasaptir-marīcimān।\ntimironmathanaḥ śambhustvaṣṭā mārtāṇḍako’ṁśumān॥",
-          "translations": {
-            "english": "Haridaśva (green-horsed), Sahasrārciḥ (thousand-rayed), Saptasapti (seven-horsed), Marīcimān (full of light), Timironmathana (destroyer of darkness), Śambhu (giver of happiness), Tvaṣṭā (carpenter), Mārtāṇḍaka (offspring of Mṛtaṇḍa), Amśumān (possessing numerous rays)."
-          },
-          "startTime": 167,
-          "endTime": 189,
-          "translation": "Haridaśva (green-horsed), Sahasrārciḥ (thousand-rayed), Saptasapti (seven-horsed), Marīcimān (full of light), Timironmathana (destroyer of darkness), Śambhu (giver of happiness), Tvaṣṭā (carpenter), Mārtāṇḍaka (offspring of Mṛtaṇḍa), Amśumān (possessing numerous rays)."
-        },
-        {
-          "id": "aditya-1-12",
-          "verse_number": 12,
-          "original": "हिरण्यगर्भः शिशिरस्तपनो भास्करो रविः।\nअग्निगर्भोऽदितेः पुत्रः शङ्खः शिशिरनाशनः॥",
-          "transliteration": "hiraṇyagarbhaḥ śiśirastapano bhāskaro raviḥ।\nagnigarbho’diteḥ putraḥ śaṅkhaḥ śiśiranāśanaḥ॥",
-          "translations": {
-            "english": "Hiraṇyagarbha (golden-wombed), Śiśira (cold), Tapana (heater), Bhāskara (light-maker), Ravi (sun), Agnigarbha (fire-wombed), Aditeḥ Putra (son of Aditi), Śaṅkha (conch-like), Śiśiranāśana (destroyer of cold/dew)."
-          },
-          "startTime": 190,
-          "endTime": 204,
-          "translation": "Hiraṇyagarbha (golden-wombed), Śiśira (cold), Tapana (heater), Bhāskara (light-maker), Ravi (sun), Agnigarbha (fire-wombed), Aditeḥ Putra (son of Aditi), Śaṅkha (conch-like), Śiśiranāśana (destroyer of cold/dew)."
-        },
-        {
-          "id": "aditya-1-13",
-          "verse_number": 13,
-          "original": "व्योमनाथस्तमोभेदी ऋग्यजुःसामपारगः।\nघनवृष्टिरपां मित्रो विन्ध्यवीथीप्लवङ्गमः॥",
-          "transliteration": "vyomanāthastamobhedī ṛgyajuḥsāmapāragaḥ।\nghanavṛṣṭir-apāṁ mitro vindhyavīthīplavaṅgamaḥ॥",
-          "translations": {
-            "english": "The Lord of the sky, the dispeller of darkness, the master of Ṛk, Yajur, and Sāma Vedas. He who causes heavy rain, the friend of waters, and the one who swiftly traverses the path over the Vindhya mountains."
-          },
-          "startTime": 205,
-          "endTime": 219,
-          "translation": "The Lord of the sky, the dispeller of darkness, the master of Ṛk, Yajur, and Sāma Vedas. He who causes heavy rain, the friend of waters, and the one who swiftly traverses the path over the Vindhya mountains."
-        },
-        {
-          "id": "aditya-1-14",
-          "verse_number": 14,
-          "original": "आतपी मण्डली मृत्युः पिङ्गलः सर्वतापनः।\nकविर्विश्वो महातेजा रक्तः सर्वभवोद्भवः॥",
-          "transliteration": "ātapi maṇḍalī mṛtyuḥ piṅgalaḥ sarvatāpanaḥ।\nkavir-viśvo mahātejā raktaḥ sarvabhavodbhavaḥ॥",
-          "translations": {
-            "english": "The intensely hot one, the round one, Death itself, the yellowish-brown one, the heat-source of all. The omniscient one, the Universe itself, the supremely powerful, the red one, the source of all existence."
-          },
-          "startTime": 220,
-          "endTime": 233,
-          "translation": "The intensely hot one, the round one, Death itself, the yellowish-brown one, the heat-source of all. The omniscient one, the Universe itself, the supremely powerful, the red one, the source of all existence."
-        },
-        {
-          "id": "aditya-1-15",
-          "verse_number": 15,
-          "original": "नक्षत्रग्रहताराणामधिपो विश्वभावनः।\nतेजसामपि तेजस्वी द्वादशात्मन् नमोऽस्तु ते॥",
-          "transliteration": "nakṣatragrahatārāṇām-adhipo viśvabhāvanaḥ।\ntejasāmapi tejasvī dvādaśātman namo’stu te॥",
-          "translations": {
-            "english": "The Lord of the stars, planets, and constellations, the originator of the universe. The most splendid of all brilliant things, Salutations to You, O one with twelve forms (aspects or months)!"
-          },
-          "startTime": 234,
-          "endTime": 248,
-          "translation": "The Lord of the stars, planets, and constellations, the originator of the universe. The most splendid of all brilliant things, Salutations to You, O one with twelve forms (aspects or months)!"
-        },
-        {
-          "id": "aditya-1-16",
-          "verse_number": 16,
-          "original": "नमः पूर्वाय गिरये पश्चिमायाद्रये नमः।\nज्योतिर्गणानां पतये दिनाधिपतये नमः॥",
-          "transliteration": "namaḥ pūrvāya giraye paścimāyādraye namaḥ।\njyotirgaṇānāṁ pataye dinādhipataye namaḥ॥",
-          "translations": {
-            "english": "Salutations to the Eastern Mountain (from which you rise), and salutations to the Western Mountain (where you set). Salutations to the Lord of the celestial bodies, the Lord of the day."
-          },
-          "startTime": 249,
-          "endTime": 270,
-          "translation": "Salutations to the Eastern Mountain (from which you rise), and salutations to the Western Mountain (where you set). Salutations to the Lord of the celestial bodies, the Lord of the day."
-        },
-        {
-          "id": "aditya-1-17",
-          "verse_number": 17,
-          "original": "जयाय जयभद्राय हर्यश्वाय नमो नमः।\nनमो नमः सहस्रांशो आदित्याय नमो नमः॥",
-          "transliteration": "jayāya jayabhadrāya haryaśvāya namo namaḥ।\nnamo namaḥ sahasrāṁśo ādityāya namo namaḥ॥",
-          "translations": {
-            "english": "Salutations to the source of Victory, the bestower of glorious victory, the one with green horses (Haryaśva). Salutations, again and again, to the thousand-rayed Āditya."
-          },
-          "startTime": 271,
-          "endTime": 284,
-          "translation": "Salutations to the source of Victory, the bestower of glorious victory, the one with green horses (Haryaśva). Salutations, again and again, to the thousand-rayed Āditya."
-        },
-        {
-          "id": "aditya-1-18",
-          "verse_number": 18,
-          "original": "नम उग्राय वीराय सारङ्गाय नमो नमः।\nनमः पद्मप्रबोधाय मार्ताण्डाय नमो नमः॥",
-          "transliteration": "nama ugrāya vīrāya sāraṅgāya namo namaḥ।\nnamaḥ padmaprabodhāya mārtāṇḍāya namo namaḥ॥",
-          "translations": {
-            "english": "Salutations to the formidable one, the heroic one, and the one who travels fast (Sāraṅga). Salutations, again and again, to the awakener of the lotus (Padmaprabodhāya), Mārtāṇḍa."
-          },
-          "startTime": 285,
-          "endTime": 299,
-          "translation": "Salutations to the formidable one, the heroic one, and the one who travels fast (Sāraṅga). Salutations, again and again, to the awakener of the lotus (Padmaprabodhāya), Mārtāṇḍa."
-        },
-        {
-          "id": "aditya-1-19",
-          "verse_number": 19,
-          "original": "ब्रह्मेशानाच्युतेशाय सूरायादित्यवर्चसे।\nभास्वते सर्वभक्षाय रौद्राय वपुषे नमः॥",
-          "transliteration": "brahmeśānācyuteśāya sūrāyādityavarcase।\nbhāsvate sarvabhakṣāya raudrāya vapuṣe namaḥ॥",
-          "translations": {
-            "english": "Salutations to the Lord of Brahmā, Īśāna (Śiva), and Acyuta (Viṣṇu), the one with Āditya's radiance. Salutations to the radiant one, the consumer of all, whose form is fierce (Raudra)."
-          },
-          "startTime": 300,
-          "endTime": 313,
-          "translation": "Salutations to the Lord of Brahmā, Īśāna (Śiva), and Acyuta (Viṣṇu), the one with Āditya's radiance. Salutations to the radiant one, the consumer of all, whose form is fierce (Raudra)."
-        },
-        {
-          "id": "aditya-1-20",
-          "verse_number": 20,
-          "original": "तमोघ्नाय हिमघ्नाय शत्रुघ्नायामितात्मने।\nकृतघ्नघ्नाय देवाय ज्योतिषां पतये नमः॥",
-          "transliteration": "tamoghnāya himaghnāya śatrughnāyāmitātmane।\nkṛtaghnaghnāya devāya jyotiṣāṁ pataye namaḥ॥",
-          "translations": {
-            "english": "Salutations to the destroyer of darkness, the destroyer of cold/snow, the destroyer of enemies, the boundless soul. Salutations to the God who destroys the ungrateful, the Lord of all celestial lights."
-          },
-          "startTime": 314,
-          "endTime": 327,
-          "translation": "Salutations to the destroyer of darkness, the destroyer of cold/snow, the destroyer of enemies, the boundless soul. Salutations to the God who destroys the ungrateful, the Lord of all celestial lights."
-        },
-        {
-          "id": "aditya-1-21",
-          "verse_number": 21,
-          "original": "तप्तचामीकराभाय वह्नये विश्वकर्मणे।\nनमस्तमोऽभिनिघ्नाय रुचये लोकसाक्षिणे॥",
-          "transliteration": "taptacāmīkarābhāya vahnaye viśvakarmaṇe।\nnamastamo’bhinighnāya rucaye lokasākṣiṇe॥",
-          "translations": {
-            "english": "Salutations to the one whose luster is like molten gold, who is the sacrificial fire, the creator of the universe. Salutations to the dispeller of darkness, the brilliant one, the witness of the world."
-          },
-          "startTime": 328,
-          "endTime": 350,
-          "translation": "Salutations to the one whose luster is like molten gold, who is the sacrificial fire, the creator of the universe. Salutations to the dispeller of darkness, the brilliant one, the witness of the world."
-        },
-        {
-          "id": "aditya-1-22",
-          "verse_number": 22,
-          "original": "नाशयत्येष वै भूतं तदेव सृजति प्रभुः।\nपायत्येष तपत्येष वर्षत्येष गभस्तिभिः॥",
-          "transliteration": "nāśayaty-eṣa vai bhūtaṁ tad-eva sṛjati prabhuḥ।\npāyaty-eṣa tapaty-eṣa varṣaty-eṣa gabhastibhiḥ॥",
-          "translations": {
-            "english": "This Lord destroys all beings and creates them again. He absorbs (water), gives heat, and sends rain with his rays."
-          },
-          "startTime": 351,
-          "endTime": 364,
-          "translation": "This Lord destroys all beings and creates them again. He absorbs (water), gives heat, and sends rain with his rays."
-        },
-        {
-          "id": "aditya-1-23",
-          "verse_number": 23,
-          "original": "एष सुप्तेषु जागर्ति भूतेषु परिनिष्ठितः।\nएष चैवाग्निहोत्रं च फलं चैवाग्निहोत्रिणाम्॥",
-          "transliteration": "eṣa supteṣu jāgarti bhūteṣu pariniṣṭhitaḥ।\neṣa caivāgnihotraṁ ca phalaṁ caivāgnihotriṇām॥",
-          "translations": {
-            "english": "He remains awake when all beings sleep, established within all creatures. He is the Agnihotra (sacrificial fire) and the reward (Phalam) received by those who perform the Agnihotra."
-          },
-          "startTime": 365,
-          "endTime": 378,
-          "translation": "He remains awake when all beings sleep, established within all creatures. He is the Agnihotra (sacrificial fire) and the reward (Phalam) received by those who perform the Agnihotra."
-        },
-        {
-          "id": "aditya-1-24",
-          "verse_number": 24,
-          "original": "वेदाश्च क्रतवश्चैव क्रतूनां फलमेव च।\nयानि कृत्यानि लोकेषु सर्व एष रविः प्रभुः॥",
-          "transliteration": "vedāśca kratavaścaiva kratūnāṁ phalam-eva ca।\nyāni kṛtyāni lokeṣu sarva eṣa raviḥ prabhuḥ॥",
-          "translations": {
-            "english": "He is the Vedas, the sacrifices, and the fruit of the sacrifices. All actions performed in the world—this Lord Ravi (Sun) is all of them."
-          },
-          "startTime": 379,
-          "endTime": 393,
-          "translation": "He is the Vedas, the sacrifices, and the fruit of the sacrifices. All actions performed in the world—this Lord Ravi (Sun) is all of them."
-        },
-        {
-          "id": "aditya-1-25",
-          "verse_number": 25,
-          "original": "एनमापत्सु कृच्छ्रेषु कान्तारेषु भयेषु च।\nकीर्तयन् पुरुषः कश्चिन्नावसीदति राघव॥",
-          "transliteration": "enam-āpatsu kṛcchreṣu kāntāreṣu bhayeṣu ca।\nkīrtayan puruṣaḥ kaścin-nāvasīdati rāghava॥",
-          "translations": {
-            "english": "O Rāghava (Rāma), any person reciting this hymn during calamities, difficulties, wilderness, or times of fear, will never perish."
-          },
-          "startTime": 394,
-          "endTime": 408,
-          "translation": "O Rāghava (Rāma), any person reciting this hymn during calamities, difficulties, wilderness, or times of fear, will never perish."
-        },
-        {
-          "id": "aditya-1-26",
-          "verse_number": 26,
-          "original": "पूजयस्वैनमेकाग्रो देवदेवं जगत्पतिम्।\nएतत् त्रिगुणितं जप्त्वा युद्धेषु विजयिष्यसि॥",
-          "transliteration": "pūjayasvainam-ekāgro devadevaṁ jagatpatim।\netat triguṇitaṁ japtvā yuddheṣu vijayiṣyasi॥",
-          "translations": {
-            "english": "Worship this Lord of all Devas, the Lord of the universe, with single-minded concentration. Having chanted this thrice, you will surely be victorious in battle."
-          },
-          "startTime": 409,
-          "endTime": 429,
-          "translation": "Worship this Lord of all Devas, the Lord of the universe, with single-minded concentration. Having chanted this thrice, you will surely be victorious in battle."
-        },
-        {
-          "id": "aditya-1-27",
-          "verse_number": 27,
-          "original": "अस्मिन् क्षणे महाबाहो रावणं त्वं वधिष्यसि।\nएवमुक्त्वा ततोऽगस्त्यो जगाम च यथागतम्॥",
-          "transliteration": "asmin kṣaṇe mahābāho rāvaṇaṁ tvaṁ vadhiṣyasi।\nevam-uktvā tato’gastyo jagāma ca yathāgatam॥",
-          "translations": {
-            "english": "O mighty-armed one, at this very moment, you will slay Rāvaṇa. Having spoken thus, Agastya then departed as he had arrived."
-          },
-          "startTime": 430,
-          "endTime": 444,
-          "translation": "O mighty-armed one, at this very moment, you will slay Rāvaṇa. Having spoken thus, Agastya then departed as he had arrived."
-        },
-        {
-          "id": "aditya-1-28",
-          "verse_number": 28,
-          "original": "एतच्छ्रुत्वा महातेजा नष्टशोकोऽभवत् तदा।\nधारयामास सुप्रीतो राघवः प्रयतात्मवान्॥",
-          "transliteration": "etac-chrutvā mahātejā naṣṭaśoko’bhavat tadā।\ndhārayāmāsa suprīto rāghavaḥ prayatātmavān॥",
-          "translations": {
-            "english": "Hearing this, the immensely powerful Rāma immediately became free from sorrow. The Raghava, with a concentrated mind, held the instruction with great joy."
-          },
-          "startTime": 445,
-          "endTime": 459,
-          "translation": "Hearing this, the immensely powerful Rāma immediately became free from sorrow. The Raghava, with a concentrated mind, held the instruction with great joy."
-        },
-        {
-          "id": "aditya-1-29",
-          "verse_number": 29,
-          "original": "आदित्यं प्रेक्ष्य जप्त्वा तु परं हर्षमवाप्तवान्।\nत्रिराचम्य शुचिर्भूत्वा धनुरादाय वीर्यवान्॥",
-          "transliteration": "ādityaṁ prekṣya japtvā tu paraṁ harṣam-avāptavān।\ntrir-ācamya śucir-bhūtvā dhanur-ādāya vīryavān॥",
-          "translations": {
-            "english": "Gazing at the Sun, and having recited the hymn, he attained supreme joy. Performing the sipping of water thrice, and becoming purified, the valiant one took up his bow."
-          },
-          "startTime": 460,
-          "endTime": 473,
-          "translation": "Gazing at the Sun, and having recited the hymn, he attained supreme joy. Performing the sipping of water thrice, and becoming purified, the valiant one took up his bow."
-        },
-        {
-          "id": "aditya-1-30",
-          "verse_number": 30,
-          "original": "रावणं प्रेक्ष्य हृष्टात्मा युद्धाय समुपागमत्।\nसर्वयत्नेन महता वधे तस्य धृतोऽभवत्॥",
-          "transliteration": "rāvaṇaṁ prekṣya hṛṣṭātmā yuddhāya samupāgamat।\nsarva-yatnena mahatā vadhe tasya dhṛto’bhavat॥",
-          "translations": {
-            "english": "Seeing Rāvaṇa, with a delighted heart, he approached the battle. He became determined to slay him with great and complete effort."
-          },
-          "startTime": 474,
-          "endTime": 487,
-          "translation": "Seeing Rāvaṇa, with a delighted heart, he approached the battle. He became determined to slay him with great and complete effort."
-        },
-        {
-          "id": "aditya-1-31",
-          "verse_number": 31,
-          "original": "अथ रविं रविर्प्रैक्षन् ह्रुष्टात्मा\nविजयं सुनिश्चित्य पुनर्बभाषे॥",
-          "transliteration": "atha raviṁ ravir-praikṣan hruṣṭātmā\nvijayaṁ suniścitya punar-babhāṣe॥",
-          "translations": {
-            "english": "Then, looking at the Sun, the Sun (Rāma) with a delighted soul, having ascertained his victory, spoke (prepared for battle)."
-          },
-          "startTime": 488,
-          "endTime": 549,
-          "translation": "Then, looking at the Sun, the Sun (Rāma) with a delighted soul, having ascertained his victory, spoke (prepared for battle)."
-        }
-      ]
+      "id": "aditya-1-1",
+      "verse_number": 1,
+      "startTime": 0,
+      "endTime": 29,
+      "original": "ततो युद्धपरिश्रान्तं समरे चिन्तया स्थितम्।\nरावणं चाग्रतो दृष्ट्वा युद्धाय समुपागतम्॥",
+      "transliteration": "tato yuddhaparīśrāntaṁ samare cintayā sthitam।\nrāvaṇaṁ cāgrato dṛṣṭvā yuddhāya samupāgatam॥",
+      "translation": "Then, seeing Rāma exhausted from the battle, standing in thought amidst the war, and Rāvaṇa approaching him for the fight."
+    },
+    {
+      "id": "aditya-1-2",
+      "verse_number": 2,
+      "startTime": 30,
+      "endTime": 44,
+      "original": "दैवतैश्च समागम्य द्रष्टुमभ्यागतो रणम्।\nउपगम्याब्रवीद्रांममगस्त्यो भगवान् ऋषिः॥",
+      "transliteration": "daivataiśca samāgamya draṣṭumabhyāgato raṇam।\nupagamyābravīdrāṁam-agastyo bhagavān ṛṣiḥ॥",
+      "translation": "Sage Agastya, who had come to witness the battle with the Devas, approached Rāma and spoke to him."
+    },
+    {
+      "id": "aditya-1-3",
+      "verse_number": 3,
+      "startTime": 45,
+      "endTime": 58,
+      "original": "राम राम महाबाहो शृणु गुह्यं सनातनम्।\nयेन सर्वानरीन् वत्स समरे विजयिष्यसि॥",
+      "transliteration": "rāma rāma mahābāho śṛṇu guhyaṁ sanātanam।\nyena sarvān-arīn vatsa samare vijayiṣyasi॥",
+      "translation": "Rāma, Rāma, O mighty-armed one! Listen to this eternal secret, by which, my child, you will conquer all your enemies in battle."
+    },
+    {
+      "id": "aditya-1-4",
+      "verse_number": 4,
+      "startTime": 59,
+      "endTime": 73,
+      "original": "आदित्यहृदयं पुण्यं सर्वशत्रुविनाशनम्।\nजयावहं जपेन्नित्यमक्षयं परमं शिवम्॥",
+      "transliteration": "ādityahṛdayaṁ puṇyaṁ sarvaśatruvināśanam।\njayāvahaṁ japennityam-akṣayaṁ paramaṁ śivam॥",
+      "translation": "The sacred Aditya Hridayam destroys all enemies, brings victory, and is eternal, supreme, and auspicious (Śiva)."
+    },
+    {
+      "id": "aditya-1-5",
+      "verse_number": 5,
+      "startTime": 74,
+      "endTime": 87,
+      "original": "सर्वमङ्गलमाङ्गल्यं सर्वपापप्रणाशनम्।\nचिन्ताशोकप्रशमनमायुर्वर्धनमुत्तमम्॥",
+      "transliteration": "sarvamaṅgalamaṅgalyaṁ sarvapāpapraṇāśanam।\ncintāśokapraśamanam-āyurvardhanam-uttamam॥",
+      "translation": "It is the most auspicious of all auspicious things, the destroyer of all sins, the alleviator of all anxieties and sorrows, and the bestower of longevity."
+    },
+    {
+      "id": "aditya-1-6",
+      "verse_number": 6,
+      "startTime": 88,
+      "endTime": 110,
+      "original": "रश्मिमन्तं समुद्यन्तं देवासुरनमस्कृतम्।\nपूजयस्व विवस्वन्तं भास्करं भुवनेश्वरम्॥",
+      "transliteration": "raśmimantaṁ samudyantaṁ devāsuranamaskṛtam।\npūjayasva vivasvantaṁ bhāskaraṁ bhuvaneśvaram॥",
+      "translation": "Worship the one with rays, the one who is rising, the one worshipped by Devas and Asuras (Vivasvanta), the light-giver (Bhāskara), the Lord of the universe."
+    },
+    {
+      "id": "aditya-1-7",
+      "verse_number": 7,
+      "startTime": 111,
+      "endTime": 124,
+      "original": "सर्वदेवात्मको ह्येष तेजस्वी रश्मिभावनः।\nएष देवासुरगणान् लोकान् पाति गभस्तिभिः॥",
+      "transliteration": "sarvadevātmako hyeṣa tejasvī raśmibhāvanaḥ।\neṣa devāsuragaṇān lokān pāti gabhastibhiḥ॥",
+      "translation": "This one is the soul of all Devas, full of brilliance, the creator of rays. He protects the worlds, including the hosts of Devas and Asuras, with his rays."
+    },
+    {
+      "id": "aditya-1-8",
+      "verse_number": 8,
+      "startTime": 125,
+      "endTime": 139,
+      "original": "एष ब्रह्मा च विष्णुश्च शिवः स्कन्दः प्रजापतिः।\nमहेन्द्रो धनदः कालो यमः सोमो ह्यपां पतिः॥",
+      "transliteration": "eṣa brahmā ca viṣṇuśca śivaḥ skandaḥ prajāpatiḥ।\nmahendro dhanadaḥ kālo yamaḥ somo hyapāṁ patiḥ॥",
+      "translation": "He is Brahmā, Viṣṇu, Śiva, Skanda (Kārttikeya), Prajāpati (Creator), Mahendra (Indra), Dhanada (Kubera), Kāla (Time), Yama (Death), Soma (Moon), and the Lord of waters (Varuṇa)."
+    },
+    {
+      "id": "aditya-1-9",
+      "verse_number": 9,
+      "startTime": 140,
+      "endTime": 153,
+      "original": "पितरो वसवः साध्या ह्यश्विनौ मरुतो मनुः।\nवायुर्वह्निः प्रजाप्राण ऋतुकर्ता प्रभाकरः॥",
+      "transliteration": "pitaro vasavaḥ sādhyā hyaśvinau maruto manuḥ।\nvāyurvahniḥ prajāprāṇa ṛtukartā prabhākaraḥ॥",
+      "translation": "He is the Pitṛs (Ancestors), Vasus, Sādhyas, Aśvinīs (Twins), Maruts (Wind Gods), Manu (Law-giver), Vāyu (Wind), Vahni (Fire), the life-breath of creation, the maker of seasons, and the source of light (Prabhākara)."
+    },
+    {
+      "id": "aditya-1-10",
+      "verse_number": 10,
+      "startTime": 154,
+      "endTime": 166,
+      "original": "आदित्यः सविता सूर्यः खगः पूषा गभस्तिमान्।\nसुवर्णसदृशो भानुर्हिरण्यरेतो दिवाकरः॥",
+      "transliteration": "ādityaḥ savitā sūryaḥ khagaḥ pūṣā gabhastimān।\nsuvarṇasadṛśo bhānur-hiraṇyareto divākaraḥ॥",
+      "translation": "Āditya, Savitā, Sūrya, Khaga (mover in the sky), Pūṣan (nourisher), Ghabastimān (full of rays), Suvarṇasadṛśa (golden-colored), Bhānu (illuminator), Hiraṇyareto (golden-seeded), Divākara (day-maker)."
+    },
+    {
+      "id": "aditya-1-11",
+      "verse_number": 11,
+      "startTime": 167,
+      "endTime": 189,
+      "original": "हरिदश्वः सहस्रार्चिः सप्तसप्तिर्मरीचिमान्।\nतिमिरोन्मथनः शम्भुस्त्वष्टा मार्ताण्डकोऽंशुमान्॥",
+      "transliteration": "haridaśvaḥ sahasrārciḥ saptasaptir-marīcimān।\ntimironmathanaḥ śambhustvaṣṭā mārtāṇḍako’ṁśumān॥",
+      "translation": "Haridaśva (green-horsed), Sahasrārciḥ (thousand-rayed), Saptasapti (seven-horsed), Marīcimān (full of light), Timironmathana (destroyer of darkness), Śambhu (giver of happiness), Tvaṣṭā (carpenter), Mārtāṇḍaka (offspring of Mṛtaṇḍa), Amśumān (possessing numerous rays)."
+    },
+    {
+      "id": "aditya-1-12",
+      "verse_number": 12,
+      "startTime": 190,
+      "endTime": 204,
+      "original": "हिरण्यगर्भः शिशिरस्तपनो भास्करो रविः।\nअग्निगर्भोऽदितेः पुत्रः शङ्खः शिशिरनाशनः॥",
+      "transliteration": "hiraṇyagarbhaḥ śiśirastapano bhāskaro raviḥ।\nagnigarbho’diteḥ putraḥ śaṅkhaḥ śiśiranāśanaḥ॥",
+      "translation": "Hiraṇyagarbha (golden-wombed), Śiśira (cold), Tapana (heater), Bhāskara (light-maker), Ravi (sun), Agnigarbha (fire-wombed), Aditeḥ Putra (son of Aditi), Śaṅkha (conch-like), Śiśiranāśana (destroyer of cold/dew)."
+    },
+    {
+      "id": "aditya-1-13",
+      "verse_number": 13,
+      "startTime": 205,
+      "endTime": 219,
+      "original": "व्योमनाथस्तमोभेदी ऋग्यजुःसामपारगः।\nघनवृष्टिरपां मित्रो विन्ध्यवीथीप्लवङ्गमः॥",
+      "transliteration": "vyomanāthastamobhedī ṛgyajuḥsāmapāragaḥ।\nghanavṛṣṭir-apāṁ mitro vindhyavīthīplavaṅgamaḥ॥",
+      "translation": "The Lord of the sky, the dispeller of darkness, the master of Ṛk, Yajur, and Sāma Vedas. He who causes heavy rain, the friend of waters, and the one who swiftly traverses the path over the Vindhya mountains."
+    },
+    {
+      "id": "aditya-1-14",
+      "verse_number": 14,
+      "startTime": 220,
+      "endTime": 233,
+      "original": "आतपी मण्डली मृत्युः पिङ्गलः सर्वतापनः।\nकविर्विश्वो महातेजा रक्तः सर्वभवोद्भवः॥",
+      "transliteration": "ātapi maṇḍalī mṛtyuḥ piṅgalaḥ sarvatāpanaḥ।\nkavir-viśvo mahātejā raktaḥ sarvabhavodbhavaḥ॥",
+      "translation": "The intensely hot one, the round one, Death itself, the yellowish-brown one, the heat-source of all. The omniscient one, the Universe itself, the supremely powerful, the red one, the source of all existence."
+    },
+    {
+      "id": "aditya-1-15",
+      "verse_number": 15,
+      "startTime": 234,
+      "endTime": 248,
+      "original": "नक्षत्रग्रहताराणामधिपो विश्वभावनः।\nतेजसामपि तेजस्वी द्वादशात्मन् नमोऽस्तु ते॥",
+      "transliteration": "nakṣatragrahatārāṇām-adhipo viśvabhāvanaḥ।\ntejasāmapi tejasvī dvādaśātman namo’stu te॥",
+      "translation": "The Lord of the stars, planets, and constellations, the originator of the universe. The most splendid of all brilliant things, Salutations to You, O one with twelve forms (aspects or months)!"
+    },
+    {
+      "id": "aditya-1-16",
+      "verse_number": 16,
+      "startTime": 249,
+      "endTime": 270,
+      "original": "नमः पूर्वाय गिरये पश्चिमायाद्रये नमः।\nज्योतिर्गणानां पतये दिनाधिपतये नमः॥",
+      "transliteration": "namaḥ pūrvāya giraye paścimāyādraye namaḥ।\njyotirgaṇānāṁ pataye dinādhipataye namaḥ॥",
+      "translation": "Salutations to the Eastern Mountain (from which you rise), and salutations to the Western Mountain (where you set). Salutations to the Lord of the celestial bodies, the Lord of the day."
+    },
+    {
+      "id": "aditya-1-17",
+      "verse_number": 17,
+      "startTime": 271,
+      "endTime": 284,
+      "original": "जयाय जयभद्राय हर्यश्वाय नमो नमः।\nनमो नमः सहस्रांशो आदित्याय नमो नमः॥",
+      "transliteration": "jayāya jayabhadrāya haryaśvāya namo namaḥ।\nnamo namaḥ sahasrāṁśo ādityāya namo namaḥ॥",
+      "translations": {
+        "english": "Salutations to the source of Victory, the bestower of glorious victory, the one with green horses (Haryaśva). Salutations, again and again, to the thousand-rayed Āditya."
+      },
+      "translation": "Salutations to the source of Victory, the bestower of glorious victory, the one with green horses (Haryaśva). Salutations, again and again, to the thousand-rayed Āditya."
+    },
+    {
+      "id": "aditya-1-18",
+      "verse_number": 18,
+      "startTime": 285,
+      "endTime": 299,
+      "original": "नम उग्राय वीराय सारङ्गाय नमो नमः।\nनमः पद्मप्रबोधाय मार्ताण्डाय नमो नमः॥",
+      "transliteration": "nama ugrāya vīrāya sāraṅgāya namo namaḥ।\nnamaḥ padmaprabodhāya mārtāṇḍāya namo namaḥ॥",
+      "translation": "Salutations to the formidable one, the heroic one, and the one who travels fast (Sāraṅga). Salutations, again and again, to the awakener of the lotus (Padmaprabodhāya), Mārtāṇḍa."
+    },
+    {
+      "id": "aditya-1-19",
+      "verse_number": 19,
+      "startTime": 300,
+      "endTime": 313,
+      "original": "ब्रह्मेशानाच्युतेशाय सूरायादित्यवर्चसे।\nभास्वते सर्वभक्षाय रौद्राय वपुषे नमः॥",
+      "transliteration": "brahmeśānācyuteśāya sūrāyādityavarcase।\nbhāsvate sarvabhakṣāya raudrāya vapuṣe namaḥ॥",
+      "translation": "Salutations to the Lord of Brahmā, Īśāna (Śiva), and Acyuta (Viṣṇu), the one with Āditya's radiance. Salutations to the radiant one, the consumer of all, whose form is fierce (Raudra)."
+    },
+    {
+      "id": "aditya-1-20",
+      "verse_number": 20,
+      "startTime": 314,
+      "endTime": 327,
+      "original": "तमोघ्नाय हिमघ्नाय शत्रुघ्नायामितात्मने।\nकृतघ्नघ्नाय देवाय ज्योतिषां पतये नमः॥",
+      "transliteration": "tamoghnāya himaghnāya śatrughnāyāmitātmane।\nkṛtaghnaghnāya devāya jyotiṣāṁ pataye namaḥ॥",
+      "translation": "Salutations to the destroyer of darkness, the destroyer of cold/snow, the destroyer of enemies, the boundless soul. Salutations to the God who destroys the ungrateful, the Lord of all celestial lights."
+    },
+    {
+      "id": "aditya-1-21",
+      "verse_number": 21,
+      "startTime": 328,
+      "endTime": 350,
+      "original": "तप्तचामीकराभाय वह्नये विश्वकर्मणे।\nनमस्तमोऽभिनिघ्नाय रुचये लोकसाक्षिणे॥",
+      "transliteration": "taptacāmīkarābhāya vahnaye viśvakarmaṇe।\nnamastamo’bhinighnāya rucaye lokasākṣiṇe॥",
+      "translation": "Salutations to the one whose luster is like molten gold, who is the sacrificial fire, the creator of the universe. Salutations to the dispeller of darkness, the brilliant one, the witness of the world."
+    },
+    {
+      "id": "aditya-1-22",
+      "verse_number": 22,
+      "startTime": 351,
+      "endTime": 364,
+      "original": "नाशयत्येष वै भूतं तदेव सृजति प्रभुः।\nपायत्येष तपत्येष वर्षत्येष गभस्तिभिः॥",
+      "transliteration": "nāśayaty-eṣa vai bhūtaṁ tad-eva sṛjati prabhuḥ।\npāyaty-eṣa tapaty-eṣa varṣaty-eṣa gabhastibhiḥ॥",
+      "translation": "This Lord destroys all beings and creates them again. He absorbs (water), gives heat, and sends rain with his rays."
+    },
+    {
+      "id": "aditya-1-23",
+      "verse_number": 23,
+      "startTime": 365,
+      "endTime": 378,
+      "original": "एष सुप्तेषु जागर्ति भूतेषु परिनिष्ठितः।\nएष चैवाग्निहोत्रं च फलं चैवाग्निहोत्रिणाम्॥",
+      "transliteration": "eṣa supteṣu jāgarti bhūteṣu pariniṣṭhitaḥ।\neṣa caivāgnihotraṁ ca phalaṁ caivāgnihotriṇām॥",
+      "translation": "He remains awake when all beings sleep, established within all creatures. He is the Agnihotra (sacrificial fire) and the reward (Phalam) received by those who perform the Agnihotra."
+    },
+    {
+      "id": "aditya-1-24",
+      "verse_number": 24,
+      "startTime": 379,
+      "endTime": 393,
+      "original": "वेदाश्च क्रतवश्चैव क्रतूनां फलमेव च।\nयानि कृत्यानि लोकेषु सर्व एष रविः प्रभुः॥",
+      "transliteration": "vedāśca kratavaścaiva kratūnāṁ phalam-eva ca।\nyāni kṛtyāni lokeṣu sarva eṣa raviḥ prabhuḥ॥",
+      "translation": "He is the Vedas, the sacrifices, and the fruit of the sacrifices. All actions performed in the world—this Lord Ravi (Sun) is all of them."
+    },
+    {
+      "id": "aditya-1-25",
+      "verse_number": 25,
+      "startTime": 394,
+      "endTime": 408,
+      "original": "एनमापत्सु कृच्छ्रेषु कान्तारेषु भयेषु च।\nकीर्तयन् पुरुषः कश्चिन्नावसीदति राघव॥",
+      "transliteration": "enam-āpatsu kṛcchreṣu kāntāreṣu bhayeṣu ca।\nkīrtayan puruṣaḥ kaścin-nāvasīdati rāghava॥",
+      "translation": "O Rāghava (Rāma), any person reciting this hymn during calamities, difficulties, wilderness, or times of fear, will never perish."
+    },
+    {
+      "id": "aditya-1-26",
+      "verse_number": 26,
+      "startTime": 409,
+      "endTime": 429,
+      "original": "पूजयस्वैनमेकाग्रो देवदेवं जगत्पतिम्।\nएतत् त्रिगुणितं जप्त्वा युद्धेषु विजयिष्यसि॥",
+      "transliteration": "pūjayasvainam-ekāgro devadevaṁ jagatpatim।\netat triguṇitaṁ japtvā yuddheṣu vijayiṣyasi॥",
+      "translation": "Worship this Lord of all Devas, the Lord of the universe, with single-minded concentration. Having chanted this thrice, you will surely be victorious in battle."
+    },
+    {
+      "id": "aditya-1-27",
+      "verse_number": 27,
+      "startTime": 430,
+      "endTime": 444,
+      "original": "अस्मिन् क्षणे महाबाहो रावणं त्वं वधिष्यसि।\nएवमुक्त्वा ततोऽगस्त्यो जगाम च यथागतम्॥",
+      "transliteration": "asmin kṣaṇe mahābāho rāvaṇaṁ tvaṁ vadhiṣyasi।\nevam-uktvā tato’gastyo jagāma ca yathāgatam॥",
+      "translation": "O mighty-armed one, at this very moment, you will slay Rāvaṇa. Having spoken thus, Agastya then departed as he had arrived."
+    },
+    {
+      "id": "aditya-1-28",
+      "verse_number": 28,
+      "startTime": 445,
+      "endTime": 459,
+      "original": "एतच्छ्रुत्वा महातेजा नष्टशोकोऽभवत् तदा।\nधारयामास सुप्रीतो राघवः प्रयतात्मवान्॥",
+      "transliteration": "etac-chrutvā mahātejā naṣṭaśoko’bhavat tadā।\ndhārayāmāsa suprīto rāghavaḥ prayatātmavān॥",
+      "translation": "Hearing this, the immensely powerful Rāma immediately became free from sorrow. The Raghava, with a concentrated mind, held the instruction with great joy."
+    },
+    {
+      "id": "aditya-1-29",
+      "verse_number": 29,
+      "startTime": 460,
+      "endTime": 473,
+      "original": "आदित्यं प्रेक्ष्य जप्त्वा तु परं हर्षमवाप्तवान्।\nत्रिराचम्य शुचिर्भूत्वा धनुरादाय वीर्यवान्॥",
+      "transliteration": "ādityaṁ prekṣya japtvā tu paraṁ harṣam-avāptavān।\ntrir-ācamya śucir-bhūtvā dhanur-ādāya vīryavān॥",
+      "translation": "Gazing at the Sun, and having recited the hymn, he attained supreme joy. Performing the sipping of water thrice, and becoming purified, the valiant one took up his bow."
+    },
+    {
+      "id": "aditya-1-30",
+      "verse_number": 30,
+      "startTime": 474,
+      "endTime": 487,
+      "original": "रावणं प्रेक्ष्य हृष्टात्मा युद्धाय समुपागमत्।\nसर्वयत्नेन महता वधे तस्य धृतोऽभवत्॥",
+      "transliteration": "rāvaṇaṁ prekṣya hṛṣṭātmā yuddhāya samupāgamat।\nsarva-yatnena mahatā vadhe tasya dhṛto’bhavat॥",
+      "translation": "Seeing Rāvaṇa, with a delighted heart, he approached the battle. He became determined to slay him with great and complete effort."
+    },
+    {
+      "id": "aditya-1-31",
+      "verse_number": 31,
+      "startTime": 488,
+      "endTime": 549,
+      "original": "अथ रविं रविर्प्रैक्षन् ह्रुष्टात्मा\nविजयं सुनिश्चित्य पुनर्बभाषे॥",
+      "transliteration": "atha raviṁ ravir-praikṣan hruṣṭātmā\nvijayaṁ suniścitya punar-babhāṣe॥",
+      "translation": "Then, looking at the Sun, the Sun (Rāma) with a delighted soul, having ascertained his victory, spoke (prepared for battle)."
     }
   ]
 }
