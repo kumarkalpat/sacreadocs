@@ -27,13 +27,13 @@
     "coverImage": "images/LalithaSahasranama.png"
   },
   {
-    "id": "shiva",
+    "id": "shiva-tandava-stotram",
     "title": "Shiva Tandava Stotram",
     "author": "Ravana",
     "audioUrl": "https://music.youtube.com/watch?v=qe_GFx6hGgw&si=YVzuwJgyjBb8rPRp",
     "audioSource": "Uma Mohan - Youtube Music",
     "introduction": "The Shiva Tandava Stotram is a Sanskrit hymn of praise to the Hindu God Shiva, often attributed to Ravana, the Rakshasa King of Lanka and a devoted follower of Shiva. The hymn is renowned for its intense, alliterative meter (Pañcacamara Jati), which mimics the powerful rhythm of Shiva's furious cosmic dance, the Tandava.\n\nComposed in a highly evocative and descriptive language, the stotram captures the duality of Shiva—the terrifying destroyer of ignorance and the benevolent bestower of blessings. It details his fierce appearance, including his matted locks holding the Ganga, the crescent moon on his head, the venomous serpents encircling his body, and the fire blazing on his forehead.\n\nRecitation of the Shiva Tandava Stotram is believed to bring immense courage, devotion, and freedom from fear.",
-    "path": "shivaTandavaStotram.json",
+    "path": "shiva-tandava-stotram.json",
     "coverImage": "images/ShivaTandav.png"
   },
   {
