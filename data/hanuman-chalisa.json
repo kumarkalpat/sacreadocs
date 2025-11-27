@@ -1,11 +1,6 @@
 {
   "id": "hanuman-chalisa",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "name": "Hanuman Chalisa",
-      "summary": "A 43-section devotional hymn composed by Tulsidas in praise of Lord Hanuman, comprising two introductory Dohas (verses 1-2), forty Chaupais (verses 3-42), and a concluding Doha (verse 43). This hymn is central to the worship of Hanuman and is recited to invoke his strength, wisdom, and protection.",
-      "verses_count": 43,
+  "verses_count": 43,
       "verses": [
         {
           "id": "chalisa-1-1",
@@ -395,6 +390,4 @@
           "translation": "O Son of the Wind, remover of distress, the embodiment of good fortune,\nReside in my heart along with Rama, Lakshmana, and Sita, O King of Gods."
         }
       ]
-    }
-  ]
 }
