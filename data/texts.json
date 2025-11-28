@@ -58,14 +58,6 @@
     "coverImage": "images/soundaryaLahari.png"
   },
   {
-    "id": "thiruPugazh",
-    "title": "Thiruppugazh",
-    "author": "Arunagirinathar",
-    "introduction": "Thirupukazh, meaning 'Praise of the Lord,' is a masterpiece of devotional poetry in Tamil, consisting of hymns dedicated to Lord Murugan (Kartikeya). Composed by the saint-poet Arunagirinathar in the 15th century, the verses are renowned for their rhythmic complexity (Chandam) and profound spiritual content, focusing on the pursuit of spiritual liberation and the glory of Murugan's six abodes (Arupadaiveedu) and other sacred Sthalas (temples). The surviving collection contains approximately 1,307 songs.",
-    "path": "thiruPugazh.json",
-    "coverImage": "images/Murugan_by_Raja_Ravi_Varma.jpg"
-  },
-  {
     "id": "thiruppavai",
     "title": "Thiruppavai",
     "author": "Andal",
