@@ -1,88 +1,83 @@
 {
   "id": "bhajans",
-  "chapters": [
+  "verses": [
     {
-      "chapter_number": 1,
-      "verses": [
-        {
-          "id": "bhajans-1",
-          "verse_number": 1,
-          "audioUrl": "https://music.youtube.com/watch?v=MyNSOu-Fl-k&si=oWV6vb8FZ5YrCzjN",
-          "audioSource": "Sri Ramachandra Krupalu - Soorya Gayatri - Kuldeep M Pai - Youtube Music"
-        },
-        {
-          "id": "bhajans-2",
-          "verse_number": 2,
-          "audioUrl": "https://music.youtube.com/watch?v=ZD72mEhB6TE&si=ONkblN7lquWjEl6i",
-          "audioSource": "Jagjit Singh - Youtube Music"
-        },
-        {
-          "id": "bhajans-3",
-          "verse_number": 3,
-          "audioUrl": "https://music.youtube.com/watch?v=pApyQSxCNsA&si=D7aspHp-lwIKY7Ef",
-          "audioSource": "Ye Chamak Ye Dhamak - Sudhir Vyas - Youtube Music"
-        },
-        {
-          "id": "bhajans-4",
-          "verse_number": 4,
-          "audioUrl": "https://music.youtube.com/watch?v=cFGHAavFIug&si=A86lPFxkqHl2X40j",
-          "audioSource": "Sree Krishna Govinda Hare Murare - Jagjit Singh - Youtube Music"
-        },
-        {
-          "id": "bhajans-5",
-          "verse_number": 5,
-          "audioUrl": "https://music.youtube.com/watch?v=H1acGCRP9ww&si=g9m11ULlIim3ZRE-",
-          "audioSource": "Endukayya Neekintha Daya - Ram Miryala - Sounds of Isha - Youtube Music"
-        },
-        {
-          "id": "bhajans-6",
-          "verse_number": 6,
-          "audioUrl": "https://music.youtube.com/watch?v=fUCDA3p4r2k&si=TjZn-ezSMnCwid8x",
-          "audioSource": "Raghuveera Gadhyam - Vedanta Desika - Abhishek Raghuram - Youtube Music"
-        },
-        {
-          "id": "bhajans-7",
-          "verse_number": 7,
-          "audioUrl": "https://music.youtube.com/watch?v=PoNVVK7cVY0&si=E79EQNB_xXMVGNhQ",
-          "audioSource": "Sur Niragas Ho - Trisha Kale - Youtube Music"
-        },
-        {
-          "id": "bhajans-8",
-          "verse_number": 8,
-          "audioUrl": "https://music.youtube.com/watch?v=PsSdXO220Hc&si=F4PckMUKq3WPHv-U",
-          "audioSource": "Maze Maaher Pandhari - Pandit Bhimsen Joshi - Youtube Music"
-        },
-        {
-          "id": "bhajans-9",
-          "verse_number": 9,
-          "audioUrl": "https://music.youtube.com/watch?v=3o95qn8BjdQ&si=-TBfpOcmtVumRk_2",
-          "audioSource": "Mero Mann Vrindavan Mein Atko - Shri Indresh Upadhyay ji | MOhit Lalwani | Karan - Navdeep - Youtube Music"
-        },
-        {
-          "id": "bhajans-10",
-          "verse_number": 10,
-          "audioUrl": "https://music.youtube.com/watch?v=4ikBnS2oDuw&si=fr_ps7C1oJ3L-F6X",
-          "audioSource": "Baro Krishnayya I Spoorthi Rao I Kanakadasa"
-        },
-        {
-          "id": "bhajans-11",
-          "verse_number": 11,
-          "audioUrl": "https://music.youtube.com/watch?v=KU0AixzMmHs&si=jfJmsLfGAIwstoq1",
-          "audioSource": "Achutam Keshavam - Kaun Kehte hai Bhagwan Aate nahi - Ankit Batrag | Krishna Bhajan - Youtube Music"
-        },
-        {
-          "id": "bhajans-12",
-          "verse_number": 12,
-          "audioUrl": "https://music.youtube.com/watch?v=2YdF87qDaro&si=xwjbPyVZUIfUq_19",
-          "audioSource": "Bhaja Govindam - MS Subbulakshmi"
-        },
-        {
-          "id": "bhajans-13",
-          "verse_number": 13,
-          "audioUrl": "https://music.youtube.com/watch?v=Feoea8FQTI0&si=CMtp4D8DwEuJNefq",
-          "audioSource": "Tum Prem Ho - Mohit Lalwani - Youtube Music"
-        }
-      ]
+      "id": "bhajans-1",
+      "verse_number": 1,
+      "audioUrl": "https://music.youtube.com/watch?v=MyNSOu-Fl-k&si=oWV6vb8FZ5YrCzjN",
+      "audioSource": "Sri Ramachandra Krupalu - Soorya Gayatri - Kuldeep M Pai - Youtube Music"
+    },
+    {
+      "id": "bhajans-2",
+      "verse_number": 2,
+      "audioUrl": "https://music.youtube.com/watch?v=ZD72mEhB6TE&si=ONkblN7lquWjEl6i",
+      "audioSource": "Jagjit Singh - Youtube Music"
+    },
+    {
+      "id": "bhajans-3",
+      "verse_number": 3,
+      "audioUrl": "https://music.youtube.com/watch?v=pApyQSxCNsA&si=D7aspHp-lwIKY7Ef",
+      "audioSource": "Ye Chamak Ye Dhamak - Sudhir Vyas - Youtube Music"
+    },
+    {
+      "id": "bhajans-4",
+      "verse_number": 4,
+      "audioUrl": "https://music.youtube.com/watch?v=cFGHAavFIug&si=A86lPFxkqHl2X40j",
+      "audioSource": "Sree Krishna Govinda Hare Murare - Jagjit Singh - Youtube Music"
+    },
+    {
+      "id": "bhajans-5",
+      "verse_number": 5,
+      "audioUrl": "https://music.youtube.com/watch?v=H1acGCRP9ww&si=g9m11ULlIim3ZRE-",
+      "audioSource": "Endukayya Neekintha Daya - Ram Miryala - Sounds of Isha - Youtube Music"
+    },
+    {
+      "id": "bhajans-6",
+      "verse_number": 6,
+      "audioUrl": "https://music.youtube.com/watch?v=fUCDA3p4r2k&si=TjZn-ezSMnCwid8x",
+      "audioSource": "Raghuveera Gadhyam - Vedanta Desika - Abhishek Raghuram - Youtube Music"
+    },
+    {
+      "id": "bhajans-7",
+      "verse_number": 7,
+      "audioUrl": "https://music.youtube.com/watch?v=PoNVVK7cVY0&si=E79EQNB_xXMVGNhQ",
+      "audioSource": "Sur Niragas Ho - Trisha Kale - Youtube Music"
+    },
+    {
+      "id": "bhajans-8",
+      "verse_number": 8,
+      "audioUrl": "https://music.youtube.com/watch?v=PsSdXO220Hc&si=F4PckMUKq3WPHv-U",
+      "audioSource": "Maze Maaher Pandhari - Pandit Bhimsen Joshi - Youtube Music"
+    },
+    {
+      "id": "bhajans-9",
+      "verse_number": 9,
+      "audioUrl": "https://music.youtube.com/watch?v=3o95qn8BjdQ&si=-TBfpOcmtVumRk_2",
+      "audioSource": "Mero Mann Vrindavan Mein Atko - Shri Indresh Upadhyay ji | MOhit Lalwani | Karan - Navdeep - Youtube Music"
+    },
+    {
+      "id": "bhajans-10",
+      "verse_number": 10,
+      "audioUrl": "https://music.youtube.com/watch?v=4ikBnS2oDuw&si=fr_ps7C1oJ3L-F6X",
+      "audioSource": "Baro Krishnayya I Spoorthi Rao I Kanakadasa"
+    },
+    {
+      "id": "bhajans-11",
+      "verse_number": 11,
+      "audioUrl": "https://music.youtube.com/watch?v=KU0AixzMmHs&si=jfJmsLfGAIwstoq1",
+      "audioSource": "Achutam Keshavam - Kaun Kehte hai Bhagwan Aate nahi - Ankit Batrag | Krishna Bhajan - Youtube Music"
+    },
+    {
+      "id": "bhajans-12",
+      "verse_number": 12,
+      "audioUrl": "https://music.youtube.com/watch?v=2YdF87qDaro&si=xwjbPyVZUIfUq_19",
+      "audioSource": "Bhaja Govindam - MS Subbulakshmi"
+    },
+    {
+      "id": "bhajans-13",
+      "verse_number": 13,
+      "audioUrl": "https://music.youtube.com/watch?v=Feoea8FQTI0&si=CMtp4D8DwEuJNefq",
+      "audioSource": "Tum Prem Ho - Mohit Lalwani - Youtube Music"
     }
   ]
 }
