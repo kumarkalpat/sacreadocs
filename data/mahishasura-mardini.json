@@ -1,247 +1,195 @@
 {
   "id": "mahishasura-mardini-stotram",
-  "title": "Mahishasura Mardini Stotram (Ayi Giri Nandini)",
-  "author": "Adi Shankaracharya",
-  "introduction": "The Mahishasura Mardini Stotram is a highly popular devotional hymn (Stotram) of 21 stanzas, composed in praise of Goddess Durga. The hymn celebrates Her ferocious yet compassionate form as the slayer of the buffalo demon Mahishasura, symbolizing the triumph of good over evil, the Divine Feminine (Shakti) over ego and ignorance. The refrain 'Jaya Jaya He Mahishasura Mardini...' is repeated in all verses.",
-  "chapters": [
+  "verses_count": 21,
+  "verses": [
     {
-      "chapter_number": 1,
-      "name": "The Hymn to the Slayer of Mahishasura",
-      "summary": "The complete twenty-one-verse hymn detailing the various attributes, divine pastimes, and heroic deeds of Goddess Durga, the Daughter of the Mountain, in Her form as the destroyer of Mahishasura and other demons.",
-      "verses_count": 21,
-      "verses": [
-        {
-          "id": "mm-1",
-          "verse_number": 1,
-          "startTime": 0,
-          "endTime": 49,
-          "original": "अयि गिरिनंदिनि नंदितमेदिनि विश्वविनोदिनि नंदनुते\nगिरिवरविंध्यशिरोधिनिवासिनि विष्णुविलासिनि जिष्णुनुते ।\nभगवति हे शितिकण्ठकुटुंबिनि भूरिकुटुंबिनि भूरिकृते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १॥",
-          "transliteration": "Ayigiri nandini nanditamedini viśvavinodini naṃdanute\ngirivaraviṃdhyaśirodhinivāsini viṣṇuvilāsini jiṣṇunute .\nBhagavati he śitikaṇṭhakuṭuṃbini bhūrikuṭuṃbini bhūrikṛte\njaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 1..",
-          "translations": {
-            "english": "O daughter of the mountain, who makes the whole earth happy, who makes the whole universe rejoice, praised by Nandin. Dwelling on the peak of the great Vindhya mountain, glittering widely, (giver of joy to Vishnu), praised by those desirous of victory. O Goddess, wife of the blue necked Siva, One who has many families, One who has done a lot, be victorious, be victorious, O destroyer of the demon mahisa, with beautiful braids of hair, daughter of the mountain Himalaya."
-          }
-        },
-        {
-          "id": "mm-2",
-          "verse_number": 2,
-          "startTime": 50,
-          "endTime": 86,
-          "original": "सुरवरवर्षिणि दुर्धरधर्षिणि दुर्मुखमर्षिणि हर्षरते\nत्रिभुवनपोषिणि शंकरतोषिणि किल्बिषमोषिणि घोषरते ।\nदनुजनिरोषिणि दितिसुतरोषिणि दुर्मदशोषिणि सिन्धुसुते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ २॥",
-          "transliteration": "Suravaravarṣiṇi durdharadharṣiṇi durmukhamarṣiṇi harṣarate\ntribhuvanapoṣiṇi śaṃkaratoṣiṇi kilbiṣamoṣiṇi ghoṣarate .\nDanujaniroṣiṇi ditisutaroṣiṇi durmadaśoṣiṇi sindhusute\njaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 2..",
-          "translations": {
-            "english": "O bestower of boons on Gods, One who assails those hard to control, who tolerates those with ugly faces (?), one engrossed in rejoicing . One who nourishes the three worlds, One who pleases sankara, One who removes sins, One who engrosses in sound of Om (?) . One who is angry with the progeny of Danu (demon), One who is angry with the sons of Diti (also demon), One who destroys those with evil intoxication of pride, daughter of the ocean. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
-          }
-        },
-        {
-          "id": "mm-3",
-          "verse_number": 3,
-          "startTime": 87,
-          "endTime": 123,
-          "original": "अयि जगदंब मदंब कदंबवनप्रियवासिनि हासरते\nशिखरिशिरोमणि तुङ्गहिमालय श‍ृंगनिजालय मध्यगते ।\nमधुमधुरे मधुकैटभगंजिनि कैटभभंजिनि रासरते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ३॥",
-          "transliteration": "Ayi jagadaṃba madaṃba kadaṃbavanapriyavāsini hāsarate\nśikhariśiromaṇituṅgahimālayaśṛṃganijālayamadhyagate .\nMadhumadhure madhukaiṭabhagaṃjini kaiṭabhabhaṃjini rāsarate\njaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 3..",
-          "translations": {
-            "english": "O mother of the world, my mother, One who loves to dwell in a forest of Kadamba trees, One who keeps on smiling . One who is on her own dwelling on the tall peak of the Himalaya, the greatest among the mountains . One who is very sweet like honey, One who has the treasure of demons Madhu and Kaitabha, destroyer of the demon Kaitabha, engaged in dancing. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
-          }
-        },
-        {
-          "id": "mm-4",
-          "verse_number": 4,
-          "startTime": 124,
-          "endTime": 160,
-          "original": "अयि शतखण्ड विखण्डितरुण्ड वितुण्डितशुण्द गजाधिपते\nरिपुगजगण्ड विदारणचण्ड पराक्रमशुण्ड मृगाधिपते ।\nनिजभुजदण्ड निपातितखण्ड विपातितमुण्ड भटाधिपते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ४ ॥",
-          "transliteration": "Ayi śatakhaṇḍa vikhaṇḍitaruṇḍa vituṇḍitaśuṇda gajādhipate\nRipugajagaṇḍa vidāraṇacaṇḍa parākramaśuṇḍa mṛgādhipate .\nNijabhujadaṇḍa nipātitakhaṇḍa vipātitamuṇḍa bhaṭādhipate\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 4 ..",
-          "translations": {
-            "english": "O One who split the heads (of demons) into hundreds of pieces and One who cut the trunks of great battle elephants . whose great lion is skilled in terrifying valor in tearing apart the temples of enemy elephants . One who has cut down into pieces the heads of enemy chieftains with the strength of her own arms. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
-          }
-        },
-        {
-          "id": "mm-5",
-          "verse_number": 5,
-          "startTime": 161,
-          "endTime": 197,
-          "original": "अयि रणदुर्मद शत्रुवधोदित दुर्धरनिर्जर शक्तिभृते\nचतुरविचार धुरीणमहाशिव दूतकृत प्रमथाधिपते ।\nदुरितदुरीह दुराशयदुर्मति दानवदुत कृतान्तमते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ५ ॥",
-          "transliteration": "Ayi raṇadurmada śatruvadhodita durdharanirjara śaktibhṛte\nCaturavicāra dhurīṇamahāśiva dūtakṛta pramathādhipate .\nDuritadurīha durāśayadurmati dānavaduta kṛtāntamate\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 5 ..",
-          "translations": {
-            "english": "O One who holds the invincible and undiminishing striking force which arose on the occasion of killing the enemies who were hard to subdue on the battlefield . who made Pramatha, the great attendant of Shiva, a leader in subtle thinking, her commander (?) . who decided to destroy the messenger of demons who were sinful, with evil intentions, thoughts and mind. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
-          }
-        },
-        {
-          "id": "mm-6",
-          "verse_number": 6,
-          "startTime": 198,
-          "endTime": 233,
-          "original": "अयि शरणागत वैरिवधुवर वीरवराभय दायकरे\nत्रिभुवनमस्तक शुलविरोधि शिरोऽधिकृतामल शुलकरे ।\nदुमिदुमितामर धुन्दुभिनादमहोमुखरीकृत दिङ्मकरे\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ६ ॥",
-          "transliteration": "Ayi śaraṇāgata vairivadhuvara vīravarābhaya dāyakare\nTribhuvanamastaka śulavirodhi śiro’dhikṛtāmala śulakare .\nDumidumitāmara dhundubhinādamahomukharīkṛta diṅmakare\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 6 ..",
-          "translations": {
-            "english": "O One who gives protection to the great heroic husbands of the enemy wives who have come seeking refuge . One who holds in her hands a spotless spear pointed towards the head of the opponent who is causing a great pain for all the three worlds . One who is like the blazing hot sun, aroused by the power of resounding noise of the drums of Gods. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
-          }
-        },
-        {
-          "id": "mm-7",
-          "verse_number": 7,
-          "startTime": 234,
-          "endTime": 271,
-          "original": "अयि निजहुङ्कृति मात्रनिराकृत धूम्रविलोचन धूम्रशते\nसमरविशोषित शोणितबीज समुद्भवशोणित बीजलते ।\nशिवशिवशुम्भ निशुम्भमहाहव तर्पितभूत पिशाचरते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ७॥",
-          "transliteration": "Ayi nijahum̐kṛti mātranirākṛta dhūmravilocana dhūmraśate\nSamaraviśoṣita śoṇitabīja samudbhava śoṇitabījalate .\nŚivaśiva śuṃbha niśuṃbha mahāhava tarpitabhūtapiśācarate\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 7..",
-          "translations": {
-            "english": "O One who has blown aside hundreds of streams of smoke coming from demons with smoking eyes merely with her own roaring . who is like a vine of blood-drops grown from the dried blood drops in battle . One who delights in the company of auspicious Shiva, Shumbha, Nishumbha, and the spirits who were fed during the great battle. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
-          }
-        },
-        {
-          "id": "mm-8",
-          "verse_number": 8,
-          "startTime": 272,
-          "endTime": 308,
-          "original": "धनुरनुषङ्ग रणक्षणसङ्ग परिस्फुरदङ्ग नटत्कटके\nकनकपिशङ्ग पृषत्कनिषङ्ग रसद्भटशृङ्ग हताबटुके ।\nकृतचतुरङ्ग बलक्षितिरङ्ग घटद्बहुरङ्ग रटद्बटुके\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ८ ॥",
-          "transliteration": "Dhanuranuṣaṅga raṇakṣaṇasaṅga parisphuradaṅga naṭatkaṭake\nKanakapiśaṅga pṛṣatkaniṣaṅga rasadbhaṭaśṛṅga hatābaṭuke .\nKṛtacaturaṅga balakṣitiraṅga ghaṭadbahuraṅga raṭadbaṭuke\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 8 ..",
-          "translations": {
-            "english": "One who decks herself with dancing ornaments on throbbing limbs at the moment of the battle, making her bow ready . who killed the huge enemy soldiers with a shining sword and with (arrows from) a quiver which has golden brown spots . who made the battleground with fourfold army into a stage with a colorful drama with screaming little soldiers. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
-          }
-        },
-        {
-          "id": "mm-9",
-          "verse_number": 9,
-          "startTime": 309,
-          "endTime": 345,
-          "original": "सुरललना ततथेयि तथेयि कृताभिनयोदर नृत्यरते\nकृत कुकुथः कुकुथो गडदादिकताल कुतूहल गानरते ।\nधुधुकुट धुक्कुट धिंधिमित ध्वनि धीर मृदंग निनादरते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ९ ॥",
-          "transliteration": "Suralalanā tatatheyi tatheyi kṛtābhinayodara nṛtyarate\nKṛta kukuthaḥ kukutho gaḍadādikatāla kutūhala gānarate .\nDhudhukuṭa dhukkuṭa dhiṃdhimita dhvani dhīra mṛdaṃga ninādarate\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 9 ..",
-          "translations": {
-            "english": "O you who take delight in the dancing of heavenly damsels made excellent by the acting out of tatatheyi-tatheyi-tatha/tathA! O you who are full of laughter, amorous gestures and hulAsa (meaning uncertain, but probably something along the lines of abandon)! O you who possess immeasurable love for afflicted persons bowing before you (i.e., seeking refuge in you)! O you who rejoice in the sustained/deep sound, dhimikaTa-dhikkaTa-dhikaTadhimi, of the mRdaGga drum! O vanquisher of the demon MahiSa! O one bearing attractive knotted hair! O daughter of the mountain! Victory to you!"
-          }
-        },
-        {
-          "id": "mm-10",
-          "verse_number": 10,
-          "startTime": 346,
-          "endTime": 381,
-          "original": "जय जय जप्य जयेजयशब्द परस्तुति तत्परविश्वनुते\nझणझणझिञ्झिमि झिङ्कृत नूपुरशिञ्जितमोहित भूतपते ।\nनटित नटार्ध नटी नट नायक नाटितनाट्य सुगानरते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १० ॥",
-          "transliteration": "Jaya jaya japya jayejayaśabda parastuti tatparaviśvanute\nJhaṇajhaṇajhiñjhimi jhiṅkṛta nūpuraśiñjitamohita bhūtapate .\nNaṭita naṭārdha naṭī naṭ nāyaka nāṭitanāṭya sugānarate\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 10 ..",
-          "translations": {
-            "english": "Be victorious! be victorious! whose victory should be sung, praised by the whole universe ready to sing the praise extolling her victory . who attracted the attention of shiva by twinkling of bells making various sounds of dancing . who delights in beautiful singing and in dance-drama presented by a leading dancer acting out the role of an actress with half of his body. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
-          }
-        },
-        {
-          "id": "mm-11",
-          "verse_number": 11,
-          "startTime": 382,
-          "endTime": 419,
-          "original": "अयि सुमनःसुमनःसुमनः सुमनःसुमनोहरकान्तियुते\nश्रितरजनी रजनीरजनी रजनीरजनी करवक्त्रवृते ।\nसुनयनविभ्रमर भ्रमरभ्रमर भ्रमरभ्रमराधिपते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ११ ॥",
-          "transliteration": "Ayi sumanaḥ sumanaḥ sumanaḥ sumanaḥ sumanohara kāntiyute\nŚritarajanī rajanīrajanī rajanīrajanī karavaktravṛte .\nSunayanavibhramara bhramarabhramara bhramarabhramarādhipate\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 11 ..",
-          "translations": {
-            "english": "O Divine Mother, I invoke You and take refuge in Your Auspicious Feet) Salutations to You O Divine Mother; I Invoke You; Whose Beautiful Mind is United with a Charming Appearance, (I Invoke You) Whose Beautiful Face makes Subserviant the Beauty of the Moon Light of Night by Hiding them with Its Own Beauty, Whose Beautiful Eyes Conquer the Beauty of the Bees by Its Own Beauty, Victory to You, Victory to You, (I take Refuge in Your Auspicious Feet) O the Destroyer of Demon Mahishasura; (Victory to You) Who Shine with Beautiful Locks of Hair and Who is the Daughter of the Mountain"
-          }
-        },
-        {
-          "id": "mm-12",
-          "verse_number": 12,
-          "startTime": 420,
-          "endTime": 456,
-          "original": "सहितमहाहव मल्लमतल्लिक मल्लितरल्लक मल्लरते\nविरचितवल्लिक पल्लिकमल्लिक झिल्लिकभिल्लिक वर्गवृते ।\nशितकृतफुल्ल समुल्लसितारुण तल्लजपल्लव सल्ललिते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १२ ॥",
-          "transliteration": "Sahitamahāhava mallamatallika mallitarallaka mallarate\nViracitavallika pallikamallika jhillikabhillika vargavṛte .\nŚitakṛtaphulla samullasitāruṇa tallajapallava sallalite\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 12 ..",
-          "translations": {
-            "english": "Salutations to the Divine Mother who is accompanied in the great battle against excellent wrestlers (fighters), by girls who appear tender like jasmine who are fighting against the enemies. whose accompaniments are composed of girls from the bheel tribe who are tender like creepers of village jasmine and buzz like swarms of bees (or crickets). On whose face plays a smile created By joy which appears like dawn shining forth with red colour and blossoming the excellent buds. Victory to you, the destroyer of the demon Mahishasura, who has beautiful locks of hair and who is the daughter of the mountain."
-          }
-        },
-        {
-          "id": "mm-13",
-          "verse_number": 13,
-          "startTime": 457,
-          "endTime": 493,
-          "original": "अविरलगण्ड गलन्मदमेदुर मत्तमतङ्गजराजपते\nत्रिभुवनभूषण भूतकलानिधि रूपपयोनिधि राजसुते ।\nअयि सुदतीजन लालसमानस मोहन मन्मथराजसुते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १३ ॥",
-          "transliteration": "Aviralagaṇḍa galanmadamedura mattamataṅgajarājapate\nTribhuvanabhūṣaṇa bhūtakalānidhi rūpapayonidhi rājasute .\nAyi sudatījana lālasamānasa mohana manmatharājasute\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 13 ..",
-          "translations": {
-            "english": "Who is in charge of huge royal elephants in fury whose rut is streaming down their temples incessantly . princess, the daughter of the ocean, who has the beauty of the moon, the ornament of all the three worlds . princess of cupid who enchants the minds desirous of ladies with beautiful teeth. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
-          }
-        },
-        {
-          "id": "mm-14",
-          "verse_number": 14,
-          "startTime": 494,
-          "endTime": 529,
-          "original": "कमलदलामल कोमलकान्ति कलाकलितामल भाललते\nसकलविलास कलानिलयक्रम केलिचलत्कल हंसकुले ।\nअलिकुलसङ्कुल कुवलयमण्डल मौलिमिलद्बकुलालिकुले\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १४ ॥",
-          "transliteration": "Kamaladalāmala komalakānti kalākalitāmala bhālalate\nSakalavilāsa kalānilayakrama kelicalatkala haṃsakule .\nAlikulasaṅkula kuvalayamaṇḍala maulimiladbakulālikule\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 14 ..",
-          "translations": {
-            "english": "Whose spotless forehead is enhanced by the beautiful complexion, pure and delicate like that of lotus petals . whose flock of swans is moving sportingly with steps which are the marks of all beautiful arts . whose bees from the bakula trees meet on the tops of lotus flowers which are crowded with (their own) bees. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
-          }
-        },
-        {
-          "id": "mm-15",
-          "verse_number": 15,
-          "startTime": 530,
-          "endTime": 566,
-          "original": "करमुरलीरव वीजितकूजित लज्जितकोकिल मञ्जुमते\nमिलितपुलिन्द मनोहरगुञ्जित रञ्जितशैल निकुञ्जगते ।\nनिजगणभूत महाशबरीगण सद्गुणसम्भृत केलितले\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १५ ॥",
-          "transliteration": "Karamuralīrava vījitakūjita lajjitakokila mañjumate\nMilitapulinda manoharaguñjita rañjitaśaila nikuñjagate .\nNijagaṇabhūta mahāśabarīgaṇa sadguṇasambhṛta kelitale\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 15 ..",
-          "translations": {
-            "english": "Whose sweet cooing sounds made with the flute held in her own hands have put to shame the Kokila bird and who has sweet thoughts . who is in colorful mountain groves pleasantly resounding with the assembled mountain folks . whose playbround is filled with good qualities of the flocks of the great tribal women who are manifestations of her own qualities. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
-          }
-        },
-        {
-          "id": "mm-16",
-          "verse_number": 16,
-          "startTime": 567,
-          "endTime": 603,
-          "original": "कटितटपीत दुकूलविचित्र मयुखतिरस्कृत चन्द्ररुचे\nप्रणतसुरासुर मौलिमणिस्फुर दंशुलसन्नख चन्द्ररुचे\nजितकनकाचल मौलिमदोर्जित निर्भरकुञ्जर कुम्भकुचे\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १६ ॥",
-          "transliteration": "Kaṭitaṭapīta dukūlavicitra mayukhatiraskṛta candraruce\nPraṇatasurāsura maulimaṇisphura daṃśulasannakha candraruce\nJitakanakācala maulimadorjita nirbharakuñjara kumbhakuce\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 16 ..",
-          "translations": {
-            "english": "Who has set aside the brilliance of the moon with the colorful rays coming from the yellow silk she is wearing on her waist . whose toe-nails shine like the moon because of the rays emanating form the crest jewels of the bowing gods and demons . whose breasts outshine the temples of wild elephants and the high peaks of the golden mountains. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
-          }
-        },
-        {
-          "id": "mm-17",
-          "verse_number": 17,
-          "startTime": 604,
-          "endTime": 640,
-          "original": "विजितसहस्रकरैक सहस्रकरैक सहस्रकरैकनुते\nकृतसुरतारक सङ्गरतारक सङ्गरतारक सूनुसुते ।\nसुरथसमाधि समानसमाधि समाधिसमाधि सुजातरते ।\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १७ ॥",
-          "transliteration": "Vijitasahasrakaraika sahasrakaraika sahasrakaraikanute\nKṛtasuratāraka saṅgaratāraka saṅgaratāraka sūnusute .\nSurathasamādhi samānasamādhi samādhisamādhi sujātarate .\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 17 ..",
-          "translations": {
-            "english": "Oh Goddess, the only time praised by the thousand hands of Sahasrarjuna who had excelled the thousand-rayed Sun by his valour, having a son like Karttika who had fought a victorious battle in the clash between gods and Tarakasura, one for whom pleasure is created in the accomplishment (accorded by Şage Medhas) by giving justification for the self-same mental agony of (King) Suratha and (the vaisya) Samadhi, who has crushed the demon. Mahisha, wearing a charming knot of hair, Oh Daughter of Mountain (Himalaya), Victory to you, Victory to you."
-          }
-        },
-        {
-          "id": "mm-18",
-          "verse_number": 18,
-          "startTime": 641,
-          "endTime": 677,
-          "original": "पदकमलं करुणानिलये वरिवस्यति योऽनुदिनं सुशिवे\nअयि कमले कमलानिलये कमलानिलयः स कथं न भवेत् ।\nतव पदमेव परम्पदमित्यनुशीलयतो मम किं न शिवे\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १८ ॥",
-          "transliteration": "Padakamalaṃ karuṇānilaye varivasyati yo’nudinaṃ suśive\nAyi kamale kamalānilaye kamalānilayaḥ sa kathaṃ na bhavet .\nTava padameva parampadamityanuśīlayato mama kiṃ na śive\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 18 ..",
-          "translations": {
-            "english": "O benevolent goddess accompanied by Shiva, if someone daily cherishes your lotuslike feet . (contd. from prev line) then, O lotus dwelling LakShmi, how will he not become wealthy? . O auspicious Goddess, is there anything that I would not have, if I earnestly believe that your feet are the highest goal to be achieved? Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
-          }
-        },
-        {
-          "id": "mm-19",
-          "verse_number": 19,
-          "startTime": 678,
-          "endTime": 713,
-          "original": "कनकल सत्कलसिन्धुजलैरनुषिञ्चति तेगुणरङ्गभुवम्\nभजति स किं न शचीकुचकुम्भ तटीपरिरम्भसुखानुभवम् ।\nतव चरणं शरणं करवाणि नतामरवाणि निवासि शिवम्\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १९ ॥",
-          "transliteration": "Kanaka lasatkala sindhujalairanuṣiñ cati teguṇaraṅgabhuvam\nBhajati sa kiṃ na śacīkucakumbha taṭīparirambh asukhānubhavam .\nTava caraṇaṃ śaraṇaṃ karavāṇi natāmaravāṇi nivāsi śivam\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 19 ..",
-          "translations": {
-            "english": "If someone bathes you, the playground of virtues, with shining golden waters of the ocean . will he not experience in heaven the happiness (equal to that of Indra) embracing the full bosom of Sachi? . O Goddess worshipped by the speech of Gods, I take refuge in your feet, which are also the abode of Shiva. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
-          }
-        },
-        {
-          "id": "mm-20",
-          "verse_number": 20,
-          "startTime": 714,
-          "endTime": 751,
-          "original": "तव विमलेन्दुकुलं वदनेन्दुमलं सकलं ननु कूलयते\nकिमु पुरुहूतपुरीन्दु मुखी सुमुखीभिरसौ विमुखीक्रियते ।\nमम तु मतं शिवनामधने भवती कृपया किमुत क्रियते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ २० ॥",
-          "transliteration": "Tava vimalendukulaṃ vadanendumalaṃ sakalaṃ nanu kūlayate\nKimu puruhūtapurīndu mukhī sumukhībhirasau vimukhīkriyate .\nMama tu mataṃ śivanāmadhane bhavatī kṛpayā kimuta kriyate\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 20 ..",
-          "translations": {
-            "english": "Oh Pure One, the person who looks upon your moonlike face together with its digits causing a bond (with your essence) as the bank (beyond which the river of sorrow does not proceed) – will he ever be turned away by the ladies of Indra’s City, having moonlike faces and auspicious faces ? Oh Goddess, having the name of Siva as her treasure, or my opinion is that with kindness you achieve it. Oh Goddess, who has crushed the demon, Mahisha, wearing a beatiful know of hair, Oh Daughter of Mountain (Himalaya), Victory to you, Victory to you."
-          }
-        },
-        {
-          "id": "mm-21",
-          "verse_number": 21,
-          "startTime": 752,
-          "endTime": 802,
-          "original": "अयि मयि दीनदयालुतया कृपयैव त्वया भवितव्यमुमे\nअयि जगतो जननी कृपयासि यथासि तथाऽनुमितासि रते ।\nयदुचितमत्र भवत्युररीकुरुतादुरुतापमपाकुरुते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ २१॥",
-          "transliteration": "Ayi mayi dīna dayālutayā kṛpayaiva tvayā bhavitavyamume\nAyi jagato jananī kṛpayāsi yathāsi tathānumitāsirate .\nYaducitamatra bhavatyurarīkurutādurutāpamapākurute\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 21 ..",
-          "translations": {
-            "english": "O Uma, you should be kindly disposed toward me because of your virtue of compassion toward the meek . (meaning unclear) . you may choose to do (with me) whatever is appropriate, she removes the great pain (of her devotees) Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
-          }
-        }
-      ]
+      "id": "mm-1",
+      "verse_number": 1,
+      "startTime": 0,
+      "endTime": 49,
+      "original": "अयि गिरिनंदिनि नंदितमेदिनि विश्वविनोदिनि नंदनुते\nगिरिवरविंध्यशिरोधिनिवासिनि विष्णुविलासिनि जिष्णुनुते ।\nभगवति हे शितिकण्ठकुटुंबिनि भूरिकुटुंबिनि भूरिकृते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १॥",
+      "transliteration": "Ayigiri nandini nanditamedini viśvavinodini naṃdanute\ngirivaraviṃdhyaśirodhinivāsini viṣṇuvilāsini jiṣṇunute .\nBhagavati he śitikaṇṭhakuṭuṃbini bhūrikuṭuṃbini bhūrikṛte\njaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 1..",
+      "translation": "O daughter of the mountain, who makes the whole earth happy, who makes the whole universe rejoice, praised by Nandin. Dwelling on the peak of the great Vindhya mountain, glittering widely, (giver of joy to Vishnu), praised by those desirous of victory. O Goddess, wife of the blue necked Siva, One who has many families, One who has done a lot, be victorious, be victorious, O destroyer of the demon mahisa, with beautiful braids of hair, daughter of the mountain Himalaya."
+    },
+    {
+      "id": "mm-2",
+      "verse_number": 2,
+      "startTime": 50,
+      "endTime": 86,
+      "original": "सुरवरवर्षिणि दुर्धरधर्षिणि दुर्मुखमर्षिणि हर्षरते\nत्रिभुवनपोषिणि शंकरतोषिणि किल्बिषमोषिणि घोषरते ।\nदनुजनिरोषिणि दितिसुतरोषिणि दुर्मदशोषिणि सिन्धुसुते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ २॥",
+      "transliteration": "Suravaravarṣiṇi durdharadharṣiṇi durmukhamarṣiṇi harṣarate\ntribhuvanapoṣiṇi śaṃkaratoṣiṇi kilbiṣamoṣiṇi ghoṣarate .\nDanujaniroṣiṇi ditisutaroṣiṇi durmadaśoṣiṇi sindhusute\njaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 2..",
+      "translation": "O bestower of boons on Gods, One who assails those hard to control, who tolerates those with ugly faces (?), one engrossed in rejoicing . One who nourishes the three worlds, One who pleases sankara, One who removes sins, One who engrosses in sound of Om (?) . One who is angry with the progeny of Danu (demon), One who is angry with the sons of Diti (also demon), One who destroys those with evil intoxication of pride, daughter of the ocean. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
+    },
+    {
+      "id": "mm-3",
+      "verse_number": 3,
+      "startTime": 87,
+      "endTime": 123,
+      "original": "अयि जगदंब मदंब कदंबवनप्रियवासिनि हासरते\nशिखरिशिरोमणि तुङ्गहिमालय श‍ृंगनिजालय मध्यगते ।\nमधुमधुरे मधुकैटभगंजिनि कैटभभंजिनि रासरते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ३॥",
+      "transliteration": "Ayi jagadaṃba madaṃba kadaṃbavanapriyavāsini hāsarate\nśikhariśiromaṇituṅgahimālayaśṛṃganijālayamadhyagate .\nMadhumadhure madhukaiṭabhagaṃjini kaiṭabhabhaṃjini rāsarate\njaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 3..",
+      "translation": "O mother of the world, my mother, One who loves to dwell in a forest of Kadamba trees, One who keeps on smiling . One who is on her own dwelling on the tall peak of the Himalaya, the greatest among the mountains . One who is very sweet like honey, One who has the treasure of demons Madhu and Kaitabha, destroyer of the demon Kaitabha, engaged in dancing. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
+    },
+    {
+      "id": "mm-4",
+      "verse_number": 4,
+      "startTime": 124,
+      "endTime": 160,
+      "original": "अयि शतखण्ड विखण्डितरुण्ड वितुण्डितशुण्द गजाधिपते\nरिपुगजगण्ड विदारणचण्ड पराक्रमशुण्ड मृगाधिपते ।\nनिजभुजदण्ड निपातितखण्ड विपातितमुण्ड भटाधिपते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ४ ॥",
+      "transliteration": "Ayi śatakhaṇḍa vikhaṇḍitaruṇḍa vituṇḍitaśuṇda gajādhipate\nRipugajagaṇḍa vidāraṇacaṇḍa parākramaśuṇḍa mṛgādhipate .\nNijabhujadaṇḍa nipātitakhaṇḍa vipātitamuṇḍa bhaṭādhipate\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 4 ..",
+      "translation": "O One who split the heads (of demons) into hundreds of pieces and One who cut the trunks of great battle elephants . whose great lion is skilled in terrifying valor in tearing apart the temples of enemy elephants . One who has cut down into pieces the heads of enemy chieftains with the strength of her own arms. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
+    },
+    {
+      "id": "mm-5",
+      "verse_number": 5,
+      "startTime": 161,
+      "endTime": 197,
+      "original": "अयि रणदुर्मद शत्रुवधोदित दुर्धरनिर्जर शक्तिभृते\nचतुरविचार धुरीणमहाशिव दूतकृत प्रमथाधिपते ।\nदुरितदुरीह दुराशयदुर्मति दानवदुत कृतान्तमते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ५ ॥",
+      "transliteration": "Ayi raṇadurmada śatruvadhodita durdharanirjara śaktibhṛte\nCaturavicāra dhurīṇamahāśiva dūtakṛta pramathādhipate .\nDuritadurīha durāśayadurmati dānavaduta kṛtāntamate\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 5 ..",
+      "translation": "O One who holds the invincible and undiminishing striking force which arose on the occasion of killing the enemies who were hard to subdue on the battlefield . who made Pramatha, the great attendant of Shiva, a leader in subtle thinking, her commander (?) . who decided to destroy the messenger of demons who were sinful, with evil intentions, thoughts and mind. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
+    },
+    {
+      "id": "mm-6",
+      "verse_number": 6,
+      "startTime": 198,
+      "endTime": 233,
+      "original": "अयि शरणागत वैरिवधुवर वीरवराभय दायकरे\nत्रिभुवनमस्तक शुलविरोधि शिरोऽधिकृतामल शुलकरे ।\nदुमिदुमितामर धुन्दुभिनादमहोमुखरीकृत दिङ्मकरे\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ६ ॥",
+      "transliteration": "Ayi śaraṇāgata vairivadhuvara vīravarābhaya dāyakare\nTribhuvanamastaka śulavirodhi śiro’dhikṛtāmala śulakare .\nDumidumitāmara dhundubhinādamahomukharīkṛta diṅmakare\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 6 ..",
+      "translation": "O One who gives protection to the great heroic husbands of the enemy wives who have come seeking refuge . One who holds in her hands a spotless spear pointed towards the head of the opponent who is causing a great pain for all the three worlds . One who is like the blazing hot sun, aroused by the power of resounding noise of the drums of Gods. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
+    },
+    {
+      "id": "mm-7",
+      "verse_number": 7,
+      "startTime": 234,
+      "endTime": 271,
+      "original": "अयि निजहुङ्कृति मात्रनिराकृत धूम्रविलोचन धूम्रशते\nसमरविशोषित शोणितबीज समुद्भवशोणित बीजलते ।\nशिवशिवशुम्भ निशुम्भमहाहव तर्पितभूत पिशाचरते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ७॥",
+      "transliteration": "Ayi nijahum̐kṛti mātranirākṛta dhūmravilocana dhūmraśate\nSamaraviśoṣita śoṇitabīja samudbhava śoṇitabījalate .\nŚivaśiva śuṃbha niśuṃbha mahāhava tarpitabhūtapiśācarate\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 7..",
+      "translation": "O One who has blown aside hundreds of streams of smoke coming from demons with smoking eyes merely with her own roaring . who is like a vine of blood-drops grown from the dried blood drops in battle . One who delights in the company of auspicious Shiva, Shumbha, Nishumbha, and the spirits who were fed during the great battle. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
+    },
+    {
+      "id": "mm-8",
+      "verse_number": 8,
+      "startTime": 272,
+      "endTime": 308,
+      "original": "धनुरनुषङ्ग रणक्षणसङ्ग परिस्फुरदङ्ग नटत्कटके\nकनकपिशङ्ग पृषत्कनिषङ्ग रसद्भटशृङ्ग हताबटुके ।\nकृतचतुरङ्ग बलक्षितिरङ्ग घटद्बहुरङ्ग रटद्बटुके\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ८ ॥",
+      "transliteration": "Dhanuranuṣaṅga raṇakṣaṇasaṅga parisphuradaṅga naṭatkaṭake\nKanakapiśaṅga pṛṣatkaniṣaṅga rasadbhaṭaśṛṅga hatābaṭuke .\nKṛtacaturaṅga balakṣitiraṅga ghaṭadbahuraṅga raṭadbaṭuke\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 8 ..",
+      "translation": "One who decks herself with dancing ornaments on throbbing limbs at the moment of the battle, making her bow ready . who killed the huge enemy soldiers with a shining sword and with (arrows from) a quiver which has golden brown spots . who made the battleground with fourfold army into a stage with a colorful drama with screaming little soldiers. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
+    },
+    {
+      "id": "mm-9",
+      "verse_number": 9,
+      "startTime": 309,
+      "endTime": 345,
+      "original": "सुरललना ततथेयि तथेयि कृताभिनयोदर नृत्यरते\nकृत कुकुथः कुकुथो गडदादिकताल कुतूहल गानरते ।\nधुधुकुट धुक्कुट धिंधिमित ध्वनि धीर मृदंग निनादरते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ९ ॥",
+      "transliteration": "Suralalanā tatatheyi tatheyi kṛtābhinayodara nṛtyarate\nKṛta kukuthaḥ kukutho gaḍadādikatāla kutūhala gānarate .\nDhudhukuṭa dhukkuṭa dhiṃdhimita dhvani dhīra mṛdaṃga ninādarate\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 9 ..",
+      "translation": "O you who take delight in the dancing of heavenly damsels made excellent by the acting out of tatatheyi-tatheyi-tatha/tathA! O you who are full of laughter, amorous gestures and hulAsa (meaning uncertain, but probably something along the lines of abandon)! O you who possess immeasurable love for afflicted persons bowing before you (i.e., seeking refuge in you)! O you who rejoice in the sustained/deep sound, dhimikaTa-dhikkaTa-dhikaTadhimi, of the mRdaGga drum! O vanquisher of the demon MahiSa! O one bearing attractive knotted hair! O daughter of the mountain! Victory to you!"
+    },
+    {
+      "id": "mm-10",
+      "verse_number": 10,
+      "startTime": 346,
+      "endTime": 381,
+      "original": "जय जय जप्य जयेजयशब्द परस्तुति तत्परविश्वनुते\nझणझणझिञ्झिमि झिङ्कृत नूपुरशिञ्जितमोहित भूतपते ।\nनटित नटार्ध नटी नट नायक नाटितनाट्य सुगानरते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १० ॥",
+      "transliteration": "Jaya jaya japya jayejayaśabda parastuti tatparaviśvanute\nJhaṇajhaṇajhiñjhimi jhiṅkṛta nūpuraśiñjitamohita bhūtapate .\nNaṭita naṭārdha naṭī naṭ nāyaka nāṭitanāṭya sugānarate\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 10 ..",
+      "translation": "Be victorious! be victorious! whose victory should be sung, praised by the whole universe ready to sing the praise extolling her victory . who attracted the attention of shiva by twinkling of bells making various sounds of dancing . who delights in beautiful singing and in dance-drama presented by a leading dancer acting out the role of an actress with half of his body. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
+    },
+    {
+      "id": "mm-11",
+      "verse_number": 11,
+      "startTime": 382,
+      "endTime": 419,
+      "original": "अयि सुमनःसुमनःसुमनः सुमनःसुमनोहरकान्तियुते\nश्रितरजनी रजनीरजनी रजनीरजनी करवक्त्रवृते ।\nसुनयनविभ्रमर भ्रमरभ्रमर भ्रमरभ्रमराधिपते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ११ ॥",
+      "transliteration": "Ayi sumanaḥ sumanaḥ sumanaḥ sumanaḥ sumanohara kāntiyute\nŚritarajanī rajanīrajanī rajanīrajanī karavaktravṛte .\nSunayanavibhramara bhramarabhramara bhramarabhramarādhipate\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 11 ..",
+      "translation": "O Divine Mother, I invoke You and take refuge in Your Auspicious Feet) Salutations to You O Divine Mother; I Invoke You; Whose Beautiful Mind is United with a Charming Appearance, (I Invoke You) Whose Beautiful Face makes Subserviant the Beauty of the Moon Light of Night by Hiding them with Its Own Beauty, Whose Beautiful Eyes Conquer the Beauty of the Bees by Its Own Beauty, Victory to You, Victory to You, (I take Refuge in Your Auspicious Feet) O the Destroyer of Demon Mahishasura; (Victory to You) Who Shine with Beautiful Locks of Hair and Who is the Daughter of the Mountain"
+    },
+    {
+      "id": "mm-12",
+      "verse_number": 12,
+      "startTime": 420,
+      "endTime": 456,
+      "original": "सहितमहाहव मल्लमतल्लिक मल्लितरल्लक मल्लरते\nविरचितवल्लिक पल्लिकमल्लिक झिल्लिकभिल्लिक वर्गवृते ।\nशितकृतफुल्ल समुल्लसितारुण तल्लजपल्लव सल्ललिते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १२ ॥",
+      "transliteration": "Sahitamahāhava mallamatallika mallitarallaka mallarate\nViracitavallika pallikamallika jhillikabhillika vargavṛte .\nŚitakṛtaphulla samullasitāruṇa tallajapallava sallalite\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 12 ..",
+      "translation": "Salutations to the Divine Mother who is accompanied in the great battle against excellent wrestlers (fighters), by girls who appear tender like jasmine who are fighting against the enemies. whose accompaniments are composed of girls from the bheel tribe who are tender like creepers of village jasmine and buzz like swarms of bees (or crickets). On whose face plays a smile created By joy which appears like dawn shining forth with red colour and blossoming the excellent buds. Victory to you, the destroyer of the demon Mahishasura, who has beautiful locks of hair and who is the daughter of the mountain."
+    },
+    {
+      "id": "mm-13",
+      "verse_number": 13,
+      "startTime": 457,
+      "endTime": 493,
+      "original": "अविरलगण्ड गलन्मदमेदुर मत्तमतङ्गजराजपते\nत्रिभुवनभूषण भूतकलानिधि रूपपयोनिधि राजसुते ।\nअयि सुदतीजन लालसमानस मोहन मन्मथराजसुते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १३ ॥",
+      "transliteration": "Aviralagaṇḍa galanmadamedura mattamataṅgajarājapate\nTribhuvanabhūṣaṇa bhūtakalānidhi rūpapayonidhi rājasute .\nAyi sudatījana lālasamānasa mohana manmatharājasute\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 13 ..",
+      "translation": "Who is in charge of huge royal elephants in fury whose rut is streaming down their temples incessantly . princess, the daughter of the ocean, who has the beauty of the moon, the ornament of all the three worlds . princess of cupid who enchants the minds desirous of ladies with beautiful teeth. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
+    },
+    {
+      "id": "mm-14",
+      "verse_number": 14,
+      "startTime": 494,
+      "endTime": 529,
+      "original": "कमलदलामल कोमलकान्ति कलाकलितामल भाललते\nसकलविलास कलानिलयक्रम केलिचलत्कल हंसकुले ।\nअलिकुलसङ्कुल कुवलयमण्डल मौलिमिलद्बकुलालिकुले\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १४ ॥",
+      "transliteration": "Kamaladalāmala komalakānti kalākalitāmala bhālalate\nSakalavilāsa kalānilayakrama kelicalatkala haṃsakule .\nAlikulasaṅkula kuvalayamaṇḍala maulimiladbakulālikule\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 14 ..",
+      "translation": "Whose spotless forehead is enhanced by the beautiful complexion, pure and delicate like that of lotus petals . whose flock of swans is moving sportingly with steps which are the marks of all beautiful arts . whose bees from the bakula trees meet on the tops of lotus flowers which are crowded with (their own) bees. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
+    },
+    {
+      "id": "mm-15",
+      "verse_number": 15,
+      "startTime": 530,
+      "endTime": 566,
+      "original": "करमुरलीरव वीजितकूजित लज्जितकोकिल मञ्जुमते\nमिलितपुलिन्द मनोहरगुञ्जित रञ्जितशैल निकुञ्जगते ।\nनिजगणभूत महाशबरीगण सद्गुणसम्भृत केलितले\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १५ ॥",
+      "transliteration": "Karamuralīrava vījitakūjita lajjitakokila mañjumate\nMilitapulinda manoharaguñjita rañjitaśaila nikuñjagate .\nNijagaṇabhūta mahāśabarīgaṇa sadguṇasambhṛta kelitale\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 15 ..",
+      "translation": "Whose sweet cooing sounds made with the flute held in her own hands have put to shame the Kokila bird and who has sweet thoughts . who is in colorful mountain groves pleasantly resounding with the assembled mountain folks . whose playbround is filled with good qualities of the flocks of the great tribal women who are manifestations of her own qualities. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
+    },
+    {
+      "id": "mm-16",
+      "verse_number": 16,
+      "startTime": 567,
+      "endTime": 603,
+      "original": "कटितटपीत दुकूलविचित्र मयुखतिरस्कृत चन्द्ररुचे\nप्रणतसुरासुर मौलिमणिस्फुर दंशुलसन्नख चन्द्ररुचे\nजितकनकाचल मौलिमदोर्जित निर्भरकुञ्जर कुम्भकुचे\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १६ ॥",
+      "transliteration": "Kaṭitaṭapīta dukūlavicitra mayukhatiraskṛta candraruce\nPraṇatasurāsura maulimaṇisphura daṃśulasannakha candraruce\nJitakanakācala maulimadorjita nirbharakuñjara kumbhakuce\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 16 ..",
+      "translation": "Who has set aside the brilliance of the moon with the colorful rays coming from the yellow silk she is wearing on her waist . whose toe-nails shine like the moon because of the rays emanating form the crest jewels of the bowing gods and demons . whose breasts outshine the temples of wild elephants and the high peaks of the golden mountains. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
+    },
+    {
+      "id": "mm-17",
+      "verse_number": 17,
+      "startTime": 604,
+      "endTime": 640,
+      "original": "विजितसहस्रकरैक सहस्रकरैक सहस्रकरैकनुते\nकृतसुरतारक सङ्गरतारक सङ्गरतारक सूनुसुते ।\nसुरथसमाधि समानसमाधि समाधिसमाधि सुजातरते ।\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १७ ॥",
+      "transliteration": "Vijitasahasrakaraika sahasrakaraika sahasrakaraikanute\nKṛtasuratāraka saṅgaratāraka saṅgaratāraka sūnusute .\nSurathasamādhi samānasamādhi samādhisamādhi sujātarate .\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 17 ..",
+      "translation": "Oh Goddess, the only time praised by the thousand hands of Sahasrarjuna who had excelled the thousand-rayed Sun by his valour, having a son like Karttika who had fought a victorious battle in the clash between gods and Tarakasura, one for whom pleasure is created in the accomplishment (accorded by Şage Medhas) by giving justification for the self-same mental agony of (King) Suratha and (the vaisya) Samadhi, who has crushed the demon. Mahisha, wearing a charming knot of hair, Oh Daughter of Mountain (Himalaya), Victory to you, Victory to you."
+    },
+    {
+      "id": "mm-18",
+      "verse_number": 18,
+      "startTime": 641,
+      "endTime": 677,
+      "original": "पदकमलं करुणानिलये वरिवस्यति योऽनुदिनं सुशिवे\nअयि कमले कमलानिलये कमलानिलयः स कथं न भवेत् ।\nतव पदमेव परम्पदमित्यनुशीलयतो मम किं न शिवे\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १८ ॥",
+      "transliteration": "Padakamalaṃ karuṇānilaye varivasyati yo’nudinaṃ suśive\nAyi kamale kamalānilaye kamalānilayaḥ sa kathaṃ na bhavet .\nTava padameva parampadamityanuśīlayato mama kiṃ na śive\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 18 ..",
+      "translation": "O benevolent goddess accompanied by Shiva, if someone daily cherishes your lotuslike feet . (contd. from prev line) then, O lotus dwelling LakShmi, how will he not become wealthy? . O auspicious Goddess, is there anything that I would not have, if I earnestly believe that your feet are the highest goal to be achieved? Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
+    },
+    {
+      "id": "mm-19",
+      "verse_number": 19,
+      "startTime": 678,
+      "endTime": 713,
+      "original": "कनकल सत्कलसिन्धुजलैरनुषिञ्चति तेगुणरङ्गभुवम्\nभजति स किं न शचीकुचकुम्भ तटीपरिरम्भसुखानुभवम् ।\nतव चरणं शरणं करवाणि नतामरवाणि निवासि शिवम्\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १९ ॥",
+      "transliteration": "Kanaka lasatkala sindhujalairanuṣiñ cati teguṇaraṅgabhuvam\nBhajati sa kiṃ na śacīkucakumbha taṭīparirambh asukhānubhavam .\nTava caraṇaṃ śaraṇaṃ karavāṇi natāmaravāṇi nivāsi śivam\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 19 ..",
+      "translation": "If someone bathes you, the playground of virtues, with shining golden waters of the ocean . will he not experience in heaven the happiness (equal to that of Indra) embracing the full bosom of Sachi? . O Goddess worshipped by the speech of Gods, I take refuge in your feet, which are also the abode of Shiva. Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
+    },
+    {
+      "id": "mm-20",
+      "verse_number": 20,
+      "startTime": 714,
+      "endTime": 751,
+      "original": "तव विमलेन्दुकुलं वदनेन्दुमलं सकलं ननु कूलयते\nकिमु पुरुहूतपुरीन्दु मुखी सुमुखीभिरसौ विमुखीक्रियते ।\nमम तु मतं शिवनामधने भवती कृपया किमुत क्रियते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ २० ॥",
+      "transliteration": "Tava vimalendukulaṃ vadanendumalaṃ sakalaṃ nanu kūlayate\nKimu puruhūtapurīndu mukhī sumukhībhirasau vimukhīkriyate .\nMama tu mataṃ śivanāmadhane bhavatī kṛpayā kimuta kriyate\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 20 ..",
+      "translation": "Oh Pure One, the person who looks upon your moonlike face together with its digits causing a bond (with your essence) as the bank (beyond which the river of sorrow does not proceed) – will he ever be turned away by the ladies of Indra’s City, having moonlike faces and auspicious faces ? Oh Goddess, having the name of Siva as her treasure, or my opinion is that with kindness you achieve it. Oh Goddess, who has crushed the demon, Mahisha, wearing a beatiful know of hair, Oh Daughter of Mountain (Himalaya), Victory to you, Victory to you."
+    },
+    {
+      "id": "mm-21",
+      "verse_number": 21,
+      "startTime": 752,
+      "endTime": 802,
+      "original": "अयि मयि दीनदयालुतया कृपयैव त्वया भवितव्यमुमे\nअयि जगतो जननी कृपयासि यथासि तथाऽनुमितासि रते ।\nयदुचितमत्र भवत्युररीकुरुतादुरुतापमपाकुरुते\nजय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ २१॥",
+      "transliteration": "Ayi mayi dīna dayālutayā kṛpayaiva tvayā bhavitavyamume\nAyi jagato jananī kṛpayāsi yathāsi tathānumitāsirate .\nYaducitamatra bhavatyurarīkurutādurutāpamapākurute\nJaya jaya he mahiṣāsuramardini ramyakapardini śailasute .. 21 ..",
+      "translation": "O Uma, you should be kindly disposed toward me because of your virtue of compassion toward the meek . (meaning unclear) . you may choose to do (with me) whatever is appropriate, she removes the great pain (of her devotees) Victory, Victory to you, the Destroyer of Mahishasura, the one with beautiful braided locks, the Daughter of the Mountain."
     }
   ]
 }
