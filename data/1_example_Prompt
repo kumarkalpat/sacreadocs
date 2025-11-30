@@ -35,7 +35,22 @@ JSON structure:
 }
 
 ----------------------------------------
+{
+  "id": "unique-text-id",
+  "title": "Title of the Text",
+  "verses_count": 1,
+  "verses": [
+  {
+      "id": "unique-text-id-1-1",
+      "verse_number": 1,
+      "original": "Original text in Devanagari, Tamil or as appropriate...",
+      "transliteration": "IAST transliteration...",
+      "translation": "English translation..."
+    }
+  ]
+}
 
+-----------------------------------------------------------------------------
 Please generate the content for all 42 verses of the Hanuman Chalisa.
 
 
