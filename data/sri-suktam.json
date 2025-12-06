@@ -10,6 +10,8 @@
         {
           "id": "sri-suktam-1-1",
           "verse_number": 1,
+          "startTime": 0,
+          "endTime": 16,
           "original": "ॐ हिरण्यवर्णां हरिणीं सुवर्णरजतस्रजाम् । चन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ॥",
           "transliteration": "oṁ hiraṇyavarṇāṁ hariṇīṁ suvarṇarajatasrajām । candrāṁ hiraṇmayīṁ lakṣmīṁ jātavedo ma āvaha ॥",
           "translations": {
@@ -19,6 +21,8 @@
         {
           "id": "sri-suktam-1-2",
           "verse_number": 2,
+          "startTime": 17,
+          "endTime": 30,
           "original": "तां म आवह जातवेदो लक्ष्मीमनपगामिनीम् । यस्यां हिरण्यं विन्देयं गामश्वं पुरुषानहम् ॥",
           "transliteration": "tāṁ ma āvaha jātavedo lakṣmīmanapagāminīm । yasyāṁ hiraṇyaṁ vindeyaṁ gāmaśvaṁ puruṣānaham ॥",
           "translations": {
@@ -28,6 +32,8 @@
         {
           "id": "sri-suktam-1-3",
           "verse_number": 3,
+          "startTime": 31,
+          "endTime": 45,
           "original": "अश्वपूर्वां रथमध्यां हस्तिनादप्रबोधिनीम् । श्रियं देवीमुपह्वये श्रीर्मा देवीर्जुषताम् ॥",
           "transliteration": "aśvapūrvāṁ rathamadhyāṁ hastinādaprabodhinīm । śriyaṁ devīmupahvaye śrīrmā devīrjuṣatām ॥",
           "translations": {
@@ -37,6 +43,8 @@
         {
           "id": "sri-suktam-1-4",
           "verse_number": 4,
+          "startTime": 46,
+          "endTime": 64,
           "original": "कां सोस्मितां हिरण्यप्राकारामार्द्रां ज्वलन्तीं तृप्तां तर्पयन्तीम् । पद्मे स्थितां पद्मवर्णां तामिहोपह्वये श्रियम् ॥",
           "transliteration": "kāṁ sosmitāṁ hiraṇyaprākārāmārdrāṁ jvalantīṁ tṛptāṁ tarpayantīm । padme sthitāṁ padmavarṇāṁ tāmihopahvaye śriyam ॥",
           "translations": {
@@ -46,6 +54,8 @@
         {
           "id": "sri-suktam-1-5",
           "verse_number": 5,
+          "startTime": 65,
+          "endTime": 83,
           "original": "चन्द्रां प्रभासां यशसा ज्वलन्तीं श्रियं लोके देवजुष्टामुदाराम् । तां पद्मिनीमीं शरणमहं प्रपद्येऽलक्ष्मीर्मे नश्यतां त्वां वृणे ॥",
           "transliteration": "candrāṁ prabhāsāṁ yaśasā jvalantīṁ śriyaṁ loke devajuṣṭāmudārām । tāṁ padminīmīṁ śaraṇamahaṁ prapadye'lakṣmīrme naśyatāṁ tvāṁ vṛṇe ॥",
           "translations": {
@@ -55,6 +65,8 @@
         {
           "id": "sri-suktam-1-6",
           "verse_number": 6,
+          "startTime": 84,
+          "endTime": 102,
           "original": "आदित्यवर्णे तपसोऽधिजातो वनस्पतिस्त्व वृक्षोऽथ बिल्वः । तस्य फलानि तपसानुदन्तु मायान्तरायाश्च बाह्या अलक्ष्मीः ॥",
           "transliteration": "ādityavarṇe tapaso'dhijāto vanaspatistva vṛkṣo'tha bilvaḥ । tasya phalāni tapasānudantu māyāntarāyāśca bāhyā alakṣmīḥ ॥",
           "translations": {
@@ -64,6 +76,8 @@
         {
           "id": "sri-suktam-1-7",
           "verse_number": 7,
+          "startTime": 103,
+          "endTime": 117,
           "original": "उपैतु मां देवसखः कीर्तिश्च मणिना सह । प्रादुर्भूतोऽस्मि राष्ट्रेऽस्मिन् कीर्तिमृद्धिं ददातु मे ॥",
           "transliteration": "upaitu māṁ devasakhaḥ kīrtiśca maṇinā saha । prādurbhūto'smi rāṣṭre'smin kīrtimṛddhiṁ dadātu me ॥",
           "translations": {
@@ -73,6 +87,8 @@
         {
           "id": "sri-suktam-1-8",
           "verse_number": 8,
+          "startTime": 118,
+          "endTime": 130,
           "original": "क्षुत्पिपासामलां ज्येष्ठामलक्ष्मीं नाशयाम्यहम् । अभूतिमसमृद्धिं च सर्वां निर्णुद मे गृहात् ॥",
           "transliteration": "kṣutpipāsāmalāṁ jyeṣṭhāmalakṣmīṁ nāśayāmyaham । abhūtimasamṛddhiṁ ca sarvāṁ nirṇuda me gṛhāt ॥",
           "translations": {
@@ -82,6 +98,8 @@
         {
           "id": "sri-suktam-1-9",
           "verse_number": 9,
+          "startTime": 131,
+          "endTime": 146,
           "original": "गन्धद्वारां दुराधर्षां नित्यपुष्टां करीषिणीम् । ईश्वरीं सर्वभूतानां तामिहोपह्वये श्रियम् ॥",
           "transliteration": "gandhadvārāṁ durādharṣāṁ nityapuṣṭāṁ karīṣiṇīm । īśvarīṁ sarvabhūtānāṁ tāmihopahvaye śriyam ॥",
           "translations": {
@@ -91,6 +109,8 @@
         {
           "id": "sri-suktam-1-10",
           "verse_number": 10,
+          "startTime": 147,
+          "endTime": 160,
           "original": "मनसः काममाकूतिं वाचः सत्यमशीमहि । पशूनां रूपमन्नस्य मयि श्रीः श्रयतां यशः ॥",
           "transliteration": "manasaḥ kāmamākūtiṁ vācaḥ satyamaśīmahi । paśūnāṁ rūpamannasya mayi śrīḥ śrayatāṁ yaśaḥ ॥",
           "translations": {
@@ -100,6 +120,8 @@
         {
           "id": "sri-suktam-1-11",
           "verse_number": 11,
+          "startTime": 161,
+          "endTime": 173,
           "original": "कर्दमेन प्रजाभूता मयि सम्भव कर्दम । श्रियं वासय मे कुले मातरं पद्ममालिनीम् ॥",
           "transliteration": "kardamena prajābhūtā mayi sambhava kardama । śriyaṁ vāsaya me kule mātaraṁ padmamālinīm ॥",
           "translations": {
@@ -109,6 +131,8 @@
         {
           "id": "sri-suktam-1-12",
           "verse_number": 12,
+          "startTime": 174,
+          "endTime": 186,
           "original": "आपः सृजन्तु स्निग्धानि चिक्लीत वस मे गृहे । नि च देवीं मातरं श्रियं वासय मे कुले ॥",
           "transliteration": "āpaḥ sṛjantu snigdhāni ciklīta vasa me gṛhe । ni ca devīṁ mātaraṁ śriyaṁ vāsaya me kule ॥",
           "translations": {
@@ -118,6 +142,8 @@
         {
           "id": "sri-suktam-1-13",
           "verse_number": 13,
+          "startTime": 187,
+          "endTime": 201,
           "original": "आर्द्रां पुष्करिणीं पुष्टिं सुवर्णां हेममालिनीम् । सूर्यां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ॥",
           "transliteration": "ārdrāṁ puṣkariṇīṁ puṣṭiṁ suvarṇāṁ hemamālinīm । sūryāṁ hiraṇmayīṁ lakṣmīṁ jātavedo ma āvaha ॥",
           "translations": {
@@ -127,6 +153,8 @@
         {
           "id": "sri-suktam-1-14",
           "verse_number": 14,
+          "startTime": 202,
+          "endTime": 217,
           "original": "आर्द्रां यः करिणीं यष्टिं पिङ्गलां पद्ममालिनीम् । चन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ॥",
           "transliteration": "ārdrāṁ yaḥ kariṇīṁ yaṣṭiṁ piṅgalāṁ padmamālinīm । candrāṁ hiraṇmayīṁ lakṣmīṁ jātavedo ma āvaha ॥",
           "translations": {
@@ -136,6 +164,8 @@
         {
           "id": "sri-suktam-1-15",
           "verse_number": 15,
+          "startTime": 218,
+          "endTime": 234,
           "original": "तां म आवह जातवेदो लक्ष्मीमनपगामिनीम् । यस्यां हिरण्यं प्रभूतं गावो दास्योऽश्वान् विन्देयं पुरुषानहम् ॥",
           "transliteration": "tāṁ ma āvaha jātavedo lakṣmīmanapagāminīm । yasyāṁ hiraṇyaṁ prabhūtaṁ gāvo dāsyo’śvān vindeyaṁ puruṣānaham ॥",
           "translations": {
@@ -145,6 +175,8 @@
         {
           "id": "sri-suktam-1-16",
           "verse_number": 16,
+          "startTime": 235,
+          "endTime": null,
           "original": "यः शुचिः प्रयतो भूत्वा जुहुयादाज्यमन्वहम् । श्रियः पञ्चदशर्चं च श्रीकामः सततं जपेत् ॥",
           "transliteration": "yaḥ śuciḥ prayato bhūtvā juhuyādājyamanvaham । śriyaḥ pañcadaśarcaṁ ca śrīkāmaḥ satataṁ japet ॥",
           "translations": {
