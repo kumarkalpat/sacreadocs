@@ -1339,7 +1339,7 @@
           "id": "bg_3_1",
           "verse_number": 1,
           "startTime": 0,
-          "endTime": null,
+          "endTime": 27,
           "original": "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥ १ ॥",
           "transliteration": "arjuna uvācha\njyāyasī chet karmaṇas te matā buddhir janārdana |\ntat kiṁ karmaṇi ghore māṁ niyojayasi keśhava || 1 ||",
           "translations": {
@@ -1349,8 +1349,8 @@
         {
           "id": "bg_3_2",
           "verse_number": 2,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 28,
+          "endTime": 42,
           "original": "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥ २ ॥",
           "transliteration": "vyāmiśhreṇeva vākyena buddhiṁ mohayasīva me |\ntad ekaṁ vada niśhchitya yena śhreyo 'ham āpnuyām || 2 ||",
           "translations": {
@@ -1360,8 +1360,8 @@
         {
           "id": "bg_3_3",
           "verse_number": 3,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 43,
+          "endTime": 60,
           "original": "श्रीभगवानुवाच\nलोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ ।\nज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम् ॥ ३ ॥",
           "transliteration": "śhrī bhagavān uvācha\nloke 'smin dvi-vidhā niṣhṭhā purā proktā mayānagha |\njñāna-yogena sāṅkhyānāṁ karma-yogena yoginām || 3 ||",
           "translations": {
@@ -1371,8 +1371,8 @@
         {
           "id": "bg_3_4",
           "verse_number": 4,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 61,
+          "endTime": 74,
           "original": "न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते ।\nन च सन्न्यसनादेव सिद्धिं समधिगच्छति ॥ ४ ॥",
           "transliteration": "na karmaṇām anārambhān naiṣhkarmyaṁ puruṣho 'śhnute |\nna cha sannyasanād eva siddhiṁ samadhigachchhati || 4 ||",
           "translations": {
@@ -1382,8 +1382,8 @@
         {
           "id": "bg_3_5",
           "verse_number": 5,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 75,
+          "endTime": 88,
           "original": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् ।\nकार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः ॥ ५ ॥",
           "transliteration": "na hi kaśhchit kṣhaṇam api jātu tiṣhṭhaty akarma-kṛt |\nkāryate hy avaśhaḥ karma sarvaḥ prakṛti-jair guṇaiḥ || 5 ||",
           "translations": {
@@ -1393,8 +1393,8 @@
         {
           "id": "bg_3_6",
           "verse_number": 6,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 89,
+          "endTime": 103,
           "original": "कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् ।\nइन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते ॥ ६ ॥",
           "transliteration": "karmendriyāṇi saṁyamya ya āste manasā smaran |\nindriyārthān vimūḍhātmā mithyāchāraḥ sa uchyate || 6 ||",
           "translations": {
@@ -1404,8 +1404,8 @@
         {
           "id": "bg_3_7",
           "verse_number": 7,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 104,
+          "endTime": 118,
           "original": "यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन ।\nकर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते ॥ ७ ॥",
           "transliteration": "yas tv indriyāṇi manasā niyamyārabhate 'rjuna |\nkarmendriyaiḥ karma-yogam asaktaḥ sa viśiṣhyate || 7 ||",
           "translations": {
@@ -1415,8 +1415,8 @@
         {
           "id": "bg_3_8",
           "verse_number": 8,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 119,
+          "endTime": 132,
           "original": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः ।\nशरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः ॥ ८ ॥",
           "transliteration": "niyataṁ kuru karma tvaṁ karma jyāyo hy akarmaṇaḥ |\nśharīra-yātrāpi cha te na prasiddhyed akarmaṇaḥ || 8 ||",
           "translations": {
@@ -1426,8 +1426,8 @@
         {
           "id": "bg_3_9",
           "verse_number": 9,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 133,
+          "endTime": 148,
           "original": "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः ।\nतदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ॥ ९ ॥",
           "transliteration": "yajñārthāt karmaṇo 'nyatra loko 'yaṁ karma-bandhanaḥ |\ntad-arthaṁ karma kaunteya mukta-saṅgaḥ samāchara || 9 ||",
           "translations": {
@@ -1437,8 +1437,8 @@
         {
           "id": "bg_3_10",
           "verse_number": 10,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 149,
+          "endTime": 162,
           "original": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः ।\nअनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ॥ १० ॥",
           "transliteration": "saha-yajñāḥ prajāḥ sṛṣhṭvā purovācha prajāpatiḥ |\nanena prasaviṣhyadhvam eṣha vo 'stv iṣhṭa-kāma-dhuk || 10 ||",
           "translations": {
@@ -1448,8 +1448,8 @@
         {
           "id": "bg_3_11",
           "verse_number": 11,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 163,
+          "endTime": 177,
           "original": "देवान्भावयतानेन ते देवा भावयन्तु वः ।\nपरस्परं भावयन्तः श्रेयः परमवाप्स्यथ ॥ ११ ॥",
           "transliteration": "devān bhāvayatānena te devā bhāvayantu vaḥ |\nparasparaṁ bhāvayantaḥ śhreyaḥ param avāpsyatha || 11 ||",
           "translations": {
@@ -1459,8 +1459,8 @@
         {
           "id": "bg_3_12",
           "verse_number": 12,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 178,
+          "endTime": 194,
           "original": "इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः ।\nतैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ॥ १२ ॥",
           "transliteration": "iṣhṭān bhogān hi vo devā dāsyante yajña-bhāvitāḥ |\ntair dattān apradāyaibhyo yo bhuṅkte stena eva saḥ || 12 ||",
           "translations": {
@@ -1470,8 +1470,8 @@
         {
           "id": "bg_3_13",
           "verse_number": 13,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 195,
+          "endTime": 209,
           "original": "यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः ।\nभुञ्जते ते त्वघं पापा ये पचन्त्यात्मककारणत् ॥ १३ ॥",
           "transliteration": "yajña-śhiṣhṭāśinaḥ santo muchyante sarva-kilbiṣhaiḥ |\nbhuñjate te tv aghaṁ pāpā ye pachanty ātma-kāraṇāt || 13 ||",
           "translations": {
@@ -1481,8 +1481,8 @@
         {
           "id": "bg_3_14",
           "verse_number": 14,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 210,
+          "endTime": 224,
           "original": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः ।\nयज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः ॥ १४ ॥",
           "transliteration": "annād bhavanti bhūtāni parjanyād anna-sambhavaḥ |\nyajñād bhavati parjanyo yajñaḥ karma-samudbhavaḥ || 14 ||",
           "translations": {
@@ -1492,8 +1492,8 @@
         {
           "id": "bg_3_15",
           "verse_number": 15,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 225,
+          "endTime": 240,
           "original": "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् ।\nतस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् ॥ १५ ॥",
           "transliteration": "karma brahmodbhavaṁ viddhi brahmākṣhara-samudbhavam |\ntasmāt sarva-gataṁ brahma nityaṁ yajñe pratiṣhṭhitam || 15 ||",
           "translations": {
@@ -1503,8 +1503,8 @@
         {
           "id": "bg_3_16",
           "verse_number": 16,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 241,
+          "endTime": 254,
           "original": "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः ।\nअघायुरिन्द्रियारामो मोघं पार्थ स जीवति ॥ १६ ॥",
           "transliteration": "evaṁ pravartitaṁ chakraṁ nānuvartayatīha yaḥ |\naghāyur indriyārāmo moghaṁ pārtha sa jīvati || 16 ||",
           "translations": {
@@ -1514,8 +1514,8 @@
         {
           "id": "bg_3_17",
           "verse_number": 17,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 255,
+          "endTime": 268,
           "original": "यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः ।\nआत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते ॥ १७ ॥",
           "transliteration": "yas tv ātma-ratir eva syād ātma-tṛptaśh cha mānavaḥ |\nātmani eva cha santuṣhṭas tasya kāryaṁ na vidyate || 17 || ",
           "translations": {
@@ -1525,8 +1525,8 @@
         {
           "id": "bg_3_18",
           "verse_number": 18,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 269,
+          "endTime": 283,
           "original": "नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन ।\nन चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः ॥ १८ ॥",
           "transliteration": "naiva tasya kṛtenārtho nā 'kṛteneha kaśhchana |\nna chāsya sarva-bhūteṣhu kaśchid artha-vyapāśhrayaḥ || 18 ||",
           "translations": {
@@ -1536,8 +1536,8 @@
         {
           "id": "bg_3_19",
           "verse_number": 19,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 284,
+          "endTime": 298,
           "original": "तस्मादसक्तः सततं कार्यं कर्म समाचर ।\nअसक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ॥ १९ ॥",
           "transliteration": "tasmād asaktaḥ satataṁ kāryaṁ karma samāchara |\nasakto hy ācharan karma param āpnoti pūruṣhaḥ || 19 ||",
           "translations": {
@@ -1547,8 +1547,8 @@
         {
           "id": "bg_3_20",
           "verse_number": 20,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 299,
+          "endTime": 312,
           "original": "कर्मणैव हि संसिद्धिमास्थिता जनकादयः ।\nलोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि ॥ २० ॥",
           "transliteration": "karmaṇaiva hi saṁsiddhim āsthitā janakādayaḥ |\nloka-saṅgraham evāpi sampaśhyan kartum arhasi || 20 ||",
           "translations": {
@@ -1558,8 +1558,8 @@
         {
           "id": "bg_3_21",
           "verse_number": 21,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 313,
+          "endTime": 327,
           "original": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ॥ २१ ॥",
           "transliteration": "yad yad ācharati śhreṣhṭhas tat tad evetaro janaḥ |\nsa yat pramāṇaṁ kurute lokas tad anuvartate || 21 ||",
           "translations": {
@@ -1569,8 +1569,8 @@
         {
           "id": "bg_3_22",
           "verse_number": 22,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 328,
+          "endTime": 341,
           "original": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन ।\nनानवप्तमवाप्तव्यं वर्त एव च कर्मणि ॥ २२ ॥",
           "transliteration": "na me pārthāsti kartavyaṁ triṣhu lokeṣhu kiñchana |\nnānavāptam avāptavyaṁ varta eva cha karmaṇi || 22 ||",
           "translations": {
@@ -1580,8 +1580,8 @@
         {
           "id": "bg_3_23",
           "verse_number": 23,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 342,
+          "endTime": 356,
           "original": "यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः ।\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ॥ २३ ॥",
           "transliteration": "yadi hy ahaṁ na varteyaṁ jātu karmaṇy atandritaḥ |\nmama vartmānuvartante manuṣhyāḥ pārtha sarvaśhaḥ || 23 ||",
           "translations": {
@@ -1591,8 +1591,8 @@
         {
           "id": "bg_3_24",
           "verse_number": 24,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 357,
+          "endTime": 370,
           "original": "उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् ।\nसङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ॥ २४ ॥",
           "transliteration": "utsīdeyur ime lokā na kuryāṁ karma ched aham |\nsaṅkarasya cha kartā syām upahanyām imāḥ prajāḥ || 24 ||",
           "translations": {
@@ -1602,8 +1602,8 @@
         {
           "id": "bg_3_25",
           "verse_number": 25,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 371,
+          "endTime": 386,
           "original": "सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत ।\nकुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसंग्रहम् ॥ २५ ॥",
           "transliteration": "saktāḥ karmaṇy avidvāṁso yathā kurvanti bhārata |\nkuryād vidvāṁs tathāsaktaśh chikīrṣhur loka-saṅgraham || 25 ||",
           "translations": {
@@ -1613,8 +1613,8 @@
         {
           "id": "bg_3_26",
           "verse_number": 26,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 387,
+          "endTime": 402,
           "original": "न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् ।\nजोषयेत्सर्वकर्माणि विद्वान् युक्तः समाचरन् ॥ २६ ॥",
           "transliteration": "na buddhi-bhedaṁ janayed ajñānāṁ karma-saṅginām |\njoṣhayet sarva-karmāṇi vidvān yuktaḥ samācharan || 26 ||",
           "translations": {
@@ -1624,8 +1624,8 @@
         {
           "id": "bg_3_27",
           "verse_number": 27,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 403,
+          "endTime": 415,
           "original": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः ।\nअहङ्कारविमूढात्मा कर्ताहमिति मन्यते ॥ २७ ॥",
           "transliteration": "prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśhaḥ |\nahaṅkāra-vimūḍhātmā kartāham iti manyate || 27 ||",
           "translations": {
@@ -1635,8 +1635,8 @@
         {
           "id": "bg_3_28",
           "verse_number": 28,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 416,
+          "endTime": 429,
           "original": "तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः ।\nगुणा गुणेषु वर्तन्त इति मत्वा न सज्जते ॥ २८ ॥",
           "transliteration": "tattva-vit tu mahā-bāho guṇa-karma-vibhāgayoḥ |\nguṇā guṇeṣhu vartanta iti matvā na sajjate || 28 ||",
           "translations": {
@@ -1646,8 +1646,8 @@
         {
           "id": "bg_3_29",
           "verse_number": 29,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 430,
+          "endTime": 442,
           "original": "प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु ।\nतानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् ॥ २ ९ ॥",
           "transliteration": "prakṛter guṇa-sammūḍhāḥ sajjante guṇa-karmasu |\ntān akṛtsna-vido mandān kṛtsna-vin na vichālayet || 29 ||",
           "translations": {
@@ -1657,8 +1657,8 @@
         {
           "id": "bg_3_30",
           "verse_number": 30,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 443,
+          "endTime": 458,
           "original": "मयि सर्वाणि कर्माणि सन्न्यस्याध्यात्मचेतसा ।\nनिराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ॥ ३० ॥",
           "transliteration": "mayi sarvāṇi karmāṇi sannyasyādhyātma-chetasā |\nnirāśhīr nirmamo bhūtvā yudhyasva vigata-jvaraḥ || 30 ||",
           "translations": {
@@ -1668,8 +1668,8 @@
         {
           "id": "bg_3_31",
           "verse_number": 31,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 459,
+          "endTime": 472,
           "original": "ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः ।\nश्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः ॥ ३ १ ॥",
           "transliteration": "ye me matam idaṁ nityam anutiṣhṭhanti mānavāḥ |\nśhraddhāvanto 'nasūyanto muchyante te 'pi karmabhiḥ || 31 ||",
           "translations": {
@@ -1679,8 +1679,8 @@
         {
           "id": "bg_3_32",
           "verse_number": 32,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 473,
+          "endTime": 488,
           "original": "ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् ।\nसर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः ॥ ३२ ॥",
           "transliteration": "ye tv etad abhyasūyanto nānutiṣhṭhanti me matam |\nsarva-jñāna-vimūḍhāṁs tān viddhi naṣhṭān achetasaḥ || 32 ||",
           "translations": {
@@ -1690,8 +1690,8 @@
         {
           "id": "bg_3_33",
           "verse_number": 33,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 489,
+          "endTime": 503,
           "original": "सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि ।\nप्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ॥ ३३ ॥",
           "transliteration": "sadṛśhaṁ cheṣhṭate svasyāḥ prakṛter jñānavān api |\nprakṛtiṁ yānti bhūtāni nigrahaḥ kiṁ kariṣhyati || 33 ||",
           "translations": {
@@ -1701,8 +1701,8 @@
         {
           "id": "bg_3_34",
           "verse_number": 34,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 504,
+          "endTime": 517,
           "original": "इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ ।\nतयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ ॥ ३४ ॥",
           "transliteration": "indriyasyendriyasyārthe rāga-dveṣhau vyavasthitau |\ntayor na vaśam āgachchhet tau hy asya paripanthinau || 34 ||",
           "translations": {
@@ -1712,8 +1712,8 @@
         {
           "id": "bg_3_35",
           "verse_number": 35,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 518,
+          "endTime": 533,
           "original": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।\nस्वधर्मे निधनं श्रेयः परधर्मो भयावहः ॥ ३ ५ ॥",
           "transliteration": "śhreyān sva-dharmo viguṇaḥ para-dharmāt su-anuṣhṭhitāt |\nsva-dharme nidhanaṁ śhreyaḥ para-dharmo bhayāvahaḥ || 35 ||",
           "translations": {
@@ -1723,8 +1723,8 @@
         {
           "id": "bg_3_36",
           "verse_number": 36,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 534,
+          "endTime": 550,
           "original": "अर्जुन उवाच\nअथ केन प्रयुक्तोऽयं पापं चरति पूरुषः ।\nअनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः ॥ ३ ६ ॥",
           "transliteration": "arjuna uvācha\natha kena prayukto 'yaṁ pāpaṁ charati pūruṣhaḥ |\nanichchhann api vārṣhṇeya balād iva niyojitaḥ || 36 ||",
           "translations": {
@@ -1734,8 +1734,8 @@
         {
           "id": "bg_3_37",
           "verse_number": 37,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 551,
+          "endTime": 567,
           "original": "श्रीभगवानुवाच\nकाम एष क्रोध एष रजोगुणसमुद्भवः ।\nमहाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ॥ ३७ ॥",
           "transliteration": "śhrī bhagavān uvācha\nkāma eṣha krodha eṣha rajo-guṇa-samudbhavaḥ |\nmahāśhano mahā-pāpmā viddhy enam iha vairiṇam || 37 ||",
           "translations": {
@@ -1745,8 +1745,8 @@
         {
           "id": "bg_3_38",
           "verse_number": 38,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 568,
+          "endTime": 582,
           "original": "धूमेनाव्रियते वह्निर्यथादर्शो मलेन च ।\nयथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् ॥ ३८ ॥",
           "transliteration": "dhūmenāvriyate vahnir yathādarśho malena cha |\nyatholbenāvṛto garbhas tathā tenedam āvṛtam || 38 ||",
           "translations": {
@@ -1756,8 +1756,8 @@
         {
           "id": "bg_3_39",
           "verse_number": 39,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 583,
+          "endTime": 596,
           "original": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा ।\nकामरूपेण कौन्तेय दुष्पूरेणानलेन च ॥ ३ ९ ॥",
           "transliteration": "āvṛtaṁ jñānam etena jñānino nitya-vairiṇā |\nkāma-rūpeṇa kaunteya duṣhpūreṇānalena cha || 39 ||",
           "translations": {
@@ -1767,8 +1767,8 @@
         {
           "id": "bg_3_40",
           "verse_number": 40,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 597,
+          "endTime": 611,
           "original": "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते ।\nएतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ॥ ४० ॥",
           "transliteration": "indriyāṇi mano buddhir asyādhiṣhṭhānam uchyate |\netair vimohayaty eṣha jñānam āvṛtya dehinam || 40 ||",
           "translations": {
@@ -1778,8 +1778,8 @@
         {
           "id": "bg_3_41",
           "verse_number": 41,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 612,
+          "endTime": 625,
           "original": "तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ ।\nपाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् ॥ ४ १ ॥",
           "transliteration": "tasmāt tvam indriyāṇy ādau niyamya bharatarṣhabha |\npāpmānaṁ prajahi hy enaṁ jñāna-vijñāna-nāśhanam || 41 ||",
           "translations": {
@@ -1789,8 +1789,8 @@
         {
           "id": "bg_3_42",
           "verse_number": 42,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 626,
+          "endTime": 640,
           "original": "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः ।\nमनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः ॥ ४२ ॥",
           "transliteration": "indriyāṇi parāṇy āhur indriyebhyaḥ paraṁ manaḥ |\nmanasas tu parā buddhir yo buddheḥ paratas tu saḥ || 42 ||",
           "translations": {
@@ -1800,8 +1800,8 @@
         {
           "id": "bg_3_43",
           "verse_number": 43,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 641,
+          "endTime": 654,
           "original": "एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना ।\nजहि शत्रुं महाबाहो कामरूपं दुरासदम् ॥ ४३ ॥",
           "transliteration": "evaṁ buddheḥ paraṁ buddhvā saṁstabhyātmānam ātmanā |\njahi śhatruṁ mahā-bāho kāma-rūpaṁ durāsadam || 43 ||",
           "translations": {
@@ -1820,8 +1820,8 @@
         {
           "id": "bg_4_1",
           "verse_number": 1,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 0,
+          "endTime": 26,
           "original": "श्रीभगवानुवाच\nइमं विवस्वते योगं प्रोक्तवानहमव्ययम् ।\nविवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् ॥ १ ॥",
           "transliteration": "śhrī bhagavān uvācha\nimaṁ vivasvate yogaṁ proktavān aham avyayam |\nvivasvān manave prāha manur ikṣhvākave 'bravīt || 1 ||",
           "translations": {
@@ -1831,8 +1831,8 @@
         {
           "id": "bg_4_2",
           "verse_number": 2,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 27,
+          "endTime": 40,
           "original": "एवं परम्पराप्राप्तमिमं राजर्षयो विदुः ।\nस कालेनेह महता योगो नष्टः परन्तप ॥ २ ॥",
           "transliteration": "evaṁ paramparā-prāptam imaṁ rājarṣhayo viduḥ |\nsa kāleneha mahatā yogo naṣhṭaḥ parantapa || 2 ||",
           "translations": {
@@ -1842,8 +1842,8 @@
         {
           "id": "bg_4_3",
           "verse_number": 3,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 41,
+          "endTime": 55,
           "original": "स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः ।\nभक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् ॥ ३ ॥",
           "transliteration": "sa evāyaṁ mayā te 'dya yogaḥ proktaḥ purātanaḥ |\nbhakto 'si me sakhā cheti rahasyaṁ hy etad uttamam || 3 ||",
           "translations": {
@@ -1853,8 +1853,8 @@
         {
           "id": "bg_4_4",
           "verse_number": 4,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 56,
+          "endTime": 70,
           "original": "अर्जुन उवाच\nअपरं भवतो जन्म परं जन्म विवस्वतः ।\nकथमेतद्विजानीयां त्वमादौ प्रोक्तवानिति ॥ ४ ॥",
           "transliteration": "arjuna uvācha\naparaṁ bhavato janma paraṁ janma vivasvataḥ |\nkatham etad vijānīyāṁ tvam ādau proktavān iti || 4 ||",
           "translations": {
@@ -1864,8 +1864,8 @@
         {
           "id": "bg_4_5",
           "verse_number": 5,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 71,
+          "endTime": 87,
           "original": "श्रीभगवानुवाच\nबहूनि मे व्यतीतानि जन्मानि तव चार्जुन ।\nतान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप ॥ ५ ॥",
           "transliteration": "śhrī bhagavān uvācha\nbahūni me vyatītāni janmāni tava chārjuna |\ntāny ahaṁ veda sarvāṇi na tvaṁ vettha parantapa || 5 ||",
           "translations": {
@@ -1875,8 +1875,8 @@
         {
           "id": "bg_4_6",
           "verse_number": 6,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 88,
+          "endTime": 101,
           "original": "अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन् ।\nप्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया ॥ ६ ॥",
           "transliteration": "ajo 'pi sann avyayātmā bhūtānām īśhvaro 'pi san |\nprakṛtiṁ svām adhiṣhṭhāya sambhavāmy ātma-māyayā || 6 ||",
           "translations": {
@@ -1886,8 +1886,8 @@
         {
           "id": "bg_4_7",
           "verse_number": 7,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 102,
+          "endTime": 115,
           "original": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥ ७ ॥",
           "transliteration": "yadā yadā hi dharmasya glānir bhavati bhārata |\nabhyutthānam adharmasya tadātmānaṁ sṛjāmy aham || 7 ||",
           "translations": {
@@ -1897,8 +1897,8 @@
         {
           "id": "bg_4_8",
           "verse_number": 8,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 116,
+          "endTime": 129,
           "original": "परित्राणाय साधूनां विनाशाय च दुष्कृताम् ।\nधर्मसंस्थापनार्थाय सम्भवामि युगे युगे ॥ ८ ॥",
           "transliteration": "paritrāṇāya sādhūnāṁ vināśhāya cha duṣhkṛtām |\ndharma-sansthāpanārthāya sambhavāmi yuge yuge || 8 ||",
           "translations": {
@@ -1908,8 +1908,8 @@
         {
           "id": "bg_4_9",
           "verse_number": 9,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 130,
+          "endTime": 144,
           "original": "जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वतः ।\nत्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन ॥ ९ ॥",
           "transliteration": "janma karma cha me divyam evaṁ yo vetti tattvataḥ |\ntyaktvā dehaṁ punar janma naiti mām eti so 'rjuna || 9 ||",
           "translations": {
@@ -1919,8 +1919,8 @@
         {
           "id": "bg_4_10",
           "verse_number": 10,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 145,
+          "endTime": 158,
           "original": "वीतरागभयक्रोधा मन्मया मामुपाश्रिताः ।\nबहवो ज्ञानतपसा पूता मद्भावमागताः ॥ १० ॥",
           "transliteration": "vīta-rāga-bhaya-krodhā man-mayā mām upāśhritāḥ |\nbahavo jñāna-tapasā pūtā mad-bhāvam āgatāḥ || 10 ||",
           "translations": {
@@ -1930,8 +1930,8 @@
         {
           "id": "bg_4_11",
           "verse_number": 11,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 159,
+          "endTime": 172,
           "original": "ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् ।\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ॥ ११ ॥",
           "transliteration": "ye yathā māṁ prapadyante tāns tathaiva bhajāmy aham |\nmama vartmānuvartante manuṣhyāḥ pārtha sarvaśhaḥ || 11 ||",
           "translations": {
@@ -1941,8 +1941,8 @@
         {
           "id": "bg_4_12",
           "verse_number": 12,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 173,
+          "endTime": 186,
           "original": "काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः ।\nक्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ॥ १२ ॥",
           "transliteration": "kāṅkṣhantaḥ karmaṇāṁ siddhiṁ yajanta iha devatāḥ |\nkṣhipraṁ hi mānuṣhe loke siddhir bhavati karma-jā || 12 ||",
           "translations": {
@@ -1952,8 +1952,8 @@
         {
           "id": "bg_4_13",
           "verse_number": 13,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 187,
+          "endTime": 199,
           "original": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः ।\nतस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ॥ १३ ॥",
           "transliteration": "chātur-varṇyaṁ mayā sṛṣhṭaṁ guṇa-karma-vibhāgaśhaḥ |\ntasya kartāram api māṁ viddhy akartāram avyayam || 13 ||",
           "translations": {
@@ -1963,8 +1963,8 @@
         {
           "id": "bg_4_14",
           "verse_number": 14,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 200,
+          "endTime": 212,
           "original": "न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा ।\nइति मां योऽभिजानाति कर्मभिर्न स बध्यते ॥ १४ ॥",
           "transliteration": "na māṁ karmāṇi limpanti na me karma-phale spṛhā |\niti māṁ yo 'bhijānāti karmabhir na sa badhyate || 14 ||",
           "translations": {
@@ -1974,8 +1974,8 @@
         {
           "id": "bg_4_15",
           "verse_number": 15,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 213,
+          "endTime": 227,
           "original": "एवं ज्ञात्वा कृतं कर्म पूर्वैरपि मुमुक्षुभिः ।\nकुरु कर्मैव तस्मात्त्वं पूर्वैः पूर्वतरं कृतम् ॥ १५ ॥",
           "transliteration": "evaṁ jñātvā kṛtaṁ karma pūrvair api mumukṣhubhiḥ |\nkuru karmaiva tasmāt tvaṁ pūrvaiḥ pūrvataraṁ kṛtam || 15 ||",
           "translations": {
@@ -1985,8 +1985,8 @@
         {
           "id": "bg_4_16",
           "verse_number": 16,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 228,
+          "endTime": 241,
           "original": "किं कर्म किमक्रमेति कवयोऽप्यत्र मोहिताः ।\nतत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ॥ १६ ॥",
           "transliteration": "kiṁ karma kim akarmeti kavayo 'py atra mohitāḥ |\ntat te karma pravakṣhyāmi yaj jñātvā mokṣhyase 'śhubhāt || 16 ||",
           "translations": {
@@ -1996,8 +1996,8 @@
         {
           "id": "bg_4_17",
           "verse_number": 17,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 242,
+          "endTime": 254,
           "original": "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः ।\nअकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः ॥ १७ ॥",
           "transliteration": "karmaṇo hy api boddhavyaṁ boddhavyaṁ cha vikarmaṇaḥ |\nakarmaṇaśh cha boddhavyaṁ gahanā karmaṇo gatiḥ || 17 ||",
           "translations": {
@@ -2007,8 +2007,8 @@
         {
           "id": "bg_4_18",
           "verse_number": 18,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 255,
+          "endTime": 267,
           "original": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः ।\nस बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत् ॥ १८ ॥",
           "transliteration": "karmaṇy akarma yaḥ paśhyed akarmaṇi cha karma yaḥ |\nsa buddhimān manuṣhyeṣhu sa yuktaḥ kṛtsna-karma-kṛt || 18 ||",
           "translations": {
@@ -2018,8 +2018,8 @@
         {
           "id": "bg_4_19",
           "verse_number": 19,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 268,
+          "endTime": 281,
           "original": "यस्य सर्वे समारम्भाः कामसङ्कल्पवर्जिताः ।\nज्ञानाग्निदग्धकर्माणं तमाहुः पण्डितं बुधाः ॥ १९ ॥",
           "transliteration": "yasya sarve samārambhāḥ kāma-saṅkalpa-varjitāḥ |\njñānāgni-dagdha-karmāṇaṁ tam āhuḥ paṇḍitaṁ budhāḥ || 19 ||",
           "translations": {
@@ -2029,8 +2029,8 @@
         {
           "id": "bg_4_20",
           "verse_number": 20,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 282,
+          "endTime": 294,
           "original": "त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः ।\nकर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः ॥ २० ॥",
           "transliteration": "tyaktvā karma-phalāsaṅgaṁ nitya-tṛpto nirāśhrayaḥ |\nkarmaṇy abhipravṛtto 'pi naiva kiñchit karoti saḥ || 20 ||",
           "translations": {
@@ -2040,8 +2040,8 @@
         {
           "id": "bg_4_21",
           "verse_number": 21,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 295,
+          "endTime": 308,
           "original": "निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रहः ।\nशारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम् ॥ २१ ॥",
           "transliteration": "nirāśhīr yata-chittātmā tyakta-sarva-parigrahaḥ |\nśhārīraṁ kevalaṁ karma kurvann āpnoti kilbiṣham || 21 ||",
           "translations": {
@@ -2051,8 +2051,8 @@
         {
           "id": "bg_4_22",
           "verse_number": 22,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 309,
+          "endTime": 321,
           "original": "यदृच्छालाभसन्तुष्टो द्वन्द्वातीतो विमत्सरः ।\nसमः सिद्धावसिद्धौ च कृत्वापि न निबध्यते ॥ २२ ॥",
           "transliteration": "yadṛchchhā-lābha-santuṣhṭo dvandvātīto vimatsaraḥ |\nsamaḥ siddhāv asiddhau cha kṛtvāpi na nibadhyate || 22 ||",
           "translations": {
@@ -2062,8 +2062,8 @@
         {
           "id": "bg_4_23",
           "verse_number": 23,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 322,
+          "endTime": 334,
           "original": "गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः ।\nयज्ञायाचरतः कर्म समग्रं प्रविलीयते ॥ २३ ॥",
           "transliteration": "gata-saṅgasya muktasya jñānāvasthita-chetasaḥ |\nyajñāyācharataḥ karma samagraṁ pravilīyate || 23 ||",
           "translations": {
@@ -2073,8 +2073,8 @@
         {
           "id": "bg_4_24",
           "verse_number": 24,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 335,
+          "endTime": 349,
           "original": "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् ।\nब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना ॥ २४ ॥",
           "transliteration": "brahmārpaṇaṁ brahma havir brahmāgnau brahmaṇā hutam |\nbrahmaiva tena gantavyaṁ brahma-karma-samādhinā || 24 ||",
           "translations": {
@@ -2084,8 +2084,8 @@
         {
           "id": "bg_4_25",
           "verse_number": 25,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 350,
+          "endTime": 362,
           "original": "दैवमेवापरे यज्ञं योगिनः पर्युपासते ।\nब्रह्माग्नावपरे यज्ञं यज्ञेनैवोपजुह्वति ॥ २५ ॥",
           "transliteration": "daivam evāpare yajñaṁ yoginaḥ paryupāsate |\nbrahmāgnāv apare yajñaṁ yajñenaivopajuhvati || 25 ||",
           "translations": {
@@ -2095,8 +2095,8 @@
         {
           "id": "bg_4_26",
           "verse_number": 26,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 363,
+          "endTime": 376,
           "original": "श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति ।\nशब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति ॥ २६ ॥",
           "transliteration": "śrotrādīnīndriyāṇyanye saṁyamāgniṣhu juhvati |\nśhabdādīn viṣhayān anya indriyāgniṣhu juhvati || 26 ||",
           "translations": {
@@ -2106,8 +2106,8 @@
         {
           "id": "bg_4_27",
           "verse_number": 27,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 377,
+          "endTime": 389,
           "original": "सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे ।\nआत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते ॥ २७ ॥",
           "transliteration": "sarvāṇīndriya-karmāṇi prāṇa-karmāṇi chāpare |\nātma-saṁyama-yogāgnau juhvati jñāna-dīpite || 27 ||",
           "translations": {
@@ -2117,8 +2117,8 @@
         {
           "id": "bg_4_28",
           "verse_number": 28,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 390,
+          "endTime": 402,
           "original": "द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे ।\nस्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः ॥ २८ ॥",
           "transliteration": "dravya-yajñās tapo-yajñā yoga-yajñās tathāpare |\nsvādhyāya-jñāna-yajñāśh cha yatayaḥ saṁśhita-vratāḥ || 28 ||",
           "translations": {
@@ -2128,8 +2128,8 @@
         {
           "id": "bg_4_29",
           "verse_number": 29,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 403,
+          "endTime": 416,
           "original": "अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे ।\nप्राणापानगती रुद्ध्वा प्राणायामपरायणाः ॥ २ ९ ॥",
           "transliteration": "apāne juhvati prāṇaṁ prāṇe 'pānaṁ tathāpare |\nprāṇāpāna-gatī ruddhvā prāṇāyāma-parāyaṇāḥ || 29 ||",
           "translations": {
@@ -2139,8 +2139,8 @@
         {
           "id": "bg_4_30",
           "verse_number": 30,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 417,
+          "endTime": 429,
           "original": "अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति ।\nसर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषाः ॥ ३० ॥",
           "transliteration": "apare niyatāhārāḥ prāṇān prāṇeṣhu juhvati |\nsarve 'py ete yajña-vido yajña-kṣhapita-kalmaṣhāḥ || 30 ||",
           "translations": {
@@ -2150,8 +2150,8 @@
         {
           "id": "bg_4_31",
           "verse_number": 31,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 430,
+          "endTime": 442,
           "original": "यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् ।\nनायं लोकोऽस्त्ययज्ञस्य कुतोऽन्यः कुरुसत्तम ॥ ३१ ॥",
           "transliteration": "yajña-śhiṣhṭāmṛta-bhujo yānti brahma sanātanam |\nnāyaṁ loko 'sty ayajñasya kuto 'nyaḥ kuru-sattama || 31 ||",
           "translations": {
@@ -2161,8 +2161,8 @@
         {
           "id": "bg_4_32",
           "verse_number": 32,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 443,
+          "endTime": 455,
           "original": "एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे ।\nकर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे ॥ ३२ ॥",
           "transliteration": "evaṁ bahu-vidhā yajñā vitatā brahmaṇo mukhe |\nkarmān viddhi tān sarvān evaṁ jñātvā vimokṣhyase || 32 ||",
           "translations": {
@@ -2172,8 +2172,8 @@
         {
           "id": "bg_4_33",
           "verse_number": 33,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 456,
+          "endTime": 468,
           "original": "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप ।\nसर्वं कर्मखिलं पार्थ ज्ञाने परिसमाप्यते ॥ ३३ ॥",
           "transliteration": "śhreyān dravyamayād yajñāj jñāna-yajñaḥ parantapa |\nsarvaṁ karmākhilaṁ pārtha jñāne parisamāpyate || 33 ||",
           "translations": {
@@ -2183,8 +2183,8 @@
         {
           "id": "bg_4_34",
           "verse_number": 34,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 469,
+          "endTime": 481,
           "original": "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया ।\nउपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ॥ ३४ ॥",
           "transliteration": "tad viddhi praṇipātena paripraśhnena sevayā |\nupadekṣhyanti te jñānaṁ jñāninas tattva-darśhinaḥ || 34 ||",
           "translations": {
@@ -2194,8 +2194,8 @@
         {
           "id": "bg_4_35",
           "verse_number": 35,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 482,
+          "endTime": 494,
           "original": "यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव ।\nयेन भूतान्यशेषेण द्रक्ष्यस्यात्मन्यथो मयि ॥ ३५ ॥",
           "transliteration": "yaj jñātvā na punar moham evaṁ yāsyasi pāṇḍava |\nyena bhūtāny aśheṣheṇa drakṣhyasy ātmany atho mayi || 35 ||",
           "translations": {
@@ -2205,8 +2205,8 @@
         {
           "id": "bg_4_36",
           "verse_number": 36,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 495,
+          "endTime": 508,
           "original": "अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः ।\nसर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि ॥ ३६ ॥",
           "transliteration": "api ched asi pāpebhyaḥ sarvebhyaḥ pāpa-kṛttamaḥ |\nsarvaṁ jñāna-plavenaiva vṛjinaṁ santariṣhyasi || 36 ||",
           "translations": {
@@ -2216,8 +2216,8 @@
         {
           "id": "bg_4_37",
           "verse_number": 37,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 509,
+          "endTime": 522,
           "original": "यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन ।\nज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा ॥ ३७ ॥",
           "transliteration": "yathaidhāṁsi samiddho 'gnir bhasmasāt kurute 'rjuna |\njñānāgniḥ sarva-karmāṇi bhasmasāt kurute tathā || 37 ||",
           "translations": {
@@ -2227,8 +2227,8 @@
         {
           "id": "bg_4_38",
           "verse_number": 38,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 523,
+          "endTime": 535,
           "original": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।\nतत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति ॥ ३८ ॥",
           "transliteration": "na hi jñānena sadṛśhaṁ pavitram iha vidyate |\ntat svayaṁ yoga-saṁsiddhaḥ kālenātmani vindati || 38 ||",
           "translations": {
@@ -2238,8 +2238,8 @@
         {
           "id": "bg_4_39",
           "verse_number": 39,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 536,
+          "endTime": 550,
           "original": "श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः ।\nज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ॥ ३ ९ ॥",
           "transliteration": "śhraddhāvān labhate jñānaṁ tat-paraḥ saṁyatendriyaḥ |\njñānaṁ labdhvā parāṁ śhāntim achireṇādhigachchhati || 39 ||",
           "translations": {
@@ -2249,8 +2249,8 @@
         {
           "id": "bg_4_40",
           "verse_number": 40,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 551,
+          "endTime": 563,
           "original": "अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति ।\nनायं लोकोऽस्ति न परो न सुखं संशयात्मनः ॥ ४० ॥",
           "transliteration": "ajñśh chāśhraddadhānaśh cha saṁśhayātmā vinaśhyati |\nnāyaṁ loko 'sti na paro na sukhaṁ saṁśhayātmanaḥ || 40 ||",
           "translations": {
@@ -2260,8 +2260,8 @@
         {
           "id": "bg_4_41",
           "verse_number": 41,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 564,
+          "endTime": 578,
           "original": "योगसन्न्यस्तकर्माणं ज्ञानसञ्छिन्नसंशयम् ।\nआत्मवन्तं न कर्माणि निबध्नन्ति धनञ्जय ॥ ४ १ ॥",
           "transliteration": "yoga-sannyasta-karmāṇaṁ jñāna-sañchhinna-saṁśhayam |\nātmavantaṁ na karmāṇi nibadhnanti dhanañjaya || 41 ||",
           "translations": {
@@ -2271,8 +2271,8 @@
         {
           "id": "bg_4_42",
           "verse_number": 42,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 579,
+          "endTime": 594,
           "original": "तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानसिनात्मनः ।\nछित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत ॥ ४२ ॥",
           "transliteration": "tasmād ajñāna-sambhūtaṁ hṛt-sthaṁ jñānāsinātmanaḥ |\nchhittvainam saṁśhayaṁ yogam ātiṣhṭhottiṣhṭha bhārata || 42 ||",
           "translations": {
@@ -2291,8 +2291,8 @@
         {
           "id": "bg_5_1",
           "verse_number": 1,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 0,
+          "endTime": 27,
           "original": "अर्जुन उवाच\nसंन्यास कर्मणां कृष्ण पुनर्योगं च शंससि ।\nयच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम् ॥ १ ॥",
           "transliteration": "arjuna uvācha\nsannyāsaṁ karmaṇāṁ kṛṣhṇa punar yogaṁ cha śhaṁsasi |\nyach chhrey etayor ekaṁ tan me brūhi suniśhchitam || 1 ||",
           "translations": {
@@ -2302,8 +2302,8 @@
         {
           "id": "bg_5_2",
           "verse_number": 2,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 28,
+          "endTime": 45,
           "original": "श्रीभगवानुवाच\nसंन्यासः कर्मयोगश्च निःश्रेयसकरावुभौ ।\nतयोस्तु कर्मसंन्यासात्कर्मयोगो विशिष्यते ॥ २ ॥",
           "transliteration": "śhrī bhagavān uvācha\nsannyāsaḥ karma-yogaśh cha niḥśhreyasa-karāv ubhau |\ntayos tu karma-sannyāsāt karma-yogo viśiṣhyate || 2 ||",
           "translations": {
@@ -2313,8 +2313,8 @@
         {
           "id": "bg_5_3",
           "verse_number": 3,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 46,
+          "endTime": 59,
           "original": "ज्ञेयः स नित्यसंन्यासी यो न द्वेष्टि न काङ्क्षति ।\nनिर्द्वन्द्वो हि महाबाहो सुखं बन्धात्प्रमुच्यते ॥ ३ ॥",
           "transliteration": "jñeyaḥ sa nitya-sannyāsī yo na dveṣhṭi na kāṅkṣhati |\nnirdvandvo hi mahā-bāho sukhaṁ bandhāt pramuchyate || 3 ||",
           "translations": {
@@ -2324,8 +2324,8 @@
         {
           "id": "bg_5_4",
           "verse_number": 4,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 60,
+          "endTime": 74,
           "original": "साङ्ख्ययोगौ पृथग्बालाः प्रवदन्ति न पण्डिताः ।\nएकमप्यास्थितः सम्यगुभयोर्विन्दते फलम् ॥ ४ ॥",
           "transliteration": "sāṅkhya-yogau pṛthag bālāḥ pravadanti na paṇḍitāḥ |\nekam apy āsthitaḥ samyag ubhayor vindate phalam || 4 ||",
           "translations": {
@@ -2335,8 +2335,8 @@
         {
           "id": "bg_5_5",
           "verse_number": 5,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 75,
+          "endTime": 89,
           "original": "यत्साङ्ख्यैः प्राप्यते स्थानं तद्योगैरपि गम्यते ।\nएकं साङ्ख्यं च योगं च यः पश्यति स पश्यति ॥ ५ ॥",
           "transliteration": "yat sāṅkhyaiḥ prāpyate sthānaṁ tad yogair api gamyate |\nekaṁ sāṅkhyaṁ cha yogaṁ cha yaḥ paśhyati sa paśhyati || 5 ||",
           "translations": {
@@ -2346,8 +2346,8 @@
         {
           "id": "bg_5_6",
           "verse_number": 6,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 90,
+          "endTime": 104,
           "original": "संन्यासस्तु महाबाहो दुःखमाप्तुमयोगतः ।\nयोगयुक्तो मुनिर्ब्रह्म न चिरेणाधिगच्छति ॥ ६ ॥",
           "transliteration": "sannyāsas tu mahā-bāho duḥkham āptum ayogataḥ |\nyoga-yukto munir brahma na chireṇādhigachchhati || 6 ||",
           "translations": {
@@ -2357,8 +2357,8 @@
         {
           "id": "bg_5_7",
           "verse_number": 7,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 105,
+          "endTime": 117,
           "original": "योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रियः ।\nसर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते ॥ ७ ॥",
           "transliteration": "yoga-yukto viśhuddhātmā vijitātmā jitendriyaḥ |\nsarva-bhūtātma-bhūtātmā kurvann api na lipyate || 7 ||",
           "translations": {
@@ -2368,8 +2368,8 @@
         {
           "id": "bg_5_8",
           "verse_number": 8,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 118,
+          "endTime": 133,
           "original": "नैव किञ्चित्करोमीति युक्तो मन्येत तत्त्ववित् ।\nपश्यञ्शृण्वन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपञ्श्वसन् ॥ ८ ॥",
           "transliteration": "naiva kiñchit karomīti yukto manyeta tattva-vit |\npaśhyañ śhṛṇvan spṛśhañ jighrann aśhnan gachchhan svapañ śhvasan || 8 ||",
           "translations": {
@@ -2379,8 +2379,8 @@
         {
           "id": "bg_5_9",
           "verse_number": 9,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 134,
+          "endTime": 147,
           "original": "प्रलपन्विसृजन्गृह्णन्नुन्मिषन्निमिषन्नपि ।\nइन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन् ॥ ९ ॥",
           "transliteration": "pralapan visṛjan gṛhṇann unmiṣhann nimiṣhann api |\nindriyāṇīndriyārtheṣhu vartanta iti dhārayan || 9 ||",
           "translations": {
@@ -2390,8 +2390,8 @@
         {
           "id": "bg_5_10",
           "verse_number": 10,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 148,
+          "endTime": 162,
           "original": "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः ।\nलिप्यते न स पापेन पद्मपत्रमिवाम्भसा ॥ १० ॥",
           "transliteration": "brahmaṇy ādhāya karmāṇi saṅgaṁ tyaktvā karoti yaḥ |\nlipyate na sa pāpena padma-patram ivāmbhasā || 10 ||",
           "translations": {
@@ -2401,8 +2401,8 @@
         {
           "id": "bg_5_11",
           "verse_number": 11,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 163,
+          "endTime": 176,
           "original": "कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि ।\nयोगिनः कर्म कुर्वन्ति सङ्गं त्यक्त्वात्मशुद्धये ॥ ११ ॥",
           "transliteration": "kāyena manasā buddhyā kevalair indriyair api |\nyoginaḥ karma kurvanti saṅgaṁ tyaktvātma-śhuddhaye || 11 ||",
           "translations": {
@@ -2412,8 +2412,8 @@
         {
           "id": "bg_5_12",
           "verse_number": 12,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 177,
+          "endTime": 190,
           "original": "युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम् ।\nअयुक्तः कामकारेण फले सक्तो निबध्यते ॥ १२ ॥",
           "transliteration": "yuktaḥ karma-phalaṁ tyaktvā śhāntim āpnoti naiṣhṭhikīm |\nayuktaḥ kāma-kāreṇa phale sakto nibadhyate || 12 ||",
           "translations": {
@@ -2423,8 +2423,8 @@
         {
           "id": "bg_5_13",
           "verse_number": 13,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 191,
+          "endTime": 204,
           "original": "सर्वकर्माणि मनसा सन्न्यस्यास्ते सुखं वशी ।\nनवद्वारे पुरे देही नैव कुर्वन्न कारयन् ॥ १३ ॥",
           "transliteration": "sarva-karmāṇi manasā sannyasyāste sukhaṁ vaśhī |\nnava-dvāre pure dehī naiva kurvan na kārayan || 13 ||",
           "translations": {
@@ -2434,8 +2434,8 @@
         {
           "id": "bg_5_14",
           "verse_number": 14,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 205,
+          "endTime": 218,
           "original": "न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः ।\nन कर्मफलसंयोगं स्वभावस्तु प्रवर्तते ॥ १४ ॥",
           "transliteration": "na kartṛtvaṁ na karmāṇi lokasya sṛjati prabhuḥ |\nna karma-phala-saṁyogaṁ svabhāvas tu pravartate || 14 ||",
           "translations": {
@@ -2445,8 +2445,8 @@
         {
           "id": "bg_5_15",
           "verse_number": 15,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 219,
+          "endTime": 234,
           "original": "नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः ।\nअज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः ॥ १५ ॥",
           "transliteration": "nādatte kasyachit pāpaṁ na chaiva sukṛtaṁ vibhuḥ |\najñānenāvṛtaṁ jñānaṁ tena muhyanti jantavaḥ || 15 ||",
           "translations": {
@@ -2456,8 +2456,8 @@
         {
           "id": "bg_5_16",
           "verse_number": 16,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 235,
+          "endTime": 248,
           "original": "ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः ।\nतेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम् ॥ १६ ॥",
           "transliteration": "jñānena tu tad ajñānaṁ yeṣhāṁ nāśhitam ātmanaḥ |\nteṣhām āditya-vaj jñānaṁ prakāśhayati tat param || 16 ||",
           "translations": {
@@ -2467,8 +2467,8 @@
         {
           "id": "bg_5_17",
           "verse_number": 17,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 249,
+          "endTime": 263,
           "original": "तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः ।\nगच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषाः ॥ १७ ॥",
           "transliteration": "tad-buddhayas tad-ātmānas tan-niṣhṭhās tat-parāyaṇāḥ |\ngachchhanty apunar-āvṛttiṁ jñāna-nirdhūta-kalmaṣhāḥ || 17 ||",
           "translations": {
@@ -2478,8 +2478,8 @@
         {
           "id": "bg_5_18",
           "verse_number": 18,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 264,
+          "endTime": 277,
           "original": "विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि ।\nशुनि चैव श्वपाके च पण्डिताः समदर्शिनः ॥ १८ ॥",
           "transliteration": "vidyā-vinaya-sampanne brāhmaṇe gavi hastini |\nśhuni chaiva śhva-pāke cha paṇḍitāḥ sama-darśhinaḥ || 18 ||",
           "translations": {
@@ -2489,8 +2489,8 @@
         {
           "id": "bg_5_19",
           "verse_number": 19,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 278,
+          "endTime": 293,
           "original": "इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः ।\nनिर्दोषं हि समं ब्रह्म तस्माद् ब्रह्मणि ते स्थिताः ॥ १९ ॥",
           "transliteration": "ihaiva tair jitaḥ sargo yeṣhāṁ sāmye sthitaṁ manaḥ |\nnirdoṣhaṁ hi samaṁ brahma tasmād brahmaṇi te sthitāḥ || 19 ||",
           "translations": {
@@ -2500,8 +2500,8 @@
         {
           "id": "bg_5_20",
           "verse_number": 20,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 294,
+          "endTime": 307,
           "original": "न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम् ।\nस्थिरबुद्धिरसम्मूढो ब्रह्मविद् ब्रह्मणि स्थितः ॥ २० ॥",
           "transliteration": "na prahṛṣhyet priyaṁ prāpya nodvijet prāpya chāpriyam |\nsthirha-buddhir asammūḍho brahma-vid brahmaṇi sthitaḥ || 20 ||",
           "translations": {
@@ -2511,8 +2511,8 @@
         {
           "id": "bg_5_21",
           "verse_number": 21,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 308,
+          "endTime": 322,
           "original": "बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् ।\nस ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते ॥ २१ ॥",
           "transliteration": "bāhya-sparśheṣhv asaktātmā vindaty ātmani yat sukham |\nsa brahma-yoga-yuktātmā sukham akṣhayam aśhnute || 21 ||",
           "translations": {
@@ -2522,8 +2522,8 @@
         {
           "id": "bg_5_22",
           "verse_number": 22,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 323,
+          "endTime": 336,
           "original": "ये हि संस्पर्शजा भोगा दुःखयोनय एव ते ।\nआद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः ॥ २२ ॥",
           "transliteration": "ye hi saṁsparśha-jā bhogā duḥkha-yonaya eva te |\nādhyanta-vantaḥ kaunteya na teṣhu ramate budhaḥ || 22 ||",
           "translations": {
@@ -2533,8 +2533,8 @@
         {
           "id": "bg_5_23",
           "verse_number": 23,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 337,
+          "endTime": 351,
           "original": "शक्नोतीहैव यः सोढुं प्राक्शरीरविमोक्षणात् ।\nकामक्रोधोद्भवं वेगं स युक्तः स सुखी नरः ॥ २३ ॥",
           "transliteration": "śhaknotīhaiva yaḥ soḍhuṁ prāk śharīra-vimokṣhaṇāt |\nkāma-krodhodbhavaṁ vegaṁ sa yuktaḥ sa sukhī naraḥ || 23 ||",
           "translations": {
@@ -2544,8 +2544,8 @@
         {
           "id": "bg_5_24",
           "verse_number": 24,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 352,
+          "endTime": 366,
           "original": "योऽन्तःसुखोऽन्तरारामस्तथान्तर्ज्योतिरेव यः ।\nस योगी ब्रह्मनिर्वाणं ब्रह्मभूतोऽधिगच्छति ॥ २४ ॥",
           "transliteration": "yo 'ntaḥ-sukho 'ntar-ārāmas tathāntar-jyotir eva yaḥ |\nsa yogī brahma-nirvāṇaṁ brahma-bhūto 'dhigachchhati || 24 ||",
           "translations": {
@@ -2555,8 +2555,8 @@
         {
           "id": "bg_5_25",
           "verse_number": 25,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 367,
+          "endTime": 381,
           "original": "लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः ।\nछिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः ॥ २५ ॥",
           "transliteration": "labhante brahma-nirvāṇam ṛṣhayaḥ kṣhīṇa-kalmaṣhāḥ |\nchhinna-dvaidhā yatātmānaḥ sarva-bhūta-hite ratāḥ || 25 ||",
           "translations": {
@@ -2566,8 +2566,8 @@
         {
           "id": "bg_5_26",
           "verse_number": 26,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 382,
+          "endTime": 395,
           "original": "कामक्रोधवियुक्तानां यतीनां यतचेतसाम् ।\nअभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् ॥ २६ ॥",
           "transliteration": "kāma-krodha-viyuktānāṁ yatīnāṁ yata-chetasām |\nabhito brahma-nirvāṇaṁ vartate viditātmanām || 26 ||",
           "translations": {
@@ -2577,8 +2577,8 @@
         {
           "id": "bg_5_27",
           "verse_number": 27,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 396,
+          "endTime": 411,
           "original": "स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवोः ।\nप्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ ॥ २७ ॥",
           "transliteration": "sparśhān kṛtvā bahir bāhyān śhakhśhuśh chaivāntare bhruvoḥ |\nprāṇāpānau samau kṛtvā nāsābhyantara-chāriṇau || 27 ||",
           "translations": {
@@ -2588,8 +2588,8 @@
         {
           "id": "bg_5_28",
           "verse_number": 28,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 412,
+          "endTime": 427,
           "original": "यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः ।\nविगतेच्छाभयक्रोधो यः सदा मुक्त एव सः ॥ २८ ॥",
           "transliteration": "yatendriya-mano-buddhir munir mokṣha-parāyaṇaḥ |\nvigatechchhā-bhaya-krodho yaḥ sadā mukta eva saḥ || 28 ||",
           "translations": {
@@ -2599,8 +2599,8 @@
         {
           "id": "bg_5_29",
           "verse_number": 29,
-          "startTime": null,
-          "endTime": null,
+          "startTime": 428,
+          "endTime": 441,
           "original": "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् ।\nसुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति ॥ २ ९ ॥",
           "transliteration": "bhoktāraṁ yajña-tapasāṁ sarva-loka-maheśhvaram |\nsuhṛdaṁ sarva-bhūtānāṁ jñātvā māṁ śhāntim ṛchchhati || 29 ||",
           "translations": {
@@ -2619,7 +2619,7 @@
         {
           "id": "bg_6_1",
           "verse_number": 1,
-          "startTime": null,
+          "startTime": 0,
           "endTime": null,
           "original": "श्रीभगवानुवाच\nअनाश्रितः कर्मफलं कार्यं कर्म करोति यः ।\nस सन्न्यासी च योगी च न निरग्निर्न चाक्रियः ॥ १ ॥",
           "transliteration": "śhrī bhagavān uvācha\nanāśhritaḥ karma-phalaṁ kāryaṁ karma karoti yaḥ |\nsa sannyāsī cha yogī cha na niragnir na chākriyaḥ || 1 ||",
