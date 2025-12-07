@@ -1482,7 +1482,7 @@
       "id": "vsn-uttara-27",
       "verse_number": "27",
       "startTime": 1668,
-      "endTime": 1679,
+      "endTime": 1701,
       "original": "ईश्वर उवाच — श्रीराम राम रामेति रमे रामे मनोरमे । सहस्रनाम तत्तुल्यं राम नाम वरानने ॥ २७॥ श्रीरामनाम वरानन ॐ नम इति ।  ",
       "transliteration": "īśvara uvāca — śrīrāma rāma rāmeti rame rāme manorame . sahasranāma tattulyaṃ rāma nāma varānane .. 27.. śrīrāmanāma varānana oṃ nama iti.",
       "translation": "Īśvara (Śiva) said: 'Śrī Rāma, Rāma, Rāma'—thus I delight in the charming Rāma. O woman of beautiful face, one repetition of the name Rāma is equal to the Thousand Names."
@@ -1490,54 +1490,65 @@
     {
       "id": "vsn-uttara-28",
       "verse_number": "28",
-      "startTime": 1680,
-      "endTime": null,
+      "startTime": 1702,
+      "endTime": 1721,
       "original": "ब्रह्मोवाच — नमोऽस्त्वनन्ताय सहस्रमूर्तये सहस्रपादाक्षिशिरोरुबाहवे । सहस्रनाम्ने पुरुषाय शाश्वते सहस्रकोटियुगधारिणे नमः ॥ २८॥ सहस्रकोटियुगधारिणे ॐ नम इति ।",
       "transliteration": "brahmovāca — namo’stvanantāya sahasramūrtaye sahasrapādākṣiśirorubāhave . sahasranāmne puruṣāya śāśvate sahasrakoṭiyugadhāriṇe namaḥ .. 28..sahasrakoṭiyugadhāriṇe oṃ nama iti .",
       "translation": "Brahmā said: Salutations to the Endless (Ananta), whose form is a thousandfold, who has a thousand feet, eyes, heads, thighs, and arms. Salutations to the eternal Puruṣa with a thousand names, who holds the world for thousands of crores of Yugas."
     },
-  {
-    "id": "vsn-uttara-29",
-    "verse_number": "29",
-    "original": "सञ्जय उवाच — यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः । तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ॥ २९॥",
-    "transliteration": "sañjaya uvāca — yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ . tatra śrīrvijayo bhūtirdhruvā nītirmatirmama .. 29..",
-    "translation": "Sañjaya said: 'Wherever there is Kṛṣṇa, the Lord of Yoga, and wherever there is Pārtha (Arjuna), the wielder of the bow, there will be prosperity, victory, abundance, and firm justice—that is my conviction.'"
-  },
-  {
-    "id": "vsn-uttara-30",
-    "verse_number": "30",
-    "original": "श्रीभगवानुवाच — अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते । तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥ ३०॥",
-    "transliteration": "śrībhagavānuvāca — ananyāścintayanto māṃ ye janāḥ paryupāsate . teṣāṃ nityābhiyuktānāṃ yogakṣemaṃ vahāmyaham .. 30..",
-    "translation": "The Blessed Lord said: 'Those people who worship Me, contemplating on Me alone, to those ever-steadfast devotees, I carry what they lack (Yoga) and preserve what they already have (Kṣema).'"
-  },
-  {
-    "id": "vsn-uttara-31",
-    "verse_number": "31",
-    "original": "परित्राणाय साधूनां विनाशाय च दुष्कृताम् । धर्मसंस्थापनार्थाय सम्भवामि युगे युगे ॥ ३१॥",
-    "transliteration": "paritrāṇāya sādhūnāṃ vināśāya ca duṣkṛtām . dharmasaṃsthāpanārthāya sambhavāmi yuge yuge .. 31..",
-    "translation": "'To protect the righteous, to destroy the wicked, and to establish Dharma (righteousness), I take birth in every age (Yuga).'"
-  },
-  {
-    "id": "vsn-uttara-32",
-    "verse_number": "32",
-    "original": "आर्ताः विषण्णाः शिथिलाश्च भीताः घोरेषु च व्याधिषु वर्तमानाः । सङ्कीर्त्य नारायणशब्दमात्रं विमुक्तदुःखाः सुखिनो भवन्ति ॥ ३२॥",
-    "transliteration": "ārtāḥ viṣaṇṇāḥ śithilāśca bhītāḥ ghoreṣu ca vyādhiṣu vartamānāḥ . saṅkīrtya nārāyaṇaśabdamātraṃ vimuktaduḥkhāḥ sukhino bhavanti .. 32..",
-    "translation": "Those who are suffering, depressed, weak, fearful, and afflicted by terrible diseases—by chanting merely the word 'Nārāyaṇa'—become free from suffering and attain happiness."
-  },
-  {
-    "id": "vsn-uttara-33",
-    "verse_number": "33",
-    "original": "कायेन वाचा मनसेन्द्रियैर्वा बुद्ध्यात्मना वा प्रकृतेः स्वभावात् । करोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि ॥ ३३॥",
-    "transliteration": "kāyena vācā manasendriyairvā buddhyātmanā vā prakṛteḥ svabhāvāt . karomi yadyat sakalaṃ parasmai nārāyaṇāyeti samarpayāmi .. 33..",
-    "translation": "Whatever I do with the body, speech, mind, senses, intellect, or my own natural disposition—I dedicate all of that to the Supreme Nārāyaṇa."
-  },
-  {
-    "id": "vsn-uttara-34",
-    "verse_number": "34",
-    "original": "इति श्रीविष्णोर्दिव्यसहस्रनामस्तोत्रं सम्पूर्णम् । ॐ तत् सत् ।",
-    "transliteration": "iti śrīviṣṇordivyasahasranāmastotraṃ sampūrṇam . oṃ tat sat .",
-    "translation": "Thus, the Divine Thousand Names Hymn of the Glorious Viṣṇu is completed. Om Tat Sat (That is the Truth, That is Reality)."
-  }
-
+    {
+      "id": "vsn-uttara-29",
+      "verse_number": "29",
+      "startTime": 1722,
+      "endTime": 1733,
+      "original": "सञ्जय उवाच — यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः । तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ॥ २९॥",
+      "transliteration": "sañjaya uvāca — yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ . tatra śrīrvijayo bhūtirdhruvā nītirmatirmama .. 29..",
+      "translation": "Sañjaya said: 'Wherever there is Kṛṣṇa, the Lord of Yoga, and wherever there is Pārtha (Arjuna), the wielder of the bow, there will be prosperity, victory, abundance, and firm justice—that is my conviction.'"
+    },
+    {
+      "id": "vsn-uttara-30",
+      "verse_number": "30",
+      "startTime": 1734,
+      "endTime": 1746,
+      "original": "श्रीभगवानुवाच — अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते । तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥ ३०॥",
+      "transliteration": "śrībhagavānuvāca — ananyāścintayanto māṃ ye janāḥ paryupāsate . teṣāṃ nityābhiyuktānāṃ yogakṣemaṃ vahāmyaham .. 30..",
+      "translation": "The Blessed Lord said: 'Those people who worship Me, contemplating on Me alone, to those ever-steadfast devotees, I carry what they lack (Yoga) and preserve what they already have (Kṣema).'"
+    },
+    {
+      "id": "vsn-uttara-31",
+      "verse_number": "31",
+      "startTime": 1747,
+      "endTime": 1755,
+      "original": "परित्राणाय साधूनां विनाशाय च दुष्कृताम् । धर्मसंस्थापनार्थाय सम्भवामि युगे युगे ॥ ३१॥",
+      "transliteration": "paritrāṇāya sādhūnāṃ vināśāya ca duṣkṛtām . dharmasaṃsthāpanārthāya sambhavāmi yuge yuge .. 31..",
+      "translation": "'To protect the righteous, to destroy the wicked, and to establish Dharma (righteousness), I take birth in every age (Yuga).'"
+    },
+    {
+      "id": "vsn-uttara-32",
+      "verse_number": "32",
+      "startTime": 1756,
+      "endTime": 1769,
+      "original": "आर्ताः विषण्णाः शिथिलाश्च भीताः घोरेषु च व्याधिषु वर्तमानाः । सङ्कीर्त्य नारायणशब्दमात्रं विमुक्तदुःखाः सुखिनो भवन्ति ॥ ३२॥",
+      "transliteration": "ārtāḥ viṣaṇṇāḥ śithilāśca bhītāḥ ghoreṣu ca vyādhiṣu vartamānāḥ . saṅkīrtya nārāyaṇaśabdamātraṃ vimuktaduḥkhāḥ sukhino bhavanti .. 32..",
+      "translation": "Those who are suffering, depressed, weak, fearful, and afflicted by terrible diseases—by chanting merely the word 'Nārāyaṇa'—become free from suffering and attain happiness."
+    },
+    {
+      "id": "vsn-uttara-33",
+      "verse_number": "33",
+      "startTime": 1770,
+      "endTime": 1782,
+      "original": "कायेन वाचा मनसेन्द्रियैर्वा बुद्ध्यात्मना वा प्रकृतेः स्वभावात् । करोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि ॥ ३३॥",
+      "transliteration": "kāyena vācā manasendriyairvā buddhyātmanā vā prakṛteḥ svabhāvāt . karomi yadyat sakalaṃ parasmai nārāyaṇāyeti samarpayāmi .. 33..",
+      "translation": "Whatever I do with the body, speech, mind, senses, intellect, or my own natural disposition—I dedicate all of that to the Supreme Nārāyaṇa."
+    },
+    {
+      "id": "vsn-uttara-34",
+      "verse_number": "34",
+      "startTime": 1783,
+      "endTime": null,
+      "original": "इति श्रीविष्णोर्दिव्यसहस्रनामस्तोत्रं सम्पूर्णम् । ॐ तत् सत् ।",
+      "transliteration": "iti śrīviṣṇordivyasahasranāmastotraṃ sampūrṇam . oṃ tat sat .",
+      "translation": "Thus, the Divine Thousand Names Hymn of the Glorious Viṣṇu is completed. Om Tat Sat (That is the Truth, That is Reality)."
+    }
   ]
 }
