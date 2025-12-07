@@ -2,285 +2,365 @@
   "id": "venkateswara-suprabhatam",
   "verses_count": 29,
   "verses": [
-  {
-    "id": "vsn-supra-1",
-    "verse_number": "1",
-    "original": "कौसल्या सुप्रजा राम पूर्वासन्ध्या प्रवर्तते । उत्तिष्ठ नरशार्दूल कर्त्तव्यं दैवमाह्निकम् ॥१॥",
-    "transliteration": "kausalyā suprajā rāma pūrvāsandhyā pravartate . uttiṣṭha naraśārdūla karttavyaṃ daivamāhnikam ..1..",
-    "translation": "O Rama, son of Kausalya, the sun is about to rise in the eastern skies; please arise to offer the early morning oblations."
-  },
-  {
-    "id": "vsn-supra-2",
-    "verse_number": "2",
-    "original": "उत्तिष्ठोत्तिष्ठ गोविन्द उत्तिष्ठ गरुडध्वज । उत्तिष्ठ कमलाकान्त त्रैलोक्यं मङ्गलं कुरु ॥२॥",
-    "transliteration": "uttiṣṭhottiṣṭha govinda uttiṣṭha garuḍadhvaja . uttiṣṭha kamalākānta trailokyaṃ maṅgalaṃ kuru ..2..",
-    "translation": "Arise O Govinda the holder of flag with Garuda emblem; Cast aside your sleep to bestow your protection and solace to the Universe."
-  },
-  {
-    "id": "vsn-supra-3",
-    "verse_number": "3",
-    "original": "मातस्समस्तजगतां मधुकैटभारेः । वक्षोविहारिणि मनोहरदिव्यमूर्ते । श्रीस्वामिनि श्रितजनप्रियदानशीले । श्रीवेङ्कटेशदयिते तव सुप्रभातम् ॥३॥",
-    "transliteration": "mātassamastajagatāṃ madhukaiṭabhāreḥ . vakṣovihāriṇi manoharadivyamūrte . śrīsvāmini śritajanapriyadānaśīle . śrīveṅkaṭeśadayite tava suprabhātam ..3..",
-    "translation": "Sri Lakshmi, mother of the world, you reside in the heart of Mahavisnu; O beautiful one that captures the attention of the minds of humans, O bestower of all benefits to those who fall at His feet, O dear and beloved one to Lord Venkateswara, I offer these morning Pranams to you."
-  },
-  {
-    "id": "vsn-supra-4",
-    "verse_number": "4",
-    "original": "तव सुप्रभातमरविन्दलोचने । भवतु प्रसन्नमुखचन्द्रमण्डले । विधिशङ्करेन्द्रवनिताभिरर्चिते । वृशशैलनाथदयिते दयानिधे ॥४॥",
-    "transliteration": "tava suprabhātamaravindalocane . bhavatu prasannamukhacandramaṇḍale . vidhiśaṅkarendravanitābhirarcite . vṛśaśailanāthadayite dayānidhe ..4..",
-    "translation": "O Devi, good morning to you whose eyes are like the lotus and the bright face of the full moon; the consorts of Brahma, Sankara and Indra pay their respects to you the ocean of mercy dear to the Lord of the Vrishabadri."
-  },
-  {
-    "id": "vsn-supra-5",
-    "verse_number": "5",
-    "original": "अत्र्यादिसप्तऋषयस्समुपास्य सन्ध्यां । आकाशसिन्धुकमलानि मनोहराणि । आदाय पादयुगमर्चयितुं प्रपन्नाः । शेषाद्रिशेखरविभो तव सुप्रभातम् ॥५॥",
-    "transliteration": "atryādisaptaṛṣayassamupāsya sandhyāṃ . ākāśasindhukamalāni manoharāṇi . ādāya pādayugamarcayituṃ prapannāḥ . śeṣādriśekharavibho tava सुप्रभातम् ..5..",
-    "translation": "O resident of Sehadri, the seven holy rishis headed by Atri, having performed their morning sandhya, are at your feet offering beautiful lotuses and the waters of heavenly rivers, please receive them."
-  },
-  {
-    "id": "vsn-supra-6",
-    "verse_number": "6",
-    "original": "पञ्चाननाब्जभवषण्मुखवासवाद्याः । त्रैविक्रमादिचरितं विबुधाः स्तुवन्ति । भाषापतिः पठति वासरशुद्धिमारात् । शेषाद्रिशेखरविभो तव सुप्रभातम् ॥६॥",
-    "transliteration": "pañcānanābja bhava ṣaṇmukhavāsavādyāḥ . traivikramādicaritaṃ vibudhāḥ stuvanti . bhāṣāpatiḥ paṭhati vāsaraśuddhimārāt . śeṣādriśekharavibho tava सुप्रभातम् ..6..",
-    "translation": "All the Gods from Brahma, Shiva, Shanmukha and others are praising your TriVikrama avathara, Brhaspathi, the Purohita of Devas is reading out the Panchangam (almanac), O Lord may this morning be glorious."
-  },
-  {
-    "id": "vsn-supra-7",
-    "verse_number": "7",
-    "original": "ईषत्प्रफुल्लसरसीरुहनारिकेल । पूगद्रुमादिसुमनोहरपालिकानाम् । आवाति मन्दमनिलस्सह दिव्यगन्धैः । शेषाद्रिशेखरविभो तव सुप्रभातम् ॥७॥",
-    "transliteration": "īṣatpraphullasarasīruhanārikela . pūgadrumādisumanoharapālikānām . āvāti mandamanilassaha divyagandhaiḥ . śeṣādriśekharavibho tava सुप्रभातम् ..7..",
-    "translation": "O Sehadri vasa, the morning scene is beautiful with the tossing of water lillies, cocoanut trees and transplanted young paddy fields, the morning breeze is blowing carrying pleasant smells, good morning to you"
-  },
-  {
-    "id": "vsn-supra-8",
-    "verse_number": "8",
-    "original": "उन्मील्य नेत्रयुगमुत्तमपञ्जरस्थाः । पात्रावशिष्टकदलीफलपायसानि । भुक्त्वा सलीलमथ केलिशुकाः पठन्ति । शेषाद्रिशेखरविभो तव सुप्रभातम् ॥८॥",
-    "transliteration": "unmīlya netrayugamuttamapañjarasthāḥ . pātrāvaśiṣṭakadalīphalapāyasāni . bhuktvā salīlamatha keliśukāḥ paṭhanti . śeṣādriśekharavibho tava सुप्रभातम् ..8..",
-    "translation": "O Venkateswara, the temple parrots are singing pleasantly after having tasted the fruits, payasa in your Pooja vessels and quenching their thirst; I pray for a good morning to you."
-  },
-  {
-    "id": "vsn-supra-9",
-    "verse_number": "9",
-    "original": "तन्त्रीप्रकर्षमधुरस्वनया विपञ्च्या । गायत्यनन्तचरितं तव नारदोऽपि । भाषासमग्रमसकृत्करचाररम्यं । शेषाद्रिशेखरविभो तव सुप्रभातम् ॥९॥",
-    "transliteration": "tantrīprakarṣamadhurasvanayā vipañcyā . gāyatyanantacaritaṃ tava nārado’pi . bhāṣāsamagrama sakṛtkara cāraramyaṃ . śeṣādriśekharavibho tava सुप्रभातम् ..9..",
-    "translation": "With his melodious musical instruments Sage Narada is singing your endless stories set to music and dancing to the enchanting music with lovely hand gestures, may this morning be beautiful."
-  },
-  {
-    "id": "vsn-supra-10",
-    "verse_number": "10",
-    "original": "भृङ्गावली च मकरन्दरसानुविद्ध । झङ्कारगीतनिनदैस्सह सेवनाय । निर्यात्युपान्तसरसीकमलोदरेभ्यः । शेषाद्रिशेखरविभो तव सुप्रभातम् ॥१०॥",
-    "transliteration": "bhṛṅgāvalī ca makarandarasānuviddha . jhaṅkāragītaninadaissaha sevanāya . niryātyupānta sarasī kamalodarebhyaḥ . śeṣādriśekharavibho tava सुप्रभातम् ..10..",
-    "translation": "O Lord of Seshagiri, the swarm of bees from the lotus flowers of the nearby tank have come out after tasting the honey and carrying makharanda pollen, waiting for your Dharsan."
-  },
-  {
-    "id": "vsn-supra-11",
-    "verse_number": "11",
-    "original": "योषागणेन वरदध्नि विमथ्यमाने । घोषालयेषु दधिमन्थनतीव्रघोषाः । रोषात्कलिं विदधते ककुभश्च कुम्भाः । शेषाद्रिशेखरविभो तव सुप्रभातम् ॥११॥",
-    "transliteration": "yoṣāgaṇena varadadhni vimathyamāne . ghoṣālayeṣu dadhimanthanatīvraghoṣāḥ . roṣātkaliṃ vidadhate kakubhaśca kumbhāḥ . śeṣādriśekharavibho tava सुप्रभातम् ..11..",
-    "translation": "O Lord, the milk maids are churning their curd pots and are singing; the two sounds are competing with each other. May this morning be glorious to you."
-  },
-  {
-    "id": "vsn-supra-12",
-    "verse_number": "12",
-    "original": "पद्मेशमित्रशतपत्रगतालिवर्गाः । हर्तुं श्रियं कुवलयस्य निजाङ्गलक्ष्म्या । भेरीनिनादमिव बिभ्रति तीव्रनादं । शेषाद्रिशेखरविभो तव सुप्रभातम् ॥१२॥",
-    "transliteration": "padmeśamitraśatapatragatālivargāḥ . hartuṃ śriyaṃ kuvalayasya nijāṅgalakṣmyā . bherīninādamiva bibhrati tīvranādaṃ . śeṣādriśekharavibho tava सुप्रभातम् ..12..",
-    "translation": "The friends of the bees are trying to steal away the bluish brightness of the flowers and the sound of the drums. May this morning be glorious to you."
-  },
-  {
-    "id": "vsn-supra-13",
-    "verse_number": "13",
-    "original": "श्रीमन्नभीष्टवरदाखिललोकबन्धो । श्रीश्रीनिवास जगदेकदयैकसिन्धो । श्रीदेवतागृहभुजान्तरदिव्यमूर्ते । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥१३॥",
-    "transliteration": "śrīmannabhīṣṭa varadākhila lokabandho . śrīśrīnivāsa jagadekadayaikasindho . śrīdevatāgṛhabhujāntaradivyamūrte . śrīveṅkaṭācalapate tava सुप्रभातम् ॥१३॥",
-    "translation": "O Srinivasa, bestower of all desired boons, closest kith and kin of the universe, ocean of compassion, O Lord of charming beautiful form in the abode of the Gods, let this morn bring glory to you."
-  },
-  {
-    "id": "vsn-supra-14",
-    "verse_number": "14",
-    "original": "श्रीस्वामिपुष्करिणिकाप्लवनिर्मलाङ्गाः । श्रेयोऽर्थिनो हरविरिञ्चसनन्दनाद्याः । द्वारे वसन्ति वरवेत्रहतोत्तमाङ्गाः । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥१४॥",
-    "transliteration": "śrī svāmi puṣkariṇikāplava nirmalāṅgāḥ . śreyo’rthino hara viriñca sanandanādyāḥ . dvāre vasanti varavetra hatottamāṅgāḥ . śrīveṅkaṭācalapate tava सुप्रभातम् ॥१४॥",
-    "translation": "Having taken their holy dip in the Swami pushkarini, Gods like Brahma and Siva and sages such as Sanandana are waiting at the door for your Dharsan with their hands raised holding the rattan cane (for controlling the crowds). Glorious morning to you."
-  },
-  {
-    "id": "vsn-supra-15",
-    "verse_number": "15",
-    "original": "श्रीशेषशैल गरुडाचलवेङ्कटाद्रि । नारायणाद्रि वृषभाद्रिवृषाद्रि मुख्याम् । आख्यां त्वदीयवसतेरनिशं वदन्ति । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥१५॥",
-    "transliteration": "śrīśeṣaśaila garuḍācalaveṅkaṭādri . nārāyaṇādri vṛṣabhādrivṛṣādri mukhyām . ākhyāṃ tvadīyavasateraniśaṃ vadanti . śrīveṅkaṭācalapate tava सुप्रभातम् ॥१५॥",
-    "translation": "Glory to you O Venkatesa, whose abode is described incessantly in the Holy books, variously as Seshachala, Garudachala, Venkatadri, Narayanadri, Vrishabahadri and Vrishadri."
-  },
-  {
-    "id": "vsn-supra-16",
-    "verse_number": "16",
-    "original": "सेवापराश्शिवसुरेशकृशानुधर्म । रक्षोऽम्बुनाथ पवमान धनादिनाथाः । बद्धाञ्जलि प्रविलसन्निजशीर्ष देशाः । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥१६॥",
-    "transliteration": "sevāparāśśiva sureśa kṛśānudharma . rakṣo’mbunātha pavamāna dhanādināthāḥ . baddhañjali pravilasannijaśīrṣa deśāḥ . śrīveṅkaṭācalapate tava सुप्रभातम् ॥१६॥",
-    "translation": "O Lord! desirous of serving you, Siva and Indra with their heads bowed and Kubera the lord of wealth and the protectors of the eight directions (Dikpalakas) with their hands tied in front in reverence are waiting for you."
-  },
-  {
-    "id": "vsn-supra-17",
-    "verse_number": "17",
-    "original": "धाटीषु ते विहगराज मृगाधिराज । नागाधिराज गजराज हयाधिराजाः । स्वस्वाधिकार महिमाधिकमर्थयन्ते । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥१७॥",
-    "transliteration": "dhāṭīṣu te vihagarāja mṛgādhirāja . nāgādhirāja gajarāja hayādhirājāḥ . svasvādhikāra mahimādhika marthayante . śrīveṅkaṭācalapate tava सुप्रभातम् ॥१७॥",
-    "translation": "Venkatesa, seeking your benevolent look of approval Garuda and other leaders of your retinue are jostling for your first look to enhance their supervisory authority. Good morning to you."
-  },
-  {
-    "id": "vsn-supra-18",
-    "verse_number": "18",
-    "original": "सूर्येन्दु भौम बुध वाक्पति काव्यसौरि । स्वर्भानु केतु दिविषत्परिषत्प्रधानाः । त्वद्दास दास चरमावधि दासदासाः । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥१८॥",
-    "transliteration": "sūryendu bhauma budha vākpati kāvyasauri . svarbhānu ketu diviṣatpariṣatpradhānāḥ . tvaddāsa dāsa caramāvadhi dāsadāsāḥ . śrīveṅkaṭācalapate tava सुप्रभातम् ॥१८॥",
-    "translation": "O Lord, the over lords of the nine planets,(Sun, Moon, Mangala, Budha, Guru,Shukra, Sani, Rahu,Kethu) are ready waiting to offer you their service."
-  },
-  {
-    "id": "vsn-supra-19",
-    "verse_number": "19",
-    "original": "त्वत्पादधूलि भरितस्फुरितोत्तमाङ्गाः । स्वर्गापवर्ग निरपेक्ष निजान्तरङ्गाः । कल्पागमाकलनयाकुलतां लभन्ते । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥१९॥",
-    "transliteration": "tvatpādadhūli bharitasphuritottamāṅgāḥ . svargāpavarga nirapekṣa nijāntaraṅgāḥ . kalpāgamākalanayākulatāṃ labhante . śrīveṅkaṭācalapate tava सुप्रभातम् ॥१९॥",
-    "translation": "Your devotees having ben purified by the dust of your feet, are serving you with intense devotion forgetting their real interest in Moksha and doubting whether they could get this opportunity in their next birth or not."
-  },
-  {
-    "id": "vsn-supra-20",
-    "verse_number": "20",
-    "original": "त्वद्गोपुराग्रशिखराणि निरीक्षमाणाः । स्वर्गापवर्गपदवीं परमां श्रयन्तः । मर्त्या मनुष्यभुवने मतिमाश्रयन्ते । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥२०॥",
-    "transliteration": "tvadgopurāgraśikharāṇi nirīkṣamāṇāḥ . svargāpavargapadavīṃ paramāṃ śrayantaḥ . martyā manuṣyabhuvane matimāśrayante . śrīveṅkaṭācalapate tava सुप्रभातम् ॥२०॥",
-    "translation": "O Venkateswara, people who came interested in Moksha samrajya look at the Vimana (crown) of your temple and want to serve you in this earthly abode forgetting what they came for."
-  },
-  {
-    "id": "vsn-supra-21",
-    "verse_number": "21",
-    "original": "श्रीभूमिनायक दयादिगुणामृताब्धे । देवाधिदेव जगदेकशरण्यमूर्ते । श्रीमन्ननन्तगरुडादिभिरर्चिताङ्घ्रे । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥२१॥",
-    "transliteration": "śrībhūmināyaka dayādiguṇāmṛtābdhe . devādhideva jagadekaśaraṇyamūrte . śrīmannananta garuḍādibhirarcitāṅghre . śrīveṅkaṭācalapate tava सुप्रभातम् ॥२१॥",
-    "translation": "Morning wishes to you Srinivasa; You are the lord of the Mother Earth(Bhoomi), you possess innumerable auspicious qualities like compassion, Lord of all Gods, the only refuge of the universe and waited on at your feet by Nityasuris (eternal companions) like Ananta and Garuda. Good morning."
-  },
-  {
-    "id": "vsn-supra-22",
-    "verse_number": "22",
-    "original": "श्रीपद्मनाभ पुरुषोत्तम वासुदेव । वैकुण्ठ माधव जनार्दन चक्रपाणे । श्रीवत्सचिह्न शरणागतपारिजात । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥२२॥",
-    "transliteration": "śrīpadmanābha puruṣottama vāsudeva . vaikuṇṭha mādhava janārdana cakrapāṇe . śrīvatsacihna śaraṇāgatapārijāta . śrīveṅkaṭācalapate tava सुप्रभातम् ॥२२॥",
-    "translation": "O Padmanabha, Purushottama, Vasudeva, Vaikunta,Madhava, identified by your insignias of Srivatsa and the disk(chakra) in your hand, You are like the havenly Parijata tree in granting the wishes of those who surrender at your feet. Good morning to you."
-  },
-  {
-    "id": "vsn-supra-23",
-    "verse_number": "23",
-    "original": "कन्दर्पदर्पहर सुन्दर दिव्यमूर्ते । कान्ताकुचाम्बुरुह कुटमल लोलदृष्टे । कल्याणनिर्मलगुणाकर दिव्यकीर्ते । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥२३॥",
-    "transliteration": "kandarpadarpahara sundara divyamūrte . kāntākucāmburuha kuṭamala loladṛṣṭe . kalyāṇanirmalaguṇākara divyakīrte . śrīveṅkaṭācalapate tava सुप्रभातम् ॥२३॥",
-    "translation": "Your divyamangala vigraha is so beautiful as to vanquish the pride of Manmatha (Cupid), You are renowned in the Worlds for your blemishless auspicious qualities and you cast your blossoming eyesight on the fine parts of Mahalakshmi. Good morning to you."
-  },
-  {
-    "id": "vsn-supra-24",
-    "verse_number": "24",
-    "original": "मीनाकृते कमठ कोल नृसिंह वर्णिन् । स्वामिन् परश्वथतपोधन रामचन्द्र। शेषांशराम यदुनन्दन कल्किरूप । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥२४॥",
-    "transliteration": "mīnākṛte kamaṭha kola nṛsiṃha varṇin . svāmin paraśvathatapodhana rāmacandra. śeṣāṃśarāma yadunandana kalkirūpa . śrīveṅkaṭācalapate tava सुप्रभातम् ॥२४॥",
-    "translation": "O Venktesa you have helped the world by your ten avatars like Matsya, Kurma etc. Good morning to you."
-  },
-  {
-    "id": "vsn-supra-25",
-    "verse_number": "25",
-    "original": "एला लवङ्ग घनसारसुगन्धितीर्थं । दिव्यं वियत्सरिति हेमघटेषु पूर्णम् । धृत्वाऽद्य वैदिक शिखामणयः प्रहृष्टाः । तिष्ठन्ति वेङ्कटपते तव सुप्रभातम् ॥२५॥",
-    "transliteration": "elā lavaṅga ghanasārasugandhitīrthaṃ . divyaṃ viyatsariti hemaghaṭeṣu pūrṇam . dhṛtvā’dya vaidika śikhāmaṇayaḥ prahṛṣṭāḥ . tiṣṭhanti veṅkaṭapate tava सुप्रभातम् ॥२५॥",
-    "translation": "O Venkatachalapati, brahmins with vedic chants are waiting upon you with pots of Akasa Ganga water scented with cardamom, clove and other spices. May this be a glorious morn to you."
-  },
-  {
-    "id": "vsn-supra-26",
-    "verse_number": "26",
-    "original": "भास्वानुदेति विकचानि सरोरुहाणि । सम्पूरयन्ति निनदैः ककुभो विहङ्गाः । श्रीवैष्णवास्सततमर्थितमङ्गलास्ते । धामाश्रयन्ति तव वेङ्कट सुप्रभातम् ॥२६॥",
-    "transliteration": "bhāsvānudeti vikacāni saroruhāṇi . sampūrayanti ninadaiḥ kakubho vihaṅgāḥ . śrī vaiṣṇavāssatata marthita maṅgalāste . dhāmāśrayanti tava veṅkaṭa सुप्रभातम् ॥२६॥",
-    "translation": "The sun has risen and flowers have opened their petals; the chirping of birds is echoed from all directions. Sri Vaishnavas are waiting singing your praise. Let this morning be glorious to you."
-  },
-  {
-    "id": "vsn-supra-27",
-    "verse_number": "27",
-    "original": "ब्रह्मादयस्सुरवरास्समहर्षयस्ते । सन्तस्सनन्दनमुखास्तवथ योगिवर्याः । धामान्तिके तव हि मङ्गलवस्तुहस्ताः । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥२७॥",
-    "transliteration": "brahmādayas sura varās sa maharṣayaste . santas sanandana mukhās tavatha yogi varyāḥ . dhāmāntike tava hi maṅgalavastuhastāḥ . śrīveṅkaṭācalapate tava सुप्रभातम् ॥२७॥",
-    "translation": "O Venkatesa, Gods like Brahma, sadhus and yogeeswaras like Sanaka and Sanantana, are waiting at your gates bearing auspicous Pooja materials. Morning glory to you."
-  },
-  {
-    "id": "vsn-supra-28",
-    "verse_number": "28",
-    "original": "लक्ष्मीनिवास निरवद्यगुणैकसिन्धो । संसार सागर समुत्तरणैकसेतो । वेदान्तवेद्यनिजवैभव भक्तभोग्य । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥२८॥",
-    "transliteration": "lakṣmīnivāsa niravadyaguṇaikasindho . saṃsāra sāgara samuttaraṇaikaseto . vedāntavedyanijavaibhava bhaktabhogya . śrīveṅkaṭācalapate tava सुप्रभातम् ॥२८॥",
-    "translation": "O Lord the abode of Lakhmi, the ocean of good qualities, the only boat to cross the ocean of Samsara, the true knowledge sought by Vedanta(Upanishads), the lord of ture glory enjoyed by devotees,glory to you"
-  },
-  {
-    "id": "vsn-supra-29",
-    "verse_number": "29",
-    "original": "इत्थं वृषाचलपतेरिह सुप्रभातं । ये मानवाः प्रतिदिनं पठितुं प्रवृत्ताः । तेषां प्रभातसमये स्मृतिरङ्गभाजां । प्रज्ञां परार्थसुलभां परमां प्रसूते ॥२९॥",
-    "transliteration": "itthaṃ vṛṣācalapateriha suprabhātaṃ . ye mānavāḥ pratidinaṃ paṭhituṃ pravṛttāḥ . teṣāṃ prabhātasamaye smṛtiraṅgabhājāṃ . prajñāṃ parārthasulabhāṃ paramāṃ prasūte ..29..",
-    "translation": "(Salutations to Sri Govinda) Thus ends the Suprabhatam of the lord of Vrishachala hill here, Those persons who will engage themselves in reciting this everyday with devotion, And at dawn will worship Sri Govinda with mind and body and with intense devotion, For them the highest attainment of spiritual wisdom will become easy by the grace of the supreme awakened in their hearts."
-  },
-  {
-    "id": "vsn-mangala-1",
-    "verse_number": "1",
-    "original": "कमलाकुच चूचुक कुङ्कमतō। नियतारुणि तातुल नीलग्राह॥ कमलायत लōचन लōकपतē। विजयীभव वेङ्कटा शैलपतē ॥ 1 ॥",
-    "transliteration": "kamalākucha chūchuka kuṅkumatō . niyatāruṇi tātula nīlatanō . kamalāyata lōchana lōkapatē . vijayībhava vēṅkaṭa śailapatē ॥ 1 ॥",
-    "translation": "O Lord whose blue body is eternally colored crimson by the saffron from the breasts of Kamalā (Lakshmi)! O Lord of the world, whose eyes are like large lotuses! O Lord of Veṅkaṭa Hill, be victorious!"
-  },
-  {
-    "id": "vsn-mangala-2",
-    "verse_number": "2",
-    "original": "सचतुर्मुख षण्मुख पञ्चमुख । प्रमुखा खिला दैवता मौलि मणि । शरणागत वत्सल सारनिध । परिपालय मा वृष शैलपतē ॥ 2 ॥",
-    "transliteration": "sachaturmukha ṣaṇmukha pañchamukha . pramukhā khiladaivata mauḻimaṇē . śaraṇāgata vatsala sāranidhē . paripālaya māṃ vṛṣa śailapatē ॥ 2 ॥",
-    "translation": "O Jewel adorning the crown of all gods, including Brahmā (Four-faced), Ṣaṇmukha (Six-faced), and Śiva (Five-faced)! O dear to those who surrender, O Treasure of Essence! O Lord of Vṛṣa Hill, kindly protect me."
-  },
-  {
-    "id": "vsn-mangala-3",
-    "verse_number": "3",
-    "original": "अतिवेलतया तव दुर्विषहै । अनुवेलकृतै रपराधशतैः। भरितं त्वरितं वृष शैलपतē। परया कृपया परिपाहि हरē ॥ 3 ॥",
-    "transliteration": "ativēlatayā tava durviṣahai . anu vēlakṛtai raparādhaśataiḥ . bharitaṃ tvaritaṃ vṛṣa śailapatē . parayā kṛpayā paripāhi harē ॥ 3 ॥",
-    "translation": "O Lord Hari! I am quickly filled with hundreds of unbearable offenses committed time and again. O Lord of Vṛṣa Hill, protect me with Your supreme compassion."
-  },
-  {
-    "id": "vsn-mangala-4",
-    "verse_number": "4",
-    "original": "अधि वेङ्कटा शैल मुदारमतē- । रजनताभि मता धिक दानरतात । परदेवताया गदितानिगमैः । कमला दयिता न्ना परङ्कलये ॥ 4 ॥",
-    "transliteration": "adhi vēṅkaṭa śaila mudāramatē- . janatābhi matādhika dānaratāt . paradēvatayā gaditānigamaiḥ . kamalādayitānna paraṅkalayē ॥ 4 ॥",
-    "translation": "I do not consider any supreme deity other than the beloved of Kamalā (Lakshmi), who dwells on Veṅkaṭa Hill, who is noble-minded, and who delights in granting more than what the people desire, and who is spoken of as the Supreme God by the Vedas."
-  },
-  {
-    "id": "vsn-mangala-5",
-    "verse_number": "5",
-    "original": "कल वेणु रवा वश गōपवधू । शत कōटि वृत स्स्मर कōटि समात । प्रतिपल्लविका भिमत स्सुखदात । वसुदेव सुता न्ना परङ्कलये ॥ 5 ॥",
-    "transliteration": "kala vēṇura vāvaśa gōpavadhū . śata kōṭi vṛtātsmara kōṭi samāt . prati pallavikābhi matāt-sukhadāt . vasudēva sutānna paraṅkalayē ॥ 5 ॥",
-    "translation": "I do not consider any other deity than the son of Vasudeva, who is surrounded by hundreds of millions of Gopis captivated by the sweet sound of his flute, who is equal to millions of Kāmadevas (God of love), and who grants happiness and desires to every one of the village maidens."
-  },
-  {
-    "id": "vsn-mangala-6",
-    "verse_number": "6",
-    "original": "अभिरामा गुणाकर दाशरथ । जगदēक धनुर्धर धीरमतē । रघुन यक राम रमēश विभो । वरदō भव देव दया जलधē ॥ 6 ॥",
-    "transliteration": "abhirāma guṇākara dāśarathē . jagadēka dhanurthara dhīramatē . raghunāyaka rāma ramēśa vibhō . varadō bhava dēva dayā jaladhē ॥ 6 ॥",
-    "translation": "O Darling of the eyes, O Mine of Virtues, O Son of Daśaratha! O only great bowman in the world, O Firm-minded One! O Leader of the Raghus, O Rāma, O Lord of Ramā (Lakshmi)! O All-pervading One! O God, O Ocean of Mercy, be the bestower of boons."
-  },
-  {
-    "id": "vsn-mangala-7",
-    "verse_number": "7",
-    "original": "अवन तनय कमनीय करं । रजनीकर चारु मुखाम्बु रुहम् । रजनीचर राजता मōमि हिरम् । महनीय महं रघु राममयē ॥ 7 ॥",
-    "transliteration": "avanī tanayā kamanīya karaṃ . rajanīkara chāru mukhāmburuham . rajanīchara rājata mōmi hiraṃ . mahanīya mahaṃ raghurāmamayē ॥ 7 ॥",
-    "translation": "I seek refuge in the venerable and glorious Rāma of the Raghu lineage, whose hands are attractive to Sītā (daughter of the Earth), whose lotus face is beautiful like the moon, and who destroyed the king of the night-wanderers (Rākṣasas)."
-  },
-  {
-    "id": "vsn-mangala-8",
-    "verse_number": "8",
-    "original": "सुमुखं सुहृदं सुलभं सुखदं । स्वनुजं च सुकाय म मōघशरम् । अपहाय रघु द्वय मन्यमहं । न कथञ्जना कञ्चन जात भजē ॥ 8 ॥",
-    "transliteration": "sumukhaṃ suhṛdaṃ sulabhaṃ sukhadaṃ . svanujaṃ cha sukāyama mōghaśaram . apahāya raghūdvaya manyamahaṃ . na kathañchana kañchana jātubhajē ॥ 8 ॥",
-    "translation": "Leaving aside the best of the Raghus (Rāma) who has a cheerful face, a kind heart, is easily approachable, gives happiness, has a good physique, is accompanied by His brother (Lakṣmaṇa), and whose arrows never fail—I will never worship anyone else at any time."
-  },
-  {
-    "id": "vsn-mangala-9",
-    "verse_number": "9",
-    "original": "विन वेङ्कटēशं न न थō न न थ । सदा वेङ्कटēशं स्मरामि स्मरामि । हरē वेङ्कटēश प्रसीद प्रसीद । प्रियं वेङ्कटēश प्रयचछ प्रयचछ ॥ 9 ॥",
-    "transliteration": "vinā vēṅkaṭēśaṃ na nāthō na nāthaḥ . sadā vēṅkaṭēśaṃ smarāmi smarāmi . harē vēṅkaṭēśa prasīda prasīda . priyaṃ vēṅkaṭeśa prayachCha prayachCha ॥ 9 ॥",
-    "translation": "Except for Veṅkaṭeśa, there is no Lord, no Lord! I constantly remember, I remember Veṅkaṭeśa! O Hari Veṅkaṭeśa, be gracious, be gracious! O Veṅkaṭeśa, bestow what is desirable, bestow it!"
-  },
-  {
-    "id": "vsn-mangala-10",
-    "verse_number": "10",
-    "original": "अहं दूरदस्तē पदां भōजय गम । प्रणामेचछया गत सेवां करोमि । सकृत्सेवय नित्य सेवाफल तवं । प्रयचछ प्रयचछ प्रभो वेङ्कटēश ॥ 10 ॥",
-    "transliteration": "ahaṃ dūradastē padāṃ bhōjayugma . praṇāmēchChayā gatya sēvāṃ karōmi . sakṛtsēvayā nitya sēvāphalaṃ tvaṃ . prayachCha prayachCha prabhō vēṅkaṭēśa ॥ 10 ॥",
-    "translation": "Though I am far away, desiring to bow down to Your pair of lotus feet, I come and render service. O Lord Veṅkaṭeśa, please grant, please grant, the fruit of continuous service even for this one time service."
-  },
-  {
-    "id": "vsn-mangala-11",
-    "verse_number": "11",
-    "original": "अज्ञानिना मया दōषा न शēशान्वि हिता न्हरē । क्षमस्व तवं क्षमस्व तवं शēषशैल शिखा मणē ॥ 11 ॥",
-    "transliteration": "ajñāninā mayā dōṣā na śēṣānvihitān harē . kṣamasva tvaṃ kṣamasva tvaṃ śēṣaśaila śikhāmaṇē ॥ 11 ॥",
-    "translation": "O Hari! O Jewel on the crest of Śeṣa Hill! Please forgive, please forgive the limitless faults committed by me due to my ignorance."
-  }
-]
+    {
+      "id": "vsn-supra-1",
+      "verse_number": "1",
+      "startTime": 0,
+      "endTime": 29,
+      "original": "कौसल्या सुप्रजा राम पूर्वासन्ध्या प्रवर्तते । उत्तिष्ठ नरशार्दूल कर्त्तव्यं दैवमाह्निकम् ॥१॥",
+      "transliteration": "kausalyā suprajā rāma pūrvāsandhyā pravartate . uttiṣṭha naraśārdūla karttavyaṃ daivamāhnikam ..1..",
+      "translation": "O Rama, son of Kausalya, the sun is about to rise in the eastern skies; please arise to offer the early morning oblations."
+    },
+    {
+      "id": "vsn-supra-2",
+      "verse_number": "2",
+      "startTime": 30,
+      "endTime": 49,
+      "original": "उत्तिष्ठोत्तिष्ठ गोविन्द उत्तिष्ठ गरुडध्वज । उत्तिष्ठ कमलाकान्त त्रैलोक्यं मङ्गलं कुरु ॥२॥",
+      "transliteration": "uttiṣṭhottiṣṭha govinda uttiṣṭha garuḍadhvaja . uttiṣṭha kamalākānta trailokyaṃ maṅgalaṃ kuru ..2..",
+      "translation": "Arise O Govinda the holder of flag with Garuda emblem; Cast aside your sleep to bestow your protection and solace to the Universe."
+    },
+    {
+      "id": "vsn-supra-3",
+      "verse_number": "3",
+      "startTime": 50,
+      "endTime": 82,
+      "original": "मातस्समस्तजगतां मधुकैटभारेः । वक्षोविहारिणि मनोहरदिव्यमूर्ते । श्रीस्वामिनि श्रितजनप्रियदानशीले । श्रीवेङ्कटेशदयिते तव सुप्रभातम् ॥३॥",
+      "transliteration": "mātassamastajagatāṃ madhukaiṭabhāreḥ . vakṣovihāriṇi manoharadivyamūrte . śrīsvāmini śritajanapriyadānaśīle . śrīveṅkaṭeśadayite tava suprabhātam ..3..",
+      "translation": "Sri Lakshmi, mother of the world, you reside in the heart of Mahavisnu; O beautiful one that captures the attention of the minds of humans, O bestower of all benefits to those who fall at His feet, O dear and beloved one to Lord Venkateswara, I offer these morning Pranams to you."
+    },
+    {
+      "id": "vsn-supra-4",
+      "verse_number": "4",
+      "startTime": 83,
+      "endTime": 99,
+      "original": "तव सुप्रभातमरविन्दलोचने । भवतु प्रसन्नमुखचन्द्रमण्डले । विधिशङ्करेन्द्रवनिताभिरर्चिते । वृशशैलनाथदयिते दयानिधे ॥४॥",
+      "transliteration": "tava suprabhātamaravindalocane . bhavatu prasannamukhacandramaṇḍale . vidhiśaṅkarendravanitābhirarcite . vṛśaśailanāthadayite dayānidhe ..4..",
+      "translation": "O Devi, good morning to you whose eyes are like the lotus and the bright face of the full moon; the consorts of Brahma, Sankara and Indra pay their respects to you the ocean of mercy dear to the Lord of the Vrishabadri."
+    },
+    {
+      "id": "vsn-supra-5",
+      "verse_number": "5",
+      "startTime": 100,
+      "endTime": 115,
+      "original": "अत्र्यादिसप्तऋषयस्समुपास्य सन्ध्यां । आकाशसिन्धुकमलानि मनोहराणि । आदाय पादयुगमर्चयितुं प्रपन्नाः । शेषाद्रिशेखरविभो तव सुप्रभातम् ॥५॥",
+      "transliteration": "atryādisaptaṛṣayassamupāsya sandhyāṃ . ākāśasindhukamalāni manoharāṇi . ādāya pādayugamarcayituṃ prapannāḥ . śeṣādriśekharavibho tava सुप्रभातम् ..5..",
+      "translation": "O resident of Sehadri, the seven holy rishis headed by Atri, having performed their morning sandhya, are at your feet offering beautiful lotuses and the waters of heavenly rivers, please receive them."
+    },
+    {
+      "id": "vsn-supra-6",
+      "verse_number": "6",
+      "startTime": 116,
+      "endTime": 132,
+      "original": "पञ्चाननाब्जभवषण्मुखवासवाद्याः । त्रैविक्रमादिचरितं विबुधाः स्तुवन्ति । भाषापतिः पठति वासरशुद्धिमारात् । शेषाद्रिशेखरविभो तव सुप्रभातम् ॥६॥",
+      "transliteration": "pañcānanābja bhava ṣaṇmukhavāsavādyāḥ . traivikramādicaritaṃ vibudhāḥ stuvanti . bhāṣāpatiḥ paṭhati vāsaraśuddhimārāt . śeṣādriśekharavibho tava सुप्रभातम् ..6..",
+      "translation": "All the Gods from Brahma, Shiva, Shanmukha and others are praising your TriVikrama avathara, Brhaspathi, the Purohita of Devas is reading out the Panchangam (almanac), O Lord may this morning be glorious."
+    },
+    {
+      "id": "vsn-supra-7",
+      "verse_number": "7",
+      "startTime": 133,
+      "endTime": 148,
+      "original": "ईषत्प्रफुल्लसरसीरुहनारिकेल । पूगद्रुमादिसुमनोहरपालिकानाम् । आवाति मन्दमनिलस्सह दिव्यगन्धैः । शेषाद्रिशेखरविभो तव सुप्रभातम् ॥७॥",
+      "transliteration": "īṣatpraphullasarasīruhanārikela . pūgadrumādisumanoharapālikānām . āvāti mandamanilassaha divyagandhaiḥ . śeṣādriśekharavibho tava सुप्रभातम् ..7..",
+      "translation": "O Sehadri vasa, the morning scene is beautiful with the tossing of water lillies, cocoanut trees and transplanted young paddy fields, the morning breeze is blowing carrying pleasant smells, good morning to you"
+    },
+    {
+      "id": "vsn-supra-8",
+      "verse_number": "8",
+      "startTime": 149,
+      "endTime": 165,
+      "original": "उन्मील्य नेत्रयुगमुत्तमपञ्जरस्थाः । पात्रावशिष्टकदलीफलपायसानि । भुक्त्वा सलीलमथ केलिशुकाः पठन्ति । शेषाद्रिशेखरविभो तव सुप्रभातम् ॥८॥",
+      "transliteration": "unmīlya netrayugamuttamapañjarasthāḥ . pātrāvaśiṣṭakadalīphalapāyasāni . bhuktvā salīlamatha keliśukāḥ paṭhanti . śeṣādriśekharavibho tava सुप्रभातम् ..8..",
+      "translation": "O Venkateswara, the temple parrots are singing pleasantly after having tasted the fruits, payasa in your Pooja vessels and quenching their thirst; I pray for a good morning to you."
+    },
+    {
+      "id": "vsn-supra-9",
+      "verse_number": "9",
+      "startTime": 166,
+      "endTime": 182,
+      "original": "तन्त्रीप्रकर्षमधुरस्वनया विपञ्च्या । गायत्यनन्तचरितं तव नारदोऽपि । भाषासमग्रमसकृत्करचाररम्यं । शेषाद्रिशेखरविभो तव सुप्रभातम् ॥९॥",
+      "transliteration": "tantrīprakarṣamadhurasvanayā vipañcyā . gāyatyanantacaritaṃ tava nārado’pi . bhāṣāsamagrama sakṛtkara cāraramyaṃ . śeṣādriśekharavibho tava सुप्रभातम् ..9..",
+      "translation": "With his melodious musical instruments Sage Narada is singing your endless stories set to music and dancing to the enchanting music with lovely hand gestures, may this morning be beautiful."
+    },
+    {
+      "id": "vsn-supra-10",
+      "verse_number": "10",
+      "startTime": 183,
+      "endTime": 197,
+      "original": "भृङ्गावली च मकरन्दरसानुविद्ध । झङ्कारगीतनिनदैस्सह सेवनाय । निर्यात्युपान्तसरसीकमलोदरेभ्यः । शेषाद्रिशेखरविभो तव सुप्रभातम् ॥१०॥",
+      "transliteration": "bhṛṅgāvalī ca makarandarasānuviddha . jhaṅkāragītaninadaissaha sevanāya . niryātyupānta sarasī kamalodarebhyaḥ . śeṣādriśekharavibho tava सुप्रभातम् ..10..",
+      "translation": "O Lord of Seshagiri, the swarm of bees from the lotus flowers of the nearby tank have come out after tasting the honey and carrying makharanda pollen, waiting for your Dharsan."
+    },
+    {
+      "id": "vsn-supra-11",
+      "verse_number": "11",
+      "startTime": 198,
+      "endTime": 214,
+      "original": "योषागणेन वरदध्नि विमथ्यमाने । घोषालयेषु दधिमन्थनतीव्रघोषाः । रोषात्कलिं विदधते ककुभश्च कुम्भाः । शेषाद्रिशेखरविभो तव सुप्रभातम् ॥११॥",
+      "transliteration": "yoṣāgaṇena varadadhni vimathyamāne . ghoṣālayeṣu dadhimanthanatīvraghoṣāḥ . roṣātkaliṃ vidadhate kakubhaśca kumbhāḥ . śeṣādriśekharavibho tava सुप्रभातम् ..11..",
+      "translation": "O Lord, the milk maids are churning their curd pots and are singing; the two sounds are competing with each other. May this morning be glorious to you."
+    },
+    {
+      "id": "vsn-supra-12",
+      "verse_number": "12",
+      "startTime": 215,
+      "endTime": 230,
+      "original": "पद्मेशमित्रशतपत्रगतालिवर्गाः । हर्तुं श्रियं कुवलयस्य निजाङ्गलक्ष्म्या । भेरीनिनादमिव बिभ्रति तीव्रनादं । शेषाद्रिशेखरविभो तव सुप्रभातम् ॥१२॥",
+      "transliteration": "padmeśamitraśatapatragatālivargāḥ . hartuṃ śriyaṃ kuvalayasya nijāṅgalakṣmyā . bherīninādamiva bibhrati tīvranādaṃ . śeṣādriśekharavibho tava सुप्रभातम् ..12..",
+      "translation": "The friends of the bees are trying to steal away the bluish brightness of the flowers and the sound of the drums. May this morning be glorious to you."
+    },
+    {
+      "id": "vsn-supra-13",
+      "verse_number": "13",
+      "startTime": 231,
+      "endTime": 247,
+      "original": "श्रीमन्नभीष्टवरदाखिललोकबन्धो । श्रीश्रीनिवास जगदेकदयैकसिन्धो । श्रीदेवतागृहभुजान्तरदिव्यमूर्ते । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥१३॥",
+      "transliteration": "śrīmannabhīṣṭa varadākhila lokabandho . śrīśrīnivāsa jagadekadayaikasindho . śrīdevatāgṛhabhujāntaradivyamūrte . śrīveṅkaṭācalapate tava सुप्रभातम् ॥१३॥",
+      "translation": "O Srinivasa, bestower of all desired boons, closest kith and kin of the universe, ocean of compassion, O Lord of charming beautiful form in the abode of the Gods, let this morn bring glory to you."
+    },
+    {
+      "id": "vsn-supra-14",
+      "verse_number": "14",
+      "startTime": 248,
+      "endTime": 280,
+      "original": "श्रीस्वामिपुष्करिणिकाप्लवनिर्मलाङ्गाः । श्रेयोऽर्थिनो हरविरिञ्चसनन्दनाद्याः । द्वारे वसन्ति वरवेत्रहतोत्तमाङ्गाः । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥१४॥",
+      "transliteration": "śrī svāmi puṣkariṇikāplava nirmalāṅgāḥ . śreyo’rthino hara viriñca sanandanādyāḥ . dvāre vasanti varavetra hatottamāṅgāḥ . śrīveṅkaṭācalapate tava सुप्रभातम् ॥१४॥",
+      "translation": "Having taken their holy dip in the Swami pushkarini, Gods like Brahma and Siva and sages such as Sanandana are waiting at the door for your Dharsan with their hands raised holding the rattan cane (for controlling the crowds). Glorious morning to you."
+    },
+    {
+      "id": "vsn-supra-15",
+      "verse_number": "15",
+      "startTime": 281,
+      "endTime": 296,
+      "original": "श्रीशेषशैल गरुडाचलवेङ्कटाद्रि । नारायणाद्रि वृषभाद्रिवृषाद्रि मुख्याम् । आख्यां त्वदीयवसतेरनिशं वदन्ति । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥१५॥",
+      "transliteration": "śrīśeṣaśaila garuḍācalaveṅkaṭādri . nārāyaṇādri vṛṣabhādrivṛṣādri mukhyām . ākhyāṃ tvadīyavasateraniśaṃ vadanti . śrīveṅkaṭācalapate tava सुप्रभातम् ॥१५॥",
+      "translation": "Glory to you O Venkatesa, whose abode is described incessantly in the Holy books, variously as Seshachala, Garudachala, Venkatadri, Narayanadri, Vrishabahadri and Vrishadri."
+    },
+    {
+      "id": "vsn-supra-16",
+      "verse_number": "16",
+      "startTime": 297,
+      "endTime": 311,
+      "original": "सेवापराश्शिवसुरेशकृशानुधर्म । रक्षोऽम्बुनाथ पवमान धनादिनाथाः । बद्धाञ्जलि प्रविलसन्निजशीर्ष देशाः । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥१६॥",
+      "transliteration": "sevāparāśśiva sureśa kṛśānudharma . rakṣo’mbunātha pavamāna dhanādināthāḥ . baddhañjali pravilasannijaśīrṣa deśāḥ . śrīveṅkaṭācalapate tava सुप्रभातम् ॥१६॥",
+      "translation": "O Lord! desirous of serving you, Siva and Indra with their heads bowed and Kubera the lord of wealth and the protectors of the eight directions (Dikpalakas) with their hands tied in front in reverence are waiting for you."
+    },
+    {
+      "id": "vsn-supra-17",
+      "verse_number": "17",
+      "startTime": 312,
+      "endTime": 327,
+      "original": "धाटीषु ते विहगराज मृगाधिराज । नागाधिराज गजराज हयाधिराजाः । स्वस्वाधिकार महिमाधिकमर्थयन्ते । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥१७॥",
+      "transliteration": "dhāṭīṣu te vihagarāja mṛgādhirāja . nāgādhirāja gajarāja hayādhirājāḥ . svasvādhikāra mahimādhika marthayante . śrīveṅkaṭācalapate tava सुप्रभातम् ॥१७॥",
+      "translation": "Venkatesa, seeking your benevolent look of approval Garuda and other leaders of your retinue are jostling for your first look to enhance their supervisory authority. Good morning to you."
+    },
+    {
+      "id": "vsn-supra-18",
+      "verse_number": "18",
+      "startTime": 328,
+      "endTime": 343,
+      "original": "सूर्येन्दु भौम बुध वाक्पति काव्यसौरि । स्वर्भानु केतु दिविषत्परिषत्प्रधानाः । त्वद्दास दास चरमावधि दासदासाः । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥१८॥",
+      "transliteration": "sūryendu bhauma budha vākpati kāvyasauri . svarbhānu ketu diviṣatpariṣatpradhānāḥ . tvaddāsa dāsa caramāvadhi dāsadāsāḥ . śrīveṅkaṭācalapate tava सुप्रभातम् ॥१८॥",
+      "translation": "O Lord, the over lords of the nine planets,(Sun, Moon, Mangala, Budha, Guru,Shukra, Sani, Rahu,Kethu) are ready waiting to offer you their service."
+    },
+    {
+      "id": "vsn-supra-19",
+      "verse_number": "19",
+      "startTime": 344,
+      "endTime": 360,
+      "original": "त्वत्पादधूलि भरितस्फुरितोत्तमाङ्गाः । स्वर्गापवर्ग निरपेक्ष निजान्तरङ्गाः । कल्पागमाकलनयाकुलतां लभन्ते । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥१९॥",
+      "transliteration": "tvatpādadhūli bharitasphuritottamāṅgāḥ . svargāpavarga nirapekṣa nijāntaraṅgāḥ . kalpāgamākalanayākulatāṃ labhante . śrīveṅkaṭācalapate tava सुप्रभातम् ॥१९॥",
+      "translation": "Your devotees having ben purified by the dust of your feet, are serving you with intense devotion forgetting their real interest in Moksha and doubting whether they could get this opportunity in their next birth or not."
+    },
+    {
+      "id": "vsn-supra-20",
+      "verse_number": "20",
+      "startTime": 361,
+      "endTime": 375,
+      "original": "त्वद्गोपुराग्रशिखराणि निरीक्षमाणाः । स्वर्गापवर्गपदवीं परमां श्रयन्तः । मर्त्या मनुष्यभुवने मतिमाश्रयन्ते । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥२०॥",
+      "transliteration": "tvadgopurāgraśikharāṇi nirīkṣamāṇāḥ . svargāpavargapadavīṃ paramāṃ śrayantaḥ . martyā manuṣyabhuvane matimāśrayante . śrīveṅkaṭācalapate tava सुप्रभातम् ॥२०॥",
+      "translation": "O Venkateswara, people who came interested in Moksha samrajya look at the Vimana (crown) of your temple and want to serve you in this earthly abode forgetting what they came for."
+    },
+    {
+      "id": "vsn-supra-21",
+      "verse_number": "21",
+      "startTime": 376,
+      "endTime": 392,
+      "original": "श्रीभूमिनायक दयादिगुणामृताब्धे । देवाधिदेव जगदेकशरण्यमूर्ते । श्रीमन्ननन्तगरुडादिभिरर्चिताङ्घ्रे । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥२१॥",
+      "transliteration": "śrībhūmināyaka dayādiguṇāmṛtābdhe . devādhideva jagadekaśaraṇyamūrte . śrīmannananta garuḍādibhirarcitāṅghre . śrīveṅkaṭācalapate tava सुप्रभातम् ॥२१॥",
+      "translation": "Morning wishes to you Srinivasa; You are the lord of the Mother Earth(Bhoomi), you possess innumerable auspicious qualities like compassion, Lord of all Gods, the only refuge of the universe and waited on at your feet by Nityasuris (eternal companions) like Ananta and Garuda. Good morning."
+    },
+    {
+      "id": "vsn-supra-22",
+      "verse_number": "22",
+      "startTime": 393,
+      "endTime": 409,
+      "original": "श्रीपद्मनाभ पुरुषोत्तम वासुदेव । वैकुण्ठ माधव जनार्दन चक्रपाणे । श्रीवत्सचिह्न शरणागतपारिजात । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥२२॥",
+      "transliteration": "śrīpadmanābha puruṣottama vāsudeva . vaikuṇṭha mādhava janārdana cakrapāṇe . śrīvatsacihna śaraṇāgatapārijāta . śrīveṅkaṭācalapate tava सुप्रभातम् ॥२२॥",
+      "translation": "O Padmanabha, Purushottama, Vasudeva, Vaikunta,Madhava, identified by your insignias of Srivatsa and the disk(chakra) in your hand, You are like the havenly Parijata tree in granting the wishes of those who surrender at your feet. Good morning to you."
+    },
+    {
+      "id": "vsn-supra-23",
+      "verse_number": "23",
+      "startTime": 410,
+      "endTime": 425,
+      "original": "कन्दर्पदर्पहर सुन्दर दिव्यमूर्ते । कान्ताकुचाम्बुरुह कुटमल लोलदृष्टे । कल्याणनिर्मलगुणाकर दिव्यकीर्ते । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥२३॥",
+      "transliteration": "kandarpadarpahara sundara divyamūrte . kāntākucāmburuha kuṭamala loladṛṣṭe . kalyāṇanirmalaguṇākara divyakīrte . śrīveṅkaṭācalapate tava सुप्रभातम् ॥२३॥",
+      "translation": "Your divyamangala vigraha is so beautiful as to vanquish the pride of Manmatha (Cupid), You are renowned in the Worlds for your blemishless auspicious qualities and you cast your blossoming eyesight on the fine parts of Mahalakshmi. Good morning to you."
+    },
+    {
+      "id": "vsn-supra-24",
+      "verse_number": "24",
+      "startTime": 426,
+      "endTime": 442,
+      "original": "मीनाकृते कमठ कोल नृसिंह वर्णिन् । स्वामिन् परश्वथतपोधन रामचन्द्र। शेषांशराम यदुनन्दन कल्किरूप । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥२४॥",
+      "transliteration": "mīnākṛte kamaṭha kola nṛsiṃha varṇin . svāmin paraśvathatapodhana rāmacandra. śeṣāṃśarāma yadunandana kalkirūpa . śrīveṅkaṭācalapate tava सुप्रभातम् ॥२४॥",
+      "translation": "O Venktesa you have helped the world by your ten avatars like Matsya, Kurma etc. Good morning to you."
+    },
+    {
+      "id": "vsn-supra-25",
+      "verse_number": "25",
+      "startTime": 443,
+      "endTime": 458,
+      "original": "एला लवङ्ग घनसारसुगन्धितीर्थं । दिव्यं वियत्सरिति हेमघटेषु पूर्णम् । धृत्वाऽद्य वैदिक शिखामणयः प्रहृष्टाः । तिष्ठन्ति वेङ्कटपते तव सुप्रभातम् ॥२५॥",
+      "transliteration": "elā lavaṅga ghanasārasugandhitīrthaṃ . divyaṃ viyatsariti hemaghaṭeṣu pūrṇam . dhṛtvā’dya vaidika śikhāmaṇayaḥ prahṛṣṭāḥ . tiṣṭhanti veṅkaṭapate tava सुप्रभातम् ॥२५॥",
+      "translation": "O Venkatachalapati, brahmins with vedic chants are waiting upon you with pots of Akasa Ganga water scented with cardamom, clove and other spices. May this be a glorious morn to you."
+    },
+    {
+      "id": "vsn-supra-26",
+      "verse_number": "26",
+      "startTime": 459,
+      "endTime": 475,
+      "original": "भास्वानुदेति विकचानि सरोरुहाणि । सम्पूरयन्ति निनदैः ककुभो विहङ्गाः । श्रीवैष्णवास्सततमर्थितमङ्गलास्ते । धामाश्रयन्ति तव वेङ्कट सुप्रभातम् ॥२६॥",
+      "transliteration": "bhāsvānudeti vikacāni saroruhāṇi . sampūrayanti ninadaiḥ kakubho vihaṅgāḥ . śrī vaiṣṇavāssatata marthita maṅgalāste . dhāmāśrayanti tava veṅkaṭa सुप्रभातम् ॥२६॥",
+      "translation": "The sun has risen and flowers have opened their petals; the chirping of birds is echoed from all directions. Sri Vaishnavas are waiting singing your praise. Let this morning be glorious to you."
+    },
+    {
+      "id": "vsn-supra-27",
+      "verse_number": "27",
+      "startTime": 476,
+      "endTime": 491,
+      "original": "ब्रह्मादयस्सुरवरास्समहर्षयस्ते । सन्तस्सनन्दनमुखास्तवथ योगिवर्याः । धामान्तिके तव हि मङ्गलवस्तुहस्ताः । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥२७॥",
+      "transliteration": "brahmādayas sura varās sa maharṣayaste . santas sanandana mukhās tavatha yogi varyāḥ . dhāmāntike tava hi maṅgalavastuhastāḥ . śrīveṅkaṭācalapate tava सुप्रभातम् ॥२७॥",
+      "translation": "O Venkatesa, Gods like Brahma, sadhus and yogeeswaras like Sanaka and Sanantana, are waiting at your gates bearing auspicous Pooja materials. Morning glory to you."
+    },
+    {
+      "id": "vsn-supra-28",
+      "verse_number": "28",
+      "startTime": 492,
+      "endTime": 524,
+      "original": "लक्ष्मीनिवास निरवद्यगुणैकसिन्धो । संसार सागर समुत्तरणैकसेतो । वेदान्तवेद्यनिजवैभव भक्तभोग्य । श्रीवेङ्कटाचलपते तव सुप्रभातम् ॥२८॥",
+      "transliteration": "lakṣmīnivāsa niravadyaguṇaikasindho . saṃsāra sāgara samuttaraṇaikaseto . vedāntavedyanijavaibhava bhaktabhogya . śrīveṅkaṭācalapate tava सुप्रभातम् ॥२८॥",
+      "translation": "O Lord the abode of Lakhmi, the ocean of good qualities, the only boat to cross the ocean of Samsara, the true knowledge sought by Vedanta(Upanishads), the lord of ture glory enjoyed by devotees,glory to you"
+    },
+    {
+      "id": "vsn-supra-29",
+      "verse_number": "29",
+      "startTime": 525,
+      "endTime": 558,
+      "original": "इत्थं वृषाचलपतेरिह सुप्रभातं । ये मानवाः प्रतिदिनं पठितुं प्रवृत्ताः । तेषां प्रभातसमये स्मृतिरङ्गभाजां । प्रज्ञां परार्थसुलभां परमां प्रसूते ॥२९॥",
+      "transliteration": "itthaṃ vṛṣācalapateriha suprabhātaṃ . ye mānavāḥ pratidinaṃ paṭhituṃ pravṛttāḥ . teṣāṃ prabhātasamaye smṛtiraṅgabhājāṃ . prajñāṃ parārthasulabhāṃ paramāṃ prasūte ..29..",
+      "translation": "(Salutations to Sri Govinda) Thus ends the Suprabhatam of the lord of Vrishachala hill here, Those persons who will engage themselves in reciting this everyday with devotion, And at dawn will worship Sri Govinda with mind and body and with intense devotion, For them the highest attainment of spiritual wisdom will become easy by the grace of the supreme awakened in their hearts."
+    },
+    {
+      "id": "vsn-mangala-1",
+      "verse_number": "1",
+      "startTime": 559,
+      "endTime": 586,
+      "original": "कमलाकुच चूचुक कुङ्कमतō। नियतारुणि तातुल नीलग्राह॥ कमलायत लōचन लōकपतē। विजयীभव वेङ्कटा शैलपतē ॥ 1 ॥",
+      "transliteration": "kamalākucha chūchuka kuṅkumatō . niyatāruṇi tātula nīlatanō . kamalāyata lōchana lōkapatē . vijayībhava vēṅkaṭa śailapatē ॥ 1 ॥",
+      "translation": "O Lord whose blue body is eternally colored crimson by the saffron from the breasts of Kamalā (Lakshmi)! O Lord of the world, whose eyes are like large lotuses! O Lord of Veṅkaṭa Hill, be victorious!"
+    },
+    {
+      "id": "vsn-mangala-2",
+      "verse_number": "2",
+      "startTime": 587,
+      "endTime": 599,
+      "original": "सचतुर्मुख षण्मुख पञ्चमुख । प्रमुखा खिला दैवता मौलि मणि । शरणागत वत्सल सारनिध । परिपालय मा वृष शैलपतē ॥ 2 ॥",
+      "transliteration": "sachaturmukha ṣaṇmukha pañchamukha . pramukhā khiladaivata mauḻimaṇē . śaraṇāgata vatsala sāranidhē . paripālaya māṃ vṛṣa śailapatē ॥ 2 ॥",
+      "translation": "O Jewel adorning the crown of all gods, including Brahmā (Four-faced), Ṣaṇmukha (Six-faced), and Śiva (Five-faced)! O dear to those who surrender, O Treasure of Essence! O Lord of Vṛṣa Hill, kindly protect me."
+    },
+    {
+      "id": "vsn-mangala-3",
+      "verse_number": "3",
+      "startTime": 600,
+      "endTime": 613,
+      "original": "अतिवेलतया तव दुर्विषहै । अनुवेलकृतै रपराधशतैः। भरितं त्वरितं वृष शैलपतē। परया कृपया परिपाहि हरē ॥ 3 ॥",
+      "transliteration": "ativēlatayā tava durviṣahai . anu vēlakṛtai raparādhaśataiḥ . bharitaṃ tvaritaṃ vṛṣa śailapatē . parayā kṛpayā paripāhi harē ॥ 3 ॥",
+      "translation": "O Lord Hari! I am quickly filled with hundreds of unbearable offenses committed time and again. O Lord of Vṛṣa Hill, protect me with Your supreme compassion."
+    },
+    {
+      "id": "vsn-mangala-4",
+      "verse_number": "4",
+      "startTime": 614,
+      "endTime": 626,
+      "original": "अधि वेङ्कटा शैल मुदारमतē- । रजनताभि मता धिक दानरतात । परदेवताया गदितानिगमैः । कमला दयिता न्ना परङ्कलये ॥ 4 ॥",
+      "transliteration": "adhi vēṅkaṭa śaila mudāramatē- . janatābhi matādhika dānaratāt . paradēvatayā gaditānigamaiḥ . kamalādayitānna paraṅkalayē ॥ 4 ॥",
+      "translation": "I do not consider any supreme deity other than the beloved of Kamalā (Lakshmi), who dwells on Veṅkaṭa Hill, who is noble-minded, and who delights in granting more than what the people desire, and who is spoken of as the Supreme God by the Vedas."
+    },
+    {
+      "id": "vsn-mangala-5",
+      "verse_number": "5",
+      "startTime": 627,
+      "endTime": 640,
+      "original": "कल वेणु रवा वश गōपवधू । शत कōटि वृत स्स्मर कōटि समात । प्रतिपल्लविका भिमत स्सुखदात । वसुदेव सुता न्ना परङ्कलये ॥ 5 ॥",
+      "transliteration": "kala vēṇura vāvaśa gōpavadhū . śata kōṭi vṛtātsmara kōṭi samāt . prati pallavikābhi matāt-sukhadāt . vasudēva sutānna paraṅkalayē ॥ 5 ॥",
+      "translation": "I do not consider any other deity than the son of Vasudeva, who is surrounded by hundreds of millions of Gopis captivated by the sweet sound of his flute, who is equal to millions of Kāmadevas (God of love), and who grants happiness and desires to every one of the village maidens."
+    },
+    {
+      "id": "vsn-mangala-6",
+      "verse_number": "6",
+      "startTime": 641,
+      "endTime": 654,
+      "original": "अभिरामा गुणाकर दाशरथ । जगदēक धनुर्धर धीरमतē । रघुन यक राम रमēश विभो । वरदō भव देव दया जलधē ॥ 6 ॥",
+      "transliteration": "abhirāma guṇākara dāśarathē . jagadēka dhanurthara dhīramatē . raghunāyaka rāma ramēśa vibhō . varadō bhava dēva dayā jaladhē ॥ 6 ॥",
+      "translation": "O Darling of the eyes, O Mine of Virtues, O Son of Daśaratha! O only great bowman in the world, O Firm-minded One! O Leader of the Raghus, O Rāma, O Lord of Ramā (Lakshmi)! O All-pervading One! O God, O Ocean of Mercy, be the bestower of boons."
+    },
+    {
+      "id": "vsn-mangala-7",
+      "verse_number": "7",
+      "startTime": 655,
+      "endTime": 667,
+      "original": "अवन तनय कमनीय करं । रजनीकर चारु मुखाम्बु रुहम् । रजनीचर राजता मōमि हिरम् । महनीय महं रघु राममयē ॥ 7 ॥",
+      "transliteration": "avanī tanayā kamanīya karaṃ . rajanīkara chāru mukhāmburuham . rajanīchara rājata mōmi hiraṃ . mahanīya mahaṃ raghurāmamayē ॥ 7 ॥",
+      "translation": "I seek refuge in the venerable and glorious Rāma of the Raghu lineage, whose hands are attractive to Sītā (daughter of the Earth), whose lotus face is beautiful like the moon, and who destroyed the king of the night-wanderers (Rākṣasas)."
+    },
+    {
+      "id": "vsn-mangala-8",
+      "verse_number": "8",
+      "startTime": 668,
+      "endTime": 680,
+      "original": "सुमुखं सुहृदं सुलभं सुखदं । स्वनुजं च सुकाय म मōघशरम् । अपहाय रघु द्वय मन्यमहं । न कथञ्जना कञ्चन जात भजē ॥ 8 ॥",
+      "transliteration": "sumukhaṃ suhṛdaṃ sulabhaṃ sukhadaṃ . svanujaṃ cha sukāyama mōghaśaram . apahāya raghūdvaya manyamahaṃ . na kathañchana kañchana jātubhajē ॥ 8 ॥",
+      "translation": "Leaving aside the best of the Raghus (Rāma) who has a cheerful face, a kind heart, is easily approachable, gives happiness, has a good physique, is accompanied by His brother (Lakṣmaṇa), and whose arrows never fail—I will never worship anyone else at any time."
+    },
+    {
+      "id": "vsn-mangala-9",
+      "verse_number": "9",
+      "startTime": 681,
+      "endTime": 712,
+      "original": "विन वेङ्कटēशं न न थō न न थ । सदा वेङ्कटēशं स्मरामि स्मरामि । हरē वेङ्कटēश प्रसीद प्रसीद । प्रियं वेङ्कटēश प्रयचछ प्रयचछ ॥ 9 ॥",
+      "transliteration": "vinā vēṅkaṭēśaṃ na nāthō na nāthaḥ . sadā vēṅkaṭēśaṃ smarāmi smarāmi . harē vēṅkaṭēśa prasīda prasīda . priyaṃ vēṅkaṭeśa prayachCha prayachCha ॥ 9 ॥",
+      "translation": "Except for Veṅkaṭeśa, there is no Lord, no Lord! I constantly remember, I remember Veṅkaṭeśa! O Hari Veṅkaṭeśa, be gracious, be gracious! O Veṅkaṭeśa, bestow what is desirable, bestow it!"
+    },
+    {
+      "id": "vsn-mangala-10",
+      "verse_number": "10",
+      "startTime": 713,
+      "endTime": 728,
+      "original": "अहं दूरदस्तē पदां भōजय गम । प्रणामेचछया गत सेवां करोमि । सकृत्सेवय नित्य सेवाफल तवं । प्रयचछ प्रयचछ प्रभो वेङ्कटēश ॥ 10 ॥",
+      "transliteration": "ahaṃ dūradastē padāṃ bhōjayugma . praṇāmēchChayā gatya sēvāṃ karōmi . sakṛtsēvayā nitya sēvāphalaṃ tvaṃ . prayachCha prayachCha prabhō vēṅkaṭēśa ॥ 10 ॥",
+      "translation": "Though I am far away, desiring to bow down to Your pair of lotus feet, I come and render service. O Lord Veṅkaṭeśa, please grant, please grant, the fruit of continuous service even for this one time service."
+    },
+    {
+      "id": "vsn-mangala-11",
+      "verse_number": "11",
+      "startTime": 729,
+      "endTime": null,
+      "original": "अज्ञानिना मया दōषा न शēशान्वि हिता न्हरē । क्षमस्व तवं क्षमस्व तवं शēषशैल शिखा मणē ॥ 11 ॥",
+      "transliteration": "ajñāninā mayā dōṣā na śēṣānvihitān harē . kṣamasva tvaṃ kṣamasva tvaṃ śēṣaśaila śikhāmaṇē ॥ 11 ॥",
+      "translation": "O Hari! O Jewel on the crest of Śeṣa Hill! Please forgive, please forgive the limitless faults committed by me due to my ignorance."
+    }
+  ]
 }
