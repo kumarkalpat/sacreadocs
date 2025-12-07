@@ -1239,206 +1239,260 @@
       "id": "vsn-stotram-108",
       "verse_number": "108",
       "startTime": 1373,
-      "endTime": null,
+      "endTime": 1403,
       "original": "वनमाली गदी शार्ङ्गी शङ्खी चक्री च नन्दकी । श्रीमान् नारायणो विष्णुर्वासुदेवोऽभिरक्षतु ॥ १०८॥",
       "transliteration": "vanamālī gadī śārṅgī śaṅkhī cakrī ca nandakī . śrīmān nārāyaṇo viṣṇurvāsudevo’bhirakṣatu .. 108..",
       "translation": "Bearer of the forest garland, Possessing the mace, Possessing the bow Śārṅga, Possessing the conch, Possessing the discus, and Possessing the sword Nandaki. May the Glorious Nārāyaṇa, Viṣṇu, the son of Vasudeva, protect us."
     },
-  {
-    "id": "vsn-uttara-1",
-    "verse_number": "1",
-    "original": "इतीदं कीर्तनीयस्य केशवस्य महात्मनः । नाम्नां सहस्रं दिव्यानामशेषेण प्रकीर्तितम् ॥ १॥",
-    "transliteration": "itīdaṃ kīrtanīyasya keśavasya mahātmanaḥ . nāmnāṃ sahasraṃ divyānāmaśeṣeṇa prakīrtitam .. 1..",
-    "translation": "Thus, this thousand of divine names of the glorious Keśava, who is worthy of praise, has been entirely recited (by Bhīṣma to Yudhiṣṭhira, as he begins the Uttara Nyāsa)."
-  },
-  {
-    "id": "vsn-uttara-2",
-    "verse_number": "2",
-    "original": "य इदं श‍ृणुयान्नित्यं यश्चापि परिकीर्तयेत् । नाशुभं प्राप्नुयात्किञ्चित्सोऽमुत्रेह च मानवः ॥ २॥",
-    "transliteration": "ya idaṃ śṛṇuyānnityaṃ yaścāpi parikīrtayet . nāśubhaṃ prāpnuyātkiñcitso’mutreha ca mānavaḥ .. 2..",
-    "translation": "That person who daily listens to this (Stotra), or who recites it, shall meet with nothing inauspicious, either here (in this life) or hereafter."
-  },
-  {
-    "id": "vsn-uttara-3",
-    "verse_number": "3",
-    "original": "वेदान्तगो ब्राह्मणः स्यात्क्षत्रियो विजयी भवेत् । वैश्यो धनसमृद्धः स्याच्छूद्रः सुखमवाप्नुयात् ॥ ३॥",
-    "transliteration": "vedāntago brāhmaṇaḥ syātkṣatriyo vijayī bhavet . vaiśyo dhanasamṛddhaḥ syācchūdraḥ sukhamavāpnuyāt .. 3..",
-    "translation": "A Brāhmaṇa will attain mastery of the Vedānta, a Kṣatriya will become victorious, a Vaiśya will be rich and prosperous, and a Śūdra will attain happiness."
-  },
-  {
-    "id": "vsn-uttara-4",
-    "verse_number": "4",
-    "original": "धर्मार्थी प्राप्नुयाद्धर्ममर्थार्थी चार्थमाप्नुयात् । कामानवाप्नुयात्कामी प्रजार्थी प्राप्नुयात्प्रजाम् ॥ ४॥",
-    "transliteration": "dharmārthī prāpnuyāddharmamarthārthī cārthamāpnuyāt . kāmānavāpnuyātkāmī prajārthī prāpnuyātprajām .. 4..",
-    "translation": "He who seeks Dharma will attain Dharma; he who seeks wealth will attain wealth; he who desires enjoyment will attain his desires; and he who seeks progeny will obtain offspring."
-  },
-  {
-    "id": "vsn-uttara-5",
-    "verse_number": "5",
-    "original": "भक्तिमान् यः सदोत्थाय शुचिस्तद्गतमानसः । सहस्रं वासुदेवस्य नाम्नामेतत्प्रकीर्तयेत् ॥ ५॥",
-    "transliteration": "bhaktimān yaḥ sadotthāya śucistadgatamānasaḥ . sahasraṃ vāsudevasya nāmnāmetatprakīrtayet .. 5..",
-    "translation": "The devotee who, rising every day, being pure and having his mind fixed on Him, recites this thousand names of Vāsudeva—"
-  },
-  {
-    "id": "vsn-uttara-6",
-    "verse_number": "6",
-    "original": "यशः प्राप्नोति विपुलं ज्ञातिप्राधान्यमेव च । अचलां श्रियमाप्नोति श्रेयः प्राप्नोत्यनुत्तमम् ॥ ६॥",
-    "transliteration": "yaśaḥ prāpnoti vipulaṃ jñātiprādhānyameva ca . acalāṃ śriyamāpnoti śreyaḥ prāpnotyanuttamam .. 6..",
-    "translation": "He obtains great fame and superiority among his relatives, attains unshakable prosperity, and achieves the highest good."
-  },
-  {
-    "id": "vsn-uttara-7",
-    "verse_number": "7",
-    "original": "न भयं क्वचिदाप्नोति वीर्यं तेजश्च विन्दति । भवत्यरोगो द्युतिमान्बलरूपगुणान्वितः ॥ ७॥",
-    "transliteration": "na bhayaṃ kvacidāpnoti vīryaṃ tejaśca vindati . bhavatyarogo dyutimānbalarūpaguṇānvitaḥ .. 7..",
-    "translation": "He will nowhere experience fear, and he will acquire valor and brilliance. He will become free from disease, radiant, and endowed with strength, beauty, and good qualities."
-  },
-  {
-    "id": "vsn-uttara-8",
-    "verse_number": "8",
-    "original": "रोगार्तो मुच्यते रोगाद्बद्धो मुच्येत बन्धनात् । भयान्मुच्येत भीतस्तु मुच्येतापन्न आपदः ॥ ८॥",
-    "transliteration": "rogārto mucyate rogādbaddho mucyeta bandhanāt . bhayānmucyeta bhītastu mucyetāpanna āpadaḥ .. 8..",
-    "translation": "A person afflicted by disease is freed from illness; one who is bound is freed from bondage; one who is afraid is freed from fear; and one who is in distress is freed from calamity."
-  },
-  {
-    "id": "vsn-uttara-9",
-    "verse_number": "9",
-    "original": "दुर्गाण्यतितरत्याशु पुरुषः पुरुषोत्तमम् । स्तुवन्नामसहस्रेण नित्यं भक्तिसमन्वितः ॥ ९॥",
-    "transliteration": "durgāṇyatitaratyāśu puruṣaḥ puruṣottamam . stuvannāmasahasreṇa nityaṃ bhaktisamanvitaḥ .. 9..",
-    "translation": "A person devotedly praising the Supreme Person (Puruṣottama) daily with this thousand names quickly overcomes difficulties."
-  },
-  {
-    "id": "vsn-uttara-10",
-    "verse_number": "10",
-    "original": "वासुदेवाश्रयो मर्त्यो वासुदेवपरायणः । सर्वपापविशुद्धात्मा याति ब्रह्म सनातनम् ॥ १०॥",
-    "transliteration": "vāsudevāśrayo martyo vāsudevaparāyaṇaḥ . sarvapāpaviśuddhātmā yāti brahma sanātanam .. 10..",
-    "translation": "The mortal who takes refuge in Vāsudeva and considers Vāsudeva as the supreme goal, having purified his soul from all sins, attains the eternal Brahman."
-  },
-  {
-    "id": "vsn-uttara-11",
-    "verse_number": "11",
-    "original": "न वासुदेवभक्तानामशुभं विद्यते क्वचित् । जन्ममृत्युजराव्याधिभयं नैवोपजायते ॥ ११॥",
-    "transliteration": "na vāsudevabhaktānāmaśubhaṃ vidyate kvacit . janmamṛtyujarāvyādhibhayaṃ naivopajāyate .. 11..",
-    "translation": "For the devotees of Vāsudeva, there is nowhere any inauspiciousness. The fear of birth, death, old age, and sickness does not arise at all."
-  },
-  {
-    "id": "vsn-uttara-12",
-    "verse_number": "12",
-    "original": "इमं स्तवमधीयानः श्रद्धाभक्तिसमन्वितः । युज्येतात्मसुखक्षान्तिश्रीधृतिस्मृतिकीर्तिभिः ॥ १२॥",
-    "transliteration": "imaṃ stavamadhīyānaḥ śraddhābhaktisamanvitaḥ . yujyetātmasukhakṣāntiśrīdhṛtismṛtikīrtibhiḥ .. 12..",
-    "translation": "One who studies this hymn, endowed with faith and devotion, will be united with self-happiness, forgiveness, prosperity, fortitude, memory, and fame."
-  },
-  {
-    "id": "vsn-uttara-13",
-    "verse_number": "13",
-    "original": "न क्रोधो न च मात्सर्यं न लोभो नाशुभा मतिः । भवन्ति कृत पुण्यानां भक्तानां पुरुषोत्तमे ॥ १३॥",
-    "transliteration": "na krodho na ca mātsaryaṃ na lobho nāśubhā matiḥ . bhavanti kṛta puṇyānāṃ bhaktānāṃ puruṣottame .. 13..",
-    "translation": "Neither anger, nor jealousy, nor greed, nor wicked thoughts arise in the minds of those meritorious devotees of Puruṣottama."
-  },
-  {
-    "id": "vsn-uttara-14",
-    "verse_number": "14",
-    "original": "द्यौः सचन्द्रार्कनक्षत्रा खं दिशो भूर्महोदधिः । वासुदेवस्य वीर्येण विधृतानि महात्मनः ॥ १४॥",
-    "transliteration": "dyauḥ sacandrārkanakṣatrā khaṃ diśo bhūrmahodadhiḥ . vāsudevasya vīryeṇa vidhṛtāni mahātmanaḥ .. 14..",
-    "translation": "The sky with the moon, sun, and stars, the firmament, the directions, the earth, and the great ocean—all these are sustained by the power of the great-souled Vāsudeva."
-  },
-  {
-    "id": "vsn-uttara-15",
-    "verse_number": "15",
-    "original": "ससुरासुरगन्धर्वं सयक्षोरगराक्षसम् । जगद्वशे वर्ततेदं कृष्णस्य सचराचरम् ॥ १५॥",
-    "transliteration": "sasurāsuragandharvaṃ sayakṣoragarākṣasam . jagadvaśe vartatedaṃ kṛṣṇasya sacarācaram .. 15..",
-    "translation": "This entire universe, including the gods, demons, Gandharvas, Yakṣas, Nāgas, and Rākṣasas—both moving and non-moving—is subject to Kṛṣṇa."
-  },
-  {
-    "id": "vsn-uttara-16",
-    "verse_number": "16",
-    "original": "इन्द्रियाणि मनो बुद्धिः सत्त्वं तेजो बलं धृतिः । वासुदेवात्मकान्याहुः क्षेत्रं क्षेत्रज्ञ एव च ॥ १६॥",
-    "transliteration": "indriyāṇi mano buddhiḥ sattvaṃ tejo balaṃ dhṛtiḥ . vāsudevātmakānyāhuḥ kṣetraṃ kṣetrajña eva ca .. 16..",
-    "translation": "The senses, mind, intellect, Sattva (goodness), splendor, strength, and fortitude—all these, including the field (body) and the knower of the field (soul), are said to be permeated by Vāsudeva."
-  },
-  {
-    "id": "vsn-uttara-17",
-    "verse_number": "17",
-    "original": "सर्वागमानामाचारः प्रथमं परिकल्प्यते । आचारप्रभवो धर्मो धर्मस्य प्रभुरच्युतः ॥ १७॥",
-    "transliteration": "sarvāgamānāmācāraḥ prathamaṃ parikalpyate . ācāraprabhavo dharmo dharmasya prabhuracyutaḥ .. 17..",
-    "translation": "Right conduct (Ācāra) is considered foremost among all scriptures. Dharma arises from right conduct, and Acyuta (Vishnu) is the Lord of Dharma."
-  },
-  {
-    "id": "vsn-uttara-18",
-    "verse_number": "18",
-    "original": "ऋषयः पितरो देवा महाभूतानि धातवः । जङ्गमाजङ्गमं चेदं जगन्नारायणोद्भवम् ॥ १८॥",
-    "transliteration": "ṛṣayaḥ pitaro devā mahābhūtāni dhātavaḥ . jaṅgamājaṅgamaṃ cedaṃ jagannārāyaṇodbhavam .. 18..",
-    "translation": "The Sages, ancestors (Pitṛs), gods (Devas), the great elements, the essential substances (Dhātus), and this entire universe, both moving and non-moving, originate from Nārāyaṇa."
-  },
-  {
-    "id": "vsn-uttara-19",
-    "verse_number": "19",
-    "original": "योगो ज्ञानं तथा साङ्ख्यं विद्याः शिल्पादि कर्म च । वेदाः शास्त्राणि विज्ञानमेतत्सर्वं जनार्दनात् ॥ १९॥",
-    "transliteration": "yogo jñānaṃ tathā sāṅkhyaṃ vidyāḥ śilpādi karma ca . vedāḥ śāstrāṇi vijñānametatsarvaṃ janārdanāt .. 19..",
-    "translation": "Yoga, knowledge, as well as Sāṅkhya, the various branches of learning, crafts and arts, the Vedas, the scriptures (Śāstras), and spiritual wisdom—all this proceeds from Janārdana."
-  },
-  {
-    "id": "vsn-uttara-20",
-    "verse_number": "20",
-    "original": "एको विष्णुर्महद्भूतं पृथग्भूतान्यनेकशः । त्रींल्लोकान्व्याप्य भूतात्मा भुङ्क्ते विश्वभुगव्ययः ॥ २०॥",
-    "transliteration": "eko viṣṇurmahadbhūtaṃ pṛthagbhūtānyanekaśaḥ . trīṃllokānvyāpya bhūtātmā bhuṅkte viśvabhugavyayaḥ .. 20..",
-    "translation": "The one Viṣṇu is the great being, existing in numerous, separate forms. Pervading the three worlds, the Soul of all beings enjoys (or protects) as the imperishable universal enjoyer."
-  },
-  {
-    "id": "vsn-uttara-21",
-    "verse_number": "21",
-    "original": "इमं स्तवं भगवतो विष्णोर्व्यासेन कीर्तितम् । पठेद्य इच्छेत्पुरुषः श्रेयः प्राप्तुं सुखानि च ॥ २१॥",
-    "transliteration": "imaṃ stavaṃ bhagavato viṣṇorvyāsena kīrtitam . paṭhedya icchetpuruṣaḥ śreyaḥ prāptuṃ sukhāni ca .. 21..",
-    "translation": "This hymn of the Glorious Viṣṇu, recited by Vyāsa, should be read by the person who desires to attain supreme good and happiness."
-  },
-  {
-    "id": "vsn-uttara-22",
-    "verse_number": "22",
-    "original": "विश्वेश्वरमजं देवं जगतः प्रभुमव्ययम् । भजन्ति ये पुष्कराक्षं न ते यान्ति पराभवम् ॥ २२॥",
-    "transliteration": "viśveśvaramajaṃ devaṃ jagataḥ prabhumavyayam . bhajanti ye puṣkarākṣaṃ na te yānti parābhavam .. 22..",
-    "translation": "Those who worship the Lord of the Universe, the Unborn God, the imperishable Master of the world—the Lotus-Eyed one—they do not meet with defeat."
-  },
-  {
+    {
+      "id": "vsn-uttara-1",
+      "verse_number": "1",
+      "startTime": 1404,
+      "endTime": 1412,
+      "original": "इतीदं कीर्तनीयस्य केशवस्य महात्मनः । नाम्नां सहस्रं दिव्यानामशेषेण प्रकीर्तितम् ॥ १॥",
+      "transliteration": "itīdaṃ kīrtanīyasya keśavasya mahātmanaḥ . nāmnāṃ sahasraṃ divyānāmaśeṣeṇa prakīrtitam .. 1..",
+      "translation": "Thus, this thousand of divine names of the glorious Keśava, who is worthy of praise, has been entirely recited (by Bhīṣma to Yudhiṣṭhira, as he begins the Uttara Nyāsa)."
+    },
+    {
+      "id": "vsn-uttara-2",
+      "verse_number": "2",
+      "startTime": 1413,
+      "endTime": 1422,
+      "original": "य इदं श‍ृणुयान्नित्यं यश्चापि परिकीर्तयेत् । नाशुभं प्राप्नुयात्किञ्चित्सोऽमुत्रेह च मानवः ॥ २॥",
+      "transliteration": "ya idaṃ śṛṇuyānnityaṃ yaścāpi parikīrtayet . nāśubhaṃ prāpnuyātkiñcitso’mutreha ca mānavaḥ .. 2..",
+      "translation": "That person who daily listens to this (Stotra), or who recites it, shall meet with nothing inauspicious, either here (in this life) or hereafter."
+    },
+    {
+      "id": "vsn-uttara-3",
+      "verse_number": "3",
+      "startTime": 1423,
+      "endTime": 1432,
+      "original": "वेदान्तगो ब्राह्मणः स्यात्क्षत्रियो विजयी भवेत् । वैश्यो धनसमृद्धः स्याच्छूद्रः सुखमवाप्नुयात् ॥ ३॥",
+      "transliteration": "vedāntago brāhmaṇaḥ syātkṣatriyo vijayī bhavet . vaiśyo dhanasamṛddhaḥ syācchūdraḥ sukhamavāpnuyāt .. 3..",
+      "translation": "A Brāhmaṇa will attain mastery of the Vedānta, a Kṣatriya will become victorious, a Vaiśya will be rich and prosperous, and a Śūdra will attain happiness."
+    },
+    {
+      "id": "vsn-uttara-4",
+      "verse_number": "4",
+      "startTime": 1433,
+      "endTime": 1443,
+      "original": "धर्मार्थी प्राप्नुयाद्धर्ममर्थार्थी चार्थमाप्नुयात् । कामानवाप्नुयात्कामी प्रजार्थी प्राप्नुयात्प्रजाम् ॥ ४॥",
+      "transliteration": "dharmārthī prāpnuyāddharmamarthārthī cārthamāpnuyāt . kāmānavāpnuyātkāmī prajārthī prāpnuyātprajām .. 4..",
+      "translation": "He who seeks Dharma will attain Dharma; he who seeks wealth will attain wealth; he who desires enjoyment will attain his desires; and he who seeks progeny will obtain offspring."
+    },
+    {
+      "id": "vsn-uttara-5",
+      "verse_number": "5",
+      "startTime": 1444,
+      "endTime": 1452,
+      "original": "भक्तिमान् यः सदोत्थाय शुचिस्तद्गतमानसः । सहस्रं वासुदेवस्य नाम्नामेतत्प्रकीर्तयेत् ॥ ५॥",
+      "transliteration": "bhaktimān yaḥ sadotthāya śucistadgatamānasaḥ . sahasraṃ vāsudevasya nāmnāmetatprakīrtayet .. 5..",
+      "translation": "The devotee who, rising every day, being pure and having his mind fixed on Him, recites this thousand names of Vāsudeva—"
+    },
+    {
+      "id": "vsn-uttara-6",
+      "verse_number": "6",
+      "startTime": 1453,
+      "endTime": 1462,
+      "original": "यशः प्राप्नोति विपुलं ज्ञातिप्राधान्यमेव च । अचलां श्रियमाप्नोति श्रेयः प्राप्नोत्यनुत्तमम् ॥ ६॥",
+      "transliteration": "yaśaḥ prāpnoti vipulaṃ jñātiprādhānyameva ca . acalāṃ śriyamāpnoti śreyaḥ prāpnotyanuttamam .. 6..",
+      "translation": "He obtains great fame and superiority among his relatives, attains unshakable prosperity, and achieves the highest good."
+    },
+    {
+      "id": "vsn-uttara-7",
+      "verse_number": "7",
+      "startTime": 1463,
+      "endTime": 1471,
+      "original": "न भयं क्वचिदाप्नोति वीर्यं तेजश्च विन्दति । भवत्यरोगो द्युतिमान्बलरूपगुणान्वितः ॥ ७॥",
+      "transliteration": "na bhayaṃ kvacidāpnoti vīryaṃ tejaśca vindati . bhavatyarogo dyutimānbalarūpaguṇānvitaḥ .. 7..",
+      "translation": "He will nowhere experience fear, and he will acquire valor and brilliance. He will become free from disease, radiant, and endowed with strength, beauty, and good qualities."
+    },
+    {
+      "id": "vsn-uttara-8",
+      "verse_number": "8",
+      "startTime": 1472,
+      "endTime": 1480,
+      "original": "रोगार्तो मुच्यते रोगाद्बद्धो मुच्येत बन्धनात् । भयान्मुच्येत भीतस्तु मुच्येतापन्न आपदः ॥ ८॥",
+      "transliteration": "rogārto mucyate rogādbaddho mucyeta bandhanāt . bhayānmucyeta bhītastu mucyetāpanna āpadaḥ .. 8..",
+      "translation": "A person afflicted by disease is freed from illness; one who is bound is freed from bondage; one who is afraid is freed from fear; and one who is in distress is freed from calamity."
+    },
+    {
+      "id": "vsn-uttara-9",
+      "verse_number": "9",
+      "startTime": 1481,
+      "endTime": 1489,
+      "original": "दुर्गाण्यतितरत्याशु पुरुषः पुरुषोत्तमम् । स्तुवन्नामसहस्रेण नित्यं भक्तिसमन्वितः ॥ ९॥",
+      "transliteration": "durgāṇyatitaratyāśu puruṣaḥ puruṣottamam . stuvannāmasahasreṇa nityaṃ bhaktisamanvitaḥ .. 9..",
+      "translation": "A person devotedly praising the Supreme Person (Puruṣottama) daily with this thousand names quickly overcomes difficulties."
+    },
+    {
+      "id": "vsn-uttara-10",
+      "verse_number": "10",
+      "startTime": 1490,
+      "endTime": 1498,
+      "original": "वासुदेवाश्रयो मर्त्यो वासुदेवपरायणः । सर्वपापविशुद्धात्मा याति ब्रह्म सनातनम् ॥ १०॥",
+      "transliteration": "vāsudevāśrayo martyo vāsudevaparāyaṇaḥ . sarvapāpaviśuddhātmā yāti brahma sanātanam .. 10..",
+      "translation": "The mortal who takes refuge in Vāsudeva and considers Vāsudeva as the supreme goal, having purified his soul from all sins, attains the eternal Brahman."
+    },
+    {
+      "id": "vsn-uttara-11",
+      "verse_number": "11",
+      "startTime": 1499,
+      "endTime": 1507,
+      "original": "न वासुदेवभक्तानामशुभं विद्यते क्वचित् । जन्ममृत्युजराव्याधिभयं नैवोपजायते ॥ ११॥",
+      "transliteration": "na vāsudevabhaktānāmaśubhaṃ vidyate kvacit . janmamṛtyujarāvyādhibhayaṃ naivopajāyate .. 11..",
+      "translation": "For the devotees of Vāsudeva, there is nowhere any inauspiciousness. The fear of birth, death, old age, and sickness does not arise at all."
+    },
+    {
+      "id": "vsn-uttara-12",
+      "verse_number": "12",
+      "startTime": 1508,
+      "endTime": 1516,
+      "original": "इमं स्तवमधीयानः श्रद्धाभक्तिसमन्वितः । युज्येतात्मसुखक्षान्तिश्रीधृतिस्मृतिकीर्तिभिः ॥ १२॥",
+      "transliteration": "imaṃ stavamadhīyānaḥ śraddhābhaktisamanvitaḥ . yujyetātmasukhakṣāntiśrīdhṛtismṛtikīrtibhiḥ .. 12..",
+      "translation": "One who studies this hymn, endowed with faith and devotion, will be united with self-happiness, forgiveness, prosperity, fortitude, memory, and fame."
+    },
+    {
+      "id": "vsn-uttara-13",
+      "verse_number": "13",
+      "startTime": 1517,
+      "endTime": 1525,
+      "original": "न क्रोधो न च मात्सर्यं न लोभो नाशुभा मतिः । भवन्ति कृत पुण्यानां भक्तानां पुरुषोत्तमे ॥ १३॥",
+      "transliteration": "na krodho na ca mātsaryaṃ na lobho nāśubhā matiḥ . bhavanti kṛta puṇyānāṃ bhaktānāṃ puruṣottame .. 13..",
+      "translation": "Neither anger, nor jealousy, nor greed, nor wicked thoughts arise in the minds of those meritorious devotees of Puruṣottama."
+    },
+    {
+      "id": "vsn-uttara-14",
+      "verse_number": "14",
+      "startTime": 1526,
+      "endTime": 1534,
+      "original": "द्यौः सचन्द्रार्कनक्षत्रा खं दिशो भूर्महोदधिः । वासुदेवस्य वीर्येण विधृतानि महात्मनः ॥ १४॥",
+      "transliteration": "dyauḥ sacandrārkanakṣatrā khaṃ diśo bhūrmahodadhiḥ . vāsudevasya vīryeṇa vidhṛtāni mahātmanaḥ .. 14..",
+      "translation": "The sky with the moon, sun, and stars, the firmament, the directions, the earth, and the great ocean—all these are sustained by the power of the great-souled Vāsudeva."
+    },
+    {
+      "id": "vsn-uttara-15",
+      "verse_number": "15",
+      "startTime": 1535,
+      "endTime": 1543,
+      "original": "ससुरासुरगन्धर्वं सयक्षोरगराक्षसम् । जगद्वशे वर्ततेदं कृष्णस्य सचराचरम् ॥ १५॥",
+      "transliteration": "sasurāsuragandharvaṃ sayakṣoragarākṣasam . jagadvaśe vartatedaṃ kṛṣṇasya sacarācaram .. 15..",
+      "translation": "This entire universe, including the gods, demons, Gandharvas, Yakṣas, Nāgas, and Rākṣasas—both moving and non-moving—is subject to Kṛṣṇa."
+    },
+    {
+      "id": "vsn-uttara-16",
+      "verse_number": "16",
+      "startTime": 1544,
+      "endTime": 1553,
+      "original": "इन्द्रियाणि मनो बुद्धिः सत्त्वं तेजो बलं धृतिः । वासुदेवात्मकान्याहुः क्षेत्रं क्षेत्रज्ञ एव च ॥ १६॥",
+      "transliteration": "indriyāṇi mano buddhiḥ sattvaṃ tejo balaṃ dhṛtiḥ . vāsudevātmakānyāhuḥ kṣetraṃ kṣetrajña eva ca .. 16..",
+      "translation": "The senses, mind, intellect, Sattva (goodness), splendor, strength, and fortitude—all these, including the field (body) and the knower of the field (soul), are said to be permeated by Vāsudeva."
+    },
+    {
+      "id": "vsn-uttara-17",
+      "verse_number": "17",
+      "startTime": 1554,
+      "endTime": 1562,
+      "original": "सर्वागमानामाचारः प्रथमं परिकल्प्यते । आचारप्रभवो धर्मो धर्मस्य प्रभुरच्युतः ॥ १७॥",
+      "transliteration": "sarvāgamānāmācāraḥ prathamaṃ parikalpyate . ācāraprabhavo dharmo dharmasya prabhuracyutaḥ .. 17..",
+      "translation": "Right conduct (Ācāra) is considered foremost among all scriptures. Dharma arises from right conduct, and Acyuta (Vishnu) is the Lord of Dharma."
+    },
+    {
+      "id": "vsn-uttara-18",
+      "verse_number": "18",
+      "startTime": 1563,
+      "endTime": 1571,
+      "original": "ऋषयः पितरो देवा महाभूतानि धातवः । जङ्गमाजङ्गमं चेदं जगन्नारायणोद्भवम् ॥ १८॥",
+      "transliteration": "ṛṣayaḥ pitaro devā mahābhūtāni dhātavaḥ . jaṅgamājaṅgamaṃ cedaṃ jagannārāyaṇodbhavam .. 18..",
+      "translation": "The Sages, ancestors (Pitṛs), gods (Devas), the great elements, the essential substances (Dhātus), and this entire universe, both moving and non-moving, originate from Nārāyaṇa."
+    },
+    {
+      "id": "vsn-uttara-19",
+      "verse_number": "19",
+      "startTime": 1572,
+      "endTime": 1582,
+      "original": "योगो ज्ञानं तथा साङ्ख्यं विद्याः शिल्पादि कर्म च । वेदाः शास्त्राणि विज्ञानमेतत्सर्वं जनार्दनात् ॥ १९॥",
+      "transliteration": "yogo jñānaṃ tathā sāṅkhyaṃ vidyāḥ śilpādi karma ca . vedāḥ śāstrāṇi vijñānametatsarvaṃ janārdanāt .. 19..",
+      "translation": "Yoga, knowledge, as well as Sāṅkhya, the various branches of learning, crafts and arts, the Vedas, the scriptures (Śāstras), and spiritual wisdom—all this proceeds from Janārdana."
+    },
+    {
+      "id": "vsn-uttara-20",
+      "verse_number": "20",
+      "startTime": 1583,
+      "endTime": 1593,
+      "original": "एको विष्णुर्महद्भूतं पृथग्भूतान्यनेकशः । त्रींल्लोकान्व्याप्य भूतात्मा भुङ्क्ते विश्वभुगव्ययः ॥ २०॥",
+      "transliteration": "eko viṣṇurmahadbhūtaṃ pṛthagbhūtānyanekaśaḥ . trīṃllokānvyāpya bhūtātmā bhuṅkte viśvabhugavyayaḥ .. 20..",
+      "translation": "The one Viṣṇu is the great being, existing in numerous, separate forms. Pervading the three worlds, the Soul of all beings enjoys (or protects) as the imperishable universal enjoyer."
+    },
+    {
+      "id": "vsn-uttara-21",
+      "verse_number": "21",
+      "startTime": 1594,
+      "endTime": 1602,
+      "original": "इमं स्तवं भगवतो विष्णोर्व्यासेन कीर्तितम् । पठेद्य इच्छेत्पुरुषः श्रेयः प्राप्तुं सुखानि च ॥ २१॥",
+      "transliteration": "imaṃ stavaṃ bhagavato viṣṇorvyāsena kīrtitam . paṭhedya icchetpuruṣaḥ śreyaḥ prāptuṃ sukhāni ca .. 21..",
+      "translation": "This hymn of the Glorious Viṣṇu, recited by Vyāsa, should be read by the person who desires to attain supreme good and happiness."
+    },
+    {
+      "id": "vsn-uttara-22",
+      "verse_number": "22",
+      "startTime": 1603,
+      "endTime": null,
+      "original": "विश्वेश्वरमजं देवं जगतः प्रभुमव्ययम् । भजन्ति ये पुष्कराक्षं न ते यान्ति पराभवम् ॥ २२॥",
+      "transliteration": "viśveśvaramajaṃ devaṃ jagataḥ prabhumavyayam . bhajanti ye puṣkarākṣaṃ na te yānti parābhavam .. 22..",
+      "translation": "Those who worship the Lord of the Universe, the Unborn God, the imperishable Master of the world—the Lotus-Eyed one—they do not meet with defeat."
+    },
+{
     "id": "vsn-uttara-23",
     "verse_number": "23",
-    "original": "पद्मपत्रविशालाक्ष पद्मनाभ सुरोत्तम । भक्तानामनुरक्तानां त्राता भव जनार्दन ॥ २३॥",
-    "transliteration": "padmapatraviśālākṣa padmanābha surottama . bhaktānāmanuraktānāṃ trātā bhava janārdana .. 23..",
+    "original": "न ते यान्ति पराभवम् ॐ नम इति । अर्जुन उवाच: पद्मपत्रविशालाक्ष पद्मनाभ सुरोत्तम । भक्तानामनुरक्तानां त्राता भव जनार्दन ॥ २३॥",
+    "transliteration": "na te yānti parābhavam oṃ nama iti. arjuna uvāca — padmapatraviśālākṣa padmanābha surottama . bhaktānāmanuraktānāṃ trātā bhava janārdana .. 23..",
     "translation": "Arjuna said: O Great-eyed like a lotus leaf, O Lotus-Navelled, O Best of the Devas, O Janārdana, be the protector of your devoted and loving devotees!"
   },
-  {
-    "id": "vsn-uttara-24",
-    "verse_number": "24",
-    "original": "यो मां नामसहस्रेण स्तोतुमिच्छति पाण्डव । सोहऽमेकेन श्लोकेन स्तुत एव न संशयः ॥ २४॥",
-    "transliteration": "yo māṃ nāmasahasreṇa stotumicchati pāṇḍava . soha’mekena ślokena stuta eva na saṃśayaḥ .. 24..",
-    "translation": "The Blessed Lord said: O Pāṇḍava, whoever desires to praise me with the thousand names is considered to have praised me with just one verse (or name), there is no doubt."
-  },
-  {
-    "id": "vsn-uttara-25",
-    "verse_number": "25",
-    "original": "वासनाद्वासुदेवस्य वासितं भुवनत्रयम् । सर्वभूतनिवासोऽसि वासुदेव नमोऽस्तु ते ॥ २५॥",
-    "transliteration": "vāsanādvāsudevasya vāsitaṃ bhuvanatrayam . sarvabhūtanivāso’si vāsudeva namo’stu te .. 25..",
-    "translation": "Vyāsa said: Since Vāsudeva permeates all things, the three worlds are filled with His fragrance (presence). You are the dwelling place of all beings, O Vāsudeva, salutations to you!"
-  },
-  {
-    "id": "vsn-uttara-26",
-    "verse_number": "26",
-    "original": "केनोपायेन लघुना विष्णोर्नामसहस्रकम् । पठ्यते पण्डितैर्नित्यं श्रोतुमिच्छाम्यहं प्रभो ॥ २६॥",
-    "transliteration": "kenopāyena laghunā viṣṇornāmasahasrakam . paṭhyate paṇḍitairnityaṃ śrotumicchāmyahaṃ prabho .. 26..",
-    "translation": "Pārvatī said: By what simple means is the thousand names of Viṣṇu recited daily by the learned? I desire to hear this, O Lord (Śiva)."
-  },
-  {
-    "id": "vsn-uttara-27",
-    "verse_number": "27",
-    "original": "श्रीराम राम रामेति रमे रामे मनोरमे । सहस्रनाम तत्तुल्यं राम नाम वरानने ॥ २७॥",
-    "transliteration": "śrīrāma rāma rāmeti rame rāme manorame . sahasranāma tattulyaṃ rāma nāma varānane .. 27..",
-    "translation": "Īśvara (Śiva) said: 'Śrī Rāma, Rāma, Rāma'—thus I delight in the charming Rāma. O woman of beautiful face, one repetition of the name Rāma is equal to the Thousand Names."
-  },
-  {
-    "id": "vsn-uttara-28",
-    "verse_number": "28",
-    "original": "नमोऽस्त्वनन्ताय सहस्रमूर्तये सहस्रपादाक्षिशिरोरुबाहवे । सहस्रनाम्ने पुरुषाय शाश्वते सहस्रकोटियुगधारिणे नमः ॥ २८॥",
-    "transliteration": "namo’stvanantāya sahasramūrtaye sahasrapādākṣiśirorubāhave . sahasranāmne puruṣāya śāśvate sahasrakoṭiyugadhāriṇe namaḥ .. 28..",
-    "translation": "Brahmā said: Salutations to the Endless (Ananta), whose form is a thousandfold, who has a thousand feet, eyes, heads, thighs, and arms. Salutations to the eternal Puruṣa with a thousand names, who holds the world for thousands of crores of Yugas."
-  }
+    {
+      "id": "vsn-uttara-24",
+      "verse_number": "24",
+      "startTime": null,
+      "endTime": null,
+      "original": "श्रीभगवानुवाच - यो मां नामसहस्रेण स्तोतुमिच्छति पाण्डव । सोहऽमेकेन श्लोकेन स्तुत एव न संशयः ॥ २४॥",
+      "transliteration": "śrībhagavānuvāca - yo māṃ nāmasahasreṇa stotumicchati pāṇḍava . soha’mekena ślokena stuta eva na saṃśayaḥ .. 24..",
+      "translation": "The Blessed Lord said: O Pāṇḍava, whoever desires to praise me with the thousand names is considered to have praised me with just one verse (or name), there is no doubt."
+    },
+    {
+      "id": "vsn-uttara-25",
+      "verse_number": "25",
+      "startTime": null,
+      "endTime": null,
+      "original": "स्तुत एव न संशय ॐ नम इति । व्यास उवाच - वासनाद्वासुदेवस्य वासितं भुवनत्रयम् । सर्वभूतनिवासोऽसि वासुदेव नमोऽस्तु ते ॥ २५॥",
+      "transliteration": "stuta eva na saṃśaya oṃ nama iti. vyāsa uvāca — vāsanādvāsudevasya vāsitaṃ bhuvanatrayam . sarvabhūtanivāso’si vāsudeva namo’stu te .. 25..",
+      "translation": "Vyāsa said: Since Vāsudeva permeates all things, the three worlds are filled with His fragrance (presence). You are the dwelling place of all beings, O Vāsudeva, salutations to you!"
+    },
+    {
+      "id": "vsn-uttara-26",
+      "verse_number": "26",
+      "startTime": null,
+      "endTime": null,
+      "original": "श्री वासुदेव नमोऽस्तुत ॐ नम इति । पार्वत्युवाच — केनोपायेन लघुना विष्णोर्नामसहस्रकम् । पठ्यते पण्डितैर्नित्यं श्रोतुमिच्छाम्यहं प्रभो ॥ २६॥",
+      "transliteration": "śrī vāsudeva namo’stuta oṃ nama iti. pārvatyuvāca — kenopāyena laghunā viṣṇornāmasahasrakam . paṭhyate paṇḍitairnityaṃ śrotumicchāmyahaṃ prabho .. 26..",
+      "translation": "Pārvatī said: By what simple means is the thousand names of Viṣṇu recited daily by the learned? I desire to hear this, O Lord (Śiva)."
+    },
+    {
+      "id": "vsn-uttara-27",
+      "verse_number": "27",
+      "startTime": null,
+      "endTime": null,
+      "original": "ईश्वर उवाच — श्रीराम राम रामेति रमे रामे मनोरमे । सहस्रनाम तत्तुल्यं राम नाम वरानने ॥ २७॥",
+      "transliteration": "īśvara uvāca — śrīrāma rāma rāmeti rame rāme manorame . sahasranāma tattulyaṃ rāma nāma varānane .. 27..",
+      "translation": "Īśvara (Śiva) said: 'Śrī Rāma, Rāma, Rāma'—thus I delight in the charming Rāma. O woman of beautiful face, one repetition of the name Rāma is equal to the Thousand Names."
+    },
+    {
+      "id": "vsn-uttara-28",
+      "verse_number": "28",
+      "startTime": null,
+      "endTime": null,
+      "original": "श्रीरामनाम वरानन ॐ नम इति ।  ब्रह्मोवाच — नमोऽस्त्वनन्ताय सहस्रमूर्तये सहस्रपादाक्षिशिरोरुबाहवे । सहस्रनाम्ने पुरुषाय शाश्वते सहस्रकोटियुगधारिणे नमः ॥ २८॥",
+      "transliteration": "śrīrāmanāma varānana oṃ nama iti. brahmovāca — namo’stvanantāya sahasramūrtaye sahasrapādākṣiśirorubāhave . sahasranāmne puruṣāya śāśvate sahasrakoṭiyugadhāriṇe namaḥ .. 28..",
+      "translation": "Brahmā said: Salutations to the Endless (Ananta), whose form is a thousandfold, who has a thousand feet, eyes, heads, thighs, and arms. Salutations to the eternal Puruṣa with a thousand names, who holds the world for thousands of crores of Yugas."
+    }
   ]
 }
