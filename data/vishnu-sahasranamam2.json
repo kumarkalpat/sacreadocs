@@ -267,766 +267,1178 @@
       "id": "vsn-dhyanam-7",
       "verse_number": "D7",
       "startTime": 380,
-      "endTime": null,
+      "endTime": 399,
       "original": "छायायां पारिजातस्य हेमसिंहासनोपरि आसीनमम्बुदश्याममायताक्षमलंकृतम् । चन्द्राननं चतुर्बाहुं श्रीवत्साङ्कित वक्षसं रुक्मिणी सत्यभामाभ्यां सहितं कृष्णमाश्रये ॥ ७॥",
       "transliteration": "chāyāyāṃ pārijātasya hemasiṃhāsanopari āsīnamambudaśyāmamāyatākṣamalaṃkṛtam . candrānanaṃ caturbāhuṃ śrīvatsāṅkita vakṣasaṃ rukmiṇī satyabhāmābhyāṃ sahitaṃ kṛṣṇamāśraye .. 7..",
       "translation": "I take refuge in Kṛṣṇa, who sits on a golden throne under the shade of the Pārijāta tree, who is dark like a cloud, has large eyes, is adorned, whose face is like the moon, who has four arms, whose chest is marked with Śrīvatsa, and who is accompanied by Rukmiṇī and Satyabhāmā."
     },
     {
-    "id": "vsn-stotram-1",
+      "id": "vsn-stotram-1",
+      "verse_number": "1",
+      "startTime": 400,
+      "endTime": 415,
+      "original": "विश्वं विष्णुर्वषट्कारो भूतभव्यभवत्प्रभुः । भूतकृद्भूतभृद्भावो भूतात्मा भूतभावनः ॥ १॥",
+      "transliteration": "viśvaṃ viṣṇurvaṣaṭkāro bhūtabhavyabhavatprabhuḥ . bhūtakṛdbhūtabhṛdbhāvo bhūtātmā bhūtabhāvanaḥ .. 1..",
+      "translation": "The Universe, the Pervader, the Sacrificial Agent, the Lord of past, present, and future, Creator of beings, Sustainer of beings, Pure Existence, Soul of all beings, and the one who gives form to beings."
+    },
+    {
+      "id": "vsn-stotram-2",
+      "verse_number": "2",
+      "startTime": 416,
+      "endTime": 424,
+      "original": "पूतात्मा परमात्मा च मुक्तानां परमा गतिः । अव्ययः पुरुषः साक्षी क्षेत्रज्ञोऽक्षर एव च ॥ २॥",
+      "transliteration": "pūtātmā paramātmā ca muktānāṃ paramā gatiḥ . avyayaḥ puruṣaḥ sākṣī kṣetrajño’kṣara eva ca .. 2..",
+      "translation": "Pure Soul, Supreme Soul, the ultimate goal of the liberated, Imperishable, Person/Spirit, Witness, Knower of the Field (body), and also the Indestructible."
+    },
+    {
+      "id": "vsn-stotram-3",
+      "verse_number": "3",
+      "startTime": 425,
+      "endTime": 433,
+      "original": "योगो योगविदां नेता प्रधानपुरुषेश्वरः । नारसिंहवपुः श्रीमान् केशवः पुरुषोत्तमः ॥ ३॥",
+      "transliteration": "yogo yogavidāṃ netā pradhānapuruṣeśvaraḥ . nārasiṃhavapuḥ śrīmān keśavaḥ puruṣottamaḥ .. 3..",
+      "translation": "Yoga (the means and the end), Leader of those who know Yoga, Lord of Primordial Matter (Prakriti) and Spirit (Purusha), Having the form of Narasimha, Glorious, Having beautiful hair (or He who controls Brahma and Shiva), and the Supreme Person."
+    },
+    {
+      "id": "vsn-stotram-4",
+      "verse_number": "4",
+      "startTime": 434,
+      "endTime": 443,
+      "original": "सर्वः शर्वः शिवः स्थाणुर्भूतादिर्निधिरव्ययः । सम्भवो भावनो भर्ता प्रभवः प्रभुरीश्वरः ॥ ४॥",
+      "transliteration": "sarvaḥ śarvaḥ śivaḥ sthāṇurbhūtādirnidhiravyayaḥ . sambhavo bhāvano bhartā prabhavaḥ prabhurīśvaraḥ .. 4..",
+      "translation": "All-encompassing, Destroyer (like Shiva), Auspicious, Fixed (Unchanging), Origin of the elements, Imperishable Treasure, Originator, Promoter/Creator, Sustainer/Supporter, Place of origin, Mighty Lord, and the Ruler."
+    },
+    {
+      "id": "vsn-stotram-5",
+      "verse_number": "5",
+      "startTime": 444,
+      "endTime": 451,
+      "original": "स्वयम्भूः शम्भुरादित्यः पुष्कराक्षो महास्वनः । अनादिनिधनो धाता विधाता धातुरुत्तमः ॥ ५॥",
+      "transliteration": "svayambhūḥ śambhurādityaḥ puṣkarākṣo mahāsvanaḥ . anādinidhano dhātā vidhātā dhāturuttamaḥ .. 5..",
+      "translation": "Self-Born, Bestower of Happiness, Sun (or Son of Aditi/Mother of the gods), Lotus-Eyed, Having a Great Sound, Having no beginning or end, Creator/Sustainer, Ordainer (Distributor of fruits), and the Best of Creators."
+    },
+    {
+      "id": "vsn-stotram-6",
+      "verse_number": "6",
+      "startTime": 452,
+      "endTime": 461,
+      "original": "अप्रमेयो हृषीकेशः पद्मनाभोऽमरप्रभुः । विश्वकर्मा मनुस्त्वष्टा स्थविष्ठः स्थविरो ध्रुवः ॥ ६॥",
+      "transliteration": "aprameyo hṛṣīkeśaḥ padmanābho’maraprabhuḥ . viśvakarmā manustvaṣṭā sthaviṣṭhaḥ sthaviro dhruvaḥ .. 6..",
+      "translation": "Immeasurable, Lord of the senses, Lotus-Navelled, Lord of the Immortals (Devas), Creator of the Universe, Man (Thinker), Carpenter of the gods, Hugest (Most Pervasive), Ancient, and Permanent/Fixed."
+    },
+    {
+      "id": "vsn-stotram-7",
+      "verse_number": "7",
+      "startTime": 462,
+      "endTime": 469,
+      "original": "अग्राह्यः शाश्वतः कृष्णो लोहिताक्षः प्रतर्दनः । प्रभूतस्त्रिककुब्धाम पवित्रं मङ्गलं परम् ॥ ७॥",
+      "transliteration": "agrāhyaḥ śāśvataḥ kṛṣṇo lohitākṣaḥ pratardanaḥ . prabhūtastrikakubdhāma pavitraṃ maṅgalaṃ param .. 7..",
+      "translation": "Unreachable (by senses), Eternal, Dark-Colored (Attractive), Red-Eyed, Destroyer (of foes), Abundant, Dwelling in the three directions (regions), Pure, and the Supreme Auspiciousness."
+    },
+    {
+      "id": "vsn-stotram-8",
+      "verse_number": "8",
+      "startTime": 470,
+      "endTime": 479,
+      "original": "ईशानः प्राणदः प्राणो ज्येष्ठः श्रेष्ठः प्रजापतिः । हिरण्यगर्भो भूगर्भो माधवो मधुसूदनः ॥ ८॥",
+      "transliteration": "īśānaḥ prāṇadaḥ prāṇo jyeṣṭhaḥ śreṣṭhaḥ prajāpatiḥ . hiraṇyagarbho bhūgarbho mādhavo madhusūdanaḥ .. 8..",
+      "translation": "Ruler, Giver of Life, Life (breath), Eldest, Most Excellent, Lord of all creatures, Golden-Wombed (Brahma), Possessing the Earth as his womb, Lord of knowledge/Husband of Lakshmi, and Destroyer of the demon Madhu."
+    },
+    {
+      "id": "vsn-stotram-9",
+      "verse_number": "9",
+      "startTime": 480,
+      "endTime": 488,
+      "original": "ईश्वरो विक्रमी धन्वी मेधावी विक्रमः क्रमः । अनुत्तमो दुराधर्षः कृतज्ञः कृतिरात्मवान् ॥ ९॥",
+      "transliteration": "īśvaro vikramī dhanvī medhāvī vikramaḥ kramaḥ . anuttamo durādharṣaḥ kṛtajñaḥ kṛtirātmavān .. 9..",
+      "translation": "Ruler, Valiant, Bowman (bearing the bow Sharanga), Intelligent, Courageous, Orderly (Progressive), Unequalled, Invincible, Knower of what is done (Gratitude), Work (Action itself), and Self-Possessed."
+    },
+    {
+      "id": "vsn-stotram-10",
+      "verse_number": "10",
+      "startTime": 489,
+      "endTime": 497,
+      "original": "सुरेशः शरणं शर्म विश्वरेताः प्रजाभवः । अहः संवत्सरो व्यालः प्रत्ययः सर्वदर्शनः ॥ १०॥",
+      "transliteration": "sureśaḥ śaraṇaṃ śarma viśvaretāḥ prajābhavaḥ . ahaḥ saṃvatsaro vyālaḥ pratyayaḥ sarvadarśanaḥ .. 10..",
+      "translation": "Lord of the Devas, Refuge, Bliss/Happiness, Seed of the Universe, Source of all creation, Day, Year, Cobra (or unattainable), Knowledge/Faith, and One who sees everything."
+    },
+    {
+      "id": "vsn-stotram-11",
+      "verse_number": "11",
+      "startTime": 498,
+      "endTime": 506,
+      "original": "अजः सर्वेश्वरः सिद्धः सिद्धिः सर्वादिरच्युतः । वृषाकपिरमेयात्मा सर्वयोगविनिःसृतः ॥ ११॥",
+      "transliteration": "ajaḥ sarveśvaraḥ siddhaḥ siddhiḥ sarvādiracyutaḥ . vṛṣākapirameyātmā sarvayogaviniḥsṛtaḥ .. 11..",
+      "translation": "Unborn, Lord of all, Attained Perfection, Perfection itself, Beginning of all, Immovable, The Boar (or Dharma), Immeasurable Soul, and One attained through all Yogas."
+    },
+    {
+      "id": "vsn-stotram-12",
+      "verse_number": "12",
+      "startTime": 507,
+      "endTime": 515,
+      "original": "वसुर्वसुमनाः सत्यः समात्माऽसम्मितः समः । अमोघः पुण्डरीकाक्षो वृषकर्मा वृषाकृतिः ॥ १२॥",
+      "transliteration": "vasurvasumanāḥ satyaḥ samātmā’sammitaḥ samaḥ . amoghaḥ puṇḍarīkākṣo vṛṣakarmā vṛṣākṛtiḥ .. 12..",
+      "translation": "Dweller in all beings/Wealth, Noble Minded, Truth, Equal to all, Incomparable, Equal (to all things), Fruitful, Lotus-Eyed, He whose actions are righteous (Dharma), and having the form of Dharma."
+    },
+    {
+      "id": "vsn-stotram-13",
+      "verse_number": "13",
+      "startTime": 516,
+      "endTime": 524,
+      "original": "रुद्रो बहुशिरा बभ्रुर्विश्वयोनिः शुचिश्रवाः । अमृतः शाश्वतस्थाणुर्वरारोहो महातपाः ॥ १३॥",
+      "transliteration": "rudro bahuśirā babhrurviśvayoniḥ śuciśravāḥ . amṛtaḥ śāśvatasthāṇurvarāroho mahātapāḥ .. 13..",
+      "translation": "Terrible (one who removes suffering), Multi-headed, Bearer (of the world), Source of the universe, Having pure fame, Immortal, Eternal and Fixed, Supreme ascent (or excellent vehicle), and Great ascetic."
+    },
+    {
+      "id": "vsn-stotram-14",
+      "verse_number": "14",
+      "startTime": 525,
+      "endTime": 534,
+      "original": "सर्वगः सर्वविद्भानुर्विष्वक्सेनो जनार्दनः । वेदो वेदविदव्यङ्गो वेदाङ्गो वेदवित् कविः ॥ १४॥",
+      "transliteration": "sarvagaḥ sarvavidbhānurviṣvakseno janārdanaḥ . vedo vedavidavyaṅgo vedāṅgo vedavit kaviḥ .. 14..",
+      "translation": "All-pervading, All-knowing, Resplendent, Conqueror of all directions, Afflictor of wicked people, Veda (scriptures), Knower of the Vedas, Without defects, Parts of the Veda (ancillaries), Knower of the essence of the Vedas, and Seer/Poet."
+    },
+    {
+      "id": "vsn-stotram-15",
+      "verse_number": "15",
+      "startTime": 535,
+      "endTime": 544,
+      "original": "लोकाध्यक्षः सुराध्यक्षो धर्माध्यक्षः कृताकृतः । चतुरात्मा चतुर्व्यूहश्चतुर्दंष्ट्रश्चतुर्भुजः ॥ १५॥",
+      "transliteration": "lokādhyakṣaḥ surādhyakṣo dharmādhyakṣaḥ kṛtākṛtaḥ . caturātmā caturvyūhaścaturdaṃṣṭraścaturbhujaḥ .. 15..",
+      "translation": "Overseer of the worlds, Overseer of the Devas, Overseer of Dharma, Cause and Effect/Done and Undone, Four-Souled (mind, intellect, ego, consciousness), Four-formed (Vyuha forms), Having four tusks (as Narasimha), and Four-armed."
+    },
+    {
+      "id": "vsn-stotram-16",
+      "verse_number": "16",
+      "startTime": 545,
+      "endTime": 552,
+      "original": "भ्राजिष्णुर्भोजनं भोक्ता सहिष्णुर्जगदादिजः । अनघो विजयो जेता विश्वयोनिः पुनर्वसुः ॥ १६॥",
+      "transliteration": "bhrājiṣṇurbhojanaṃ bhoktā sahiṣṇurjagadādijaḥ . anagho vijayo jetā viśvayoniḥ punarvasuḥ .. 16..",
+      "translation": "Shining brightly, Food/Object of enjoyment, Enjoyer/Eater, Tolerant, Born before the world, Sinless, Victorious, Conqueror, Source of the universe, and the asterism Punarvasu."
+    },
+    {
+      "id": "vsn-stotram-17",
+      "verse_number": "17",
+      "startTime": 553,
+      "endTime": 561,
+      "original": "उपेन्द्रो वामनः प्रांशुरमोघः शुचिरूर्जितः । अतीन्द्रः सङ्ग्रहः सर्गो धृतात्मा नियमो यमः ॥ १७॥",
+      "transliteration": "upendro vāmanaḥ prāṃśuramoghaḥ śucirūrjitaḥ . atīndraḥ saṅgrahaḥ sargo dhṛtātmā niyamo yamaḥ .. 17..",
+      "translation": "Younger brother of Indra, Dwarf incarnation, Lofty/Tall, Infallible/Fruitful, Pure, Powerful, Beyond the senses, Gathering (collecting the universe), Creation/Nature, Determined Soul, Rule (discipline), and Controller (Lord of death)."
+    },
+    {
+      "id": "vsn-stotram-18",
+      "verse_number": "18",
+      "startTime": 562,
+      "endTime": 570,
+      "original": "वेद्यो वैद्यः सदायोगी वीरहा माधवो मधुः । अतीन्द्रियो महामायो महोत्साहो महाबलः ॥ १८॥",
+      "transliteration": "vedyo vaidyaḥ sadāyogī vīrahā mādhavo madhuḥ . atīndriyo mahāmāyo mahotsāho mahābalaḥ .. 18..",
+      "translation": "To be known, Knower (Physician), Ever-absorbed in Yoga, Destroyer of valiant foes, Lord of knowledge/Husband of Lakshmi, Honey/Sweet, Beyond the senses, Great Master of illusion, Greatly enthusiastic, and Greatly powerful."
+    },
+    {
+      "id": "vsn-stotram-19",
+      "verse_number": "19",
+      "startTime": 571,
+      "endTime": 580,
+      "original": "महाबुद्धिर्महावीर्यो महाशक्तिर्महाद्युतिः । अनिर्देश्यवपुः श्रीमानमेयात्मा महाद्रिधृक् ॥ १९॥",
+      "transliteration": "mahābuddhirmahāvīryo mahāśaktirmahādyutiḥ . anirdeśyavapuḥ śrīmānameyātmā mahādridhṛk .. 19..",
+      "translation": "Great Intellect, Great Valor, Great Power, Great Splendor, Having an Indescribable Form, Glorious/Prosperous, Immeasurable Soul, and Bearer of the great mountain (Mandara/Govardhana)."
+    },
+    {
+      "id": "vsn-stotram-20",
+      "verse_number": "20",
+      "startTime": 581,
+      "endTime": 588,
+      "original": "महेष्वासो महीभर्ता श्रीनिवासः सतां गतिः । अनिरुद्धः सुरानन्दो गोविन्दो गोविदां पतिः ॥ २०॥",
+      "transliteration": "maheṣvāso mahībhartā śrīnivāsaḥ satāṃ gatiḥ . aniruddhaḥ surānando govindo govidāṃ patiḥ .. 20..",
+      "translation": "Possessing a great bow, Supporter of the Earth, Abode of Lakshmi, Goal of the virtuous, Unobstructed, Joy of the Devas, Protector of cows/Knower of the Vedas, and Lord of the wise."
+    },
+    {
+      "id": "vsn-stotram-21",
+      "verse_number": "21",
+      "startTime": 589,
+      "endTime": 597,
+      "original": "मरीचिर्दमनो हंसः सुपर्णो भुजगोत्तमः । हिरण्यनाभः सुतपाः पद्मनाभः प्रजापतिः ॥ २१॥",
+      "transliteration": "marīcirdamano haṃsaḥ suparṇo bhujagottamaḥ . hiraṇyanābhaḥ sutapāḥ padmanābhaḥ prajāpatiḥ .. 21..",
+      "translation": "Ray of light, Controller (Subduer), Swan (Hamsa), Good-winged (Garuḍa), Best of snakes (Ananta), Golden-navelled, Possessing great penance, Lotus-navelled, and Lord of creation."
+    },
+    {
+      "id": "vsn-stotram-22",
+      "verse_number": "22",
+      "startTime": 598,
+      "endTime": 606,
+      "original": "अमृत्युः सर्वदृक् सिंहः सन्धाता सन्धिमान् स्थिरः । अजो दुर्मर्षणः शास्ता विश्रुतात्मा सुरारिहा ॥ २२॥",
+      "transliteration": "amṛtyuḥ sarvadṛk siṃhaḥ sandhātā sandhimān sthiraḥ . ajo durmarṣaṇaḥ śāstā viśrutātmā surārihā .. 22..",
+      "translation": "Beyond death, All-seeing, Lion (Brave), Regulator, Possessor of union (with all things), Steady, Unborn, Intolerant (of evil), Ruler/Disciplinarian, Famous Soul, and Destroyer of the foes of the Devas."
+    },
+    {
+      "id": "vsn-stotram-23",
+      "verse_number": "23",
+      "startTime": 607,
+      "endTime": 615,
+      "original": "गुरुर्गुरुतमो धाम सत्यः सत्यपराक्रमः । निमिषोऽनिमिषः स्रग्वी वाचस्पतिरुदारधीः ॥ २-३॥",
+      "transliteration": "gururgurutamo dhāma satyaḥ satyaparākramaḥ . nimiṣo’nimiṣaḥ sragvī vācaspatirudāradhīḥ .. 23..",
+      "translation": "Teacher, Greatest teacher, Effulgence/Abode, Truth, Possessing truthful valor, Winker, Non-winker, Wearing a garland, Lord of speech (Jupiter), and Noble-minded."
+    },
+    {
+      "id": "vsn-stotram-24",
+      "verse_number": "24",
+      "startTime": 616,
+      "endTime": 626,
+      "original": "अग्रणीर्ग्रामणीः श्रीमान् न्यायो नेता समीरणः । सहस्रमूर्धा विश्वात्मा सहस्राक्षः सहस्रपात् ॥ २४॥",
+      "transliteration": "agraṇīrgrāmaṇīḥ śrīmān nyāyo netā samīraṇaḥ . sahasramūrdhā viśvātmā sahasrākṣaḥ sahasrapāt .. 24..",
+      "translation": "Leader (of the way), Leader of the group (community), Glorious, Justice, Guide, Air/Mover, Thousand-headed, Soul of the universe, Thousand-eyed, and Thousand-footed."
+    },
+    {
+      "id": "vsn-stotram-25",
+      "verse_number": "25",
+      "startTime": 627,
+      "endTime": 635,
+      "original": "आवर्तनो निवृत्तात्मा संवृतः सम्प्रमर्दनः । अहः संवर्तको वह्निरनिलो धरणीधरः ॥ २५॥",
+      "transliteration": "āvartano nivṛttātmā saṃvṛtaḥ sampramardanaḥ . ahaḥ saṃvartako vahniranilo dharaṇīdharaḥ .. 25..",
+      "translation": "Revolver (causing cyclical changes), One whose mind is withdrawn from worldly matters, Hidden/Covered, Destroyer (of the universe), Day, Causer of cyclic creation/destruction, Fire (Agni), Wind (Vayu), and Supporter of the Earth."
+    },
+    {
+      "id": "vsn-stotram-26",
+      "verse_number": "26",
+      "startTime": 636,
+      "endTime": 644,
+      "original": "सुप्रसादः प्रसन्नात्मा विश्वधृग्विश्वभुग्विभुः । सत्कर्ता सत्कृतः साधुर्जह्नुर्नारायणो नरः ॥ २६॥",
+      "transliteration": "suprasādaḥ prasannātmā viśvadhṛgviśvabhugvibhuḥ . satkartā satkṛtaḥ sādhurjahnurnārāyaṇo naraḥ .. 26..",
+      "translation": "Greatly gracious, Cheerful Soul, Supporter of the universe, Enjoyer/Eater of the universe, Pervasive, Worshipper (of good deeds), Worshipped by the virtuous, Virtuous, Leading the people, Abode of men, and Man/Hero."
+    },
+    {
+      "id": "vsn-stotram-27",
+      "verse_number": "27",
+      "startTime": 645,
+      "endTime": 654,
+      "original": "असङ्ख्येयोऽप्रमेयात्मा विशिष्टः शिष्टकृच्छुचिः । सिद्धार्थः सिद्धसङ्कल्पः सिद्धिदः सिद्धिसाधनः ॥ २७॥",
+      "transliteration": "asaṅkhyeyo’prameyātmā viśiṣṭaḥ śiṣṭakṛcchuciḥ . siddhārthaḥ siddhasaṅkalpaḥ siddhidaḥ siddhisādhanaḥ .. 27..",
+      "translation": "Innumerable, Having an immeasurable nature, Distinguished, Discipliner of the worthy, Pure, One whose purpose is accomplished, One whose will is fulfilled, Giver of attainment, and means of attainment."
+    },
+    {
+      "id": "vsn-stotram-28",
+      "verse_number": "28",
+      "startTime": 655,
+      "endTime": 662,
+      "original": "वृषाही वृषभो विष्णुर्वृषपर्वा वृषोदरः । वर्धनो वर्धमानश्च विविक्तः श्रुतिसागरः ॥ २८॥",
+      "transliteration": "vṛṣāhī vṛṣabho viṣṇurvṛṣaparvā vṛṣodaraḥ . vardhano vardhamānaśca viviktaḥ śrutisāgaraḥ .. 28..",
+      "translation": "Possessor of the righteous day, Giver of good results (Dharma), Pervader, Steps of Dharma, Having a great belly, Promoter/Nourisher, One who grows, Distinct/Isolated, and Ocean of Vedas/Scriptures."
+    },
+    {
+      "id": "vsn-stotram-29",
+      "verse_number": "29",
+      "startTime": 663,
+      "endTime": 671,
+      "original": "सुभुजो दुर्धरो वाग्मी महेन्द्रो वसुदो वसुः । नैकरूपो बृहद्रूपः शिपिविष्टः प्रकाशनः ॥ २९॥",
+      "transliteration": "subhujo durdharo vāgmī mahendro vasudo vasuḥ . naikarūpo bṛhadrūpaḥ śipiviṣṭaḥ prakāśanaḥ .. 29..",
+      "translation": "Possessing good arms, Hard to bear/Hold, Eloquent, Great Indra, Giver of wealth, Wealth, Having many forms, Great form, Pervading the solar rays, and Illuminator."
+    },
+    {
+      "id": "vsn-stotram-30",
+      "verse_number": "30",
+      "startTime": 672,
+      "endTime": 680,
+      "original": "ओजस्तेजोद्युतिधरः प्रकाशात्मा प्रतापनः । ऋद्धः स्पष्टाक्षरो मन्त्रश्चन्द्रांशुर्भास्करद्युतिः ॥ ३०॥",
+      "transliteration": "ojastejodyutidharaḥ prakāśātmā pratāpanaḥ . ṛddhaḥ spaṣṭākṣaro mantraścandrāṃśurbhāskaradyutiḥ .. 30..",
+      "translation": "Bearer of vitality, brilliance, and luster, Luminous Soul, Scorcher (of enemies), Prosperous, Having clear syllables, Mantra, Ray of the moon, and Radiance of the sun."
+    },
+    {
+      "id": "vsn-stotram-31",
+      "verse_number": "31",
+      "startTime": 681,
+      "endTime": 689,
+      "original": "अमृतांशूद्भवो भानुः शशबिन्दुः सुरेश्वरः । औषधं जगतः सेतुः सत्यधर्मपराक्रमः ॥ ३१॥",
+      "transliteration": "amṛtāṃśūdbhavo bhānuḥ śaśabinduḥ sureśvaraः . auṣadhaṃ jagataḥ setuḥ satyadharmaparākramaḥ .. 31..",
+      "translation": "Source of the nectar-rayed (Moon), Sun, Moon (having a mark like a hare), Lord of the Devas, Medicine (for the world), Bridge of the world, and Possessor of truly righteous valor."
+    },
+    {
+      "id": "vsn-stotram-32",
+      "verse_number": "32",
+      "startTime": 690,
+      "endTime": 698,
+      "original": "भूतभव्यभवन्नाथः पवनः पावनोऽनलः । कामहा कामकृत्कान्तः कामः कामप्रदः प्रभुः ॥ ३२॥",
+      "transliteration": "bhūtabhavyabhavannāthaḥ pavanaḥ pāvano’nalaḥ . kāmahā kāmakṛtkāntaḥ kāmaḥ kāmapradaḥ prabhuḥ .. 32..",
+      "translation": "Lord of the past, future, and present, Wind/Purifier, Purifier, Fire/Endless, Destroyer of desires, Fulfiller of desires, Beloved/Beautiful, Desire itself, Giver of desires, and Lord."
+    },
+    {
+      "id": "vsn-stotram-33",
+      "verse_number": "33",
+      "startTime": 699,
+      "endTime": 707,
+      "original": "युगादिकृद्युगावर्तो नैकमायो महाशनः । अदृश्यो व्यक्तरूपश्च सहस्रजिदनन्तजित् ॥ ३३॥",
+      "transliteration": "yugādikṛdyugāvarto naikamāyo mahāśanaḥ . adṛśyo vyaktarūpaśca sahasrajidanantajit .. 33..",
+      "translation": "Creator of the Yugas (ages), Causer of the cyclic return of Yugas, Possessing many illusions, Great eater (of the universe), Invisible, Having a manifest form, Conqueror of thousands (enemies), and Conqueror of the infinite."
+    },
+    {
+      "id": "vsn-stotram-34",
+      "verse_number": "34",
+      "startTime": 708,
+      "endTime": 716,
+      "original": "इष्टोऽविशिष्टः शिष्टेष्टः शिखण्डी नहुषो वृषः । क्रोधहा क्रोधकृत्कर्ता विश्वबाहुर्महीधरः ॥ ३४॥",
+      "transliteration": "iṣṭo’viśiṣṭaḥ śiṣṭeṣṭaḥ śikhaṇḍī nahuṣo vṛṣaḥ . krodhahā krodhakṛtkartā viśvabāhurmahīdharaḥ .. 34..",
+      "translation": "Desired/Worshipped, Unequalled, Desired by the wise, Having a peacock crest/plume, Nahuṣa (Binder/King), Righteous/Bull, Destroyer of anger, Creator of anger (in enemies), Doer, Having the universe as his arms, and Bearer of the earth."
+    },
+    {
+      "id": "vsn-stotram-35",
+      "verse_number": "35",
+      "startTime": 717,
+      "endTime": 724,
+      "original": "अच्युतः प्रथितः प्राणः प्राणदो वासवानुजः । अपांनिधिरधिष्ठानमप्रमत्तः प्रतिष्ठितः ॥ ३५॥",
+      "transliteration": "acyutaḥ prathitaḥ prāṇaḥ prāṇado vāsavānujaḥ . apāṃnidhiradhiṣṭhānamapramattaḥ pratiṣṭhitaḥ .. 35..",
+      "translation": "Immovable, Famous, Life-breath, Giver of life, Younger brother of Indra (Vāmana), Reservoir of waters (Ocean), Substratum/Support, Vigilant/Careful, and Well-established."
+    },
+    {
+      "id": "vsn-stotram-36",
+      "verse_number": "36",
+      "startTime": 725,
+      "endTime": 733,
+      "original": "स्कन्दः स्कन्दधरो धुर्यो वरदो वायुवाहनः । वासुदेवो बृहद्भानुरादिदेवः पुरन्दरः ॥ ३६॥",
+      "transliteration": "skandaḥ skandadharo dhuryo varado vāyuvāhanaḥ . vāsudevo bṛhadbhānurādidevaḥ purandaraḥ .. 36..",
+      "translation": "Emanation (Skanda), Supporter of Skanda, Burden-bearer/Chief, Giver of boons, One who has Vāyu (wind) as his vehicle, Son of Vasudeva, Possessing great radiance, First Deity, and Destroyer of cities (Forts)."
+    },
+    {
+      "id": "vsn-stotram-37",
+      "verse_number": "37",
+      "startTime": 734,
+      "endTime": 742,
+      "original": "अशोकस्तारणस्तारः शूरः शौरिर्जनेश्वरः । अनुकूलः शतावर्तः पद्मी पद्मनिभेक्षणः ॥ ३७॥",
+      "transliteration": "aśokastāraṇastāraḥ śūraḥ śaurirjaneśvaraḥ . anukūlaḥ śatāvartaḥ padmī padmanibhekṣaṇaः .. 37..",
+      "translation": "Sorrowless, Deliverer (causing others to cross), Star (or saving people), Valiant, Descendant of Sura, Lord of the people, Favorable/Friendly, Possessing hundreds of cycles, Bearing a lotus, and Lotus-eyed."
+    },
+    {
+      "id": "vsn-stotram-38",
+      "verse_number": "38",
+      "startTime": 743,
+      "endTime": 751,
+      "original": "पद्मनाभोऽरविन्दाक्षः पद्मगर्भः शरीरभृत् । महर्द्धिरृद्धो वृद्धात्मा महाक्षो गरुडध्वजः ॥ ३८॥",
+      "transliteration": "padmanābho’ravindākṣaḥ padmagarbhaḥ śarīrabhṛt . maharddhirṛddho vṛddhātmā mahākṣo garuḍadhvajaḥ .. 38..",
+      "translation": "Lotus-navelled, Lotus-eyed, Dweller in the lotus, Bearer of bodies, Greatly prosperous, Prosperous/Grown, Ancient Soul, Great-eyed (or Great-axled), and Having Garuḍa on his banner."
+    },
+    {
+      "id": "vsn-stotram-39",
+      "verse_number": "39",
+      "startTime": 752,
+      "endTime": 759,
+      "original": "अतुलः शरभो भीमः समयज्ञो हविर्हरिः । सर्वलक्षणलक्षण्यो लक्ष्मीवान् समितिञ्जयः ॥ ३९॥",
+      "transliteration": "atulaḥ śarabho bhīmaḥ samayajño havirhariḥ . sarvalakṣaṇalakṣaṇyo lakṣmīvān samitiñjayaḥ .. 39..",
+      "translation": "Unequalled, Sharabha (mythical creature), Fearful/Awesome, Knower of the proper time/vows, Sacrificial offering, Remover (of suffering/sins), Distinguished by all auspicious signs, Possessing Lakshmi, and Victorious in battle."
+    },
+    {
+      "id": "vsn-stotram-40",
+      "verse_number": "40",
+      "startTime": 760,
+      "endTime": 769,
+      "original": "विक्षरो रोहितो मार्गो हेतुर्दामोदरः सहः । महीधरो महाभागो वेगवानमिताशनः ॥ ४०॥",
+      "transliteration": "vikṣaro rohito mārgo heturdāmodaraḥ sahaḥ . mahīdharo mahābhāgo vegavānamitāśanaḥ .. 40..",
+      "translation": "Imperishable, Red-colored (or Fish form), Path, Cause, Having a rope around the belly, Tolerant/Powerful, Bearer of the earth, Possessing great fortune, Swift/Forceful, and Eater of unlimited quantity (during dissolution)."
+    },
+    {
+      "id": "vsn-stotram-41",
+      "verse_number": "41",
+      "startTime": 770,
+      "endTime": 778,
+      "original": "उद्भवः क्षोभणो देवः श्रीगर्भः परमेश्वरः । करणं कारणं कर्ता विकर्ता गहनो गुहः ॥ ४१॥",
+      "transliteration": "udbhavaḥ kṣobhaṇo devaḥ śrīgarbhaḥ parameśvaraḥ . karaṇaṃ kāraṇaṃ kartā vikartā gahano guhaḥ .. 41..",
+      "translation": "Origin/Birth, Agitator (of Prakriti), God, Bearing Lakshmi in his womb, Supreme Lord, Instrument, Cause, Doer, Modifier/Variety-Creator, Deep (Unfathomable), and Hidden/Cave-Dweller."
+    },
+    {
+      "id": "vsn-stotram-42",
+      "verse_number": "42",
+      "startTime": 779,
+      "endTime": 787,
+      "original": "व्यवसायो व्यवस्थानः संस्थानः स्थानदो ध्रुवः । परर्द्धिः परमस्पष्टस्तुष्टः पुष्टः शुभेक्षणः ॥ ४२॥",
+      "transliteration": "vyavasāyo vyavasthānaḥ saṃsthānaḥ sthānado dhruvaḥ . pararddhiḥ paramaspaṣṭastuṣṭaḥ puṣṭaḥ śubhekṣaṇaḥ .. 42..",
+      "translation": "Determination, Order (of the cosmos), End/Ultimate goal, Giver of place/position, Fixed/Permanent, Possessing supreme wealth, Supremely clear, Content, Nourished/Full, and Having auspicious sight."
+    },
+    {
+      "id": "vsn-stotram-43",
+      "verse_number": "43",
+      "startTime": 788,
+      "endTime": 796,
+      "original": "रामो विरामो विरजो मार्गो नेयो नयोऽनयः । वीरः शक्तिमतां श्रेष्ठो धर्मो धर्मविदुत्तमः ॥ ४३॥",
+      "transliteration": "rāmo virāmo virajo mārgo neyo nayo’nayaḥ . vīraḥ śaktimatāṃ śreṣṭho dharmo dharmaviduttamaḥ .. 43..",
+      "translation": "Pleasing (Rama), Cessation/Repose, Dustless/Passionless, Path, To be led (to salvation), Justice/Righteousness, Injustice/Absence of justice (beyond rules), Hero/Valiant, Best among the powerful, Righteousness/Dharma, and Most excellent among the knowers of Dharma."
+    },
+    {
+      "id": "vsn-stotram-44",
+      "verse_number": "44",
+      "startTime": 797,
+      "endTime": 806,
+      "original": "वैकुण्ठः पुरुषः प्राणः प्राणदः प्रणवः पृथुः । हिरण्यगर्भः शत्रुघ्नो व्याप्तो वायुरधोक्षजः ॥ ४४॥",
+      "transliteration": "vaikuṇṭhaḥ puruṣaḥ prāṇaḥ prāṇadaḥ praṇavaḥ pṛthuḥ . hiraṇyagarbhaḥ śatrughno vyāpto vāyuradhokṣajaḥ .. 44..",
+      "translation": "Lord of Vaikuntha, Person/Spirit, Life-breath, Giver of life, Om (The Primal Sound), Great/Extensive, Golden-wombed, Destroyer of enemies (Śatrughna), Pervasive, Wind, and Beyond the scope of the senses."
+    },
+    {
+      "id": "vsn-stotram-45",
+      "verse_number": "45",
+      "startTime": 807,
+      "endTime": 814,
+      "original": "ऋतुः सुदर्शनः कालः परमेष्ठी परिग्रहः । उग्रः संवत्सरो दक्षो विश्रामो विश्वदक्षिणः ॥ ४५॥",
+      "transliteration": "ṛtuḥ sudarśanaḥ kālaḥ parameṣṭhī parigrahaḥ . ugraḥ saṃvatsaro dakṣo viśrāmo viśvadakṣiṇaḥ .. 45..",
+      "translation": "Season, Beautiful vision (or the discus Sudarshana), Time, Dwelling in the highest place, Receiver (of offerings), Fierce/Formidable, Year, Skilful/Capable, Repose/Rest, and Most skilful person in the world."
+    },
+    {
+      "id": "vsn-stotram-46",
+      "verse_number": "46",
+      "startTime": 815,
+      "endTime": 824,
+      "original": "विस्तारः स्थावरस्थाणुः प्रमाणं बीजमव्ययम् । अर्थोऽनर्थो महाकोशो महाभोगो महाधनः ॥ ४६॥",
+      "transliteration": "vistāraḥ sthāvarasthāṇuḥ pramāṇaṃ bījamavyayam . artho’nartho mahākośo mahābhogo mahādhanaḥ .. 46..",
+      "translation": "Extension/Expansion, Fixed (mountain-like), Authority/Measure, Imperishable Seed, Object/Goal, Having no purpose (Supreme Reality), Great repository, Great enjoyment, and Great wealth."
+    },
+    {
+      "id": "vsn-stotram-47",
+      "verse_number": "47",
+      "startTime": 825,
+      "endTime": 833,
+      "original": "अनिर्विण्णः स्थविष्ठोऽभूर्धर्मयूपो महामखः । नक्षत्रनेमिर्नक्षत्री क्षमः क्षामः समीहनः ॥ ४७॥",
+      "transliteration": "anirviṇṇaḥ sthaviṣṭho’bhūrdharmayūpo mahāmakhaḥ . nakṣatranemirnakṣatrī kṣamaḥ kṣāmaḥ samīhanaḥ .. 47..",
+      "translation": "Not despondent/Unharrowed, Hugest, Unborn, Pillar of Dharma (Sacrificial post), Great Sacrifice, Hub of the stars (Zodiac), Lord of the stars (Moon), Forgiving, Diminished (before dissolution), and Desired/One who exerts."
+    },
+    {
+      "id": "vsn-stotram-48",
+      "verse_number": "48",
+      "startTime": 834,
+      "endTime": 842,
+      "original": "यज्ञ इज्यो महेज्यश्च क्रतुः सत्रं सतां गतिः । सर्वदर्शी विमुक्तात्मा सर्वज्ञो ज्ञानमुत्तमम् ॥ ४८॥",
+      "transliteration": "yajña ijyo mahejyaśca kratuḥ satraṃ satāṃ gatiḥ . sarvadarśī vimuktātmā sarvajño jñānamuttamam .. 48..",
+      "translation": "Sacrifice, Worshipped, Greatly worshipped, Ritual, Long sacrificial session, Goal of the virtuous, All-seeing, Liberated Soul, All-knowing, and Supreme knowledge."
+    },
+    {
+      "id": "vsn-stotram-49",
+      "verse_number": "49",
+      "startTime": 843,
+      "endTime": 851,
+      "original": "सुव्रतः सुमुखः सूक्ष्मः सुघोषः सुखदः सुहृत् । मनोकरो जितक्रोधो वीरबाहुर्विदारणः ॥ ४९॥",
+      "transliteration": "suvrataḥ sumukhaḥ sūkṣmaḥ sughoṣaḥ sukhadaḥ suhṛt . manoharo jitakrodho vīrabāhurvidāraṇaḥ .. 49..",
+      "translation": "Having good vows, Having a beautiful face, Subtle, Having an auspicious sound, Giver of happiness, Good-hearted friend, Charming, Conqueror of anger, Possessing valiant arms, and Splitting/Destroyer."
+    },
+    {
+      "id": "vsn-stotram-50",
+      "verse_number": "50",
+      "startTime": 852,
+      "endTime": 860,
+      "original": "स्वापनः स्ववशो व्यापी नैकात्मा नैककर्मकृत् । वत्सरो वत्सलो वत्सी रत्नगर्भो धनेश्वरः ॥ ५०॥",
+      "transliteration": "svāpanaḥ svavaśo vyāpī naikātmā naikakarmakṛt . vatsaro vatsalo vatsī ratnagarbho dhaneśvaraḥ .. 50..",
+      "translation": "Causer of sleep, Self-controlled, Pervasive, Having many forms, Performer of many actions, Year, Affectionate (like a parent to a calf), Possessor of Vatsa (calf/people), Womb of jewels, and Lord of wealth."
+    },
+    {
+      "id": "vsn-stotram-51",
+      "verse_number": "51",
+      "startTime": 861,
+      "endTime": 869,
+      "original": "धर्मगुब्धर्मकृद्धर्मी सदसत्क्षरमक्षरम् । अविज्ञाता सहस्रांशुर्विधाता कृतलक्षणः ॥ ५१॥",
+      "transliteration": "dharmagubdharmakṛddharmī sadasatkṣaramakṣaram . avijñātā sahasrāṃśurvidhātā kṛtalakṣaṇaḥ .. 51..",
+      "translation": "Protector of Dharma, Creator of Dharma, Righteous, Existence and Non-existence, Perishable and Imperishable, Unknown (by senses), Thousand-rayed (Sun), Creator, and Possessor of all characteristics."
+    },
+    {
+      "id": "vsn-stotram-52",
+      "verse_number": "52",
+      "startTime": 870,
+      "endTime": 877,
+      "original": "गभस्तिनेमिः सत्त्वस्थः सिंहो भूतमहेश्वरः । आदिदेवो महादेवो देवेशो देवभृद्गुरुः ॥ ५२॥",
+      "transliteration": "gabhastinemiḥ sattvasthaḥ siṃho bhūtamaheśvaraḥ . ādidevo mahādevo deveśo devabhṛdguruḥ .. 52..",
+      "translation": "Hub of the solar rays, Dwelling in goodness, Lion, Great Lord of beings, Primordial God, Great God, Lord of the Gods, and Guru/Sustainer of the Gods."
+    },
+    {
+      "id": "vsn-stotram-53",
+      "verse_number": "53",
+      "startTime": 878,
+      "endTime": 887,
+      "original": "उत्तरो गोपतिर्गोप्ता ज्ञानगम्यः पुरातनः । शरीरभूतभृद्भोक्ता कपीन्द्रो भूरिदक्षिणः ॥ ५३॥",
+      "transliteration": "uttaro gopatirgoptā jñānagamyaḥ purātanaḥ . śarīrabhūtabhṛdbhoktā kapīndro bhūridakṣiṇaḥ .. 53..",
+      "translation": "Superior/Transcendent, Lord of the Earth/Cows, Protector, Attained through knowledge, Ancient, Sustainer of the body and elements, Enjoyer, Lord of the monkeys (Hanuman/Rama), and Possessing great gifts/bounties."
+    },
+    {
+      "id": "vsn-stotram-54",
+      "verse_number": "54",
+      "startTime": 888,
+      "endTime": 896,
+      "original": "सोमपोऽमृतपः सोमः पुरुजित्पुरुसत्तमः । विनयो जयः सत्यसन्धो दाशार्हः सात्वताम्पतिः ॥ ५४॥",
+      "transliteration": "somapo’mṛtapaḥ somaḥ purujitpurusattamaḥ . vinayo jayaḥ satyasandho dāśārhaḥ sātvatāmpatiḥ .. 54..",
+      "translation": "Drinker of Soma, Drinker of Nectar, Moon (or Soma sacrifice), Conqueror of many, Best of many persons, Modesty/Discipline, Victory, Having truthful commitment, Belonging to the Dasarha clan, and Lord of the Satvatas (Yadavas)."
+    },
+    {
+      "id": "vsn-stotram-55",
+      "verse_number": "55",
+      "startTime": 897,
+      "endTime": 905,
+      "original": "जीवो विनयिता साक्षी मुकुन्दोऽमितविक्रमः । अम्भोनिधिरनन्तात्मा महोदधिशयोऽन्तकः ॥ ५५॥",
+      "transliteration": "jīvo vinayitā sākṣī mukundo’mitavikramaḥ . ambhonidhiranantātmā mahodadhiśayo’ntakaḥ .. 55..",
+      "translation": "Life, Regulator, Witness, Giver of salvation, Immeasurable Prowess, Ocean, Infinite Soul, Lying on the great ocean, and Destroyer/Ender."
+    },
+    {
+      "id": "vsn-stotram-56",
+      "verse_number": "56",
+      "startTime": 906,
+      "endTime": 914,
+      "original": "अजो महार्हः स्वाभाव्यो जितामित्रः प्रमोदनः । आनन्दो नन्दनो नन्दः सत्यधर्मा त्रिविक्रमः ॥ ५६॥",
+      "transliteration": "ajo mahārhaḥ svābhāvyo jitāmitraḥ pramodanaḥ . ānando nandano nandaḥ satyadharmā trivikramaḥ .. 56..",
+      "translation": "Unborn, Highly worshipful, Self-existent, Conqueror of enemies, Delighter, Bliss, Son/Giver of joy, Joy/Prosperity, Possessing true righteousness, and Three-stepper (Vāmana incarnation)."
+    },
+    {
+      "id": "vsn-stotram-57",
+      "verse_number": "57",
+      "startTime": 915,
+      "endTime": 923,
+      "original": "महर्षिः कपिलाचार्यः कृतज्ञो मेदिनीपतिः । त्रिपदस्त्रिदशाध्यक्षो महाश‍ृङ्गः कृतान्तकृत् ॥ ५७॥",
+      "transliteration": "maharṣiḥ kapilācāryaḥ kṛtajño medinīpatiḥ . tripadastridaśādhyakṣo mahāśṛṅgaḥ kṛtāntakṛt .. 57..",
+      "translation": "Great Seer, Teacher Kapila, Knower of what is done (Gratitude), Lord of the Earth, Three-footed (Vāmana), Overseer of the thirty gods, Great-horned (Matsya/Fish form), and Destroyer of the end (death)."
+    },
+    {
+      "id": "vsn-stotram-58",
+      "verse_number": "58",
+      "startTime": 924,
+      "endTime": 931,
+      "original": "महावराहो गोविन्दः सुषेणः कनकाङ्गदी । गुह्यो गभीरो गहनो गुप्तश्चक्रगदाधरः ॥ ५८॥",
+      "transliteration": "mahāvarāho govindaḥ suṣeṇaḥ kanakāṅgadī . guhyo gabhīro gahano guptaścakragadādharaḥ .. 58..",
+      "translation": "Great Boar, Protector of cows/Knower of the Vedas, Having a good army, Wearing golden armlets, Secret/Mysterious, Deep/Profound, Impenetrable, Hidden/Protected, and Wielder of the discus and mace."
+    },
+    {
+      "id": "vsn-stotram-59",
+      "verse_number": "59",
+      "startTime": 932,
+      "endTime": 941,
+      "original": "वेधाः स्वाङ्गोऽजितः कृष्णो दृढः सङ्कर्षणोऽच्युतः । वरुणो वारुणो वृक्षः पुष्कराक्षो महामनाः ॥ ५९॥",
+      "transliteration": "vedhāः svāṅgo’jitaḥ kṛṣṇo dṛḍhaḥ saṅkarṣaṇo’cyutaḥ . varuṇo vāruṇo vṛkṣaḥ puṣkarākṣo mahāmanāḥ .. 59..",
+      "translation": "Creator, Having his own form (not dependent on others), Unconquered, Dark/Attractive, Firm/Strong, Attractor (Balarāma), Immovable, Water God, Son of Varuṇa (Vasiṣṭha), Tree (Cosmic Tree), Lotus-Eyed, and Great-minded."
+    },
+    {
+      "id": "vsn-stotram-60",
+      "verse_number": "60",
+      "startTime": 942,
+      "endTime": 950,
+      "original": "भगवान् भगहाऽऽनन्दी वनमाली हलायुधः । आदित्यो ज्योतिरादित्यः सहिष्णुर्गतिसत्तमः ॥ ६०॥",
+      "transliteration": "bhagavān bhagahā”nandī vanamālī halāyudhaḥ . ādityo jyotirādityaḥ sahiṣṇurgatisattamaḥ .. 60..",
+      "translation": "Possessing six opulences, Destroyer of the universe (or misfortune), Blissful, Wearing a forest garland, Armed with a plough (Balarāma), Son of Aditi, Light of the sun, Forbearing, and Best of refuges."
+    },
+    {
+      "id": "vsn-stotram-61",
+      "verse_number": "61",
+      "startTime": 951,
+      "endTime": 959,
+      "original": "सुधन्वा खण्डपरशुर्दारुणो द्रविणप्रदः । दिवस्पृक् सर्वदृग्व्यासो वाचस्पतिरयोनिजः ॥ ६१॥",
+      "transliteration": "sudhanvā khaṇḍaparaśurdāruṇo draviṇapradaḥ . divaspṛk sarvadṛgvyāso vācaspatirayonijaḥ .. 61..",
+      "translation": "Having a good bow, Having a broken axe (Paraśurāma), Terrible, Giver of wealth, Touching the sky, All-seeing, Compiler/Expander, Lord of speech (Brihaspati), and Unborn."
+    },
+    {
+      "id": "vsn-stotram-62",
+      "verse_number": "62",
+      "startTime": 960,
+      "endTime": 968,
+      "original": "त्रिसामा सामगः साम निर्वाणं भेषजं भिषक् । संन्यासकृच्छमः शान्तो निष्ठा शान्तिः परायणम् ॥ ६२॥",
+      "transliteration": "trisāmā sāmagaḥ sāma nirvāṇaṃ bheṣajaṃ bhiṣak . saṃnyāsakṛcchamaḥ śānto niṣṭhā śāntiḥ parāyaṇam .. 62..",
+      "translation": "Possessing three Sāmans (songs), Singer of the Sāma Veda, Sāma Veda, Liberation/Moksha, Medicine, Physician, Initiator of renunciation, Control of the mind, Peaceful, Firm footing/Abode, Peace, and Supreme Goal."
+    },
+    {
+      "id": "vsn-stotram-63",
+      "verse_number": "63",
+      "startTime": 969,
+      "endTime": 977,
+      "original": "शुभाङ्गः शान्तिदः स्रष्टा कुमुदः कुवलेशयः । गोहितो गोपतिर्गोप्ता वृषभाक्षो वृषप्रियः ॥ ६३॥",
+      "transliteration": "śubhāṅgaḥ śāntidaḥ sraṣṭā kumudaḥ kuvaleśayaḥ . gohito gopatirgoptā vṛṣabhākṣo vṛṣapriyaḥ .. 63..",
+      "translation": "Having auspicious limbs, Giver of peace, Creator, Delighter of the Earth, Lying on the water (or in a lotus), Benefactor of cows/Earth, Lord of the Earth/Cows, Protector, Bull-eyed, and Dear to Dharma."
+    },
+    {
+      "id": "vsn-stotram-64",
+      "verse_number": "64",
+      "startTime": 978,
+      "endTime": 986,
+      "original": "अनिवर्ती निवृत्तात्मा सङ्क्षेप्ता क्षेमकृच्छिवः । श्रीवत्सवक्षाः श्रीवासः श्रीपतिः श्रीमतांवरः ॥ ६४॥",
+      "transliteration": "anivartī nivṛttātmā saṅkṣeptā kṣemakṛcchivaḥ . śrīvatsavakṣāḥ śrīvāsaḥ śrīpatiḥ śrīmatāṃvaraḥ .. 64..",
+      "translation": "Never retreating, One whose mind is withdrawn from the world, Condenser/Abbreviator, Doer of welfare, Auspicious, Bearing the Śrīvatsa mark on his chest, Abode of Śrī, Lord of Śrī, and Best among the glorious."
+    },
+    {
+      "id": "vsn-stotram-65",
+      "verse_number": "65",
+      "startTime": 987,
+      "endTime": 996,
+      "original": "श्रीदः श्रीशः श्रीनिवासः श्रीनिधिः श्रीविभावनः । श्रीधरः श्रीकरः श्रेयः श्रीमाँल्लोकत्रयाश्रयः ॥ ६५॥",
+      "transliteration": "śrīdaḥ śrīśaḥ śrīnivāsaḥ śrīnidhiḥ śrīvibhāvanaḥ . śrīdharaḥ śrīkaraḥ śreyaḥ śrīmām̐llokatrayāśrayaḥ .. 65..",
+      "translation": "Giver of Śrī, Lord of Śrī, Abode of Śrī, Treasure of Śrī, Bestower of Śrī, Bearer of Śrī, Creating Śrī, Excellence/Auspiciousness, Glorious, and Refuge of the three worlds."
+    },
+    {
+      "id": "vsn-stotram-66",
+      "verse_number": "66",
+      "startTime": 997,
+      "endTime": 1005,
+      "original": "स्वक्षः स्वङ्गः शतानन्दो नन्दिर्ज्योतिर्गणेश्वरः । विजितात्माऽविधेयात्मा सत्कीर्तिश्छिन्नसंशयः ॥ ६६॥",
+      "transliteration": "svakṣaḥ svaṅgaḥ śatānando nandirjyotirgaṇeśvaraḥ . vijitātmā’vidheyātmā satkīrtiśchinnasaṃśayaḥ .. 66..",
+      "translation": "Having beautiful eyes, Having beautiful limbs, Hundred-fold bliss, Delightful, Lord of the host of lights, Conqueror of the Self, One whose Self cannot be ruled (Independent), Having true fame, and One whose doubts are dispelled."
+    },
+    {
+      "id": "vsn-stotram-67",
+      "verse_number": "67",
+      "startTime": 1006,
+      "endTime": 1014,
+      "original": "उदीर्णः सर्वतश्चक्षुरनीशः शाश्वतस्थिरः । भूशयो भूषणो भूतिर्विशोकः शोकनाशनः ॥ ६७॥",
+      "transliteration": "udīrṇaḥ sarvataścakṣuranīśaḥ śāśvatasthiraḥ . bhūśayo bhūṣaṇo bhūtirviśokaḥ śokanāśanaḥ .. 67..",
+      "translation": "Eminent/Risen, Eyes everywhere, Having no Lord (Independent), Eternally firm, Lying on the earth, Ornament/Adorner, Manifestation/Prosperity, Sorrowless, and Destroyer of sorrow."
+    },
+    {
+      "id": "vsn-stotram-68",
+      "verse_number": "68",
+      "startTime": 1015,
+      "endTime": 1023,
+      "original": "अर्चिष्मानर्चितः कुम्भो विशुद्धात्मा विशोधनः । अनिरुद्धोऽप्रतिरथः प्रद्युम्नोऽमितविक्रमः ॥ ६८॥",
+      "transliteration": "arciṣmānarcitaḥ kumbho viśuddhātmā viśodhanaḥ . aniruddho’pratirathaḥ pradyumno’mitavikramaḥ .. 68..",
+      "translation": "Effulgent, Worshipped, Pot (Receiver of all), Pure Soul, Great Purifier, Unobstructed, Having no equal chariot-warrior, Shining brightly (His son), and Possessing immeasurable valor."
+    },
+    {
+      "id": "vsn-stotram-69",
+      "verse_number": "69",
+      "startTime": 1024,
+      "endTime": 1031,
+      "original": "कालनेमिनिहा वीरः शौरिः शूरजनेश्वरः । त्रिलोकात्मा त्रिलोकेशः केशवः केशिहा हरिः ॥ ६९॥",
+      "transliteration": "kālaneminihā vīraḥ śauriḥ śūrajaneśvaraḥ . trilokātmā trilokeśaḥ keśavaḥ keśihā hariḥ .. 69..",
+      "translation": "Destroyer of Kālanemi, Valiant, Descendant of Sura, Lord of the valiant, Soul of the three worlds, Lord of the three worlds, Handsome-haired (or controller of Brahma and Shiva), Destroyer of the demon Keśi, and Remover (of evil/sins)."
+    },
+    {
+      "id": "vsn-stotram-70",
+      "verse_number": "70",
+      "startTime": 1032,
+      "endTime": 1042,
+      "original": "कामदेवः कामपालः कामी कान्तः कृतागमः । अनिर्देश्यवपुर्विष्णुर्वीरोऽनन्तो धनञ्जयः ॥ ७०॥",
+      "transliteration": "kāmadevaḥ kāmapālaḥ kāmī kāntaḥ kṛtāgamaḥ . anirdeśyavapurviṣṇurvīro’nanto dhanañjayaḥ .. 70..",
+      "translation": "God of love, Protector of desires, Desiring/Lustful, Beautiful, One whose scriptures are established, Having an indescribable form, Pervader, Hero, Endless, and Conqueror of wealth (or Arjuna)."
+    },
+    {
+      "id": "vsn-stotram-71",
+      "verse_number": "71",
+      "startTime": 1043,
+      "endTime": 1051,
+      "original": "ब्रह्मण्यो ब्रह्मकृद् ब्रह्मा ब्रह्म ब्रह्मविवर्धनः । ब्रह्मविद् ब्राह्मणो ब्रह्मी ब्रह्मज्ञो ब्राह्मणप्रियः ॥ ७१॥",
+      "transliteration": "brahmaṇyo brahmakṛd brahmā brahma brahmavivardhanaḥ . brahmavid brāhmaṇo brahmī brahmajño brāhmaṇapriyaḥ .. 71..",
+      "translation": "Protector of Brahma/Vedas, Creator of Brahma/Vedas, Brahma (Creator), Vast (Supreme Reality), Enhancer of Brahma/Vedas, Knower of Brahma, Brahman (Priest), Pervading Brahma, Knower of the Supreme, and Dear to Brahmanas."
+    },
+    {
+      "id": "vsn-stotram-72",
+      "verse_number": "72",
+      "startTime": 1052,
+      "endTime": 1060,
+      "original": "महाक्रमो महाकर्मा महातेजा महोरगः । महाक्रतुर्महायज्वा महायज्ञो महाहविः ॥ ७२॥",
+      "transliteration": "mahākramo mahākarmā mahātejā mahoragaḥ . mahākraturmahāyajvā mahāyajño mahāhaviḥ .. 72..",
+      "translation": "Having great steps, Having great actions, Having great splendor, Great serpent (Ananta), Great sacrifice, Great sacrificer, Great worship, and Great oblation."
+    },
+    {
+      "id": "vsn-stotram-73",
+      "verse_number": "73",
+      "startTime": 1061,
+      "endTime": 1069,
+      "original": "स्तव्यः स्तवप्रियः स्तोत्रं स्तुतिः स्तोता रणप्रियः । पूर्णः पूरयिता पुण्यः पुण्यकीर्तिरनामयः ॥ ७३॥",
+      "transliteration": "stavyaḥ stavapriyaḥ stotraṃ stutiḥ stotā raṇapriyaḥ . pūrṇaḥ pūrayitā puṇyaḥ puṇyakīrtiranāmayaḥ .. 73..",
+      "translation": "Fit to be praised, Fond of praises, Hymn (Object of praise), Praise (Act of praising), Praiser, Fond of battle, Full/Complete, Fulfiller (of desires), Meritorious/Virtuous, Possessing meritorious fame, and Free from ailments."
+    },
+    {
+      "id": "vsn-stotram-74",
+      "verse_number": "74",
+      "startTime": 1070,
+      "endTime": 1077,
+      "original": "मनोजवस्तीर्थकरो वसुरेता वसुप्रदः । वसुप्रदो वासुदेवो वसुर्वसुमना हविः ॥ ७४॥",
+      "transliteration": "manojavastīrthakaro vasuretā vasupradaḥ . vasuprado vāsudevo vasurvasumanā haviḥ .. 74..",
+      "translation": "Having the speed of the mind, Creator of sacred places, Having wealth as his seed, Giver of wealth, Giver of great wealth, Son of Vasudeva, Wealth/Dweller, Noble-minded, and Oblation."
+    },
+    {
+      "id": "vsn-stotram-75",
+      "verse_number": "75",
+      "startTime": 1078,
+      "endTime": 1086,
+      "original": "सद्गतिः सत्कृतिः सत्ता सद्भूतिः सत्परायणः । शूरसेनो यदुश्रेष्ठः सन्निवासः सुयामुनः ॥ ७५॥",
+      "transliteration": "sadgatiḥ satkṛtiḥ sattā sadbhūtiḥ satparāyaṇaḥ . śūraseno yaduśreṣṭhaḥ sannivāsaḥ suyāmunaḥ .. 75..",
+      "translation": "Good goal, Good action, Existence, True prosperity, Supreme resort of the good, Having a valiant army, Best of the Yadus, Excellent dwelling, and Dweller by the Yamuna."
+    },
+    {
+      "id": "vsn-stotram-76",
+      "verse_number": "76",
+      "startTime": 1087,
+      "endTime": 1095,
+      "original": "भूतावासो वासुदेवः सर्वासुनिलयोऽनलः । दर्पहा दर्पदो दृप्तो दुर्धरोऽथापराजितः ॥ ७६॥",
+      "transliteration": "bhūtāvāso vāsudevaḥ sarvāsunilayo’nalaḥ . darpahā darpado dṛpto durdharo’thāparājitaḥ .. 76..",
+      "translation": "Abode of beings, Son of Vasudeva (or Dweller in all beings), Abode of all life forces, Fire/Endless, Destroyer of pride, Giver of pride, Proud/Confident, Hard to bear, and Unconquered."
+    },
+    {
+      "id": "vsn-stotram-77",
+      "verse_number": "77",
+      "startTime": 1096,
+      "endTime": 1105,
+      "original": "विश्वमूर्तिर्महामूर्तिर्दीप्तमूर्तिरमूर्तिमान् । अनेकमूर्तिरव्यक्तः शतमूर्तिः शताननः ॥ ७७॥",
+      "transliteration": "viśvamūrtirmahāmūrtirdīptamūrtiramūrtimān . anekamūrtiravyaktaḥ śatamūrtiḥ śatānanaḥ .. 77..",
+      "translation": "Universal Form, Great Form, Radiant Form, Formless, Having many forms, Unmanifest, Possessing a hundred forms, and Having a hundred faces."
+    },
+    {
+      "id": "vsn-stotram-78",
+      "verse_number": "78",
+      "startTime": 1106,
+      "endTime": 1114,
+      "original": "एको नैकः सवः कः किं यत् तत्पदमनुत्तमम् । लोकबन्धुर्लोकनाथो माधवो भक्तवत्सलः ॥ ७८॥",
+      "transliteration": "eko naikaḥ savaḥ kaḥ kiṃ yat tatpadamanuttamam . lokabandhurlokanātho mādhavo bhaktavatsalaḥ .. 78..",
+      "translation": "One, Many, Sacrifice, Who (Question of identity), What (Query of nature), That which is the Supreme state, Relative of the worlds, Lord of the worlds, Lord of knowledge/Lakshmi's husband, and Affectionate to devotees."
+    },
+    {
+      "id": "vsn-stotram-79",
+      "verse_number": "79",
+      "startTime": 1115,
+      "endTime": 1123,
+      "original": "सुवर्णवर्णो हेमाङ्गो वराङ्गश्चन्दनाङ्गदी । वीरहा विषमः शून्यो घृताशीरचलश्चलः ॥ ७९॥",
+      "transliteration": "suvarṇavarṇo hemāṅgo varāṅgaścandanāṅgadī . vīrahā viṣamaḥ śūnyo ghṛtāśīracalaścalaḥ .. 79..",
+      "translation": "Golden-colored, Golden-limbed, Excellent limb, Adorned with sandalwood paste and armlets, Destroyer of valiant ones (demons), Unequalled/Difficult, Void (beyond description), Eating butter/Auspiciously blessed, Immovable, and Movable."
+    },
+    {
+      "id": "vsn-stotram-80",
+      "verse_number": "80",
+      "startTime": 1124,
+      "endTime": 1132,
+      "original": "अमानी मानदो मान्यो लोकस्वामी त्रिलोकधृक् । सुमेधा मेधजो धन्यः सत्यमेधा धराधरः ॥ ८०॥",
+      "transliteration": "amānī mānado mānyo lokasvāmī trilokadhṛk . sumedhā medhajo dhanyaḥ satyamedhā dharādharaः .. 80..",
+      "translation": "Without false ego, Giver of honor, Honorable, Lord of the worlds, Supporter of the three worlds, Good intellect, Born of sacrifice, Fortunate, Having truthful intellect, and Bearer of the Earth."
+    },
+    {
+      "id": "vsn-stotram-81",
+      "verse_number": "81",
+      "startTime": 1133,
+      "endTime": 1141,
+      "original": "तेजोवृषो द्युतिधरः सर्वशस्त्रभृतां वरः । प्रग्रहो निग्रहो व्यग्रो नैकश‍ृङ्गो गदाग्रजः ॥ ८१॥",
+      "transliteration": "tejovṛṣo dyutidharaḥ sarvaśastrabhṛtāṃ varaḥ . pragraho nigraho vyagro naikaśṛṅgo gadāgrajaḥ .. 81..",
+      "translation": "Showerer of splendor, Possessor of light, Best of all weapon-bearers, Restrainer (of senses), Punisher (of the wicked), Fully engaged, Having many horns (fish form), and Elder brother of the mace (Gada)."
+    },
+    {
+      "id": "vsn-stotram-82",
+      "verse_number": "82",
+      "startTime": 1142,
+      "endTime": 1149,
+      "original": "चतुर्मूर्तिश्चतुर्बाहुश्चतुर्व्यूहश्चतुर्गतिः । चतुरात्मा चतुर्भावश्चतुर्वेदविदेकपात् ॥ ८२॥",
+      "transliteration": "caturmūrtiścaturbāhuścaturvyūhaścaturgatiḥ . caturātmā caturbhāvaścaturvedavidekapāt .. 82..",
+      "translation": "Four-formed, Four-armed, Four-manifestations (Vyuhas), Four-goals (of life: Dharma, Artha, Kama, Moksha), Four-souled, Four-fold attitude (towards creation), Knower of the four Vedas, and One-footed (Sun)."
+    },
+    {
+      "id": "vsn-stotram-83",
+      "verse_number": "83",
+      "startTime": 1150,
+      "endTime": 1159,
+      "original": "समावर्तोऽनिवृत्तात्मा दुर्जयो दुरतिक्रमः । दुर्लभो दुर्गमो दुर्गो दुरावासो दुरारिहा ॥ ८३॥",
+      "transliteration": "samāvarto’nivṛttātmā durjayo duratikramaḥ . durlabho durgamo durgo durāvāso durārihā .. 83..",
+      "translation": "Turning back the cycles, Soul who does not return (from liberation), Hard to conquer, Hard to transgress, Hard to attain, Hard to reach, Difficult, Hard to dwell with (in the heart of the ignorant), and Destroyer of wicked enemies."
+    },
+    {
+      "id": "vsn-stotram-84",
+      "verse_number": "84",
+      "startTime": 1160,
+      "endTime": 1167,
+      "original": "शुभाङ्गो लोकसारङ्गः सुतन्तुस्तन्तुवर्धनः । इन्द्रकर्मा महाकर्मा कृतकर्मा कृतागमः ॥ ८४॥",
+      "transliteration": "śubhāṅgo lokasāraṅgaḥ sutantustantuvardhanaḥ . indrakarmā mahākarmā kṛtakarmā kṛtāgamaḥ .. 84..",
+      "translation": "Auspicious-limbed, Essence of the world, Good thread (subtle causes), Promoter of the thread (continuing the cosmic web), Having actions like Indra, Having great actions, One whose actions are accomplished, and One whose scriptures are established."
+    },
+    {
+      "id": "vsn-stotram-85",
+      "verse_number": "85",
+      "startTime": 1168,
+      "endTime": 1176,
+      "original": "उद्भवः सुन्दरः सुन्दो रत्ननाभः सुलोचनः । अर्को वाजसनः श‍ृङ्गी जयन्तः सर्वविज्जयी ॥ ८५॥",
+      "transliteration": "udbhavaḥ sundaraḥ sundo ratnanābhaḥ sulocanaḥ . arko vājasanaḥ śṛṅgī jayantaḥ sarvavijjayī .. 85..",
+      "translation": "Origin, Beautiful, Good giver/Auspicious, Jewel-navelled, Beautiful-eyed, Sun (Worshipped), Giver of food, Horned (Matsya), Victorious, and Victorious over all."
+    },
+    {
+      "id": "vsn-stotram-86",
+      "verse_number": "86",
+      "startTime": 1177,
+      "endTime": 1185,
+      "original": "सुवर्णबिन्दुरक्षोभ्यः सर्ववागीश्वरेश्वरः । महाह्रदो महागर्तो महाभूतो महानिधिः ॥ ८६॥",
+      "transliteration": "suvarṇabindurakṣobhyaḥ sarvavāgīśvareśvaraḥ . mahāhrado mahāgarto mahābhūto mahānidhiḥ .. 86..",
+      "translation": "Golden drop, Unshaken, Lord of all lords of speech, Great lake (of joy), Great pit (deep/unfathomable), Great being, and Great treasure."
+    },
+    {
+      "id": "vsn-stotram-87",
+      "verse_number": "87",
+      "startTime": 1186,
+      "endTime": 1193,
+      "original": "कुमुदः कुन्दरः कुन्दः पर्जन्यः पावनोऽनिलः । अमृताशोऽमृतवपुः सर्वज्ञः सर्वतोमुखः ॥ ८७॥",
+      "transliteration": "kumudaः kundaraः kundaः parjanyaः pāvano’nilaः . amṛtāśo’mṛtavapuḥ sarvajñaḥ sarvatomukhaḥ .. 87..",
+      "translation": "Delighter of the Earth, Giver of Kunda (jasmine flower or great strength), Kunda (jasmine or unblemished), Rain God, Purifier, Wind/Infinite, Eating nectar, Having an immortal form, All-knowing, and Having faces everywhere."
+    },
+    {
+      "id": "vsn-stotram-88",
+      "verse_number": "88",
+      "startTime": 1194,
+      "endTime": 1202,
+      "original": "सुलभः सुव्रतः सिद्धः शत्रुजिच्छत्रुतापनः । न्यग्रोधोऽदुम्बरोऽश्वत्थश्चाणूरान्ध्रनिषूदनः ॥ ८८॥",
+      "transliteration": "sulabhaḥ suvrataḥ siddhaḥ śatrujicchatrutāpanaḥ . nyagrodho’dumbaro’śvatthaścāṇūrāndhraniṣūdanaḥ .. 88..",
+      "translation": "Easily attained, Having good vows, Accomplished, Conqueror of enemies, Scorcher of enemies, Banyan tree, Fig tree (Audumbara), Peepal tree (Ashvattha), and Destroyer of Cāṇūra and Andhras."
+    },
+    {
+      "id": "vsn-stotram-89",
+      "verse_number": "89",
+      "startTime": 1203,
+      "endTime": 1211,
+      "original": "सहस्रार्चिः सप्तजिह्वः सप्तैधाः सप्तवाहनः । अमूर्तिरनघोऽचिन्त्यो भयकृद्भयनाशनः ॥ ८९॥",
+      "transliteration": "sahasrārciḥ saptajihvaḥ saptaidhāḥ saptavāhanaḥ . amūrtiranagho’cintyo bhayakṛdbhayanāśanaḥ .. 89..",
+      "translation": "Thousand-rayed, Seven-tongued (Fire God), Seven-flamed, Having seven horses (Sun God), Formless, Sinless, Inconceivable, Creator of fear (for the wicked), and Destroyer of fear (for devotees)."
+    },
+    {
+      "id": "vsn-stotram-90",
+      "verse_number": "90",
+      "startTime": 1212,
+      "endTime": 1220,
+      "original": "अणुर्बृहत्कृशः स्थूलो गुणभृन्निर्गुणो महान् । अधृतः स्वधृतः स्वास्यः प्राग्वंशो वंशवर्धनः ॥ ९०॥",
+      "transliteration": "aṇurbṛhatkṛśaḥ sthūlo guṇabhṛnnirguṇo mahān . adhṛtaḥ svadhṛtaḥ svāsyaḥ prāgvaṃśo vaṃśavardhanaḥ .. 90..",
+      "translation": "Minute, Huge, Slender/Subtle, Gross, Bearer of qualities, Beyond qualities, Great, Unsupported, Self-supported, Having a good face, Primordial lineage, and Promoter of the lineage."
+    },
+    {
+      "id": "vsn-stotram-91",
+      "verse_number": "91",
+      "startTime": 1221,
+      "endTime": 1229,
+      "original": "भारभृत् कथितो योगी योगीशः सर्वकामदः । आश्रमः श्रमणः क्षामः सुपर्णो वायुवाहनः ॥ ९१॥",
+      "transliteration": "bhārabhṛt kathito yogī yogīśaḥ sarvakāmadaḥ . āśramaḥ śramaṇaḥ kṣāmaḥ suparṇo vāyuvāhanaḥ .. 91..",
+      "translation": "Bearer of the burden (of the world), Celebrated, Yogī (Practitioner of Yoga), Lord of Yogīs, Giver of all desires, Hermitage/Refuge, Ascetic/Effacer (of sins), Diminished (patient), Good-winged (Garuḍa), and Having Vāyu (wind) as his vehicle."
+    },
+    {
+      "id": "vsn-stotram-92",
+      "verse_number": "92",
+      "startTime": 1230,
+      "endTime": 1237,
+      "original": "धनुर्धरो धनुर्वेदो दण्डो दमयिता दमः । अपराजितः सर्वसहो नियन्ताऽनियमोऽयमः ॥ ९२॥",
+      "transliteration": "dhanurdharo dhanurvedo daṇḍo damayitā damaḥ . aparājitaḥ sarvasaho niyantā’niyamo’yamaḥ .. 92..",
+      "translation": "Bearer of the bow, Knower of Dhanurveda (archery), Rod (Punishment), Subduer, Self-control, Unconquered, All-enduring, Regulator, Without rules (Independent), and Without Yama (death/control)."
+    },
+    {
+      "id": "vsn-stotram-93",
+      "verse_number": "93",
+      "startTime": 1238,
+      "endTime": 1246,
+      "original": "सत्त्ववान् सात्त्विकः सत्यः सत्यधर्मपरायणः । अभिप्रायः प्रियार्होऽर्हः प्रियकृत् प्रीतिवर्धनः ॥ ९३॥",
+      "transliteration": "sattvavān sāttvikaḥ satyaḥ satyadharmaparāyaṇaḥ . abhiprāyaḥ priyārho’rhaḥ priyakṛt prītivardhanaḥ .. 93..",
+      "translation": "Possessor of goodness/courage, Pure (Sattvic), Truth, Devoted to truth and Dharma, Intention/Aim, Deserving of love, Worshipped, Doer of pleasant things, and Enhancer of love."
+    },
+    {
+      "id": "vsn-stotram-94",
+      "verse_number": "94",
+      "startTime": 1247,
+      "endTime": 1254,
+      "original": "विहायसगतिर्ज्योतिः सुरुचिर्हुतभुग्विभुः । रविर्विरोचनः सूर्यः सविता रविलोचनः ॥ ९४॥",
+      "transliteration": "vihāyasagatirjyotiḥ surucirhutabhugvibhuः . ravirvirocanaḥ sūryaḥ savitā ravilocanaः .. 94..",
+      "translation": "Moving in the sky (Garuḍa), Light/Splendor, Good luster, Enjoyer of sacrifices (Fire), Pervasive, Sun, Shining brightly, Sun, Generator, and Sun-eyed."
+    },
+    {
+      "id": "vsn-stotram-95",
+      "verse_number": "95",
+      "startTime": 1255,
+      "endTime": 1263,
+      "original": "अनन्तो हुतभुग्भोक्ता सुखदो नैकजोऽग्रजः । अनिर्विण्णः सदामर्षी लोकाधिष्ठानमद्भुतः ॥ ९५॥",
+      "transliteration": "ananto hutabhugbhoktā sukhado naikajo’grajaḥ . anirviṇṇaḥ sadāmarṣī lokādhiṣṭhānamadbhutaḥ .. 95..",
+      "translation": "Endless, Eater of offerings, Enjoyer, Giver of happiness, Not born singly, Eldest, Unwearied/Undespondent, Always tolerant, Basis of the worlds, and Wonderful."
+    },
+    {
+      "id": "vsn-stotram-96",
+      "verse_number": "96",
+      "startTime": 1264,
+      "endTime": 1271,
+      "original": "सनात्सनातनतमः कपिलः कपिरव्ययः । स्वस्तिदः स्वस्तिकृत्स्वस्ति स्वस्तिभुक्स्वस्तिदक्षिणः ॥ ९६॥",
+      "transliteration": "sanātsanātanatamaḥ kapilaḥ kapiravyayaḥ . svastidaḥ svastikṛtsvasti svastibhuksvastidakṣiṇaः .. 96..",
+      "translation": "From time eternal, Most ancient, Brown/Sage Kapila, Monkey (Rama/Hanuman), Imperishable, Giver of welfare, Doer of welfare, Welfare/Auspiciousness, Enjoyer of welfare, and Possessing auspicious gifts."
+    },
+    {
+      "id": "vsn-stotram-97",
+      "verse_number": "97",
+      "startTime": 1272,
+      "endTime": 1280,
+      "original": "अरौद्रः कुण्डली चक्री विक्रम्यूर्जितशासनः । शब्दातिगः शब्दसहः शिशिरः शर्वरीकरः ॥ ९७॥",
+      "transliteration": "araudraḥ kuṇḍalī cakrī vikramyūrjitaśāsanaḥ . śabdātigaḥ śabdasahaḥ śiśiraḥ śarvarīkaraḥ .. 97..",
+      "translation": "Not fierce, Wearing ear-rings, Wielder of the discus, Valiant, Having powerful commands, Beyond words, Endurer of sounds, Cool, and Causer of night (Moon)."
+    },
+    {
+      "id": "vsn-stotram-98",
+      "verse_number": "98",
+      "startTime": 1281,
+      "endTime": 1288,
+      "original": "अक्रूरः पेशलो दक्षो दक्षिणः क्षमिणांवरः । विद्वत्तमो वीतभयः पुण्यश्रवणकीर्तनः ॥ ९८॥",
+      "transliteration": "akrūraḥ peśalo dakṣo dakṣiṇaः kṣamiṇāṃvaraः . vidvattamo vītabhayaḥ puṇyaśravaṇakīrtanaः .. 98..",
+      "translation": "Not cruel (or the Yadava chief), Tender/Soft, Skilful/Expert, Courteous/Clever, Best among the forgiving, Most knowledgeable, Free from fear, and Whose praise and hearing (of names) is meritorious."
+    },
+    {
+      "id": "vsn-stotram-99",
+      "verse_number": "99",
+      "startTime": 1289,
+      "endTime": 1297,
+      "original": "उत्तारणो दुष्कृतिहा पुण्यो दुःस्वप्ननाशनः । वीरहा रक्षणः सन्तो जीवनः पर्यवस्थितः ॥ ९९॥",
+      "transliteration": "uttāraṇo duṣkṛtihā puṇyo duḥsvapnanāśanaः . vīrahā rakṣaṇaḥ santo jīvanaḥ paryavasthitaḥ .. 99..",
+      "translation": "Lifting up (from suffering), Destroyer of bad deeds, Meritorious, Destroyer of bad dreams, Destroyer of valiant ones (enemies), Protector, Virtuous, Life-giver, and Pervasive."
+    },
+    {
+      "id": "vsn-stotram-100",
+      "verse_number": "100",
+      "startTime": 1298,
+      "endTime": 1306,
+      "original": "अनन्तरूपोऽनन्तश्रीर्जितमन्युर्भयापहः । चतुरश्रो गभीरात्मा विदिशो व्यादिशो दिशः ॥ १००॥",
+      "transliteration": "anantarūpo’nantaśrīrjitamanyurbhayāpahaः . caturaśro gabhīrātmā vidiśo vyādiśo diśaḥ .. 100..",
+      "translation": "Infinite forms, Infinite glory, Conqueror of anger, Remover of fear, Quadrangle (Just/Equitable), Deep Soul, Secondary directions, Intermediate directions, and Primary directions."
+    },
+    {
+      "id": "vsn-stotram-101",
+      "verse_number": "101",
+      "startTime": 1307,
+      "endTime": 1315,
+      "original": "अनादिर्भूर्भुवो लक्ष्मीः सुवीरो रुचिराङ्गदः । जननो जनजन्मादिर्भीमो भीमपराक्रमः ॥ १०१॥",
+      "transliteration": "anādirbhūrbhuvo lakṣmīḥ suvīro rucirāṅgadaः . janano janajanmādirbhīmo bhīmaparākramaḥ .. 101..",
+      "translation": "Beginningless, Earth, Bhuvas (Middle region), Wealth/Prosperity, Great hero, Having charming armlets, Generator, Origin of the birth of people, Terrible, and Having fearful valor."
+    },
+    {
+      "id": "vsn-stotram-102",
+      "verse_number": "102",
+      "startTime": 1316,
+      "endTime": 1324,
+      "original": "आधारनिलयोऽधाता पुष्पहासः प्रजागरः । ऊर्ध्वगः सत्पथाचारः प्राणदः प्रणवः पणः ॥ १०२॥",
+      "transliteration": "ādhāranilayo’dhātā puṣpahāsaḥ prajāgaraः . ūrdhvagaः satpathācāraः prāṇadaः praṇavaः paṇaḥ .. 102..",
+      "translation": "Dwelling in the support (Mūla Prakriti), Not a creator (or supporter of all), Smiling like a flower (Purity), Ever-awake, Moving upwards (Transcendent), Following the path of the good, Giver of life, Om (Pranava), and Price/Bet."
+    },
+    {
+      "id": "vsn-stotram-103",
+      "verse_number": "103",
+      "startTime": 1325,
+      "endTime": 1333,
+      "original": "प्रमाणं प्राणनिलयः प्राणभृत्प्राणजीवनः । तत्त्वं तत्त्वविदेकात्मा जन्ममृत्युजरातिगः ॥ १०३॥",
+      "transliteration": "pramāṇaṃ prāṇanilayaḥ prāṇabhṛtprāṇajīvanaः . tattvaṃ tattvavidekātmā janmamṛtyujarātigaḥ .. 103..",
+      "translation": "Proof/Authority, Abode of life-breath, Bearer of life, Life of life-breaths, Reality/Essence, Knower of Reality, One Soul, and Beyond birth, death, and old age."
+    },
+    {
+      "id": "vsn-stotram-104",
+      "verse_number": "104",
+      "startTime": 1334,
+      "endTime": 1342,
+      "original": "भूर्भुवःस्वस्तरुस्तारः सविता प्रपितामहः । यज्ञो यज्ञपतिर्यज्वा यज्ञाङ्गो यज्ञवाहनः ॥ १०४॥",
+      "transliteration": "bhūrbhuvaःsvastarustāraः savitā prapitāmahaः . yajño yajñapatiryajvā yajñāṅgo yajñavāhanaः .. 104..",
+      "translation": "Earth, Middle region, Heaven (The three worlds), Tree (Cosmic tree), Deliverer/Star, Sun/Generator, Great-grandfather (of Brahma), Sacrifice, Lord of sacrifice, Sacrificer, Part of the sacrifice, and Vehicle of the sacrifice."
+    },
+    {
+      "id": "vsn-stotram-105",
+      "verse_number": "105",
+      "startTime": 1343,
+      "endTime": 1351,
+      "original": "यज्ञभृद् यज्ञकृद् यज्ञी यज्ञभुग् यज्ञसाधनः । यज्ञान्तकृद् यज्ञगुह्यमन्नमन्नाद एव च ॥ १०५॥",
+      "transliteration": "yajñabhṛd yajñakṛd yajñī yajñabhug yajñasādhanaः . yajñāntakṛd yajñaguhyamannamannāda eva ca .. 105..",
+      "translation": "Supporter of sacrifice, Doer of sacrifice, Sacrificer (Participating in yajna), Enjoyer of sacrifice, Means of sacrifice, Finisher of sacrifice, Secret of sacrifice, Food, and Eater of food."
+    },
+    {
+      "id": "vsn-stotram-106",
+      "verse_number": "106",
+      "startTime": 1352,
+      "endTime": 1360,
+      "original": "आत्मयोनिः स्वयञ्जातो वैखानः सामगायनः । देवकीनन्दनः स्रष्टा क्षितीशः पापनाशनः ॥ १०६॥",
+      "transliteration": "ātmayoniḥ svayañjāto vaikhānaḥ sāmagāyanaः . devakīnandanaḥ sraṣṭā kṣitīśaः pāpanāśanaः .. 106..",
+      "translation": "Self-source, Self-born, The hermit Vaikhāna (or one who splits), Singer of the Sāma Veda, Son of Devakī, Creator, Lord of the Earth, and Destroyer of sins."
+    },
+    {
+      "id": "vsn-stotram-107",
+      "verse_number": "107",
+      "startTime": 1361,
+      "endTime": 1372,
+      "original": "शङ्खभृन्नन्दकी चक्री शार्ङ्गधन्वा गदाधरः । रथाङ्गपाणिरक्षोभ्यः सर्वप्रहरणायुधः ॥ १०७॥ सर्वप्रहरणायुध ॐ नम इति ।",
+      "transliteration": "śaṅkhabhṛnnandakī cakrī śārṅgadhanvā gadādharaḥ . rathāṅgapāṇirakṣobhyaḥ sarvapraharaṇāyudhaḥ .. 107.. sarvapraharaṇāyudha oṃ nama iti .",
+      "translation": "Bearer of the conch (Pāñchajanya), Possessing the sword Nandaki, Wielder of the discus (Sudarshana), Possessing the bow Śārṅga, Wielder of the mace (Kaumodakī), Having the discus in his hand, Unshakable, and Possessing all weapons."
+    },
+    {
+      "id": "vsn-stotram-108",
+      "verse_number": "108",
+      "startTime": 1373,
+      "endTime": null,
+      "original": "वनमाली गदी शार्ङ्गी शङ्खी चक्री च नन्दकी । श्रीमान् नारायणो विष्णुर्वासुदेवोऽभिरक्षतु ॥ १०८॥ श्री वासुदेवोऽभिरक्षतु ॐ नम इति ।",
+      "transliteration": "vanamālī gadī śārṅgī śaṅkhī cakrī ca nandakī . śrīmān nārāyaṇo viṣṇurvāsudevo’bhirakṣatu .. 108.. śrī vāsudevo’bhirakṣatu oṃ nama iti .",
+      "translation": "Bearer of the forest garland, Possessing the mace, Possessing the bow Śārṅga, Possessing the conch, Possessing the discus, and Possessing the sword Nandaki. May the Glorious Nārāyaṇa, Viṣṇu, the son of Vasudeva, protect us."
+    },
+  {
+    "id": "vsn-uttara-1",
     "verse_number": "1",
-    "original": "विश्वं विष्णुर्वषट्कारो भूतभव्यभवत्प्रभुः । भूतकृद्भूतभृद्भावो भूतात्मा भूतभावनः ॥ १॥",
-    "transliteration": "viśvaṃ viṣṇurvaṣaṭkāro bhūtabhavyabhavatprabhuḥ . bhūtakṛdbhūtabhṛdbhāvo bhūtātmā bhūtabhāvanaḥ .. 1..",
-    "translation": "The Universe, the Pervader, the Sacrificial Agent, the Lord of past, present, and future, Creator of beings, Sustainer of beings, Pure Existence, Soul of all beings, and the one who gives form to beings."
+    "original": "इतीदं कीर्तनीयस्य केशवस्य महात्मनः । नाम्नां सहस्रं दिव्यानामशेषेण प्रकीर्तितम् ॥ १॥",
+    "transliteration": "itīdaṃ kīrtanīyasya keśavasya mahātmanaḥ . nāmnāṃ sahasraṃ divyānāmaśeṣeṇa prakīrtitam .. 1..",
+    "translation": "Thus, this thousand of divine names of the glorious Keśava, who is worthy of praise, has been entirely recited (by Bhīṣma to Yudhiṣṭhira, as he begins the Uttara Nyāsa)."
   },
   {
-    "id": "vsn-stotram-2",
+    "id": "vsn-uttara-2",
     "verse_number": "2",
-    "original": "पूतात्मा परमात्मा च मुक्तानां परमा गतिः । अव्ययः पुरुषः साक्षी क्षेत्रज्ञोऽक्षर एव च ॥ २॥",
-    "transliteration": "pūtātmā paramātmā ca muktānāṃ paramā gatiḥ . avyayaḥ puruṣaḥ sākṣī kṣetrajño’kṣara eva ca .. 2..",
-    "translation": "Pure Soul, Supreme Soul, the ultimate goal of the liberated, Imperishable, Person/Spirit, Witness, Knower of the Field (body), and also the Indestructible."
+    "original": "य इदं श‍ृणुयान्नित्यं यश्चापि परिकीर्तयेत् । नाशुभं प्राप्नुयात्किञ्चित्सोऽमुत्रेह च मानवः ॥ २॥",
+    "transliteration": "ya idaṃ śṛṇuyānnityaṃ yaścāpi parikīrtayet . nāśubhaṃ prāpnuyātkiñcitso’mutreha ca mānavaḥ .. 2..",
+    "translation": "That person who daily listens to this (Stotra), or who recites it, shall meet with nothing inauspicious, either here (in this life) or hereafter."
   },
   {
-    "id": "vsn-stotram-3",
+    "id": "vsn-uttara-3",
     "verse_number": "3",
-    "original": "योगो योगविदां नेता प्रधानपुरुषेश्वरः । नारसिंहवपुः श्रीमान् केशवः पुरुषोत्तमः ॥ ३॥",
-    "transliteration": "yogo yogavidāṃ netā pradhānapuruṣeśvaraḥ . nārasiṃhavapuḥ śrīmān keśavaḥ puruṣottamaḥ .. 3..",
-    "translation": "Yoga (the means and the end), Leader of those who know Yoga, Lord of Primordial Matter (Prakriti) and Spirit (Purusha), Having the form of Narasimha, Glorious, Having beautiful hair (or He who controls Brahma and Shiva), and the Supreme Person."
+    "original": "वेदान्तगो ब्राह्मणः स्यात्क्षत्रियो विजयी भवेत् । वैश्यो धनसमृद्धः स्याच्छूद्रः सुखमवाप्नुयात् ॥ ३॥",
+    "transliteration": "vedāntago brāhmaṇaḥ syātkṣatriyo vijayī bhavet . vaiśyo dhanasamṛddhaḥ syācchūdraḥ sukhamavāpnuyāt .. 3..",
+    "translation": "A Brāhmaṇa will attain mastery of the Vedānta, a Kṣatriya will become victorious, a Vaiśya will be rich and prosperous, and a Śūdra will attain happiness."
   },
   {
-    "id": "vsn-stotram-4",
+    "id": "vsn-uttara-4",
     "verse_number": "4",
-    "original": "सर्वः शर्वः शिवः स्थाणुर्भूतादिर्निधिरव्ययः । सम्भवो भावनो भर्ता प्रभवः प्रभुरीश्वरः ॥ ४॥",
-    "transliteration": "sarvaḥ śarvaḥ śivaḥ sthāṇurbhūtādirnidhiravyayaḥ . sambhavo bhāvano bhartā prabhavaḥ prabhurīśvaraḥ .. 4..",
-    "translation": "All-encompassing, Destroyer (like Shiva), Auspicious, Fixed (Unchanging), Origin of the elements, Imperishable Treasure, Originator, Promoter/Creator, Sustainer/Supporter, Place of origin, Mighty Lord, and the Ruler."
+    "original": "धर्मार्थी प्राप्नुयाद्धर्ममर्थार्थी चार्थमाप्नुयात् । कामानवाप्नुयात्कामी प्रजार्थी प्राप्नुयात्प्रजाम् ॥ ४॥",
+    "transliteration": "dharmārthī prāpnuyāddharmamarthārthī cārthamāpnuyāt . kāmānavāpnuyātkāmī prajārthī prāpnuyātprajām .. 4..",
+    "translation": "He who seeks Dharma will attain Dharma; he who seeks wealth will attain wealth; he who desires enjoyment will attain his desires; and he who seeks progeny will obtain offspring."
   },
   {
-    "id": "vsn-stotram-5",
+    "id": "vsn-uttara-5",
     "verse_number": "5",
-    "original": "स्वयम्भूः शम्भुरादित्यः पुष्कराक्षो महास्वनः । अनादिनिधनो धाता विधाता धातुरुत्तमः ॥ ५॥",
-    "transliteration": "svayambhūḥ śambhurādityaḥ puṣkarākṣo mahāsvanaḥ . anādinidhano dhātā vidhātā dhāturuttamaḥ .. 5..",
-    "translation": "Self-Born, Bestower of Happiness, Sun (or Son of Aditi/Mother of the gods), Lotus-Eyed, Having a Great Sound, Having no beginning or end, Creator/Sustainer, Ordainer (Distributor of fruits), and the Best of Creators."
+    "original": "भक्तिमान् यः सदोत्थाय शुचिस्तद्गतमानसः । सहस्रं वासुदेवस्य नाम्नामेतत्प्रकीर्तयेत् ॥ ५॥",
+    "transliteration": "bhaktimān yaḥ sadotthāya śucistadgatamānasaḥ . sahasraṃ vāsudevasya nāmnāmetatprakīrtayet .. 5..",
+    "translation": "The devotee who, rising every day, being pure and having his mind fixed on Him, recites this thousand names of Vāsudeva—"
   },
   {
-    "id": "vsn-stotram-6",
+    "id": "vsn-uttara-6",
     "verse_number": "6",
-    "original": "अप्रमेयो हृषीकेशः पद्मनाभोऽमरप्रभुः । विश्वकर्मा मनुस्त्वष्टा स्थविष्ठः स्थविरो ध्रुवः ॥ ६॥",
-    "transliteration": "aprameyo hṛṣīkeśaḥ padmanābho’maraprabhuḥ . viśvakarmā manustvaṣṭā sthaviṣṭhaḥ sthaviro dhruvaḥ .. 6..",
-    "translation": "Immeasurable, Lord of the senses, Lotus-Navelled, Lord of the Immortals (Devas), Creator of the Universe, Man (Thinker), Carpenter of the gods, Hugest (Most Pervasive), Ancient, and Permanent/Fixed."
+    "original": "यशः प्राप्नोति विपुलं ज्ञातिप्राधान्यमेव च । अचलां श्रियमाप्नोति श्रेयः प्राप्नोत्यनुत्तमम् ॥ ६॥",
+    "transliteration": "yaśaḥ prāpnoti vipulaṃ jñātiprādhānyameva ca . acalāṃ śriyamāpnoti śreyaḥ prāpnotyanuttamam .. 6..",
+    "translation": "He obtains great fame and superiority among his relatives, attains unshakable prosperity, and achieves the highest good."
   },
   {
-    "id": "vsn-stotram-7",
+    "id": "vsn-uttara-7",
     "verse_number": "7",
-    "original": "अग्राह्यः शाश्वतः कृष्णो लोहिताक्षः प्रतर्दनः । प्रभूतस्त्रिककुब्धाम पवित्रं मङ्गलं परम् ॥ ७॥",
-    "transliteration": "agrāhyaḥ śāśvataḥ kṛṣṇo lohitākṣaḥ pratardanaḥ . prabhūtastrikakubdhāma pavitraṃ maṅgalaṃ param .. 7..",
-    "translation": "Unreachable (by senses), Eternal, Dark-Colored (Attractive), Red-Eyed, Destroyer (of foes), Abundant, Dwelling in the three directions (regions), Pure, and the Supreme Auspiciousness."
+    "original": "न भयं क्वचिदाप्नोति वीर्यं तेजश्च विन्दति । भवत्यरोगो द्युतिमान्बलरूपगुणान्वितः ॥ ७॥",
+    "transliteration": "na bhayaṃ kvacidāpnoti vīryaṃ tejaśca vindati . bhavatyarogo dyutimānbalarūpaguṇānvitaḥ .. 7..",
+    "translation": "He will nowhere experience fear, and he will acquire valor and brilliance. He will become free from disease, radiant, and endowed with strength, beauty, and good qualities."
   },
   {
-    "id": "vsn-stotram-8",
+    "id": "vsn-uttara-8",
     "verse_number": "8",
-    "original": "ईशानः प्राणदः प्राणो ज्येष्ठः श्रेष्ठः प्रजापतिः । हिरण्यगर्भो भूगर्भो माधवो मधुसूदनः ॥ ८॥",
-    "transliteration": "īśānaḥ prāṇadaḥ prāṇo jyeṣṭhaḥ śreṣṭhaḥ prajāpatiḥ . hiraṇyagarbho bhūgarbho mādhavo madhusūdanaḥ .. 8..",
-    "translation": "Ruler, Giver of Life, Life (breath), Eldest, Most Excellent, Lord of all creatures, Golden-Wombed (Brahma), Possessing the Earth as his womb, Lord of knowledge/Husband of Lakshmi, and Destroyer of the demon Madhu."
+    "original": "रोगार्तो मुच्यते रोगाद्बद्धो मुच्येत बन्धनात् । भयान्मुच्येत भीतस्तु मुच्येतापन्न आपदः ॥ ८॥",
+    "transliteration": "rogārto mucyate rogādbaddho mucyeta bandhanāt . bhayānmucyeta bhītastu mucyetāpanna āpadaḥ .. 8..",
+    "translation": "A person afflicted by disease is freed from illness; one who is bound is freed from bondage; one who is afraid is freed from fear; and one who is in distress is freed from calamity."
   },
   {
-    "id": "vsn-stotram-9",
+    "id": "vsn-uttara-9",
     "verse_number": "9",
-    "original": "ईश्वरो विक्रमी धन्वी मेधावी विक्रमः क्रमः । अनुत्तमो दुराधर्षः कृतज्ञः कृतिरात्मवान् ॥ ९॥",
-    "transliteration": "īśvaro vikramī dhanvī medhāvī vikramaḥ kramaḥ . anuttamo durādharṣaḥ kṛtajñaḥ kṛtirātmavān .. 9..",
-    "translation": "Ruler, Valiant, Bowman (bearing the bow Sharanga), Intelligent, Courageous, Orderly (Progressive), Unequalled, Invincible, Knower of what is done (Gratitude), Work (Action itself), and Self-Possessed."
+    "original": "दुर्गाण्यतितरत्याशु पुरुषः पुरुषोत्तमम् । स्तुवन्नामसहस्रेण नित्यं भक्तिसमन्वितः ॥ ९॥",
+    "transliteration": "durgāṇyatitaratyāśu puruṣaḥ puruṣottamam . stuvannāmasahasreṇa nityaṃ bhaktisamanvitaḥ .. 9..",
+    "translation": "A person devotedly praising the Supreme Person (Puruṣottama) daily with this thousand names quickly overcomes difficulties."
   },
   {
-    "id": "vsn-stotram-10",
+    "id": "vsn-uttara-10",
     "verse_number": "10",
-    "original": "सुरेशः शरणं शर्म विश्वरेताः प्रजाभवः । अहः संवत्सरो व्यालः प्रत्ययः सर्वदर्शनः ॥ १०॥",
-    "transliteration": "sureśaḥ śaraṇaṃ śarma viśvaretāḥ prajābhavaḥ . ahaḥ saṃvatsaro vyālaḥ pratyayaḥ sarvadarśanaḥ .. 10..",
-    "translation": "Lord of the Devas, Refuge, Bliss/Happiness, Seed of the Universe, Source of all creation, Day, Year, Cobra (or unattainable), Knowledge/Faith, and One who sees everything."
+    "original": "वासुदेवाश्रयो मर्त्यो वासुदेवपरायणः । सर्वपापविशुद्धात्मा याति ब्रह्म सनातनम् ॥ १०॥",
+    "transliteration": "vāsudevāśrayo martyo vāsudevaparāyaṇaḥ . sarvapāpaviśuddhātmā yāti brahma sanātanam .. 10..",
+    "translation": "The mortal who takes refuge in Vāsudeva and considers Vāsudeva as the supreme goal, having purified his soul from all sins, attains the eternal Brahman."
   },
   {
-    "id": "vsn-stotram-11",
+    "id": "vsn-uttara-11",
     "verse_number": "11",
-    "original": "अजः सर्वेश्वरः सिद्धः सिद्धिः सर्वादिरच्युतः । वृषाकपिरमेयात्मा सर्वयोगविनिःसृतः ॥ ११॥",
-    "transliteration": "ajaḥ sarveśvaraḥ siddhaḥ siddhiḥ sarvādiracyutaḥ . vṛṣākapirameyātmā sarvayogaviniḥsṛtaḥ .. 11..",
-    "translation": "Unborn, Lord of all, Attained Perfection, Perfection itself, Beginning of all, Immovable, The Boar (or Dharma), Immeasurable Soul, and One attained through all Yogas."
+    "original": "न वासुदेवभक्तानामशुभं विद्यते क्वचित् । जन्ममृत्युजराव्याधिभयं नैवोपजायते ॥ ११॥",
+    "transliteration": "na vāsudevabhaktānāmaśubhaṃ vidyate kvacit . janmamṛtyujarāvyādhibhayaṃ naivopajāyate .. 11..",
+    "translation": "For the devotees of Vāsudeva, there is nowhere any inauspiciousness. The fear of birth, death, old age, and sickness does not arise at all."
   },
   {
-    "id": "vsn-stotram-12",
+    "id": "vsn-uttara-12",
     "verse_number": "12",
-    "original": "वसुर्वसुमनाः सत्यः समात्माऽसम्मितः समः । अमोघः पुण्डरीकाक्षो वृषकर्मा वृषाकृतिः ॥ १२॥",
-    "transliteration": "vasurvasumanāḥ satyaḥ samātmā’sammitaḥ samaḥ . amoghaḥ puṇḍarīkākṣo vṛṣakarmā vṛṣākṛtiḥ .. 12..",
-    "translation": "Dweller in all beings/Wealth, Noble Minded, Truth, Equal to all, Incomparable, Equal (to all things), Fruitful, Lotus-Eyed, He whose actions are righteous (Dharma), and having the form of Dharma."
+    "original": "इमं स्तवमधीयानः श्रद्धाभक्तिसमन्वितः । युज्येतात्मसुखक्षान्तिश्रीधृतिस्मृतिकीर्तिभिः ॥ १२॥",
+    "transliteration": "imaṃ stavamadhīyānaḥ śraddhābhaktisamanvitaḥ . yujyetātmasukhakṣāntiśrīdhṛtismṛtikīrtibhiḥ .. 12..",
+    "translation": "One who studies this hymn, endowed with faith and devotion, will be united with self-happiness, forgiveness, prosperity, fortitude, memory, and fame."
   },
   {
-    "id": "vsn-stotram-13",
+    "id": "vsn-uttara-13",
     "verse_number": "13",
-    "original": "रुद्रो बहुशिरा बभ्रुर्विश्वयोनिः शुचिश्रवाः । अमृतः शाश्वतस्थाणुर्वरारोहो महातपाः ॥ १३॥",
-    "transliteration": "rudro bahuśirā babhrurviśvayoniḥ śuciśravāḥ . amṛtaḥ śāśvatasthāṇurvarāroho mahātapāḥ .. 13..",
-    "translation": "Terrible (one who removes suffering), Multi-headed, Bearer (of the world), Source of the universe, Having pure fame, Immortal, Eternal and Fixed, Supreme ascent (or excellent vehicle), and Great ascetic."
+    "original": "न क्रोधो न च मात्सर्यं न लोभो नाशुभा मतिः । भवन्ति कृत पुण्यानां भक्तानां पुरुषोत्तमे ॥ १३॥",
+    "transliteration": "na krodho na ca mātsaryaṃ na lobho nāśubhā matiḥ . bhavanti kṛta puṇyānāṃ bhaktānāṃ puruṣottame .. 13..",
+    "translation": "Neither anger, nor jealousy, nor greed, nor wicked thoughts arise in the minds of those meritorious devotees of Puruṣottama."
   },
   {
-    "id": "vsn-stotram-14",
+    "id": "vsn-uttara-14",
     "verse_number": "14",
-    "original": "सर्वगः सर्वविद्भानुर्विष्वक्सेनो जनार्दनः । वेदो वेदविदव्यङ्गो वेदाङ्गो वेदवित् कविः ॥ १४॥",
-    "transliteration": "sarvagaḥ sarvavidbhānurviṣvakseno janārdanaḥ . vedo vedavidavyaṅgo vedāṅgo vedavit kaviḥ .. 14..",
-    "translation": "All-pervading, All-knowing, Resplendent, Conqueror of all directions, Afflictor of wicked people, Veda (scriptures), Knower of the Vedas, Without defects, Parts of the Veda (ancillaries), Knower of the essence of the Vedas, and Seer/Poet."
+    "original": "द्यौः सचन्द्रार्कनक्षत्रा खं दिशो भूर्महोदधिः । वासुदेवस्य वीर्येण विधृतानि महात्मनः ॥ १४॥",
+    "transliteration": "dyauḥ sacandrārkanakṣatrā khaṃ diśo bhūrmahodadhiḥ . vāsudevasya vīryeṇa vidhṛtāni mahātmanaḥ .. 14..",
+    "translation": "The sky with the moon, sun, and stars, the firmament, the directions, the earth, and the great ocean—all these are sustained by the power of the great-souled Vāsudeva."
   },
   {
-    "id": "vsn-stotram-15",
+    "id": "vsn-uttara-15",
     "verse_number": "15",
-    "original": "लोकाध्यक्षः सुराध्यक्षो धर्माध्यक्षः कृताकृतः । चतुरात्मा चतुर्व्यूहश्चतुर्दंष्ट्रश्चतुर्भुजः ॥ १५॥",
-    "transliteration": "lokādhyakṣaḥ surādhyakṣo dharmādhyakṣaḥ kṛtākṛtaḥ . caturātmā caturvyūhaścaturdaṃṣṭraścaturbhujaḥ .. 15..",
-    "translation": "Overseer of the worlds, Overseer of the Devas, Overseer of Dharma, Cause and Effect/Done and Undone, Four-Souled (mind, intellect, ego, consciousness), Four-formed (Vyuha forms), Having four tusks (as Narasimha), and Four-armed."
+    "original": "ससुरासुरगन्धर्वं सयक्षोरगराक्षसम् । जगद्वशे वर्ततेदं कृष्णस्य सचराचरम् ॥ १५॥",
+    "transliteration": "sasurāsuragandharvaṃ sayakṣoragarākṣasam . jagadvaśe vartatedaṃ kṛṣṇasya sacarācaram .. 15..",
+    "translation": "This entire universe, including the gods, demons, Gandharvas, Yakṣas, Nāgas, and Rākṣasas—both moving and non-moving—is subject to Kṛṣṇa."
   },
   {
-    "id": "vsn-stotram-16",
+    "id": "vsn-uttara-16",
     "verse_number": "16",
-    "original": "भ्राजिष्णुर्भोजनं भोक्ता सहिष्णुर्जगदादिजः । अनघो विजयो जेता विश्वयोनिः पुनर्वसुः ॥ १६॥",
-    "transliteration": "bhrājiṣṇurbhojanaṃ bhoktā sahiṣṇurjagadādijaḥ . anagho vijayo jetā viśvayoniḥ punarvasuḥ .. 16..",
-    "translation": "Shining brightly, Food/Object of enjoyment, Enjoyer/Eater, Tolerant, Born before the world, Sinless, Victorious, Conqueror, Source of the universe, and the asterism Punarvasu."
+    "original": "इन्द्रियाणि मनो बुद्धिः सत्त्वं तेजो बलं धृतिः । वासुदेवात्मकान्याहुः क्षेत्रं क्षेत्रज्ञ एव च ॥ १६॥",
+    "transliteration": "indriyāṇi mano buddhiḥ sattvaṃ tejo balaṃ dhṛtiḥ . vāsudevātmakānyāhuḥ kṣetraṃ kṣetrajña eva ca .. 16..",
+    "translation": "The senses, mind, intellect, Sattva (goodness), splendor, strength, and fortitude—all these, including the field (body) and the knower of the field (soul), are said to be permeated by Vāsudeva."
   },
   {
-    "id": "vsn-stotram-17",
+    "id": "vsn-uttara-17",
     "verse_number": "17",
-    "original": "उपेन्द्रो वामनः प्रांशुरमोघः शुचिरूर्जितः । अतीन्द्रः सङ्ग्रहः सर्गो धृतात्मा नियमो यमः ॥ १७॥",
-    "transliteration": "upendro vāmanaḥ prāṃśuramoghaḥ śucirūrjitaḥ . atīndraḥ saṅgrahaḥ sargo dhṛtātmā niyamo yamaḥ .. 17..",
-    "translation": "Younger brother of Indra, Dwarf incarnation, Lofty/Tall, Infallible/Fruitful, Pure, Powerful, Beyond the senses, Gathering (collecting the universe), Creation/Nature, Determined Soul, Rule (discipline), and Controller (Lord of death)."
+    "original": "सर्वागमानामाचारः प्रथमं परिकल्प्यते । आचारप्रभवो धर्मो धर्मस्य प्रभुरच्युतः ॥ १७॥",
+    "transliteration": "sarvāgamānāmācāraḥ prathamaṃ parikalpyate . ācāraprabhavo dharmo dharmasya prabhuracyutaḥ .. 17..",
+    "translation": "Right conduct (Ācāra) is considered foremost among all scriptures. Dharma arises from right conduct, and Acyuta (Vishnu) is the Lord of Dharma."
   },
   {
-    "id": "vsn-stotram-18",
+    "id": "vsn-uttara-18",
     "verse_number": "18",
-    "original": "वेद्यो वैद्यः सदायोगी वीरहा माधवो मधुः । अतीन्द्रियो महामायो महोत्साहो महाबलः ॥ १८॥",
-    "transliteration": "vedyo vaidyaḥ sadāyogī vīrahā mādhavo madhuḥ . atīndriyo mahāmāyo mahotsāho mahābalaḥ .. 18..",
-    "translation": "To be known, Knower (Physician), Ever-absorbed in Yoga, Destroyer of valiant foes, Lord of knowledge/Husband of Lakshmi, Honey/Sweet, Beyond the senses, Great Master of illusion, Greatly enthusiastic, and Greatly powerful."
+    "original": "ऋषयः पितरो देवा महाभूतानि धातवः । जङ्गमाजङ्गमं चेदं जगन्नारायणोद्भवम् ॥ १८॥",
+    "transliteration": "ṛṣayaḥ pitaro devā mahābhūtāni dhātavaḥ . jaṅgamājaṅgamaṃ cedaṃ jagannārāyaṇodbhavam .. 18..",
+    "translation": "The Sages, ancestors (Pitṛs), gods (Devas), the great elements, the essential substances (Dhātus), and this entire universe, both moving and non-moving, originate from Nārāyaṇa."
   },
   {
-    "id": "vsn-stotram-19",
+    "id": "vsn-uttara-19",
     "verse_number": "19",
-    "original": "महाबुद्धिर्महावीर्यो महाशक्तिर्महाद्युतिः । अनिर्देश्यवपुः श्रीमानमेयात्मा महाद्रिधृक् ॥ १९॥",
-    "transliteration": "mahābuddhirmahāvīryo mahāśaktirmahādyutiḥ . anirdeśyavapuḥ śrīmānameyātmā mahādridhṛk .. 19..",
-    "translation": "Great Intellect, Great Valor, Great Power, Great Splendor, Having an Indescribable Form, Glorious/Prosperous, Immeasurable Soul, and Bearer of the great mountain (Mandara/Govardhana)."
+    "original": "योगो ज्ञानं तथा साङ्ख्यं विद्याः शिल्पादि कर्म च । वेदाः शास्त्राणि विज्ञानमेतत्सर्वं जनार्दनात् ॥ १९॥",
+    "transliteration": "yogo jñānaṃ tathā sāṅkhyaṃ vidyāḥ śilpādi karma ca . vedāḥ śāstrāṇi vijñānametatsarvaṃ janārdanāt .. 19..",
+    "translation": "Yoga, knowledge, as well as Sāṅkhya, the various branches of learning, crafts and arts, the Vedas, the scriptures (Śāstras), and spiritual wisdom—all this proceeds from Janārdana."
   },
   {
-    "id": "vsn-stotram-20",
+    "id": "vsn-uttara-20",
     "verse_number": "20",
-    "original": "महेष्वासो महीभर्ता श्रीनिवासः सतां गतिः । अनिरुद्धः सुरानन्दो गोविन्दो गोविदां पतिः ॥ २०॥",
-    "transliteration": "maheṣvāso mahībhartā śrīnivāsaḥ satāṃ gatiḥ . aniruddhaḥ surānando govindo govidāṃ patiḥ .. 20..",
-    "translation": "Possessing a great bow, Supporter of the Earth, Abode of Lakshmi, Goal of the virtuous, Unobstructed, Joy of the Devas, Protector of cows/Knower of the Vedas, and Lord of the wise."
+    "original": "एको विष्णुर्महद्भूतं पृथग्भूतान्यनेकशः । त्रींल्लोकान्व्याप्य भूतात्मा भुङ्क्ते विश्वभुगव्ययः ॥ २०॥",
+    "transliteration": "eko viṣṇurmahadbhūtaṃ pṛthagbhūtānyanekaśaḥ . trīṃllokānvyāpya bhūtātmā bhuṅkte viśvabhugavyayaḥ .. 20..",
+    "translation": "The one Viṣṇu is the great being, existing in numerous, separate forms. Pervading the three worlds, the Soul of all beings enjoys (or protects) as the imperishable universal enjoyer."
   },
   {
-    "id": "vsn-stotram-21",
+    "id": "vsn-uttara-21",
     "verse_number": "21",
-    "original": "मरीचिर्दमनो हंसः सुपर्णो भुजगोत्तमः । हिरण्यनाभः सुतपाः पद्मनाभः प्रजापतिः ॥ २१॥",
-    "transliteration": "marīcirdamano haṃsaḥ suparṇo bhujagottamaḥ . hiraṇyanābhaḥ sutapāḥ padmanābhaḥ prajāpatiḥ .. 21..",
-    "translation": "Ray of light, Controller (Subduer), Swan (Hamsa), Good-winged (Garuḍa), Best of snakes (Ananta), Golden-navelled, Possessing great penance, Lotus-navelled, and Lord of creation."
+    "original": "इमं स्तवं भगवतो विष्णोर्व्यासेन कीर्तितम् । पठेद्य इच्छेत्पुरुषः श्रेयः प्राप्तुं सुखानि च ॥ २१॥",
+    "transliteration": "imaṃ stavaṃ bhagavato viṣṇorvyāsena kīrtitam . paṭhedya icchetpuruṣaḥ śreyaḥ prāptuṃ sukhāni ca .. 21..",
+    "translation": "This hymn of the Glorious Viṣṇu, recited by Vyāsa, should be read by the person who desires to attain supreme good and happiness."
   },
   {
-    "id": "vsn-stotram-22",
+    "id": "vsn-uttara-22",
     "verse_number": "22",
-    "original": "अमृत्युः सर्वदृक् सिंहः सन्धाता सन्धिमान् स्थिरः । अजो दुर्मर्षणः शास्ता विश्रुतात्मा सुरारिहा ॥ २२॥",
-    "transliteration": "amṛtyuḥ sarvadṛk siṃhaḥ sandhātā sandhimān sthiraḥ . ajo durmarṣaṇaḥ śāstā viśrutātmā surārihā .. 22..",
-    "translation": "Beyond death, All-seeing, Lion (Brave), Regulator, Possessor of union (with all things), Steady, Unborn, Intolerant (of evil), Ruler/Disciplinarian, Famous Soul, and Destroyer of the foes of the Devas."
+    "original": "विश्वेश्वरमजं देवं जगतः प्रभुमव्ययम् । भजन्ति ये पुष्कराक्षं न ते यान्ति पराभवम् ॥ २२॥",
+    "transliteration": "viśveśvaramajaṃ devaṃ jagataḥ prabhumavyayam . bhajanti ye puṣkarākṣaṃ na te yānti parābhavam .. 22..",
+    "translation": "Those who worship the Lord of the Universe, the Unborn God, the imperishable Master of the world—the Lotus-Eyed one—they do not meet with defeat."
   },
   {
-    "id": "vsn-stotram-23",
+    "id": "vsn-uttara-23",
     "verse_number": "23",
-    "original": "गुरुर्गुरुतमो धाम सत्यः सत्यपराक्रमः । निमिषोऽनिमिषः स्रग्वी वाचस्पतिरुदारधीः ॥ २-३॥",
-    "transliteration": "gururgurutamo dhāma satyaḥ satyaparākramaḥ . nimiṣo’nimiṣaḥ sragvī vācaspatirudāradhīḥ .. 23..",
-    "translation": "Teacher, Greatest teacher, Effulgence/Abode, Truth, Possessing truthful valor, Winker, Non-winker, Wearing a garland, Lord of speech (Jupiter), and Noble-minded."
+    "original": "पद्मपत्रविशालाक्ष पद्मनाभ सुरोत्तम । भक्तानामनुरक्तानां त्राता भव जनार्दन ॥ २३॥",
+    "transliteration": "padmapatraviśālākṣa padmanābha surottama . bhaktānāmanuraktānāṃ trātā bhava janārdana .. 23..",
+    "translation": "Arjuna said: O Great-eyed like a lotus leaf, O Lotus-Navelled, O Best of the Devas, O Janārdana, be the protector of your devoted and loving devotees!"
   },
   {
-    "id": "vsn-stotram-24",
+    "id": "vsn-uttara-24",
     "verse_number": "24",
-    "original": "अग्रणीर्ग्रामणीः श्रीमान् न्यायो नेता समीरणः । सहस्रमूर्धा विश्वात्मा सहस्राक्षः सहस्रपात् ॥ २४॥",
-    "transliteration": "agraṇīrgrāmaṇīḥ śrīmān nyāyo netā samīraṇaḥ . sahasramūrdhā viśvātmā sahasrākṣaḥ sahasrapāt .. 24..",
-    "translation": "Leader (of the way), Leader of the group (community), Glorious, Justice, Guide, Air/Mover, Thousand-headed, Soul of the universe, Thousand-eyed, and Thousand-footed."
+    "original": "यो मां नामसहस्रेण स्तोतुमिच्छति पाण्डव । सोहऽमेकेन श्लोकेन स्तुत एव न संशयः ॥ २४॥",
+    "transliteration": "yo māṃ nāmasahasreṇa stotumicchati pāṇḍava . soha’mekena ślokena stuta eva na saṃśayaḥ .. 24..",
+    "translation": "The Blessed Lord said: O Pāṇḍava, whoever desires to praise me with the thousand names is considered to have praised me with just one verse (or name), there is no doubt."
   },
   {
-    "id": "vsn-stotram-25",
+    "id": "vsn-uttara-25",
     "verse_number": "25",
-    "original": "आवर्तनो निवृत्तात्मा संवृतः सम्प्रमर्दनः । अहः संवर्तको वह्निरनिलो धरणीधरः ॥ २५॥",
-    "transliteration": "āvartano nivṛttātmā saṃvṛtaḥ sampramardanaḥ . ahaḥ saṃvartako vahniranilo dharaṇīdharaḥ .. 25..",
-    "translation": "Revolver (causing cyclical changes), One whose mind is withdrawn from worldly matters, Hidden/Covered, Destroyer (of the universe), Day, Causer of cyclic creation/destruction, Fire (Agni), Wind (Vayu), and Supporter of the Earth."
+    "original": "वासनाद्वासुदेवस्य वासितं भुवनत्रयम् । सर्वभूतनिवासोऽसि वासुदेव नमोऽस्तु ते ॥ २५॥",
+    "transliteration": "vāsanādvāsudevasya vāsitaṃ bhuvanatrayam . sarvabhūtanivāso’si vāsudeva namo’stu te .. 25..",
+    "translation": "Vyāsa said: Since Vāsudeva permeates all things, the three worlds are filled with His fragrance (presence). You are the dwelling place of all beings, O Vāsudeva, salutations to you!"
   },
   {
-    "id": "vsn-stotram-26",
+    "id": "vsn-uttara-26",
     "verse_number": "26",
-    "original": "सुप्रसादः प्रसन्नात्मा विश्वधृग्विश्वभुग्विभुः । सत्कर्ता सत्कृतः साधुर्जह्नुर्नारायणो नरः ॥ २६॥",
-    "transliteration": "suprasādaḥ prasannātmā viśvadhṛgviśvabhugvibhuḥ . satkartā satkṛtaḥ sādhurjahnurnārāyaṇo naraḥ .. 26..",
-    "translation": "Greatly gracious, Cheerful Soul, Supporter of the universe, Enjoyer/Eater of the universe, Pervasive, Worshipper (of good deeds), Worshipped by the virtuous, Virtuous, Leading the people, Abode of men, and Man/Hero."
+    "original": "केनोपायेन लघुना विष्णोर्नामसहस्रकम् । पठ्यते पण्डितैर्नित्यं श्रोतुमिच्छाम्यहं प्रभो ॥ २६॥",
+    "transliteration": "kenopāyena laghunā viṣṇornāmasahasrakam . paṭhyate paṇḍitairnityaṃ śrotumicchāmyahaṃ prabho .. 26..",
+    "translation": "Pārvatī said: By what simple means is the thousand names of Viṣṇu recited daily by the learned? I desire to hear this, O Lord (Śiva)."
   },
   {
-    "id": "vsn-stotram-27",
+    "id": "vsn-uttara-27",
     "verse_number": "27",
-    "original": "असङ्ख्येयोऽप्रमेयात्मा विशिष्टः शिष्टकृच्छुचिः । सिद्धार्थः सिद्धसङ्कल्पः सिद्धिदः सिद्धिसाधनः ॥ २७॥",
-    "transliteration": "asaṅkhyeyo’prameyātmā viśiṣṭaḥ śiṣṭakṛcchuciḥ . siddhārthaḥ siddhasaṅkalpaḥ siddhidaḥ siddhisādhanaḥ .. 27..",
-    "translation": "Innumerable, Having an immeasurable nature, Distinguished, Discipliner of the worthy, Pure, One whose purpose is accomplished, One whose will is fulfilled, Giver of attainment, and means of attainment."
+    "original": "श्रीराम राम रामेति रमे रामे मनोरमे । सहस्रनाम तत्तुल्यं राम नाम वरानने ॥ २७॥",
+    "transliteration": "śrīrāma rāma rāmeti rame rāme manorame . sahasranāma tattulyaṃ rāma nāma varānane .. 27..",
+    "translation": "Īśvara (Śiva) said: 'Śrī Rāma, Rāma, Rāma'—thus I delight in the charming Rāma. O woman of beautiful face, one repetition of the name Rāma is equal to the Thousand Names."
   },
   {
-    "id": "vsn-stotram-28",
+    "id": "vsn-uttara-28",
     "verse_number": "28",
-    "original": "वृषाही वृषभो विष्णुर्वृषपर्वा वृषोदरः । वर्धनो वर्धमानश्च विविक्तः श्रुतिसागरः ॥ २८॥",
-    "transliteration": "vṛṣāhī vṛṣabho viṣṇurvṛṣaparvā vṛṣodaraḥ . vardhano vardhamānaśca viviktaḥ śrutisāgaraḥ .. 28..",
-    "translation": "Possessor of the righteous day, Giver of good results (Dharma), Pervader, Steps of Dharma, Having a great belly, Promoter/Nourisher, One who grows, Distinct/Isolated, and Ocean of Vedas/Scriptures."
-  },
-  {
-    "id": "vsn-stotram-29",
-    "verse_number": "29",
-    "original": "सुभुजो दुर्धरो वाग्मी महेन्द्रो वसुदो वसुः । नैकरूपो बृहद्रूपः शिपिविष्टः प्रकाशनः ॥ २९॥",
-    "transliteration": "subhujo durdharo vāgmī mahendro vasudo vasuḥ . naikarūpo bṛhadrūpaḥ śipiviṣṭaḥ prakāśanaḥ .. 29..",
-    "translation": "Possessing good arms, Hard to bear/Hold, Eloquent, Great Indra, Giver of wealth, Wealth, Having many forms, Great form, Pervading the solar rays, and Illuminator."
-  },
-  {
-    "id": "vsn-stotram-30",
-    "verse_number": "30",
-    "original": "ओजस्तेजोद्युतिधरः प्रकाशात्मा प्रतापनः । ऋद्धः स्पष्टाक्षरो मन्त्रश्चन्द्रांशुर्भास्करद्युतिः ॥ ३०॥",
-    "transliteration": "ojastejodyutidharaḥ prakāśātmā pratāpanaḥ . ṛddhaḥ spaṣṭākṣaro mantraścandrāṃśurbhāskaradyutiḥ .. 30..",
-    "translation": "Bearer of vitality, brilliance, and luster, Luminous Soul, Scorcher (of enemies), Prosperous, Having clear syllables, Mantra, Ray of the moon, and Radiance of the sun."
-  },
-  {
-    "id": "vsn-stotram-31",
-    "verse_number": "31",
-    "original": "अमृतांशूद्भवो भानुः शशबिन्दुः सुरेश्वरः । औषधं जगतः सेतुः सत्यधर्मपराक्रमः ॥ ३१॥",
-    "transliteration": "amṛtāṃśūdbhavo bhānuḥ śaśabinduḥ sureśvaraः . auṣadhaṃ jagataḥ setuḥ satyadharmaparākramaḥ .. 31..",
-    "translation": "Source of the nectar-rayed (Moon), Sun, Moon (having a mark like a hare), Lord of the Devas, Medicine (for the world), Bridge of the world, and Possessor of truly righteous valor."
-  },
-  {
-    "id": "vsn-stotram-32",
-    "verse_number": "32",
-    "original": "भूतभव्यभवन्नाथः पवनः पावनोऽनलः । कामहा कामकृत्कान्तः कामः कामप्रदः प्रभुः ॥ ३२॥",
-    "transliteration": "bhūtabhavyabhavannāthaḥ pavanaḥ pāvano’nalaḥ . kāmahā kāmakṛtkāntaḥ kāmaḥ kāmapradaḥ prabhuḥ .. 32..",
-    "translation": "Lord of the past, future, and present, Wind/Purifier, Purifier, Fire/Endless, Destroyer of desires, Fulfiller of desires, Beloved/Beautiful, Desire itself, Giver of desires, and Lord."
-  },
-  {
-    "id": "vsn-stotram-33",
-    "verse_number": "33",
-    "original": "युगादिकृद्युगावर्तो नैकमायो महाशनः । अदृश्यो व्यक्तरूपश्च सहस्रजिदनन्तजित् ॥ ३३॥",
-    "transliteration": "yugādikṛdyugāvarto naikamāyo mahāśanaḥ . adṛśyo vyaktarūpaśca sahasrajidanantajit .. 33..",
-    "translation": "Creator of the Yugas (ages), Causer of the cyclic return of Yugas, Possessing many illusions, Great eater (of the universe), Invisible, Having a manifest form, Conqueror of thousands (enemies), and Conqueror of the infinite."
-  },
-  {
-    "id": "vsn-stotram-34",
-    "verse_number": "34",
-    "original": "इष्टोऽविशिष्टः शिष्टेष्टः शिखण्डी नहुषो वृषः । क्रोधहा क्रोधकृत्कर्ता विश्वबाहुर्महीधरः ॥ ३४॥",
-    "transliteration": "iṣṭo’viśiṣṭaḥ śiṣṭeṣṭaḥ śikhaṇḍī nahuṣo vṛṣaḥ . krodhahā krodhakṛtkartā viśvabāhurmahīdharaḥ .. 34..",
-    "translation": "Desired/Worshipped, Unequalled, Desired by the wise, Having a peacock crest/plume, Nahuṣa (Binder/King), Righteous/Bull, Destroyer of anger, Creator of anger (in enemies), Doer, Having the universe as his arms, and Bearer of the earth."
-  },
-  {
-    "id": "vsn-stotram-35",
-    "verse_number": "35",
-    "original": "अच्युतः प्रथितः प्राणः प्राणदो वासवानुजः । अपांनिधिरधिष्ठानमप्रमत्तः प्रतिष्ठितः ॥ ३५॥",
-    "transliteration": "acyutaḥ prathitaḥ prāṇaḥ prāṇado vāsavānujaḥ . apāṃnidhiradhiṣṭhānamapramattaḥ pratiṣṭhitaḥ .. 35..",
-    "translation": "Immovable, Famous, Life-breath, Giver of life, Younger brother of Indra (Vāmana), Reservoir of waters (Ocean), Substratum/Support, Vigilant/Careful, and Well-established."
-  },
-  {
-    "id": "vsn-stotram-36",
-    "verse_number": "36",
-    "original": "स्कन्दः स्कन्दधरो धुर्यो वरदो वायुवाहनः । वासुदेवो बृहद्भानुरादिदेवः पुरन्दरः ॥ ३६॥",
-    "transliteration": "skandaḥ skandadharo dhuryo varado vāyuvāhanaḥ . vāsudevo bṛhadbhānurādidevaḥ purandaraḥ .. 36..",
-    "translation": "Emanation (Skanda), Supporter of Skanda, Burden-bearer/Chief, Giver of boons, One who has Vāyu (wind) as his vehicle, Son of Vasudeva, Possessing great radiance, First Deity, and Destroyer of cities (Forts)."
-  },
-  {
-    "id": "vsn-stotram-37",
-    "verse_number": "37",
-    "original": "अशोकस्तारणस्तारः शूरः शौरिर्जनेश्वरः । अनुकूलः शतावर्तः पद्मी पद्मनिभेक्षणः ॥ ३७॥",
-    "transliteration": "aśokastāraṇastāraḥ śūraḥ śaurirjaneśvaraḥ . anukūlaḥ śatāvartaḥ padmī padmanibhekṣaṇaः .. 37..",
-    "translation": "Sorrowless, Deliverer (causing others to cross), Star (or saving people), Valiant, Descendant of Sura, Lord of the people, Favorable/Friendly, Possessing hundreds of cycles, Bearing a lotus, and Lotus-eyed."
-  },
-  {
-    "id": "vsn-stotram-38",
-    "verse_number": "38",
-    "original": "पद्मनाभोऽरविन्दाक्षः पद्मगर्भः शरीरभृत् । महर्द्धिरृद्धो वृद्धात्मा महाक्षो गरुडध्वजः ॥ ३८॥",
-    "transliteration": "padmanābho’ravindākṣaḥ padmagarbhaḥ śarīrabhṛt . maharddhirṛddho vṛddhātmā mahākṣo garuḍadhvajaḥ .. 38..",
-    "translation": "Lotus-navelled, Lotus-eyed, Dweller in the lotus, Bearer of bodies, Greatly prosperous, Prosperous/Grown, Ancient Soul, Great-eyed (or Great-axled), and Having Garuḍa on his banner."
-  },
-  {
-    "id": "vsn-stotram-39",
-    "verse_number": "39",
-    "original": "अतुलः शरभो भीमः समयज्ञो हविर्हरिः । सर्वलक्षणलक्षण्यो लक्ष्मीवान् समितिञ्जयः ॥ ३९॥",
-    "transliteration": "atulaḥ śarabho bhīmaḥ samayajño havirhariḥ . sarvalakṣaṇalakṣaṇyo lakṣmīvān samitiñjayaḥ .. 39..",
-    "translation": "Unequalled, Sharabha (mythical creature), Fearful/Awesome, Knower of the proper time/vows, Sacrificial offering, Remover (of suffering/sins), Distinguished by all auspicious signs, Possessing Lakshmi, and Victorious in battle."
-  },
-  {
-    "id": "vsn-stotram-40",
-    "verse_number": "40",
-    "original": "विक्षरो रोहितो मार्गो हेतुर्दामोदरः सहः । महीधरो महाभागो वेगवानमिताशनः ॥ ४०॥",
-    "transliteration": "vikṣaro rohito mārgo heturdāmodaraḥ sahaḥ . mahīdharo mahābhāgo vegavānamitāśanaḥ .. 40..",
-    "translation": "Imperishable, Red-colored (or Fish form), Path, Cause, Having a rope around the belly, Tolerant/Powerful, Bearer of the earth, Possessing great fortune, Swift/Forceful, and Eater of unlimited quantity (during dissolution)."
-  },
-  {
-    "id": "vsn-stotram-41",
-    "verse_number": "41",
-    "original": "उद्भवः क्षोभणो देवः श्रीगर्भः परमेश्वरः । करणं कारणं कर्ता विकर्ता गहनो गुहः ॥ ४१॥",
-    "transliteration": "udbhavaḥ kṣobhaṇo devaḥ śrīgarbhaḥ parameśvaraḥ . karaṇaṃ kāraṇaṃ kartā vikartā gahano guhaḥ .. 41..",
-    "translation": "Origin/Birth, Agitator (of Prakriti), God, Bearing Lakshmi in his womb, Supreme Lord, Instrument, Cause, Doer, Modifier/Variety-Creator, Deep (Unfathomable), and Hidden/Cave-Dweller."
-  },
-  {
-    "id": "vsn-stotram-42",
-    "verse_number": "42",
-    "original": "व्यवसायो व्यवस्थानः संस्थानः स्थानदो ध्रुवः । परर्द्धिः परमस्पष्टस्तुष्टः पुष्टः शुभेक्षणः ॥ ४२॥",
-    "transliteration": "vyavasāyo vyavasthānaḥ saṃsthānaḥ sthānado dhruvaḥ . pararddhiḥ paramaspaṣṭastuṣṭaḥ puṣṭaḥ śubhekṣaṇaḥ .. 42..",
-    "translation": "Determination, Order (of the cosmos), End/Ultimate goal, Giver of place/position, Fixed/Permanent, Possessing supreme wealth, Supremely clear, Content, Nourished/Full, and Having auspicious sight."
-  },
-  {
-    "id": "vsn-stotram-43",
-    "verse_number": "43",
-    "original": "रामो विरामो विरजो मार्गो नेयो नयोऽनयः । वीरः शक्तिमतां श्रेष्ठो धर्मो धर्मविदुत्तमः ॥ ४३॥",
-    "transliteration": "rāmo virāmo virajo mārgo neyo nayo’nayaḥ . vīraḥ śaktimatāṃ śreṣṭho dharmo dharmaviduttamaḥ .. 43..",
-    "translation": "Pleasing (Rama), Cessation/Repose, Dustless/Passionless, Path, To be led (to salvation), Justice/Righteousness, Injustice/Absence of justice (beyond rules), Hero/Valiant, Best among the powerful, Righteousness/Dharma, and Most excellent among the knowers of Dharma."
-  },
-  {
-    "id": "vsn-stotram-44",
-    "verse_number": "44",
-    "original": "वैकुण्ठः पुरुषः प्राणः प्राणदः प्रणवः पृथुः । हिरण्यगर्भः शत्रुघ्नो व्याप्तो वायुरधोक्षजः ॥ ४४॥",
-    "transliteration": "vaikuṇṭhaḥ puruṣaḥ prāṇaḥ prāṇadaḥ praṇavaḥ pṛthuḥ . hiraṇyagarbhaḥ śatrughno vyāpto vāyuradhokṣajaḥ .. 44..",
-    "translation": "Lord of Vaikuntha, Person/Spirit, Life-breath, Giver of life, Om (The Primal Sound), Great/Extensive, Golden-wombed, Destroyer of enemies (Śatrughna), Pervasive, Wind, and Beyond the scope of the senses."
-  },
-  {
-    "id": "vsn-stotram-45",
-    "verse_number": "45",
-    "original": "ऋतुः सुदर्शनः कालः परमेष्ठी परिग्रहः । उग्रः संवत्सरो दक्षो विश्रामो विश्वदक्षिणः ॥ ४५॥",
-    "transliteration": "ṛtuḥ sudarśanaḥ kālaḥ parameṣṭhī parigrahaḥ . ugraḥ saṃvatsaro dakṣo viśrāmo viśvadakṣiṇaḥ .. 45..",
-    "translation": "Season, Beautiful vision (or the discus Sudarshana), Time, Dwelling in the highest place, Receiver (of offerings), Fierce/Formidable, Year, Skilful/Capable, Repose/Rest, and Most skilful person in the world."
-  },
-  {
-    "id": "vsn-stotram-46",
-    "verse_number": "46",
-    "original": "विस्तारः स्थावरस्थाणुः प्रमाणं बीजमव्ययम् । अर्थोऽनर्थो महाकोशो महाभोगो महाधनः ॥ ४६॥",
-    "transliteration": "vistāraḥ sthāvarasthāṇuḥ pramāṇaṃ bījamavyayam . artho’nartho mahākośo mahābhogo mahādhanaḥ .. 46..",
-    "translation": "Extension/Expansion, Fixed (mountain-like), Authority/Measure, Imperishable Seed, Object/Goal, Having no purpose (Supreme Reality), Great repository, Great enjoyment, and Great wealth."
-  },
-  {
-    "id": "vsn-stotram-47",
-    "verse_number": "47",
-    "original": "अनिर्विण्णः स्थविष्ठोऽभूर्धर्मयूपो महामखः । नक्षत्रनेमिर्नक्षत्री क्षमः क्षामः समीहनः ॥ ४७॥",
-    "transliteration": "anirviṇṇaḥ sthaviṣṭho’bhūrdharmayūpo mahāmakhaḥ . nakṣatranemirnakṣatrī kṣamaḥ kṣāmaḥ samīhanaḥ .. 47..",
-    "translation": "Not despondent/Unharrowed, Hugest, Unborn, Pillar of Dharma (Sacrificial post), Great Sacrifice, Hub of the stars (Zodiac), Lord of the stars (Moon), Forgiving, Diminished (before dissolution), and Desired/One who exerts."
-  },
-  {
-    "id": "vsn-stotram-48",
-    "verse_number": "48",
-    "original": "यज्ञ इज्यो महेज्यश्च क्रतुः सत्रं सतां गतिः । सर्वदर्शी विमुक्तात्मा सर्वज्ञो ज्ञानमुत्तमम् ॥ ४८॥",
-    "transliteration": "yajña ijyo mahejyaśca kratuḥ satraṃ satāṃ gatiḥ . sarvadarśī vimuktātmā sarvajño jñānamuttamam .. 48..",
-    "translation": "Sacrifice, Worshipped, Greatly worshipped, Ritual, Long sacrificial session, Goal of the virtuous, All-seeing, Liberated Soul, All-knowing, and Supreme knowledge."
-  },
-  {
-    "id": "vsn-stotram-49",
-    "verse_number": "49",
-    "original": "सुव्रतः सुमुखः सूक्ष्मः सुघोषः सुखदः सुहृत् । मनोकरो जितक्रोधो वीरबाहुर्विदारणः ॥ ४९॥",
-    "transliteration": "suvrataḥ sumukhaḥ sūkṣmaḥ sughoṣaḥ sukhadaḥ suhṛt . manoharo jitakrodho vīrabāhurvidāraṇaḥ .. 49..",
-    "translation": "Having good vows, Having a beautiful face, Subtle, Having an auspicious sound, Giver of happiness, Good-hearted friend, Charming, Conqueror of anger, Possessing valiant arms, and Splitting/Destroyer."
-  },
-  {
-    "id": "vsn-stotram-50",
-    "verse_number": "50",
-    "original": "स्वापनः स्ववशो व्यापी नैकात्मा नैककर्मकृत् । वत्सरो वत्सलो वत्सी रत्नगर्भो धनेश्वरः ॥ ५०॥",
-    "transliteration": "svāpanaḥ svavaśo vyāpī naikātmā naikakarmakṛt . vatsaro vatsalo vatsī ratnagarbho dhaneśvaraḥ .. 50..",
-    "translation": "Causer of sleep, Self-controlled, Pervasive, Having many forms, Performer of many actions, Year, Affectionate (like a parent to a calf), Possessor of Vatsa (calf/people), Womb of jewels, and Lord of wealth."
-  },
-  {
-    "id": "vsn-stotram-51",
-    "verse_number": "51",
-    "original": "धर्मगुब्धर्मकृद्धर्मी सदसत्क्षरमक्षरम् । अविज्ञाता सहस्रांशुर्विधाता कृतलक्षणः ॥ ५१॥",
-    "transliteration": "dharmagubdharmakṛddharmī sadasatkṣaramakṣaram . avijñātā sahasrāṃśurvidhātā kṛtalakṣaṇaḥ .. 51..",
-    "translation": "Protector of Dharma, Creator of Dharma, Righteous, Existence and Non-existence, Perishable and Imperishable, Unknown (by senses), Thousand-rayed (Sun), Creator, and Possessor of all characteristics."
-  },
-  {
-    "id": "vsn-stotram-52",
-    "verse_number": "52",
-    "original": "गभस्तिनेमिः सत्त्वस्थः सिंहो भूतमहेश्वरः । आदिदेवो महादेवो देवेशो देवभृद्गुरुः ॥ ५२॥",
-    "transliteration": "gabhastinemiḥ sattvasthaḥ siṃho bhūtamaheśvaraḥ . ādidevo mahādevo deveśo devabhṛdguruḥ .. 52..",
-    "translation": "Hub of the solar rays, Dwelling in goodness, Lion, Great Lord of beings, Primordial God, Great God, Lord of the Gods, and Guru/Sustainer of the Gods."
-  },
-  {
-    "id": "vsn-stotram-53",
-    "verse_number": "53",
-    "original": "उत्तरो गोपतिर्गोप्ता ज्ञानगम्यः पुरातनः । शरीरभूतभृद्भोक्ता कपीन्द्रो भूरिदक्षिणः ॥ ५३॥",
-    "transliteration": "uttaro gopatirgoptā jñānagamyaḥ purātanaḥ . śarīrabhūtabhṛdbhoktā kapīndro bhūridakṣiṇaḥ .. 53..",
-    "translation": "Superior/Transcendent, Lord of the Earth/Cows, Protector, Attained through knowledge, Ancient, Sustainer of the body and elements, Enjoyer, Lord of the monkeys (Hanuman/Rama), and Possessing great gifts/bounties."
-  },
-  {
-    "id": "vsn-stotram-54",
-    "verse_number": "54",
-    "original": "सोमपोऽमृतपः सोमः पुरुजित्पुरुसत्तमः । विनयो जयः सत्यसन्धो दाशार्हः सात्वताम्पतिः ॥ ५४॥",
-    "transliteration": "somapo’mṛtapaḥ somaḥ purujitpurusattamaḥ . vinayo jayaḥ satyasandho dāśārhaḥ sātvatāmpatiḥ .. 54..",
-    "translation": "Drinker of Soma, Drinker of Nectar, Moon (or Soma sacrifice), Conqueror of many, Best of many persons, Modesty/Discipline, Victory, Having truthful commitment, Belonging to the Dasarha clan, and Lord of the Satvatas (Yadavas)."
-  },
-  {
-    "id": "vsn-stotram-55",
-    "verse_number": "55",
-    "original": "जीवो विनयिता साक्षी मुकुन्दोऽमितविक्रमः । अम्भोनिधिरनन्तात्मा महोदधिशयोऽन्तकः ॥ ५५॥",
-    "transliteration": "jīvo vinayitā sākṣī mukundo’mitavikramaḥ . ambhonidhiranantātmā mahodadhiśayo’ntakaḥ .. 55..",
-    "translation": "Life, Regulator, Witness, Giver of salvation, Immeasurable Prowess, Ocean, Infinite Soul, Lying on the great ocean, and Destroyer/Ender."
-  },
-  {
-    "id": "vsn-stotram-56",
-    "verse_number": "56",
-    "original": "अजो महार्हः स्वाभाव्यो जितामित्रः प्रमोदनः । आनन्दो नन्दनो नन्दः सत्यधर्मा त्रिविक्रमः ॥ ५६॥",
-    "transliteration": "ajo mahārhaḥ svābhāvyo jitāmitraḥ pramodanaḥ . ānando nandano nandaḥ satyadharmā trivikramaḥ .. 56..",
-    "translation": "Unborn, Highly worshipful, Self-existent, Conqueror of enemies, Delighter, Bliss, Son/Giver of joy, Joy/Prosperity, Possessing true righteousness, and Three-stepper (Vāmana incarnation)."
-  },
-  {
-    "id": "vsn-stotram-57",
-    "verse_number": "57",
-    "original": "महर्षिः कपिलाचार्यः कृतज्ञो मेदिनीपतिः । त्रिपदस्त्रिदशाध्यक्षो महाश‍ृङ्गः कृतान्तकृत् ॥ ५७॥",
-    "transliteration": "maharṣiḥ kapilācāryaḥ kṛtajño medinīpatiḥ . tripadastridaśādhyakṣo mahāśṛṅgaḥ kṛtāntakṛt .. 57..",
-    "translation": "Great Seer, Teacher Kapila, Knower of what is done (Gratitude), Lord of the Earth, Three-footed (Vāmana), Overseer of the thirty gods, Great-horned (Matsya/Fish form), and Destroyer of the end (death)."
-  },
-  {
-    "id": "vsn-stotram-58",
-    "verse_number": "58",
-    "original": "महावराहो गोविन्दः सुषेणः कनकाङ्गदी । गुह्यो गभीरो गहनो गुप्तश्चक्रगदाधरः ॥ ५८॥",
-    "transliteration": "mahāvarāho govindaḥ suṣeṇaḥ kanakāṅgadī . guhyo gabhīro gahano guptaścakragadādharaḥ .. 58..",
-    "translation": "Great Boar, Protector of cows/Knower of the Vedas, Having a good army, Wearing golden armlets, Secret/Mysterious, Deep/Profound, Impenetrable, Hidden/Protected, and Wielder of the discus and mace."
-  },
-  {
-    "id": "vsn-stotram-59",
-    "verse_number": "59",
-    "original": "वेधाः स्वाङ्गोऽजितः कृष्णो दृढः सङ्कर्षणोऽच्युतः । वरुणो वारुणो वृक्षः पुष्कराक्षो महामनाः ॥ ५९॥",
-    "transliteration": "vedhāः svāṅgo’jitaḥ kṛṣṇo dṛḍhaḥ saṅkarṣaṇo’cyutaḥ . varuṇo vāruṇo vṛkṣaḥ puṣkarākṣo mahāmanāḥ .. 59..",
-    "translation": "Creator, Having his own form (not dependent on others), Unconquered, Dark/Attractive, Firm/Strong, Attractor (Balarāma), Immovable, Water God, Son of Varuṇa (Vasiṣṭha), Tree (Cosmic Tree), Lotus-Eyed, and Great-minded."
-  },
-  {
-    "id": "vsn-stotram-60",
-    "verse_number": "60",
-    "original": "भगवान् भगहाऽऽनन्दी वनमाली हलायुधः । आदित्यो ज्योतिरादित्यः सहिष्णुर्गतिसत्तमः ॥ ६०॥",
-    "transliteration": "bhagavān bhagahā”nandī vanamālī halāyudhaḥ . ādityo jyotirādityaḥ sahiṣṇurgatisattamaḥ .. 60..",
-    "translation": "Possessing six opulences, Destroyer of the universe (or misfortune), Blissful, Wearing a forest garland, Armed with a plough (Balarāma), Son of Aditi, Light of the sun, Forbearing, and Best of refuges."
-  },
-  {
-    "id": "vsn-stotram-61",
-    "verse_number": "61",
-    "original": "सुधन्वा खण्डपरशुर्दारुणो द्रविणप्रदः । दिवस्पृक् सर्वदृग्व्यासो वाचस्पतिरयोनिजः ॥ ६१॥",
-    "transliteration": "sudhanvā khaṇḍaparaśurdāruṇo draviṇapradaḥ . divaspṛk sarvadṛgvyāso vācaspatirayonijaḥ .. 61..",
-    "translation": "Having a good bow, Having a broken axe (Paraśurāma), Terrible, Giver of wealth, Touching the sky, All-seeing, Compiler/Expander, Lord of speech (Brihaspati), and Unborn."
-  },
-  {
-    "id": "vsn-stotram-62",
-    "verse_number": "62",
-    "original": "त्रिसामा सामगः साम निर्वाणं भेषजं भिषक् । संन्यासकृच्छमः शान्तो निष्ठा शान्तिः परायणम् ॥ ६२॥",
-    "transliteration": "trisāmā sāmagaḥ sāma nirvāṇaṃ bheṣajaṃ bhiṣak . saṃnyāsakṛcchamaḥ śānto niṣṭhā śāntiḥ parāyaṇam .. 62..",
-    "translation": "Possessing three Sāmans (songs), Singer of the Sāma Veda, Sāma Veda, Liberation/Moksha, Medicine, Physician, Initiator of renunciation, Control of the mind, Peaceful, Firm footing/Abode, Peace, and Supreme Goal."
-  },
-  {
-    "id": "vsn-stotram-63",
-    "verse_number": "63",
-    "original": "शुभाङ्गः शान्तिदः स्रष्टा कुमुदः कुवलेशयः । गोहितो गोपतिर्गोप्ता वृषभाक्षो वृषप्रियः ॥ ६३॥",
-    "transliteration": "śubhāṅgaḥ śāntidaḥ sraṣṭā kumudaḥ kuvaleśayaḥ . gohito gopatirgoptā vṛṣabhākṣo vṛṣapriyaḥ .. 63..",
-    "translation": "Having auspicious limbs, Giver of peace, Creator, Delighter of the Earth, Lying on the water (or in a lotus), Benefactor of cows/Earth, Lord of the Earth/Cows, Protector, Bull-eyed, and Dear to Dharma."
-  },
-  {
-    "id": "vsn-stotram-64",
-    "verse_number": "64",
-    "original": "अनिवर्ती निवृत्तात्मा सङ्क्षेप्ता क्षेमकृच्छिवः । श्रीवत्सवक्षाः श्रीवासः श्रीपतिः श्रीमतांवरः ॥ ६४॥",
-    "transliteration": "anivartī nivṛttātmā saṅkṣeptā kṣemakṛcchivaḥ . śrīvatsavakṣāḥ śrīvāsaḥ śrīpatiḥ śrīmatāṃvaraḥ .. 64..",
-    "translation": "Never retreating, One whose mind is withdrawn from the world, Condenser/Abbreviator, Doer of welfare, Auspicious, Bearing the Śrīvatsa mark on his chest, Abode of Śrī, Lord of Śrī, and Best among the glorious."
-  },
-  {
-    "id": "vsn-stotram-65",
-    "verse_number": "65",
-    "original": "श्रीदः श्रीशः श्रीनिवासः श्रीनिधिः श्रीविभावनः । श्रीधरः श्रीकरः श्रेयः श्रीमाँल्लोकत्रयाश्रयः ॥ ६५॥",
-    "transliteration": "śrīdaḥ śrīśaḥ śrīnivāsaḥ śrīnidhiḥ śrīvibhāvanaḥ . śrīdharaḥ śrīkaraḥ śreyaḥ śrīmām̐llokatrayāśrayaḥ .. 65..",
-    "translation": "Giver of Śrī, Lord of Śrī, Abode of Śrī, Treasure of Śrī, Bestower of Śrī, Bearer of Śrī, Creating Śrī, Excellence/Auspiciousness, Glorious, and Refuge of the three worlds."
-  },
-  {
-    "id": "vsn-stotram-66",
-    "verse_number": "66",
-    "original": "स्वक्षः स्वङ्गः शतानन्दो नन्दिर्ज्योतिर्गणेश्वरः । विजितात्माऽविधेयात्मा सत्कीर्तिश्छिन्नसंशयः ॥ ६६॥",
-    "transliteration": "svakṣaḥ svaṅgaḥ śatānando nandirjyotirgaṇeśvaraḥ . vijitātmā’vidheyātmā satkīrtiśchinnasaṃśayaḥ .. 66..",
-    "translation": "Having beautiful eyes, Having beautiful limbs, Hundred-fold bliss, Delightful, Lord of the host of lights, Conqueror of the Self, One whose Self cannot be ruled (Independent), Having true fame, and One whose doubts are dispelled."
-  },
-  {
-    "id": "vsn-stotram-67",
-    "verse_number": "67",
-    "original": "उदीर्णः सर्वतश्चक्षुरनीशः शाश्वतस्थिरः । भूशयो भूषणो भूतिर्विशोकः शोकनाशनः ॥ ६७॥",
-    "transliteration": "udīrṇaḥ sarvataścakṣuranīśaḥ śāśvatasthiraḥ . bhūśayo bhūṣaṇo bhūtirviśokaḥ śokanāśanaḥ .. 67..",
-    "translation": "Eminent/Risen, Eyes everywhere, Having no Lord (Independent), Eternally firm, Lying on the earth, Ornament/Adorner, Manifestation/Prosperity, Sorrowless, and Destroyer of sorrow."
-  },
-  {
-    "id": "vsn-stotram-68",
-    "verse_number": "68",
-    "original": "अर्चिष्मानर्चितः कुम्भो विशुद्धात्मा विशोधनः । अनिरुद्धोऽप्रतिरथः प्रद्युम्नोऽमितविक्रमः ॥ ६८॥",
-    "transliteration": "arciṣmānarcitaḥ kumbho viśuddhātmā viśodhanaḥ . aniruddho’pratirathaḥ pradyumno’mitavikramaḥ .. 68..",
-    "translation": "Effulgent, Worshipped, Pot (Receiver of all), Pure Soul, Great Purifier, Unobstructed, Having no equal chariot-warrior, Shining brightly (His son), and Possessing immeasurable valor."
-  },
-  {
-    "id": "vsn-stotram-69",
-    "verse_number": "69",
-    "original": "कालनेमिनिहा वीरः शौरिः शूरजनेश्वरः । त्रिलोकात्मा त्रिलोकेशः केशवः केशिहा हरिः ॥ ६९॥",
-    "transliteration": "kālaneminihā vīraḥ śauriḥ śūrajaneśvaraḥ . trilokātmā trilokeśaḥ keśavaḥ keśihā hariḥ .. 69..",
-    "translation": "Destroyer of Kālanemi, Valiant, Descendant of Sura, Lord of the valiant, Soul of the three worlds, Lord of the three worlds, Handsome-haired (or controller of Brahma and Shiva), Destroyer of the demon Keśi, and Remover (of evil/sins)."
-  },
-  {
-    "id": "vsn-stotram-70",
-    "verse_number": "70",
-    "original": "कामदेवः कामपालः कामी कान्तः कृतागमः । अनिर्देश्यवपुर्विष्णुर्वीरोऽनन्तो धनञ्जयः ॥ ७०॥",
-    "transliteration": "kāmadevaḥ kāmapālaḥ kāmī kāntaḥ kṛtāgamaḥ . anirdeśyavapurviṣṇurvīro’nanto dhanañjayaḥ .. 70..",
-    "translation": "God of love, Protector of desires, Desiring/Lustful, Beautiful, One whose scriptures are established, Having an indescribable form, Pervader, Hero, Endless, and Conqueror of wealth (or Arjuna)."
-  },
-  {
-    "id": "vsn-stotram-71",
-    "verse_number": "71",
-    "original": "ब्रह्मण्यो ब्रह्मकृद् ब्रह्मा ब्रह्म ब्रह्मविवर्धनः । ब्रह्मविद् ब्राह्मणो ब्रह्मी ब्रह्मज्ञो ब्राह्मणप्रियः ॥ ७१॥",
-    "transliteration": "brahmaṇyo brahmakṛd brahmā brahma brahmavivardhanaḥ . brahmavid brāhmaṇo brahmī brahmajño brāhmaṇapriyaḥ .. 71..",
-    "translation": "Protector of Brahma/Vedas, Creator of Brahma/Vedas, Brahma (Creator), Vast (Supreme Reality), Enhancer of Brahma/Vedas, Knower of Brahma, Brahman (Priest), Pervading Brahma, Knower of the Supreme, and Dear to Brahmanas."
-  },
-  {
-    "id": "vsn-stotram-72",
-    "verse_number": "72",
-    "original": "महाक्रमो महाकर्मा महातेजा महोरगः । महाक्रतुर्महायज्वा महायज्ञो महाहविः ॥ ७२॥",
-    "transliteration": "mahākramo mahākarmā mahātejā mahoragaḥ . mahākraturmahāyajvā mahāyajño mahāhaviḥ .. 72..",
-    "translation": "Having great steps, Having great actions, Having great splendor, Great serpent (Ananta), Great sacrifice, Great sacrificer, Great worship, and Great oblation."
-  },
-  {
-    "id": "vsn-stotram-73",
-    "verse_number": "73",
-    "original": "स्तव्यः स्तवप्रियः स्तोत्रं स्तुतिः स्तोता रणप्रियः । पूर्णः पूरयिता पुण्यः पुण्यकीर्तिरनामयः ॥ ७३॥",
-    "transliteration": "stavyaḥ stavapriyaḥ stotraṃ stutiḥ stotā raṇapriyaḥ . pūrṇaḥ pūrayitā puṇyaḥ puṇyakīrtiranāmayaḥ .. 73..",
-    "translation": "Fit to be praised, Fond of praises, Hymn (Object of praise), Praise (Act of praising), Praiser, Fond of battle, Full/Complete, Fulfiller (of desires), Meritorious/Virtuous, Possessing meritorious fame, and Free from ailments."
-  },
-  {
-    "id": "vsn-stotram-74",
-    "verse_number": "74",
-    "original": "मनोजवस्तीर्थकरो वसुरेता वसुप्रदः । वसुप्रदो वासुदेवो वसुर्वसुमना हविः ॥ ७४॥",
-    "transliteration": "manojavastīrthakaro vasuretā vasupradaḥ . vasuprado vāsudevo vasurvasumanā haviḥ .. 74..",
-    "translation": "Having the speed of the mind, Creator of sacred places, Having wealth as his seed, Giver of wealth, Giver of great wealth, Son of Vasudeva, Wealth/Dweller, Noble-minded, and Oblation."
-  },
-  {
-    "id": "vsn-stotram-75",
-    "verse_number": "75",
-    "original": "सद्गतिः सत्कृतिः सत्ता सद्भूतिः सत्परायणः । शूरसेनो यदुश्रेष्ठः सन्निवासः सुयामुनः ॥ ७५॥",
-    "transliteration": "sadgatiḥ satkṛtiḥ sattā sadbhūtiḥ satparāyaṇaḥ . śūraseno yaduśreṣṭhaḥ sannivāsaḥ suyāmunaḥ .. 75..",
-    "translation": "Good goal, Good action, Existence, True prosperity, Supreme resort of the good, Having a valiant army, Best of the Yadus, Excellent dwelling, and Dweller by the Yamuna."
-  },
-  {
-    "id": "vsn-stotram-76",
-    "verse_number": "76",
-    "original": "भूतावासो वासुदेवः सर्वासुनिलयोऽनलः । दर्पहा दर्पदो दृप्तो दुर्धरोऽथापराजितः ॥ ७६॥",
-    "transliteration": "bhūtāvāso vāsudevaḥ sarvāsunilayo’nalaḥ . darpahā darpado dṛpto durdharo’thāparājitaḥ .. 76..",
-    "translation": "Abode of beings, Son of Vasudeva (or Dweller in all beings), Abode of all life forces, Fire/Endless, Destroyer of pride, Giver of pride, Proud/Confident, Hard to bear, and Unconquered."
-  },
-  {
-    "id": "vsn-stotram-77",
-    "verse_number": "77",
-    "original": "विश्वमूर्तिर्महामूर्तिर्दीप्तमूर्तिरमूर्तिमान् । अनेकमूर्तिरव्यक्तः शतमूर्तिः शताननः ॥ ७७॥",
-    "transliteration": "viśvamūrtirmahāmūrtirdīptamūrtiramūrtimān . anekamūrtiravyaktaḥ śatamūrtiḥ śatānanaḥ .. 77..",
-    "translation": "Universal Form, Great Form, Radiant Form, Formless, Having many forms, Unmanifest, Possessing a hundred forms, and Having a hundred faces."
-  },
-  {
-    "id": "vsn-stotram-78",
-    "verse_number": "78",
-    "original": "एको नैकः सवः कः किं यत् तत्पदमनुत्तमम् । लोकबन्धुर्लोकनाथो माधवो भक्तवत्सलः ॥ ७८॥",
-    "transliteration": "eko naikaḥ savaḥ kaḥ kiṃ yat tatpadamanuttamam . lokabandhurlokanātho mādhavo bhaktavatsalaḥ .. 78..",
-    "translation": "One, Many, Sacrifice, Who (Question of identity), What (Query of nature), That which is the Supreme state, Relative of the worlds, Lord of the worlds, Lord of knowledge/Lakshmi's husband, and Affectionate to devotees."
-  },
-  {
-    "id": "vsn-stotram-79",
-    "verse_number": "79",
-    "original": "सुवर्णवर्णो हेमाङ्गो वराङ्गश्चन्दनाङ्गदी । वीरहा विषमः शून्यो घृताशीरचलश्चलः ॥ ७९॥",
-    "transliteration": "suvarṇavarṇo hemāṅgo varāṅgaścandanāṅgadī . vīrahā viṣamaḥ śūnyo ghṛtāśīracalaścalaḥ .. 79..",
-    "translation": "Golden-colored, Golden-limbed, Excellent limb, Adorned with sandalwood paste and armlets, Destroyer of valiant ones (demons), Unequalled/Difficult, Void (beyond description), Eating butter/Auspiciously blessed, Immovable, and Movable."
-  },
-  {
-    "id": "vsn-stotram-80",
-    "verse_number": "80",
-    "original": "अमानी मानदो मान्यो लोकस्वामी त्रिलोकधृक् । सुमेधा मेधजो धन्यः सत्यमेधा धराधरः ॥ ८०॥",
-    "transliteration": "amānī mānado mānyo lokasvāmī trilokadhṛk . sumedhā medhajo dhanyaḥ satyamedhā dharādharaः .. 80..",
-    "translation": "Without false ego, Giver of honor, Honorable, Lord of the worlds, Supporter of the three worlds, Good intellect, Born of sacrifice, Fortunate, Having truthful intellect, and Bearer of the Earth."
-  },
-  {
-    "id": "vsn-stotram-81",
-    "verse_number": "81",
-    "original": "तेजोवृषो द्युतिधरः सर्वशस्त्रभृतां वरः । प्रग्रहो निग्रहो व्यग्रो नैकश‍ृङ्गो गदाग्रजः ॥ ८१॥",
-    "transliteration": "tejovṛṣo dyutidharaḥ sarvaśastrabhṛtāṃ varaḥ . pragraho nigraho vyagro naikaśṛṅgo gadāgrajaḥ .. 81..",
-    "translation": "Showerer of splendor, Possessor of light, Best of all weapon-bearers, Restrainer (of senses), Punisher (of the wicked), Fully engaged, Having many horns (fish form), and Elder brother of the mace (Gada)."
-  },
-  {
-    "id": "vsn-stotram-82",
-    "verse_number": "82",
-    "original": "चतुर्मूर्तिश्चतुर्बाहुश्चतुर्व्यूहश्चतुर्गतिः । चतुरात्मा चतुर्भावश्चतुर्वेदविदेकपात् ॥ ८२॥",
-    "transliteration": "caturmūrtiścaturbāhuścaturvyūhaścaturgatiḥ . caturātmā caturbhāvaścaturvedavidekapāt .. 82..",
-    "translation": "Four-formed, Four-armed, Four-manifestations (Vyuhas), Four-goals (of life: Dharma, Artha, Kama, Moksha), Four-souled, Four-fold attitude (towards creation), Knower of the four Vedas, and One-footed (Sun)."
-  },
-  {
-    "id": "vsn-stotram-83",
-    "verse_number": "83",
-    "original": "समावर्तोऽनिवृत्तात्मा दुर्जयो दुरतिक्रमः । दुर्लभो दुर्गमो दुर्गो दुरावासो दुरारिहा ॥ ८३॥",
-    "transliteration": "samāvarto’nivṛttātmā durjayo duratikramaḥ . durlabho durgamo durgo durāvāso durārihā .. 83..",
-    "translation": "Turning back the cycles, Soul who does not return (from liberation), Hard to conquer, Hard to transgress, Hard to attain, Hard to reach, Difficult, Hard to dwell with (in the heart of the ignorant), and Destroyer of wicked enemies."
-  },
-  {
-    "id": "vsn-stotram-84",
-    "verse_number": "84",
-    "original": "शुभाङ्गो लोकसारङ्गः सुतन्तुस्तन्तुवर्धनः । इन्द्रकर्मा महाकर्मा कृतकर्मा कृतागमः ॥ ८४॥",
-    "transliteration": "śubhāṅgo lokasāraṅgaḥ sutantustantuvardhanaḥ . indrakarmā mahākarmā kṛtakarmā kṛtāgamaḥ .. 84..",
-    "translation": "Auspicious-limbed, Essence of the world, Good thread (subtle causes), Promoter of the thread (continuing the cosmic web), Having actions like Indra, Having great actions, One whose actions are accomplished, and One whose scriptures are established."
-  },
-  {
-    "id": "vsn-stotram-85",
-    "verse_number": "85",
-    "original": "उद्भवः सुन्दरः सुन्दो रत्ननाभः सुलोचनः । अर्को वाजसनः श‍ृङ्गी जयन्तः सर्वविज्जयी ॥ ८५॥",
-    "transliteration": "udbhavaḥ sundaraḥ sundo ratnanābhaḥ sulocanaḥ . arko vājasanaḥ śṛṅgī jayantaḥ sarvavijjayī .. 85..",
-    "translation": "Origin, Beautiful, Good giver/Auspicious, Jewel-navelled, Beautiful-eyed, Sun (Worshipped), Giver of food, Horned (Matsya), Victorious, and Victorious over all."
-  },
-  {
-    "id": "vsn-stotram-86",
-    "verse_number": "86",
-    "original": "सुवर्णबिन्दुरक्षोभ्यः सर्ववागीश्वरेश्वरः । महाह्रदो महागर्तो महाभूतो महानिधिः ॥ ८६॥",
-    "transliteration": "suvarṇabindurakṣobhyaḥ sarvavāgīśvareśvaraḥ . mahāhrado mahāgarto mahābhūto mahānidhiḥ .. 86..",
-    "translation": "Golden drop, Unshaken, Lord of all lords of speech, Great lake (of joy), Great pit (deep/unfathomable), Great being, and Great treasure."
-  },
-  {
-    "id": "vsn-stotram-87",
-    "verse_number": "87",
-    "original": "कुमुदः कुन्दरः कुन्दः पर्जन्यः पावनोऽनिलः । अमृताशोऽमृतवपुः सर्वज्ञः सर्वतोमुखः ॥ ८७॥",
-    "transliteration": "kumudaः kundaraः kundaः parjanyaः pāvano’nilaः . amṛtāśo’mṛtavapuḥ sarvajñaḥ sarvatomukhaḥ .. 87..",
-    "translation": "Delighter of the Earth, Giver of Kunda (jasmine flower or great strength), Kunda (jasmine or unblemished), Rain God, Purifier, Wind/Infinite, Eating nectar, Having an immortal form, All-knowing, and Having faces everywhere."
-  },
-  {
-    "id": "vsn-stotram-88",
-    "verse_number": "88",
-    "original": "सुलभः सुव्रतः सिद्धः शत्रुजिच्छत्रुतापनः । न्यग्रोधोऽदुम्बरोऽश्वत्थश्चाणूरान्ध्रनिषूदनः ॥ ८८॥",
-    "transliteration": "sulabhaḥ suvrataḥ siddhaḥ śatrujicchatrutāpanaḥ . nyagrodho’dumbaro’śvatthaścāṇūrāndhraniṣūdanaḥ .. 88..",
-    "translation": "Easily attained, Having good vows, Accomplished, Conqueror of enemies, Scorcher of enemies, Banyan tree, Fig tree (Audumbara), Peepal tree (Ashvattha), and Destroyer of Cāṇūra and Andhras."
-  },
-  {
-    "id": "vsn-stotram-89",
-    "verse_number": "89",
-    "original": "सहस्रार्चिः सप्तजिह्वः सप्तैधाः सप्तवाहनः । अमूर्तिरनघोऽचिन्त्यो भयकृद्भयनाशनः ॥ ८९॥",
-    "transliteration": "sahasrārciḥ saptajihvaḥ saptaidhāḥ saptavāhanaḥ . amūrtiranagho’cintyo bhayakṛdbhayanāśanaḥ .. 89..",
-    "translation": "Thousand-rayed, Seven-tongued (Fire God), Seven-flamed, Having seven horses (Sun God), Formless, Sinless, Inconceivable, Creator of fear (for the wicked), and Destroyer of fear (for devotees)."
-  },
-  {
-    "id": "vsn-stotram-90",
-    "verse_number": "90",
-    "original": "अणुर्बृहत्कृशः स्थूलो गुणभृन्निर्गुणो महान् । अधृतः स्वधृतः स्वास्यः प्राग्वंशो वंशवर्धनः ॥ ९०॥",
-    "transliteration": "aṇurbṛhatkṛśaḥ sthūlo guṇabhṛnnirguṇo mahān . adhṛtaḥ svadhṛtaḥ svāsyaḥ prāgvaṃśo vaṃśavardhanaḥ .. 90..",
-    "translation": "Minute, Huge, Slender/Subtle, Gross, Bearer of qualities, Beyond qualities, Great, Unsupported, Self-supported, Having a good face, Primordial lineage, and Promoter of the lineage."
-  },
-  {
-    "id": "vsn-stotram-91",
-    "verse_number": "91",
-    "original": "भारभृत् कथितो योगी योगीशः सर्वकामदः । आश्रमः श्रमणः क्षामः सुपर्णो वायुवाहनः ॥ ९१॥",
-    "transliteration": "bhārabhṛt kathito yogī yogīśaḥ sarvakāmadaḥ . āśramaḥ śramaṇaḥ kṣāmaḥ suparṇo vāyuvāhanaḥ .. 91..",
-    "translation": "Bearer of the burden (of the world), Celebrated, Yogī (Practitioner of Yoga), Lord of Yogīs, Giver of all desires, Hermitage/Refuge, Ascetic/Effacer (of sins), Diminished (patient), Good-winged (Garuḍa), and Having Vāyu (wind) as his vehicle."
-  },
-  {
-    "id": "vsn-stotram-92",
-    "verse_number": "92",
-    "original": "धनुर्धरो धनुर्वेदो दण्डो दमयिता दमः । अपराजितः सर्वसहो नियन्ताऽनियमोऽयमः ॥ ९२॥",
-    "transliteration": "dhanurdharo dhanurvedo daṇḍo damayitā damaḥ . aparājitaḥ sarvasaho niyantā’niyamo’yamaḥ .. 92..",
-    "translation": "Bearer of the bow, Knower of Dhanurveda (archery), Rod (Punishment), Subduer, Self-control, Unconquered, All-enduring, Regulator, Without rules (Independent), and Without Yama (death/control)."
-  },
-  {
-    "id": "vsn-stotram-93",
-    "verse_number": "93",
-    "original": "सत्त्ववान् सात्त्विकः सत्यः सत्यधर्मपरायणः । अभिप्रायः प्रियार्होऽर्हः प्रियकृत् प्रीतिवर्धनः ॥ ९३॥",
-    "transliteration": "sattvavān sāttvikaḥ satyaḥ satyadharmaparāyaṇaḥ . abhiprāyaḥ priyārho’rhaḥ priyakṛt prītivardhanaḥ .. 93..",
-    "translation": "Possessor of goodness/courage, Pure (Sattvic), Truth, Devoted to truth and Dharma, Intention/Aim, Deserving of love, Worshipped, Doer of pleasant things, and Enhancer of love."
-  },
-  {
-    "id": "vsn-stotram-94",
-    "verse_number": "94",
-    "original": "विहायसगतिर्ज्योतिः सुरुचिर्हुतभुग्विभुः । रविर्विरोचनः सूर्यः सविता रविलोचनः ॥ ९४॥",
-    "transliteration": "vihāyasagatirjyotiḥ surucirhutabhugvibhuः . ravirvirocanaḥ sūryaḥ savitā ravilocanaः .. 94..",
-    "translation": "Moving in the sky (Garuḍa), Light/Splendor, Good luster, Enjoyer of sacrifices (Fire), Pervasive, Sun, Shining brightly, Sun, Generator, and Sun-eyed."
-  },
-  {
-    "id": "vsn-stotram-95",
-    "verse_number": "95",
-    "original": "अनन्तो हुतभुग्भोक्ता सुखदो नैकजोऽग्रजः । अनिर्विण्णः सदामर्षी लोकाधिष्ठानमद्भुतः ॥ ९५॥",
-    "transliteration": "ananto hutabhugbhoktā sukhado naikajo’grajaḥ . anirviṇṇaḥ sadāmarṣī lokādhiṣṭhānamadbhutaḥ .. 95..",
-    "translation": "Endless, Eater of offerings, Enjoyer, Giver of happiness, Not born singly, Eldest, Unwearied/Undespondent, Always tolerant, Basis of the worlds, and Wonderful."
-  },
-  {
-    "id": "vsn-stotram-96",
-    "verse_number": "96",
-    "original": "सनात्सनातनतमः कपिलः कपिरव्ययः । स्वस्तिदः स्वस्तिकृत्स्वस्ति स्वस्तिभुक्स्वस्तिदक्षिणः ॥ ९६॥",
-    "transliteration": "sanātsanātanatamaḥ kapilaḥ kapiravyayaḥ . svastidaḥ svastikṛtsvasti svastibhuksvastidakṣiṇaः .. 96..",
-    "translation": "From time eternal, Most ancient, Brown/Sage Kapila, Monkey (Rama/Hanuman), Imperishable, Giver of welfare, Doer of welfare, Welfare/Auspiciousness, Enjoyer of welfare, and Possessing auspicious gifts."
-  },
-  {
-    "id": "vsn-stotram-97",
-    "verse_number": "97",
-    "original": "अरौद्रः कुण्डली चक्री विक्रम्यूर्जितशासनः । शब्दातिगः शब्दसहः शिशिरः शर्वरीकरः ॥ ९७॥",
-    "transliteration": "araudraḥ kuṇḍalī cakrī vikramyūrjitaśāsanaḥ . śabdātigaḥ śabdasahaḥ śiśiraḥ śarvarīkaraḥ .. 97..",
-    "translation": "Not fierce, Wearing ear-rings, Wielder of the discus, Valiant, Having powerful commands, Beyond words, Endurer of sounds, Cool, and Causer of night (Moon)."
-  },
-  {
-    "id": "vsn-stotram-98",
-    "verse_number": "98",
-    "original": "अक्रूरः पेशलो दक्षो दक्षिणः क्षमिणांवरः । विद्वत्तमो वीतभयः पुण्यश्रवणकीर्तनः ॥ ९८॥",
-    "transliteration": "akrūraḥ peśalo dakṣo dakṣiṇaः kṣamiṇāṃvaraः . vidvattamo vītabhayaḥ puṇyaśravaṇakīrtanaः .. 98..",
-    "translation": "Not cruel (or the Yadava chief), Tender/Soft, Skilful/Expert, Courteous/Clever, Best among the forgiving, Most knowledgeable, Free from fear, and Whose praise and hearing (of names) is meritorious."
-  },
-  {
-    "id": "vsn-stotram-99",
-    "verse_number": "99",
-    "original": "उत्तारणो दुष्कृतिहा पुण्यो दुःस्वप्ननाशनः । वीरहा रक्षणः सन्तो जीवनः पर्यवस्थितः ॥ ९९॥",
-    "transliteration": "uttāraṇo duṣkṛtihā puṇyo duḥsvapnanāśanaः . vīrahā rakṣaṇaḥ santo jīvanaḥ paryavasthitaḥ .. 99..",
-    "translation": "Lifting up (from suffering), Destroyer of bad deeds, Meritorious, Destroyer of bad dreams, Destroyer of valiant ones (enemies), Protector, Virtuous, Life-giver, and Pervasive."
-  },
-  {
-    "id": "vsn-stotram-100",
-    "verse_number": "100",
-    "original": "अनन्तरूपोऽनन्तश्रीर्जितमन्युर्भयापहः । चतुरश्रो गभीरात्मा विदिशो व्यादिशो दिशः ॥ १००॥",
-    "transliteration": "anantarūpo’nantaśrīrjitamanyurbhayāpahaः . caturaśro gabhīrātmā vidiśo vyādiśo diśaḥ .. 100..",
-    "translation": "Infinite forms, Infinite glory, Conqueror of anger, Remover of fear, Quadrangle (Just/Equitable), Deep Soul, Secondary directions, Intermediate directions, and Primary directions."
-  },
-  {
-    "id": "vsn-stotram-101",
-    "verse_number": "101",
-    "original": "अनादिर्भूर्भुवो लक्ष्मीः सुवीरो रुचिराङ्गदः । जननो जनजन्मादिर्भीमो भीमपराक्रमः ॥ १०१॥",
-    "transliteration": "anādirbhūrbhuvo lakṣmīḥ suvīro rucirāṅgadaः . janano janajanmādirbhīmo bhīmaparākramaḥ .. 101..",
-    "translation": "Beginningless, Earth, Bhuvas (Middle region), Wealth/Prosperity, Great hero, Having charming armlets, Generator, Origin of the birth of people, Terrible, and Having fearful valor."
-  },
-  {
-    "id": "vsn-stotram-102",
-    "verse_number": "102",
-    "original": "आधारनिलयोऽधाता पुष्पहासः प्रजागरः । ऊर्ध्वगः सत्पथाचारः प्राणदः प्रणवः पणः ॥ १०२॥",
-    "transliteration": "ādhāranilayo’dhātā puṣpahāsaḥ prajāgaraः . ūrdhvagaः satpathācāraः prāṇadaः praṇavaः paṇaḥ .. 102..",
-    "translation": "Dwelling in the support (Mūla Prakriti), Not a creator (or supporter of all), Smiling like a flower (Purity), Ever-awake, Moving upwards (Transcendent), Following the path of the good, Giver of life, Om (Pranava), and Price/Bet."
-  },
-  {
-    "id": "vsn-stotram-103",
-    "verse_number": "103",
-    "original": "प्रमाणं प्राणनिलयः प्राणभृत्प्राणजीवनः । तत्त्वं तत्त्वविदेकात्मा जन्ममृत्युजरातिगः ॥ १०३॥",
-    "transliteration": "pramāṇaṃ prāṇanilayaḥ prāṇabhṛtprāṇajīvanaः . tattvaṃ tattvavidekātmā janmamṛtyujarātigaḥ .. 103..",
-    "translation": "Proof/Authority, Abode of life-breath, Bearer of life, Life of life-breaths, Reality/Essence, Knower of Reality, One Soul, and Beyond birth, death, and old age."
-  },
-  {
-    "id": "vsn-stotram-104",
-    "verse_number": "104",
-    "original": "भूर्भुवःस्वस्तरुस्तारः सविता प्रपितामहः । यज्ञो यज्ञपतिर्यज्वा यज्ञाङ्गो यज्ञवाहनः ॥ १०४॥",
-    "transliteration": "bhūrbhuvaःsvastarustāraः savitā prapitāmahaः . yajño yajñapatiryajvā yajñāṅgo yajñavāhanaः .. 104..",
-    "translation": "Earth, Middle region, Heaven (The three worlds), Tree (Cosmic tree), Deliverer/Star, Sun/Generator, Great-grandfather (of Brahma), Sacrifice, Lord of sacrifice, Sacrificer, Part of the sacrifice, and Vehicle of the sacrifice."
-  },
-  {
-    "id": "vsn-stotram-105",
-    "verse_number": "105",
-    "original": "यज्ञभृद् यज्ञकृद् यज्ञी यज्ञभुग् यज्ञसाधनः । यज्ञान्तकृद् यज्ञगुह्यमन्नमन्नाद एव च ॥ १०५॥",
-    "transliteration": "yajñabhṛd yajñakṛd yajñī yajñabhug yajñasādhanaः . yajñāntakṛd yajñaguhyamannamannāda eva ca .. 105..",
-    "translation": "Supporter of sacrifice, Doer of sacrifice, Sacrificer (Participating in yajna), Enjoyer of sacrifice, Means of sacrifice, Finisher of sacrifice, Secret of sacrifice, Food, and Eater of food."
-  },
-  {
-    "id": "vsn-stotram-106",
-    "verse_number": "106",
-    "original": "आत्मयोनिः स्वयञ्जातो वैखानः सामगायनः । देवकीनन्दनः स्रष्टा क्षितीशः पापनाशनः ॥ १०६॥",
-    "transliteration": "ātmayoniḥ svayañjāto vaikhānaḥ sāmagāyanaः . devakīnandanaḥ sraṣṭā kṣitīśaः pāpanāśanaः .. 106..",
-    "translation": "Self-source, Self-born, The hermit Vaikhāna (or one who splits), Singer of the Sāma Veda, Son of Devakī, Creator, Lord of the Earth, and Destroyer of sins."
-  },
-  {
-    "id": "vsn-stotram-107",
-    "verse_number": "107",
-    "original": "शङ्खभृन्नन्दकी चक्री शार्ङ्गधन्वा गदाधरः । रथाङ्गपाणिरक्षोभ्यः सर्वप्रहरणायुधः ॥ १०७॥ सर्वप्रहरणायुध ॐ नम इति ।",
-    "transliteration": "śaṅkhabhṛnnandakī cakrī śārṅgadhanvā gadādharaḥ . rathāṅgapāṇirakṣobhyaḥ sarvapraharaṇāyudhaḥ .. 107.. sarvapraharaṇāyudha oṃ nama iti .",
-    "translation": "Bearer of the conch (Pāñchajanya), Possessing the sword Nandaki, Wielder of the discus (Sudarshana), Possessing the bow Śārṅga, Wielder of the mace (Kaumodakī), Having the discus in his hand, Unshakable, and Possessing all weapons."
-  },
-  {
-    "id": "vsn-stotram-108",
-    "verse_number": "108",
-    "original": "वनमाली गदी शार्ङ्गी शङ्खी चक्री च नन्दकी । श्रीमान् नारायणो विष्णुर्वासुदेवोऽभिरक्षतु ॥ १०८॥ श्री वासुदेवोऽभिरक्षतु ॐ नम इति ।",
-    "transliteration": "vanamālī gadī śārṅgī śaṅkhī cakrī ca nandakī . śrīmān nārāyaṇo viṣṇurvāsudevo’bhirakṣatu .. 108.. śrī vāsudevo’bhirakṣatu oṃ nama iti .",
-    "translation": "Bearer of the forest garland, Possessing the mace, Possessing the bow Śārṅga, Possessing the conch, Possessing the discus, and Possessing the sword Nandaki. May the Glorious Nārāyaṇa, Viṣṇu, the son of Vasudeva, protect us."
+    "original": "नमोऽस्त्वनन्ताय सहस्रमूर्तये सहस्रपादाक्षिशिरोरुबाहवे । सहस्रनाम्ने पुरुषाय शाश्वते सहस्रकोटियुगधारिणे नमः ॥ २८॥",
+    "transliteration": "namo’stvanantāya sahasramūrtaye sahasrapādākṣiśirorubāhave . sahasranāmne puruṣāya śāśvate sahasrakoṭiyugadhāriṇe namaḥ .. 28..",
+    "translation": "Brahmā said: Salutations to the Endless (Ananta), whose form is a thousandfold, who has a thousand feet, eyes, heads, thighs, and arms. Salutations to the eternal Puruṣa with a thousand names, who holds the world for thousands of crores of Yugas."
   }
   ]
 }
