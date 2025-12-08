@@ -106,6 +106,13 @@
           "audioUrl": "https://www.youtube.com/watch?v=509NqwF7I30&list=RD509NqwF7I30&start_radio=1&t=132s",
           "audioSource": "Nadaswaram - Mangala Vadyam - Jayashankar and Valayappatti AR Subramaniam"
         }
+    ],
+    "Tamil": [
+       {
+          "Track": 1,
+          "audioUrl": "https://music.youtube.com/watch?v=YhkaTNr3bPA&si=O2S5EgkjtvX89i9w",
+          "audioSource": "Vinayagar Agaval - Sirkazhi Govindarajan"
+        }
     ]
   }
 }
