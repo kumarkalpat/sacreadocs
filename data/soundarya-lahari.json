@@ -1,706 +1,906 @@
 {
   "id": "soundarya-lahari",
   "verses_count": 100,
-  "verses":[
-  {
-    "id": "sl-1",
-    "verse_number": "1",
-    "original": "शिवः शक्त्या युक्तो यदि भवति शक्तः प्रभवितुं। न चेदेवं देवो न खलु कुशलः स्पन्दितुमपि । अतस्त्वामाराध्यां हरिहरविरिञ्चादिभिरपि। प्रणन्तुं स्तोतुं वा कथमकृतपुण्यः प्रभवति ॥ १॥",
-    "transliteration": "śivaḥ śaktyā yukto yadi bhavati śaktaḥ prabhavituṃ . na cedevaṃ devo na khalu kuśalaḥ spanditumapi . atastvāmārādhyāṃ hariharaviriñcādibhirapi . praṇantuṃ stotuṃ vā kathamakṛtapuṇyaḥ prabhavati ॥ 1 ॥",
-    "translation": "United with Śakti, Śiva is endowed with the power to create the universe. Otherwise, He is incapable even of movement. Therefore, who except those endowed with great merits acquired in the past can be fortunate enough to salute or praise Thee, Mother Divine, who art the adored of even Hari, Hara and Viriñci?"
-  },
-  {
-    "id": "sl-2",
-    "verse_number": "2",
-    "original": "तनीयांसं पांसुं तव चरणपङ्केरुहभवं। विरिञ्चिस्सञ्चिन्वन् विरचयति लोकानविकलम् । वहत्येनं शौरिः कथमपि सहस्रेण शिरसां। हरस्संक्षुद्यैनं भजति भसितोद्धूलनविधिम् ॥ २॥",
-    "transliteration": "tanīyāṃsaṃ pāṃsuṃ tava caraṇapaṅkeruhabhavaṃ . viriñcissañcinvan viracayati lokānavikalam . vahatyenaṃ śauriḥ kathamapi sahasreṇa śirasāṃ . harassaṃkṣudyainaṃ bhajati bhasitoddhūlanavidhim ॥ 2 ॥",
-    "translation": "Gathering a minute particle of dust from Thy lotus feet, Brahmā the creator brings into being this universe without any imperfection. The sustentator Viṣṇu as Ādiśeṣa somehow supports this universe with His thousand hoods. And Hara, the destroyer, crushing it into powder, rubs the ashes all over His body."
-  },
-  {
-    "id": "sl-3",
-    "verse_number": "3",
-    "original": "अविद्यानामन्त-स्तिमिर-मिहिरद्वीपनगरी। जडानां चैतन्य-स्तबक-मकरन्द-स्रुतिझरी । दरिद्राणां चिन्तामणिगुणनिका जन्मजलधौ। निमग्नानां दंष्ट्रा मुररिपु-वराहस्य भवति ॥ ३॥",
-    "transliteration": "avidyānāmanta-stimira-mihiradvīpanagarī . jaḍānāṃ caitanya-stabaka-makaranda-srutijharī . daridrāṇāṃ cintāmaṇiguṇanikā janmajaladhau . nimagnānāṃ daṃṣṭrā muraripu-varāhasya bhavati ॥ 3 ॥",
-    "translation": "The dust of Thy feet is the Island City, wherefrom takes place the luminous sun-rise of spiritual illumination driving away the over-casting darkness of ignorance. It forms the cluster of flower buds, from which gushes forth the nectar of intelligence, enlivening the dull-witted. It is a necklace of wish-yielding gems for the poverty-stricken. And for those immersed in the ocean of Samsara, it becomes their up-lifter like the Tusk of Viṣṇu's Boar incarnation."
-  },
-  {
-    "id": "sl-4",
-    "verse_number": "4",
-    "original": "त्वदन्यः पाणिभ्यामभयवरदो दैवतगणः। त्वमेका नैवासि प्रकटितवराभीत्यभिनया । भयात् त्रातुं दातुं फलमपि च वाञ्छासमधिकं। शरण्ये लोकानां तव हि चरणावेव निपुणौ ॥ ४॥",
-    "transliteration": "tvadanyaḥ pāṇibhyāmabhayavarado daivatagaṇaḥ . tvamēkā naivāsi prakaṭitavarābhītyabhinayā . bhayāt trātuṃ dātuṃ phalamapi ca vāñchāsamadhikaṃ . śaraṇyē lōkānāṃ tava hi caraṇāvēva nipuṇau ॥ 4 ॥",
-    "translation": "All Deities other than Thee bestow boons and give shelter from fear by the pose of their hands. Thou alone art not given to any such external demonstration. For, O Refuge of All, Thy very feet are themselves inherently capable of sheltering devotees from fear and of giving them much more than what they pray for."
-  },
-  {
-    "id": "sl-5",
-    "verse_number": "5",
-    "original": "हरिस्त्वामाराध्य प्रणतजनसौभाग्यजननीं। पुरा नारी भूत्वा पुररिपुमपि क्षोभमनयत् । स्मरोऽपि त्वां नत्वा रतिनयनलेह्येन वपुषा। मुनीनामप्यन्तः प्रभवति हि मोहाय महताम् ॥ ५॥",
-    "transliteration": "haristvāmārādhya praṇatajanasaubhāgyajananīṃ . purā nārī bhūtvā puraripumapi kṣōbhamanayat . smarō'pi tvāṃ natvā ratinayanalehyēna vapuṣā . munīnāmapyantaḥ prabhavati hi mōhāya mahatām ॥ 5 ॥",
-    "translation": "Adoring Thee, the bestower of prosperity on votaries, Hari (Viṣṇu) became a charming female (Mohinī) and stirred waves of passion in Hara (Śiva). And Smara (Cupid), through Thy adoration, got a form—a feast for Rati's eyes—with which he can cause deep infatuation even in the minds of great sages."
-  },
-  {
-    "id": "sl-6",
-    "verse_number": "6",
-    "original": "धनुः पौष्पं मौर्वी मधुकरमयी पञ्च विशिखाः। वसन्तः सामन्तो मलयमरुदायोधनरथः । तथाप्येकः सर्वं हिमगिरिसुते कामपि कृपाम्। अपाङ्गात्ते लब्ध्वा जगदिद-मनङ्गो विजयते ॥ ६॥",
-    "transliteration": "dhanuḥ pauṣpaṃ maurvī madhukaramayī pañca viśikhāḥ . vasantaḥ sāmanto malayamarudāyodhanarathaḥ . tathāpyekaḥ sarvaṃ himagirisutē kāmapi kṛpām . apāṅgātte labdhvā jagadida-manaṅgō vijayatē ॥ 6 ॥",
-    "translation": "O Daughter of the Mountain! Though Kāma Deva (Cupid) has a bow of flowers, a bow-string of honey-bees, five floral arrows, spring as his minister, and the Malaya breeze as his chariot, and is bodiless, yet, blessed by Thy gracious side-glance, he alone is victorious over the whole world."
-  },
-  {
-    "id": "sl-7",
-    "verse_number": "7",
-    "original": "क्वणत्काञ्चीदामा करिकलभकुम्भस्तननता। परिक्षीणा मध्ये परिणतशरच्चन्द्रवदना । धनुर्बाणान् पाशं सृणिमपि दधाना करतलैः। पुरस्तादास्तां नः पुरमथितुराहोपुरुषिका ॥ ७॥",
-    "transliteration": "kvaṇatkāñcīdāmā karikalabhakumbhastananatā . parikṣīṇā madhyē pariṇataśaraccandravadanā . dhanurbāṇān pāśaṃ sṛṇimapi dadhānā karatalaiḥ . purastādāstāṃ naḥ puramathiturāhōpuruṣikā ॥ 7 ॥",
-    "translation": "May the Divine Mother Tripurasundarī, the Pride of Śiva, vouchsafe Her presence before us—the Mother with Her slender waist girdled with jingling mini-bells, Her frame bent by the weight of breasts like the frontal globes of a young elephant, with Her face like the autumnal moon, and with Her hands sporting a bow, arrows, a noose and a goad!"
-  },
-  {
-    "id": "sl-8",
-    "verse_number": "8",
-    "original": "सुधासिन्धोर्मध्ये सुरविटपिवाटीपरिवृते। मणिद्वीपे नीपोपवनवति चिन्तामणिगृहे । शिवाकारे मञ्चे परमशिवपर्यङ्कनिलयां। भजन्ति त्वां धन्याः कतिचन चिदानन्दलहरीम् ॥ ८॥",
-    "transliteration": "sudhāsindhormadhyē suraviṭapivāṭīparivṛtē . maṇidvīpē nīpōpavanavati cintāmaṇigṛhē . śivākārē mañcē paramaśivaparyaṅkanilayāṃ . bhajanti tvāṃ dhanyāḥ katicana cidānandalaharīm ॥ 8 ॥",
-    "translation": "Fortunate indeed are the few who adore Thee, the Inundation of Bliss-Consciousness, as abiding on a mattress that is Paramaśiva (Sadāśiva), spread on a couch which is an aspect of Śiva, placed in a chamber of wish-yielding gems (Cintāmaṇi), amidst a Nipa pleasure garden, in Maṇidvīpa (Isle of Gems), which is situated in the Nectar-Ocean and fringed by rows of celestial Kalpaka trees."
-  },
-  {
-    "id": "sl-9",
-    "verse_number": "9",
-    "original": "महीं मूलाधारे कमपि मणिपूरे हुतवहं। स्थितं स्वाधिष्ठाने हृदि मरुतमाकाशमुपरि । मनोऽपि भ्रूमध्ये सकलमपि भित्वा कुलपथं। सहस्रारे पद्मे सह रहसि पत्या विहरसे ॥ ९॥",
-    "transliteration": "mahīṃ mūlādhārē kamapi maṇipūrē hutavahaṃ . sthitaṃ svādhiṣṭhānē hṛdi marutamākāśamupari . manō'pi bhrūmadhyē sakalamapi bhitvā kulapathaṃ . sahasrārē padmē saha rahasi patyā viharasē ॥ 9 ॥",
-    "translation": "Having penetrated the Pṛthvī (Earth) element in the Mūlādhāra, the Jala (Water) in the Maṇipūra, the Agni (Fire) in the Svādhiṣṭhāna, the Vāyu (Air) in the Anāhata (heart), the Ākāśa (Sky) in the Viśuddhi, and Manas (Mind) in the Ājñā, Thou, ascending through the Suṣumnā (Kula Path), sportest with Thy Consort in the solitude of Sahasrāra, the Thousand-Petalled Lotus."
-  },
-  {
-    "id": "sl-10",
-    "verse_number": "10",
-    "original": "सुधाधारासारैश्चरणयुगलान्तर्विगलितैः। प्रपञ्चं सिञ्चन्ती पुनरपि रसाम्नायमहसः । अवाप्य स्वां भूमिं भुजगनिभमध्युष्टवलयं। स्वमात्मानं कृत्वा स्वपिषि कुलकुण्डे कुहरिणि ॥ १०॥",
-    "transliteration": "sudhā-dhārā-sāraiś caraṇa-yugalāntar vigalitaiḥ . prapañcaṃ siñcantī punarapi rasāmnāyamahasaḥ . avāpya svāṃ bhūmiṃ bhujaganibhamadhyuṣṭavalayaṃ . svamātmānaṃ kṛtvā svapiṣi kulakuṇḍē kuhariṇi ॥ 10 ॥",
-    "translation": "Drenching the whole manifested multiplicity (Nādis) with the nectar flowing from Thy feet, Thou (Kuṇḍalinī) descendest from the exuberance of the Nectarine Radiance of the Moon (Sahasrāra) into the hollow of Thy own sphere in the Mūlādhāra, assuming Thy serpentine form (of three and a half coils) and sleepest therein."
-  },
-  {
-    "id": "sl-11",
-    "verse_number": "11",
-    "original": "चतुर्भिः श्रीकण्ठैः शिवयुवतिभिः पञ्चभिरपि। प्रभिन्नाभिः शम्भोर्नवभिरपि मूलप्रकृतिभिः । चतुश्चत्वारिंशद्वसुदलकलाश्रत्रिवलय-। त्रिरेखाभिः सार्धं तव शरणकोणाः परिणताः ॥ ११॥",
-    "transliteration": "caturbhiḥ śrīkaṇṭhaiḥ śivayuvatibhiḥ pañcabhirapi . prabhinnābhiḥ śambhōrnavabhirapi mūlaprakṛtibhiḥ . catuś-catvārimśad vasu-dala-kalāśra-tri-valaya- . trirēkhābhiḥ sārdhaṃ tava śaraṇakōṇāḥ pariṇatāḥ ॥ 11 ॥",
-    "translation": "The four Śrī-Kaṇṭhas (Śiva-cakras) and the five Śiva-yuvatis (Śakti-cakras) are the nine Mūla-prakṛtis (basic manifestations). Then there are two lotuses (8-petalled and 16-petalled), besides three surrounding circles and three lines. This forms Thy mansion (Śrī Cakra) with forty-four Kōṇas (triangles)."
-  },
-  {
-    "id": "sl-12",
-    "verse_number": "12",
-    "original": "त्वदीयं सौन्दर्यं तुहिनगिरिकन्ये तुलयितुं। कवीन्द्राः कल्पन्ते कथमपि विरिञ्चिप्रभृतयः । यदालोकौत्सुक्यादमरललना यान्ति मनसा। तपोभिर्दुष्प्रापामपि गिरिशसायुज्यपदवीम् ॥ १२॥",
-    "transliteration": "tvadīyaṃ saundaryaṃ tuhinagirikanyē tulayituṃ . kavīndrāḥ kalpantē kathamapi viriñciprabhṛtayaḥ . yadālōkautsukyādamaralalanā yānti manasā . tapōbhirdūṣprāpāmapi giriśa-sāyujya-padavīm ॥ 12 ॥",
-    "translation": "O Daughter of the Mountain of Snow! The greatest of poets like Brahmā fail to find any comparison to portray Thy beauty. For, even the heavenly damsels, out of eagerness to experience Thy beauty, attain only to an imaginative identification with the State of Oneness with Śiva, which is difficult to gain even by severe austerities."
-  },
-  {
-    "id": "sl-13",
-    "verse_number": "13",
-    "original": "नरं वर्षीयांसं नयनविरसं नर्मसु जडं। तवापाङ्गालोके पतितमनुधावन्ति शतशः । गलद्वेणीबन्धाः कुचकलशविस्रस्तसिचया। हठात् त्रुट्यत्काञ्च्यो विगलितदुकूला युवतयः ॥ १३॥",
-    "transliteration": "naraṃ varṣīyāṃsaṃ nayanavirasaṃ narmasu jaḍaṃ . tavāpāṅgālōkē patitamanudhāvanti śataśaḥ . galadvēṇībandhāḥ kucakalaśavisrastasicayā . haṭhāt truṭyatkāñcyō vigalitadukūlā yuvatayaḥ ॥ 13 ॥",
-    "translation": "If Thy gracious side glance falls on even a decrepit old man who is ugly to look at and whose erotic sensibilities are dead, he will be followed in all haste in their hundreds by love-lorn young women with scattered locks, exposed breasts, and suddenly broken girdles, letting their garments slip down."
-  },
-  {
-    "id": "sl-14",
-    "verse_number": "14",
-    "original": "क्षितौ षट्पञ्चाशद् द्विसमधिकपञ्चाशदुदके। हुताशे द्वाषष्टिश्चतुरधिकपञ्चाशदनिले । दिवि द्विष्षट्त्रिंशन्मनसि च चतुष्षष्टिरिति ये। मयूखास्तेषामप्युपरि तव पादाम्बुजयुगम् ॥ १४॥",
-    "transliteration": "kṣitau ṣaṭpañcāśad dvisamadhikapañcāśadudakē . hutāśē dvāṣaṣṭiścaturadhikapañcāśadanilē . divi dviṣṣaṭtriṃśanmanasi ca catuṣṣaṣṭiriti yē . mayūkhāstēṣāmapyupari tava pādāmbuja-yugam ॥ 14 ॥",
-    "translation": "Thy transcendent station (pair of lotus feet) is far above the Cakras, to which Thy Rays reach in the following combinations: 56 in Mūlādhāra (Earth), 52 in Maṇipūra (Water), 62 in Svādhiṣṭhāna (Fire), 54 in Anāhata (Air), 72 in Viśuddhi (Ether), and 64 in Ājñā (Mind)."
-  },
-  {
-    "id": "sl-15",
-    "verse_number": "15",
-    "original": "शरज्ज्योत्स्नाशुद्धां शशियुतजटाजूटमकुटां। वरत्रासत्राणस्फटिकघटिकापुस्तककराम् । सकृन्न त्वा नत्वा कथमिव सतां संन्निदधते। मधुक्षीरद्राक्षामधुरिमधुरीणाः फणितयः ॥ १५॥",
-    "transliteration": "śarajjyōtsnāśuddhāṃ śaśiyutajaṭājūṭamakuṭāṃ . vara-trāsa-trāṇa -sphaṭika-ghuṭikā-pustaka karām . sakṛnna tvā natvā kathamiva satāṃ saṃnnidadhatē . madhukṣīradrākṣāmadhurimadhurīṇāḥ bhaṇitayaḥ ॥ 15 ॥",
-    "translation": "How can torrents of words, excelling honey, milk and grapes, help flowing from the mouth of good men who but once make prostration to Thee, who art pure as the autumnal moon, who holdest in Thy hands the poses of granting boons and protection, a crystal rosary, and a book, and who wearest the crescent moon in Thy crown of plaited locks!"
-  },
-  {
-    "id": "sl-16",
-    "verse_number": "16",
-    "original": "कवीन्द्राणां चेतःकमलवनबालातपरुचिं। भजन्ते ये सन्तः कतिचिदरुणामेव भवतीम् । विरिञ्चिप्रेयस्यास्तरुणतरश‍ृङ्गारलहरी-। गभीराभिर्वाग्भिर्विदधति सतां रञ्जनममी ॥ १६॥",
-    "transliteration": "kavīndrāṇāṃ cētaḥkamalavanabālātaparuciṃ . bhajantē yē santaḥ katicidarunāmēva bhavatīm . viriñci-prēyasyās taruṇatara śrṅgāra-laharī- . gabhīrābhirvāgbhirvidadhati satāṃ rañjanamamī ॥ 16 ॥",
-    "translation": "O Mother, Thou Aruṇā, the Crimson-coloured Goddess, art like the light of morning’s rising sun to the lotus flowers constituted of the minds of gifted poets. Therefore, those devoted men who adore Thee become capable of delighting literary connoisseurs with the majestic flow of their words surging like waves of erotic sentiments emanating from youthful Sarasvati."
-  },
-  {
-    "id": "sl-17",
-    "verse_number": "17",
-    "original": "सवित्रीभिर्वाचां शशिमणिशिलाभङ्गरुचिभिः। वशिन्याद्याभिस्त्वां सह जननि संचिन्तयति यः । स कर्ता काव्यानां भवति महतां भङ्गिरुचिभिः। वचोभिर्वाग्देवीवदनकमलामोदमधुरैः ॥ १७॥",
-    "transliteration": "savitrībhirvācāṃ śaśimaṇiśilābhaṅgarucibhiḥ . vaśinyādyābhistvāṃ saha janani saṃcintayati yaḥ . sa kartā kāvyānāṃ bhavati mahatāṃ bhaṅgirucibhiḥ . vacōbhir vāgdēvī-vadana-kamal’āmōda madhuraiḥ ॥ 17 ॥",
-    "translation": "O Mother! Those who meditate on Thee in association with Vaśinī and allied Deities—the sources of speech, whose radiance resembles the lustre of freshly cut Candrakānta gem—can become the authors of great poetical works, sweet with the fragrance of the mouth of Sarasvatī, the goddess of poesy and learning."
-  },
-  {
-    "id": "sl-18",
-    "verse_number": "18",
-    "original": "तनुच्छायाभिस्ते तरुणतरणिश्रीसरणिभिः। दिवं सर्वामुर्वीमरुणिमनि मग्नां स्मरति यः । भवन्त्यस्य त्रस्यद्वनहरिणशालीननयनाः। सहोर्वश्या वश्याः कति कति न गीर्वाणगणिकाः ॥ १८॥",
-    "transliteration": "tanucchāyābhiste taruṇataraṇiśrīsaraṇibhiḥ . divaṃ sarvāmurvīmaruṇimani magnāṃ smarati yaḥ . bhavantyasya trasyadvanahariṇaśālīnanayanāḥ . sahurvaśyā vaśyāḥ kati kati na gīrvāṇagaṇikāḥ ॥ 18 ॥",
-    "translation": "How can numerous celestial courtesans like Urvaśī with eyes resembling timid does of the forest, help being attracted by a person who meditates on the beauty of Thy form which bathes the heaven and the earth in its crimson radiance resembling the rising sun."
-  },
-  {
-    "id": "sl-19",
-    "verse_number": "19",
-    "original": "मुखं बिन्दुं कृत्वा कुचयुगमधस्तस्य तदधो। हरार्धं ध्यायेद्यो हरमहिषि ते मन्मथकलाम् । स सद्यः संक्षोभं नयति वनिता इत्यतिलघु। त्रिलोकीमप्याशु भ्रमयति रवीन्दुस्तनयुगाम् ॥ १९॥",
-    "transliteration": "mukhaṃ binduṃ kṛtvā kucayugamadhastasya tadadhō . harārdhaṃ dhyāyedyō haramahiṣi tē manmathakalām . sa sadyaḥ saṃkṣōbhaṃ nayati vanitā ityatilaghu . trilōkīmapyāśu bhramayati ravīndustanayugām ॥ 19 ॥",
-    "translation": "O Consort of Hara! A votary who contemplates Thy Manmathakalā, thinking of a woman’s face in the Bindu, her twin breasts below it and ‘the half of Hara’ still below, will quickly stir the mind of any woman. This is a trifle for him; in no time he can fascinate even the Triloki (the three worlds conceived as a woman) with the sun and moon as breasts."
-  },
-  {
-    "id": "sl-20",
-    "verse_number": "20",
-    "original": "किरन्तीमङ्गेभ्यः किरणनिकुरम्बामृतरसं। हृदि त्वामाधत्ते हिमकरशिलामूर्तिमिव यः । स सर्पाणां दर्पं शमयति शकुन्ताधिप इव। ज्वरप्लुष्टान् दृष्ट्या सुखयति सुधाधारसिरया ॥ २०॥",
-    "transliteration": "kirantīmaṅgēbhyaḥ kiraṇanikurambāmṛtarasaṃ . hṛdi tvāmādhattē himakaraśilāmūrtimiva yaḥ . sa sarpāṇāṃ darpaṃ śamayati śakuntādhipa iva . jvarapluṣṭān dṛṣṭyā sukhayati sudhādhārasirayā ॥ 20 ॥",
-    "translation": "He who meditates on Thee, who sends forth luminous waves of Bliss from Thy body as an image of moonstone does, will be capable of humbling the pride and ferocity of serpents by his mere look, like Garuḍa. His look can cure any ailment, including fever, like the nectar showering Nādi (nerve)."
-  },
-  {
-    "id": "sl-21",
-    "verse_number": "21",
-    "original": "तटिल्लेखातन्वीं तपनशशिवैश्वानरमयीं। निषण्णां षण्णामप्युपरि कमलानां तव कलाम् । महापद्माटव्यां मृदितमलमायेन मनसा। महान्तः पश्यन्तो दधति परमाह्लादलहरीम् ॥ २१॥",
-    "transliteration": "taṭillekhātanvīṃ tapanaśaśivaiśvānaramayīṃ . niṣaṇṇāṃ ṣaṇṇāmapyupari kamalānāṃ tava kalām . mahāpadmāṭavyāṃ mṛditamalamāyēna manasā . mahāntaḥ paśyantō dadhati paramāhlādalaharīm ॥ 21 ॥",
-    "translation": "The noble spiritual aspirants, whose minds are free from impurities, are filled with thrills of spiritual Bliss by experiencing Thy lightning-like Kalā (Śakti in union with Śiva known as Sadākhyā) in the core of the Thousand-petalled Lotus (Sahasrāra), which transcends the six lotuses and Thy manifestations as fire, sun and moon in them."
-  },
-  {
-    "id": "sl-22",
-    "verse_number": "22",
-    "original": "भवानि त्वं दासे मयि वितर दृष्टिं सकरुणा-। मिति स्तोतुं वाञ्छन् कथयति भवानि त्वमिति यः । तदैव त्वं तस्मै दिशसि निजसायुज्यपदवीं। मुकुन्दब्रह्मेन्द्रस्फुटमकुटनीराजितपदाम् ॥ २२॥",
-    "transliteration": "bhavāni tvaṃ dāsē mayi vitara dṛṣṭiṃ sakaruṇā- . iti stōtuṃ vāñchan kathayati bhavāni tvamiti yaḥ . tadaiva tvaṃ tasmai diśasi nijasāyujyapadavīṃ . mukunda-brahmēndra-sphuṭa-makuṭa-nīrājita-padām ॥ 22 ॥",
-    "translation": "Whoever, desiring to pray to Thee in terms like ‘Oh Bhavāni, bestow Thy gracious glance on me, Thy servant,’ even before he utters ‘Bhavāni tvam’ (May I become Thou), Thou art wont to bestow on him the status of oneness with Thy feet, at which Divinities like Viṣṇu, Brahmā and Indra are performing the lustration ceremony with the brilliance of their diadems."
-  },
-  {
-    "id": "sl-23",
-    "verse_number": "23",
-    "original": "त्वया हृत्वा वामं वपुरपरितृप्तेन मनसा। शरीरार्धं शम्भोरपरमपि शङ्के हृतमभूत् । यदेतत्त्वद्रूपं सकलमरुणाभं त्रिनयनं। कुचाभ्यामानम्रं कुटिलशशिचूडालमकुटम् ॥ २३॥",
-    "transliteration": "tvayā hṛtvā vāmaṃ vapuraparitṛptēna manasā . śarīrārdhaṃ śambhōraparamapi śaṅkē hṛtamabhūt . yadētattvadrūpaṃ sakalamaruṇābhaṃ trinayanaṃ . kucābhyāmānamraṃ kuṭilaśaśicūḍālamakuṭam ॥ 23 ॥",
-    "translation": "I have a feeling that, unsatisfied even after having appropriated the left half of Śambhu (Śiva) as Ardhanarīśvara, Thou hast also invaded his right half; for Thy form that shines in my heart is totally crimson in complexion and slightly bent by the weight of the two breasts, besides having three eyes and the crescent moon in the diadem."
-  },
-  {
-    "id": "sl-24",
-    "verse_number": "24",
-    "original": "जगत्सूते धाता हरिरवति रुद्रः क्षपयते। तिरस्कुर्वन्नेतत्स्वमपि वपुरीशस्तिरयति । सदापूर्वः सर्वं तदिदमनुगृह्णाति च शिव-। स्तवाज्ञामालम्ब्य क्षणचलितयोर्भ्रूलतिकयोः ॥ २४॥",
-    "transliteration": "jagatsūtē dhātā hariravati rudraḥ kṣapayate . tiraskurvannetat svamapi vapurīśastirayati . sadāpūrvaḥ sarvaṃ tadidamanugṛhṇāti ca śiva- . stavājñāmālambya kṣaṇacalitayōrbhrūlatikayōḥ ॥ 24 ॥",
-    "translation": "Brahmā creates; Hari sustains; Rudra destroys; Īśa absorbs all these Deities into Himself and disappears into Sadāśiva. Then Sadāśiva, on receiving the mandate from Thee by a movement of Thy creeper-like brows, blesses (manifests) them into activity."
-  },
-  {
-    "id": "sl-25",
-    "verse_number": "25",
-    "original": "त्रयाणां देवानां त्रिगुणजनितानां तव शिवे। भवेत् पूजा पूजा तव चरणयोर्या विरचिता । तथा हि त्वत्पादोद्वहनमणिपीठस्य निकटे। स्थिता ह्येते शश्वन्मुकुलितकरोत्तंसमकुटाः ॥ २५॥",
-    "transliteration": "trayāṇāṃ dēvānāṃ triguṇajanitānāṃ tava śivē . bhavēt pūjā pūjā tava caraṇayōryā viracitā . tathā hi tvatpādōdvahanamaṇipīṭhasya nikaṭē . sthitā hyētē śaśvanmukuli-takarōttaṃsamakuṭāḥ ॥ 25 ॥",
-    "translation": "The worship done at Thy feet, O Consort of Śiva, is also the worship of all the three Deities (Brahmā, Viṣṇu, and Śiva), who have their origin in Thy three Guṇas. They require no special worship, because they are ever waiting with their joined palms held above their diademed heads in salutation to Thee by the side of the diamond foot-stool that bears Thy feet."
-  },
-  {
-    "id": "sl-26",
-    "verse_number": "26",
-    "original": "विरिञ्चिः पञ्चत्वं व्रजति हरिराप्नोति विरतिं। विनाशं कीनाशो भजति धनदो याति निधनम् । वितन्द्री माहेन्द्री विततिरपि संमीलितदृशा। महासंहारेऽस्मिन् विहरति सति त्वत्पतिरसौ ॥ २६॥",
-    "transliteration": "viriñciḥ pañcatvaṃ vrajati harirāpnōti viratiṃ . vināśaṃ kīnāśō bhajati dhanadō yāti nidhanam . vitandrī māhēndrī vitatirapi saṃmīlitadṛśā . mahāsaṃhārē’smin viharati sati tvatpatirasau ॥ 26 ॥",
-    "translation": "Viriñci (Brahmā) is reduced into elements; Hari (Viṣṇu) retires into passivity; Kīnāśa (Yama) himself dies; Kubera meets with his end; and Indra with all his followers closes his eyes in destruction. When such is the state of all beings at the time of the total dissolution (Mahāsaṃhāra), Thy husband Sadāśiva alone is sporting."
-  },
-  {
-    "id": "sl-27",
-    "verse_number": "27",
-    "original": "जपो जल्पः शिल्पं सकलमपि मुद्राविरचना। गतिः प्रादक्षिण्यक्रमणमशनाद्याहुतिविधिः । प्रणामस्संवेशस्सुखमखिलमात्मार्पणदृशा। सपर्यापर्यायस्तव भवतु यन्मे विलसितम् ॥ २७॥",
-    "transliteration": "japo jalpaḥ śilpam sakalam api mudrā-viracanā . gatiḥ prādakṣiṇya-kramaṇam aśanādy’āhuti-vidhiḥ . praṇāmaḥ samveśaḥ sukham akilam ātmārpaṇa-dṛśā . saparyā-paryāyas tava bhavatu yan me vilasitam ॥ 27 ॥",
-    "translation": "May everything that I do with the sense of self-dedication be items in Thy service: my prattle, the utterance of Thy Mantra; the movements of my hand, the gestures of Thy worship; my walking, Thy circumambulation; my eating, fire-sacrifice to Thee; the stretching of the body in sleep and rest, prostration to Thee; and all my enjoyments, offerings made to Thee."
-  },
-  {
-    "id": "sl-28",
-    "verse_number": "28",
-    "original": "सुधामप्यास्वाद्य प्रतिभयजरामृत्युहरिणीं। विपद्यन्ते विश्वे विधिशतमखाद्या दिविषदः । करालं यत्क्ष्वेलं कबलितवतः कालकलना। न शम्भोस्तन्मूलं तव जननि ताटङ्कमहिमा ॥ २८॥",
-    "transliteration": "sudhāmapyāsvādya pratibhayajarāmṛtyuhariṇīṃ . vipadyantē viśvē vidhiśatamakhādyā diviṣadaḥ . karālaṃ yatkṣvēlaṃ kabalitavatō kālakalanā . na śambhōstanmūlaṃ tava janani tāṭaṅkamahimā ॥ 28 ॥",
-    "translation": "Even after consuming nectar, Deities like Brahmā and Indra perish finally at the time of cosmic dissolution. But in spite of taking the terrible Kālakūṭa poison, Thy Consort Śiva enjoys a life-span that has no end. The cause of this, O Mother, is indeed the unique glory of Thy ear ornament!"
-  },
-  {
-    "id": "sl-29",
-    "verse_number": "29",
-    "original": "किरीटं वैरिञ्चं परिहर पुरः कैटभभिदः। कठोरे कोटीरे स्खलसि जहि जम्भारिमुकुटम् । प्रणम्रेष्वेतेषु प्रसभमुपयातस्य भवनं। भवस्याभ्युत्थाने तव परिजनोक्तिर्विजयते ॥ २९॥",
-    "transliteration": "kirīṭaṃ vairiñcaṃ parihara puraḥ kaiṭabhabhidaḥ . kaṭhōrē kōṭīrē skhalasi jahi jambhārimukuṭam . praṇamrēṣvētēṣu prasabhamupayātasya bhavanaṃ . bhavasyābhyutthānē tava parijanōktirvijayatē ॥ 29 ॥",
-    "translation": "On Thy Consort Bhava approaching Thy abode unannounced, as Thou springest up in great haste to receive Him, Thy attendants caution Thee, crying out, 'Deign to keep away from the diadem of Viriñci (Brahmā); avoid tumbling over the heavy crown of Kaiṭabhārī (Viṣṇu); beware of the crest of Jambhāri (Indra).'"
-  },
-  {
-    "id": "sl-30",
-    "verse_number": "30",
-    "original": "स्वदेहोद्भूताभिर्घृणिभिरणिमाद्याभिरभितो। निषेव्ये नित्ये त्वामहमिति सदा भावयति यः । किमाश्चर्यं तस्य त्रिनयनसमृद्धिं तृणयतो। महासंवर्ताग्निर्विरचयति निराजनविधिम् ॥ ३०॥",
-    "transliteration": "svadēhōdbhūtābhirghṛṇibhiraṇimādyābhirabhito . niṣēvyē nityē tvāmahamiti sadā bhāvayati yaḥ . kimāścaryam tasya trinayanasamṛddhiṃ tṛṇayatō . mahāsaṃvartāgnirviracayati nirājanavidhim ॥ 30 ॥",
-    "translation": "O Mother eternal! By ever meditating with a feeling of identification with Thee, who art surrounded by divine powers like Aṇimā, which are rays emanating from Thy feet, a devotee attains to glories far above even those of Śiva. What wonder then that even the conflagration of Cosmic Dissolution proves only to be the rite of Nīrājana to him."
-  },
-  {
-    "id": "sl-31",
-    "verse_number": "31",
-    "original": "चतुष्षष्ट्या तन्त्रैः सकलमतिसंधाय भुवनं। स्थितस्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः । पुनस्त्वन्निर्बन्धादखिलपुरुषार्थैकघटना-। स्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम् ॥ ३१॥",
-    "transliteration": "catuṣṣaṣṭyā tantraiḥ sakalamatisamdhāya bhuvanaṃ . sthitastattatsiddhiprasavaparatantraiḥ paśupatiḥ . punastvannirbandhādakhilapuruṣārthaikaghaṭanā- . svatantraṃ tē tantraṃ kṣititalamavātītaradidamt ॥ 31 ॥",
-    "translation": "Paśupati (Śiva) at first remained satisfied after 'deluding' the world, by giving out the sixty-four Tantras, which expound practices conferring only one or another of the psychic powers. Afterwards, on Thy special insistence, He revealed this Thy own Tantra (Śrī Vidyā) to the world, independent of all the others and capable of conferring all the Puruṣārthas—Dharma, Artha, Kāma and Mokṣa—by Itself."
-  },
-  {
-    "id": "sl-32",
-    "verse_number": "32",
-    "original": "शिवः शक्तिः कामः क्षितिरथ रविः शीतकिरणः। स्मरो हंसः शक्रस्तदनु च परामारहरयः । अमी हृल्लेखाभिस्तिसृभिरवसानेषु घटिता। भजन्ते वर्णास्ते तव जननि नामावयवताम् ॥ ३२॥",
-    "transliteration": "śivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītakiraṇaḥ . smarō haṃsaḥ śakrastadanu ca parāmāraharayaḥ . amī hṛllēkhābhistisṛbhiravasānēṣu ghaṭitā . bhajantē varṇāstē tava janani nāmāvayavatām ॥ 32 ॥",
-    "translation": "O Mother! The syllables Ka, e, i, la (Śiva, Śakti, Kāma, Kṣiti); Ha, sa, ka, ha, la (Ravi, Śītakiraṇa, Smara, Haṃsa, Śakra); and Sa, ka, la (Parā, Māra, Hari), each group joined at the end with Hṛllekhā (Hrīm), become the component parts of Thy Name (Mantra)."
-  },
-  {
-    "id": "sl-33",
-    "verse_number": "33",
-    "original": "स्मरं योनिं लक्ष्मीं त्रितयमिदमादौ तव मनो-। र्निधायैके नित्ये निरवधिमहाभोगरसिकाः । भजन्ति त्वां चिन्तामणिगुननिबद्धाक्षवलयाः। शिवाग्नौ जुह्वन्तः सुरभिघृतधाराहुतिशतैः ॥ ३३॥",
-    "transliteration": "smaraṃ yōniṃ lakṣmīṃ tritayamidamādau tava manō- . rnidhāyai-kē nityē niravadhimahābhōgarasikāḥ . bhajanti tvāṃ cintāmaṇigunanibaddhākṣavalayāḥ . śivāgnau juhvantaḥ surabhighṛtadhārāhutiśataiḥ ॥ 33 ॥",
-    "translation": "Some connoisseurs of the highest Enjoyment, adding the Bīja-syllables of Kāmarāja (Klīm), Bhuvaneśvarī (Hrīm), and Śri (Śrīm) before Thy Mantra, and adorned with a necklace of Cintāmaṇi, worship Thee with oblations consisting of countless streams of Kāmadhenu’s ghee in the purified fire of Śivā (Śakti)."
-  },
-  {
-    "id": "sl-34",
-    "verse_number": "34",
-    "original": "शरीरं त्वं शम्भोः शशिमिहिरवक्षोरुहयुगं। तवात्मानं मन्ये भगवति नवात्मानमनघम् । अतश्शेषश्शेषीत्ययमुभयसाधारणतया। स्थितः संबन्धो वां समरसपरानन्दपरयोः ॥ ३४॥",
-    "transliteration": "śarīraṃ tvaṃ śambhōḥ śaśimihiravakṣōruhayugaṃ . tavātmānaṃ manyē bhagavati navātmānamanagham . ataśśēṣaśśēṣītyayamubhayasādhāraṇatayā . sthitaḥ saṃbandhō vāṃ samarasaparānandaparayōḥ ॥ 34 ॥",
-    "translation": "O Bhagavati! Thou art verily the body of Śambhu with the sun and the moon as the two breasts. And Thy being is verily the flawless Śambhu, having nine aspects. Therefore in the matter of the relationship of the subservient and the essential entity, both Parānanda (Ānanda-bhairava) and Parā (Ānanda-bhairavī) stand on an equal footing."
-  },
-  {
-    "id": "sl-35",
-    "verse_number": "35",
-    "original": "मनस्त्वं व्योम त्वं मरुदसि मरुत्सारथिरसि। त्वमापस्त्वं भूमिस्त्वयि परिणतायां न हि परम् । त्वमेव स्वात्मानं परिणमयितुं विश्ववपुषा। चिदानन्दाकारं शिवयुवति भावेन बिभृषे ॥ ३५॥",
-    "transliteration": "manastvaṃ vyōma tvaṃ marudasi marutsārathirasi . tvamāpastvaṃ bhūmistvayi pariṇatāyāṃ na hi param . tvamēva svātmānaṃ pariṇamayituṃ viśvavapuṣā . cidānandākāraṃ śivayuvati bhāvēna bibhṛṣē ॥ 35 ॥",
-    "translation": "Thou art the Mind, Thou art Ākāśa, Vāyu, Fire, Water and Earth too. When Thou hast transformed Thyself into the form of the universe, there is nothing beyond Thee. It is to transform Thyself into the universe that Thou assumest this form of Consciousness-Bliss as Śiva’s Consort (His Śakti)."
-  },
-  {
-    "id": "sl-36",
-    "verse_number": "36",
-    "original": "तवाज्ञाचक्रस्थं तपनशशिकोटिद्युतिधरं। परं शम्भुं वन्दे परिमिलितपार्श्वं परचिता । यमाराध्यन् भक्त्या रविशशिशुचीनामविषये। निरालोकेऽलोके निवसति हि भालोकभवने ॥ ३६॥",
-    "transliteration": "tavājñācakrasthaṃ tapanaśaśikōṭidyutidharaṃ . paraṃ śambhuṃ vandē parimilitapārśvaṃ paracitā . yamārādhyan bhaktyā raviśaśiśucīnāmaviṣayē . nirālōkē’lōkē nivasati hi bhālōkabhavanē ॥ 36 ॥",
-    "translation": "I salute the Supreme Śambhu residing in Thy Ājñā-Cakra, who is resplendent as crores of suns and moons, and whose side is integrated with the Supreme Consciousness (Devi). He who adores Him attains that Self-luminous State which is not a Loka, which transcends the pale of the light of Moon, Sun and Fire."
-  },
-  {
-    "id": "sl-37",
-    "verse_number": "37",
-    "original": "विशुद्धौ ते शुद्धस्फटिकविशदं व्योमजनकं। शिवं सेवे देवीमपि शिवसमानव्यवसिताम् । ययोः कान्त्या यान्त्याः शशिकिरणसारूप्यसरणे-। विधूतान्तर्ध्वान्ता विलसति चकोरीव जगती ॥ ३७॥",
-    "transliteration": "viśuddhau tē śuddhasphaṭikaviśadaṃ vyōmajanakaṃ . śivaṃ sēvē dēvīmapi śivasamānavyavasitām . yayōḥ kāntyā yāntyāḥ śaśikiraṇasārūpyasaraṇē- . vidhūtāntardhvāntā vilasati cakōrīva jagatī ॥ 37 ॥",
-    "translation": "In Thy Viśuddhi cakra, I meditate on Śiva, the creator of Ākāśa (Ether), resembling a pure crystal, along with the Devī who is equal to Śiva. In the Lunar Brilliance proceeding from them both, the whole universe, free from the Darkness of Ignorance, rejoices like the bird Cakorī (female partridge)."
-  },
-  {
-    "id": "sl-38",
-    "verse_number": "38",
-    "original": "समुन्मीलत् संवित् कमलमकरन्दैकरसिकं। भजे हंसद्वन्द्वं किमपि महतां मानसचरम् । यदालापादष्टादशगुणितविद्यापरिणति-। र्यादादत्ते दोषाद् गुणमखिलमद्भ्यः पय इव ॥ ३८॥",
-    "transliteration": "samunmīlat saṃvit kamalamakarandaikarasikaṃ . bhajē haṃsadvandvaṃ kimapi mahatāṃ mānasacaram . yadālāpādaṣṭādaśaguṇitavidyāpariṇati- . ryadādatte dōṣād guṇamakhilamadbhyaḥ paya iva ॥ 38 ॥",
-    "translation": "I adore the pair of Swans (Śiva-Śakti) who take delight in imbibing the honey of the full-blown Lotus of Knowledge of the Anāhata-cakra, and who swim in the Mānasa lake of the mind of enlightened ones. Their mutual conversation has become the eighteen Vidyās, and they separate good from evil, as a swan separates milk from the water with which it is diluted."
-  },
-  {
-    "id": "sl-39",
-    "verse_number": "39",
-    "original": "तव स्वाधिष्ठाने हुतवहमधिष्ठाय निरतं। तमीडे संवर्तं जननि महतीं तां च समयाम् । यदालोके लोकान् दहति महति क्रोधकलिते। दयार्द्रा या दृष्टिः शिशिरमुपचारं रचयति ॥ ३९॥",
-    "transliteration": "tava svādhiṣṭhānē hutavahamadhiṣṭhāya nirataṃ . tamīḍē saṃvartaṃ janani mahatīṃ tāṃ ca samayām . yadālōkē lōkān dahati mahati krōdhakalitē . dayārdrā yā dṛṣṭiḥ śiśiramupacāraṃ racayati ॥ 39 ॥",
-    "translation": "O Mother! Invoking Samvarta (Kālāgni-Rudra), the lord of the Fire of Dissolution in the Fire Element of Thy Svādhiṣṭhāna-cakra, I adore Him along with Thee, Samayā, the great Potency of Rudra. When the angry looks of Rudra burn up the universe, it is Thy merciful look that bestows on them the reviving blessing of coolness."
-  },
-  {
-    "id": "sl-40",
-    "verse_number": "40",
-    "original": "तटित्त्वन्तं शक्त्या तिमिरपरिपन्थिफुरणया। स्फुरन्नानारत्नाभरणपरिणद्धेन्द्रधनुषम् । तव श्यामं मेघं कमपि मणिपूरैकशरणं। निषेवे वर्षन्तं हरमिहिरतप्तं त्रिभुवनम् ॥ ४०॥",
-    "transliteration": "taṭittvantaṃ śaktyā timiraparipanthiphuraṇayā . sphuran-nānā-ratn’ābharaṇa-pariṇaddhendra dhanuṣam . tava śyāmaṃ mēghaṃ kamapi maṇipūraikaśaraṇaṃ . niṣēvē varṣantaṃ haramihirataptaṃ tribhuvanam ॥ 40 ॥",
-    "translation": "I worship that unique dark-blue Rain Cloud which abides ever in the Maṇipūra sending showers on the universe that has been burnt by the sun of Rudra—the Rain-cloud that is illumined by the brilliant lightning in the form of Śakti, revealing the rain-bow made by the reflection of the numerous sparkling gems, and dispelling the darkness reigning in the Maṇipūra."
-  },
-  {
-    "id": "sl-41",
-    "verse_number": "41",
-    "original": "तवाधारे मूले सह समयया लास्यपरया। नवात्मानं मन्ये नवरसमहाताण्डवनटम् । उभाभ्यामेताभ्यामुदयविधिमुद्दिश्य दयया। सनाथाभ्यां जज्ञे जनकजननीमज्जगदिदम् ॥ ४१॥",
-    "transliteration": "tavādhāre mūle saha samayayā lāsyaparayā . navātmānaṃ manye navarasamahātāṇḍavanaṭam . ubhābhyām etābhyām udaya-vidhim uddiśya dayayā . sanāthābhyāṃ jajñe janakajananīmajjagadidam .. 41..",
-    "translation": "In Thy Mūlādhāra-cakra, I meditate on the Navāt-man (Mahā bhairava), who, expressing nine sentiments, is engaged in the Mahā-tānḍava dance in the company of Samayā (Mahā bhairavī) who is dancing the Lāsya type of dance. The universe has come to have a father and a mother in ye both, who have come together graciously for its regeneration (after its being burnt up)."
-  },
-  {
-    "id": "sl-42",
-    "verse_number": "42",
-    "original": "गतैर्माणिक्यत्वं गगनमणिभिः सान्द्रघटितं। किरीटं ते हैमं हिमगिरिसुते कीर्तयति यः । स नीडेयच्छायाच्छुरणशबलं चन्द्रशकलं। धनुः शौनासीरं किमिति न निबध्नाति धिषणाम् ॥ ४२॥",
-    "transliteration": "gatairmāṇikyatvaṃ gaganamaṇibhiḥ sāndraghaṭitaṃ . kirīṭaṃ te haimaṃ himagirisute kīrtayati yaḥ . sa nīḍeyacchāyācchuraṇaśabalaṃ candraśakalaṃ . dhanuḥ śaunāsīraṃ kimiti na nibadhnāti dhiṣaṇām .. 42..",
-    "translation": "O Daughter of the Snow-capped Mountain! A poet who describes the golden crown on Thy head, set densely with precious gems (māṇikya) constituted of the twelve suns—will he not have the impression that the crescent moon on Thy head is Indra’s bow (rainbow), on seeing the variegated hues it reflects from the diffused light of the surrounding luminous bodies falling on it."
-  },
-  {
-    "id": "sl-43",
-    "verse_number": "43",
-    "original": "धुनोतु ध्वान्तं नस्तुलितदलितेन्दीवरवनं। घनस्निग्धश्लक्ष्णं चिकुरनिकुरुम्बं तव शिवे । यदीयं सौरभ्यं सहजमुपलब्धुं सुमनसो। वसन्त्यस्मिन् मन्ये वलमथनवाटीविटपिनाम् ॥ ४३॥",
-    "transliteration": "dhunotu dhvāntaṃ nastulitadalitendīvaravanaṃ . ghanasniagdhaślakṣṇaṃ cikuranikurumbaṃ tava śive . yadīyaṃ saurabhyaṃ sahajamupalabdhūṃ sumanasaḥ . vasantvasmin manye valamathanavāṭīviṭapinām .. 43..",
-    "translation": "O Consort of Śiva! May Thy braid of locks resembling a forest of full-blown blue lotus flowers, luxuriant, soft and oily, remove the darkness of ignorance in our hearts. I presume that the heavenly flowers of Indra’s garden have taken a place in Thy locks to imbibe a little of the natural fragrance of those locks (and not to add fragrance to the locks like flowers ordinarily worn by women.)"
-  },
-  {
-    "id": "sl-44",
-    "verse_number": "44",
-    "original": "तनोतु क्षेमं नस्तव वदनसौन्दर्यलहरी-। परीवाहस्रोतःसरणिरिव सीमन्तसरणिः । वहन्ती सिन्दूरं प्रबलकबरीभारतिमिर-। द्विषां बृन्दैर्बन्दीकृतमिव नवीनार्ककिरणम् ॥ ४४॥",
-    "transliteration": "tanotu kṣemaṃ nastava vadanasaundaryalaharī- . parīvāhasrotaḥsaraṇiriva sīmantasaraṇiḥ . vahantī sindūraṃ prabalakabarībhāratimira- . dviṣāṃ bṛndairbandīkṛtamiva navīnārkakiraṇam .. 44..",
-    "translation": "May we be blessed ever more by the parting middle line of Thy hair, which appears to be a canal for carrying the overflowing flood of beauty of Thy face. The streak of vermilion adorning that line looks like the rays of the rising sun entrapped by the opposing enemy hordes of darkness constituted of Thy hair hemming it on both sides."
-  },
-  {
-    "id": "sl-45",
-    "verse_number": "45",
-    "original": "अरालैः स्वाभाव्यादलिकलभसश्रीभिरलकैः। परितं ते वक्त्रं परिहसति पङ्केरुहरुचिम् । दरस्मेरे यस्मिन् दशनरुचिकिञ्जलकरुचिरे। सुगन्धौ माद्यन्ति स्मरदहनचक्षुर्मधुलिहः ॥ ४५॥",
-    "transliteration": "arālaiḥ svābhāvyādalikalabhasaśrībhiralakaiḥ . parītaṃ te vaktraṃ parihasati paṅkeruharucim . darasmere yasmin daśanarucikiñjalkarucire . sugandhau mādyanti smaradahanacakṣurmadhulihāḥ .. 45..",
-    "translation": "Thy face surrounded by Thy naturally curly Alakas (fore-locks), beautiful like a swarm of young honey beetles, mocks at the celebrated beauty of lotus flowers. In that smiling and fragrant face, excelling the beauty of lotus flowers and rendered charming by the brilliance of Thy lotus-filament-iike rows of teeth, revel the intoxicated honey suckers of the eyes of Śiva, the destroyer of Cupid."
-  },
-  {
-    "id": "sl-46",
-    "verse_number": "46",
-    "original": "ललाटं लावण्यद्युतिविमलमाभाति तव य-। द्वितीयं तन्मन्ये मकुटघटितं चन्द्रशकलम् । विपर्यासन्यासादुभयमपि संभूय च मिथः। सुधालेपस्यूतिः परिणमति राकाहिमकरः ॥ ४६॥",
-    "transliteration": "lalāṭaṃ lāvaṇyadyutivimalamābhāti tava ya- . ddvitīyaṃ tanmanye makuṭaghaṭitaṃ candraśakalam . viparyāsanyāsādubhayamapi saṃbhūya ca mithaḥ . sudhālepasyūtiḥ pariṇamati rākāhimakaraḥ .. 46..",
-    "translation": "Thy forehead, shining with the pure brilliance of its divine beauty, is, I fancy, a second crescent moon inverted and attached below Thy crown (in addition to the crescent moon already on it). If these two halves (the one on Thy crown with ends up and the other the crescent moon of Thy forehead with ends down) are attached in the reverse order, they can form the full moon with the nectarine fluid dripping from it."
-  },
-  {
-    "id": "sl-47",
-    "verse_number": "47",
-    "original": "भ्रुवौ भुग्ने किंचिद्भुवनभयभङ्गव्यसनिनि। त्वदीये नेत्राभ्यां मधुकररुचिभ्यां धृतगुणम् । धनुर्मन्ये सव्येतरकरगृहीतं रतिपतेः। प्रकोष्ठे मुष्टौ च स्थगयति निगूढान्तरमुमे ॥ ४७॥",
-    "transliteration": "bhruvau bhugne kiṃcidbhuvanabhayabhaṅgavyasanini . tvadīye netrābhyāṃ madhukararucibhyāṃ dhṛtaguṇam . dhanurmanye savyetarakaragṛhītaṃ ratipateḥ . prakoṣṭhe muṣṭau ca sthagayati nigūḍhāntaramume .. 47..",
-    "translation": "O Uma, ever intent on remedying the distress of the worlds! I am led to believe that Thy two slightly knitted eyebrows form the bow of Kāmadeva and Thy honey-beetle like black eyes its string, while its middle portion is hidden by the nasal ridge, as if it were the clenched fist and forearm of Kama Deva’s right arm holding it."
-  },
-  {
-    "id": "sl-48",
-    "verse_number": "48",
-    "original": "अहः सूते सव्यं तव नयनमर्कात्मकतया। त्रियामां वामं ते सृजति रजनीनायकतया । तृतीया ते दृष्टिर्दरदलितहेमाम्बुजरुचिः। समाधत्ते संध्यां दिवसनिशयोरन्तरचरीम् ॥ ४८॥",
-    "transliteration": "ahaḥ sūte savyaṃ tava nayanamarkātmakatayā . triyāmāṃ vāmaṃ te sṛjati rajanīnāyakatayā . tṛtīyā te dṛṣṭirdaradalitahemāmbujaruciḥ . samādhatte saṃdhyāṃ divasanivśvorantaracarīm .. 48..",
-    "translation": "Thy right eye as the sun causes the day time, while from the left eye is born the night time with the moon as its lord. Then there is Thy third eye (on the forehead above), resembling a golden lotus slightly in bloom, which is responsible for the two Sandhyas, the twilight time that comes between day and night (in the morning and the evening)."
-  },
-  {
-    "id": "sl-49",
-    "verse_number": "49",
-    "original": "विशाला कल्याणी स्फुटरुचिरयोध्या कुवलयैः। कृपाधाराधारा किमपि मधुराभोगवतिका । अवन्ती दृष्टिस्ते बहुनगरविस्तारविजया। ध्रुवं तत्तन्नामव्यवहरणयोग्या विजयते ॥ ४९॥",
-    "transliteration": "viśālā kalyāṇī sphuṭarucirayodhyā kuvalayaiḥ . kṛpādhārādhārā kimapi madhurābhogavatikā . avantī dṛṣṭiste bahunagaravistāravijayā . dhruvaṃ tattannāmavyavaharaṇayogyā vijayate .. 49..",
-    "translation": "All glory to Thy eyes which are wide (Viśāla); auspicious (Kalyāṇī) because of being brilliantly clear; undefeated (Ayodhyā) even by blue lilies; shedding a continuous flow of grace (Kṛpādhārā dhārā); sweet without display (Avyakta-madhura); long (Ābhogavatī); and offering protection to the world (Avantī). Surpassing (Vijayā) all these great cities in their uniqueness, Thy eyes deserve to be denoted by all the names mentioned above."
-  },
-  {
-    "id": "sl-50",
-    "verse_number": "50",
-    "original": "कवीनां संदर्भस्तबकमकरन्दैकरसिकं। कटाक्षव्याक्षेपभ्रमरकलभौ कर्णयुगलम् । अमुञ्चन्तौ दृष्ट्वा तव नवरसास्वादतरला-। वसूयासंसर्गादलिकनयनं किंचिदरुणम् ॥ ५०॥",
-    "transliteration": "kavīnāṃ saṃdarbhastabakamakarandaikarasikaṃ . kaṭākṣavyākṣepabhramarakalabhau karṇayugalam . amuñcantau dṛṣṭvā tava navarasāsvādataralā- . vasūyāsaṃsargādalikanayanaṃ kiṃcidaruṇam .. 50..",
-    "translation": "The two honey-bees of Thy long eyes are unceasingly hovering about Thy ear, ever absorbed in Imbibing the honey dripping from the flower bunch of the nine poetic sentiments poured into them by poet-devotees (singing hymns on Thee). Seeing this good fortune of the two eyes, Thy third eye in the forehead looks slightly red out of jealous hostility."
-  },
-  {
-    "id": "sl-51",
-    "verse_number": "51",
-    "original": "शिवे श‍ृङ्गारार्द्रा तदितरजने कुत्सनपरा। सरोषा गङ्गायां गिरिशचरिते विस्मयवती । हराहिभ्यो भीता सरसिरुहसौभाग्यजयिनी। सखीषु स्मेरा ते मयि जननी दृष्टिः सकरुणा ॥ ५१॥",
-    "transliteration": "śive śṛṅgārārdrā taditarajane kutsanaparā . saroṣā gaṅgāyāṃ giriśacarite vismayavatī . harāhibhyo bhītā sarasiruhasaubhāgyajayinī . sakhīṣu smerā te mayi jananī dṛṣṭiḥ sakaruṇā .. 51..",
-    "translation": "O Mother! The expression of Thy look at Siva is characterised by the sentiment of love; at others with that of dislike; at the co-wife Gangā with that of anger; at the hearing of the great deeds of Siva, with that of wonder; at the great serpents forming the ornament of Siva, with that of dread; at the sight of Thy comrades, with that of light-hearted sympathy characterised by a patronising smile; and at me, a devotee, with that of a compassionate expression. And besides, Thy look has the red-tinged loveliness of a lotus flower, indicating heroism."
-  },
-  {
-    "id": "sl-52",
-    "verse_number": "52",
-    "original": "गते कर्णाभ्यर्णं गरुत इव पक्ष्माणि दधती। पुरां भेत्तुश्चित्तप्रशमरसविद्रावणफले । इमे नेत्रे गोत्राधरपतिकुलोत्तंसकलिके। तवाकर्णाकृष्टस्मरशरविलासं कलयतः ॥ ५२॥",
-    "transliteration": "gate karṇābhyarṇaṃ garuta iva pakṣmāṇi dadhatī . purām behttuś citta-praśama-rasa-vidrūvaṇa-phale . ime netre gotrādharapatikulottaṃsakalike . tavākarṇākṛṣṭasmaraśaravilāsaṃ kalayataḥ .. 52..",
-    "translation": "O Mother! Thou the flower bud placed on the crest of the Mountain King’s dynasty! These long eyes of Thine, which extend up to the ears, with eye-lashes resembling the feathery wings attached to arrows and which are engaged in disturbing the placidity of the mind of Śiva look like the arrows of Cupid aimed and drawn up to the ear."
-  },
-  {
-    "id": "sl-53",
-    "verse_number": "53",
-    "original": "विभक्तत्रैवर्ण्यं व्यतिकरितलीलाञ्जनतया। विभाति त्वन्नेत्रत्रितयमिदमीशानदयिते । पुनः स्रष्टुं देवान् द्रुहिणहरिरुद्रानुपरतान्। रजः सत्त्वं बिभ्रत्तम इति गुणानां त्रयमिव ॥ ५३॥",
-    "transliteration": "vibhaktatraivarṇyaṃ vyatikaritalīlāñjanatayā . vibhāti tvannetratritayamidamīśānadayite . punaḥ sraṣṭuṃ devān druhiṇaharirudrānuparatān . rajaḥ sattvaṃ bibhrattama iti guṇānāṃ trayamiva .. 53..",
-    "translation": "O Consort of Īśvara! Thy three eyes look tricoloured when the black of the beautifying collyrium shines by the side of their natural white and reddish tinges, each keeping its distinctiveness. It looks as if these three colours represent the three Guṇas of Rajas, Sattva and Tamas, which Thou assumest with a view to revive Brahmā, Viṣṇu and Rudra after their dissolution in the Pralaya, and start them once again on the creative activity."
-  },
-  {
-    "id": "sl-54",
-    "verse_number": "54",
-    "original": "पवित्रीकर्तुं नः पशुपतिपराधीनहृदये। दयामित्रैर्नेत्रैररुणधवलश्यामरुचिभिः । नदः शोणो गङ्गा तपनतनयेति ध्रुवममुं। त्रयाणां तीर्थानामुपनयसि संभेदमनघम् ॥ ५४॥",
-    "transliteration": "pavitrīkartuṃ naḥ paśupatiparādhīnahṛdaye . dayāmitrairnetrairaruṇadhavalaśyāmarucibhiḥ . nadaḥśoṇo gaṅgā tapanatanayeti dhruvamamuṃ . trayāṇāṃ tīrthānāmupanayasi saṃbhedamanagham .. 54..",
-    "translation": "O Mother who art ever devoted to Śiva! It seems certain that with Thy kindly eyes having the three colours of red, white and black, Thou presentest to us the confluence of the holy rivers of Soṇa, Gaṅgā and Yamunā to sanctify ourselves (by getting immersed in them)."
-  },
-  {
-    "id": "sl-55",
-    "verse_number": "55",
-    "original": "निमेषोन्मेषाभ्यां प्रलयमुदयं याति जगती। तवेत्याहुः सन्तो धरणिधरराजन्यतनये । त्वदुन्मेषाज्जातं जगदिदमशेषं प्रलयतः। परित्रातुं शङ्के परिहृतनिमेषास्तव दृशः ॥ ५५॥",
-    "transliteration": "nimeṣonmeṣābhyāṃ pralayamudayaṃ yāti jagatī . tavetyāhuḥ santo dharaṇidhararājanyatanaye . tvadunmeṣājjātaṃ jagadidamaśeṣaṃ pralayataḥ . paritrātuṃ śaṅke parihṛtanimeṣāstava dṛśaḥ .. 55..",
-    "translation": "O Daughter of the king of mountains! Great men say that the closing and opening of Thy eye-lids mark the dissolution and creation of this universe. Therefore it must be to prevent this universe, that has sprung at the opening of Thy eyes, from going into dissolution that Thou dost not wink but keepest Thy eyes always open."
-  },
-  {
-    "id": "sl-56",
-    "verse_number": "56",
-    "original": "तवापर्णे कर्णेजपनयनपैशुन्यचकिता। निलीयन्ते तोये नियतमनिमेषाः शफरिकाः । इयं च श्रीर्बद्धच्छदपुटकवाटं कुवलयम्। जहाति प्रत्यूषे निशि च विघटय्य प्रविशति ॥ ५६॥",
-    "transliteration": "tavāparṇe karṇejapanayanapaiśunyacakitā . nilīyante toye niyatamanimeṣāḥ śapharikāḥ . iyaṃ ca śrīrbaddhacchadapuṭakavāṭaṃ kuvalayam . jahāti pratyūṣe niśi ca vighaṭayya praviśati .. 56..",
-    "translation": "O Aparṇā! The Śapharikas (female fish) hide themselves in water in fear, afraid of the tell-tale activities of Thy eyes against them, their rivals; and Śri the Goddess of Beauty, abandons the closed petals of blue lily during the day (in order to reside in Thy lotus-like eyes), and returns again at night to the blooming blue lily (when Thy eyes are dosed in sleep)."
-  },
-  {
-    "id": "sl-57",
-    "verse_number": "57",
-    "original": "दृशा द्राघीयस्या दरदलितनीलोत्पलरुचा। दवीयांसं दीनं स्नपय कृपया मामपि शिवे । अनेनायं धन्यो भवति न च ते हानिरियता। वने वा हर्म्ये वा समकरनिपातो हिमकरः ॥ ५७॥",
-    "transliteration": "dṛśā drāghīyasyā daradalitanīlotpalarucā . davīyāṃsaṃ dīnaṃ snapaya kṛpayā māmapi śive . anenāyaṃ dhanvo bhavati na ca te hāniriyatā . vane vā harmye vā samakaranipāto himakaraḥ .. 57..",
-    "translation": "O Consort of Śiva! Grace my miserable self too, in spite of my being far removed from Thee (for lack of devotion), with the long-ranging and compassionate look of Thy eyes, which defeat the slightly blooming blue water lily in beauty. By this my humble self shall feel blessed, while to Thee it involves no loss. The rays of the moon fall alike, indeed, on a mansion and a wilderness."
-  },
-  {
-    "id": "sl-58",
-    "verse_number": "58",
-    "original": "अरालं ते पालीयुगलमगराजन्यतनये। न केषामाधत्ते कुसुमशरकोदण्डकुतुकम् । तिरश्चीनो यत्र श्रवणपथमुल्लङ्घ्य विलस-। न्नपाङ्गव्यासङ्गो दिशति शरसंधानधिषणाम् ॥ ५८॥",
-    "transliteration": "arālaṃ te pālīyugalamagarājanyatanaye . na keṣāmādhatte kusumaśarakodaṇḍakutukam . tiraścīno yatra śravaṇapathamuilaṅghya vilasa- . nnapāṅgavyāsaṅgo diśati śarasaṃdhānadhiṣaṇām .. 58..",
-    "translation": "O daughter of the Mountain King! Who will not perceive the graces of the bow of Kāmā, the flower-arrowed god of love, on seeing Thy pair of arched ridges between the eyes and the ears (Pālī-ugalam.) For, Thy long side-glances across the ridges reaching up to Thy ears give the impression of an arrow mounted on a bow-string."
-  },
-  {
-    "id": "sl-59",
-    "verse_number": "59",
-    "original": "स्फुरद्गण्डाभोगप्रतिफलितताटङ्कयुगलं। चतुश्चक्रं मन्ये तव मुखमिदं मन्मथरथम् । यमारुह्य द्रुह्यत्यवनिरथमर्केन्दुचरणं। महावीरो मारः प्रमथपतये सज्जितवते ॥ ५ ९॥",
-    "transliteration": "sphuradgaṇḍābhogapratiphalitatāṭaṅkayugalaṃ . catuścakraṃ manye tava mukhamidaṃ manmatharatham . yamāruhva druhyatyavanirathamarkenducaraṇaṃ . mahāvīro māraḥ pramathapataye sajjitavate .. 59..",
-    "translation": "I fancy that Thy face, having two ear-ornaments and their reflection in Thy glistening cheeks, is verily the four-wheeled chariot of Manmatha, the god of love (who can stir the mind of people to its depth). It is seated in this chariot of Thy face that he became valiant enough to inflict pangs on Śiva, the Lord of Pramatha hosts, when, ready for the destruction of the Tripuras, he was mounted on his earth-chariot having the sun and the moon for its two wheels."
-  },
-  {
-    "id": "sl-60",
-    "verse_number": "60",
-    "original": "सरस्वत्याः सूक्तीरमृतलहरीकौशलहरीः। पिबन्त्याः शर्वाणि श्रवणचुलुकाभ्यामविरलम् । चमत्कारश्लाघाचलितशिरसः कुण्डलगणो। झणत्कारैस्तारैः प्रतिवचनमाचष्ट इव ते ॥ ६०॥",
-    "transliteration": "sarasvatyāḥ sūktīramṛtalaharīkauśalaharīḥ . pibantyāḥ śarvāṇi śravaṇaculukābhyāmaviralam . camatkāraślāghācalitaśirasaḥ kuṇḍalagaṇo . jhaṇatkāraistāraiḥ prativacanamācaṣṭa iva te .. 60..",
-    "translation": "O consort of Śiva! Sarasvatī the Goddess of Learning, imbibing continuously through the cup of her ears Thy sweet speech that humbles the delectableness of the flood of the immortal drink Amṛta, replies congratulating Thee, as it were, by the loud clang of her ear-ornaments, as she shakes her head in appreciation of Thy delightful speech."
-  },
-  {
-    "id": "sl-61",
-    "verse_number": "61",
-    "original": "असौ नासावंशस्तुहिनगिरिवंशध्वजपटि। त्वदीयो नेदीयः फलतु फलमस्माकमुचितम् । वहन्नन्तर्मुक्ताः शिशिरतरनिश्वासगलितं। समृद्ध्या यत्तासां बहिरपि च मुक्तामणिधरः ॥ ६१॥",
-    "transliteration": "asau nāsāvaṃśastuhinagirivaṃśadhvajapaṭi . tvadīyo nedīyaḥ phalatu phalamasmākamucitam . vahannantarmuktāḥ śiśirataraniśvāsa-galitaṃ . samṛddhyā yattāsāṃ bahirapi ca muktāmaṇidharaḥ .. 61..",
-    "translation": "O Flag of the House of the Mountain of Snow! May Thy nose, which is, as it were, the hollow bamboo staff of that flag, bestow on us the desired fruit. The hollow of that staff-like nose is full of pearls; for it is out of their abundance that one pearl, pushed out by the moon-cooled breath of the left nostril, has come out to be Thy nasal pendant."
-  },
-  {
-    "id": "sl-62",
-    "verse_number": "62",
-    "original": "प्रकृत्या रक्तायास्तव सुदति दन्तच्छदरुचेः। प्रवक्ष्ये सादृश्यं जनयतु फलं विद्रुमलता । न बिम्बं तद्बिम्बप्रतिफलनरागादरुणितं। तुलामध्यारोढुं कथमिव विलज्जेत कलया ॥ ६२॥",
-    "transliteration": "prakṛtyā raktāyāstava sudati dantacchadaruceḥ . pravakṣye sādṛśyaṃ janayatu phalaṃ vidrumalatā . na bimbaṃ tadbimbapratiphalanarāgādarunitaṃ . tulāmadhyāroḍhuṃ kathamiva vilajjeta kalayā .. 62..",
-    "translation": "O Devi with attractive rows of teeth! I shall now try to find out an object of comparison to describe Thy naturally red lips. But I am afraid I shall have to wait for this until the coral creeper (red all over) produces a fruit (which one can expect to be more red than the creeper itself). But is there not the Bimba fruit as a fitting object of comparison? No; for how will Bimba fruit not feel ashamed to stand before those lips, a mere reflection of which has made that fruit red!"
-  },
-  {
-    "id": "sl-63",
-    "verse_number": "63",
-    "original": "स्मितज्योत्स्नाजालं तव वदनचन्द्रस्य पिबतां। चकोराणामासीदतिरसतया चञ्चुजडिमा । अतस्ते शीतांशोरमृतलहरीमम्लरुचयः। पिबन्ति स्वच्छन्दं निशि निशि भृशं काञ्जिकधिया ॥ ६३॥",
-    "transliteration": "smitajyotsnājālaṃ tava vadanacandrasya pibatāṃ . cakorāṇāmāsīdatirasatayā cañcujaḍimā . ataste śītāṃśoramṛtalaharīmamlarucayaḥ . pibanti svacchandaṃ niśi niśi bhṛśaṃ kāñjikadhiyā .. 63..",
-    "translation": "The Cakora bird has got its tongue insensitised because of the extreme satiety generated by drinking the luminous light of Thy smiling face. It is for this reason that every night it drinks to its fill the light of the ‘natural moon’ under the Impression that it is some sour gruel (that will relieve the insensitiveness of its tongue)."
-  },
-  {
-    "id": "sl-64",
-    "verse_number": "64",
-    "original": "अविश्रान्तं पत्युर्गुणगणकथाम्रेडनजपा। जपापुष्पच्छाया तव जननि जिह्वा जयति सा । यदग्रासीनायाः स्फटिकदृषदच्छच्छविमयी। सरस्वत्या मूर्तिः परिणमति माणिक्यवपुषा ॥ ६४॥",
-    "transliteration": "aviśrāntaṃ patyurguṇagaṇakathāmreḍanajapā . japāpuṣpacchāyā tava janani jihvā jayali sā . yadagrāsīnāyāḥ sphaṭikadṛṣadacchacchavimayī . sarasvatyā mūrtiḥ pariṇamati māṇikyavapuṣā .. 64..",
-    "translation": "Hail unto Thy tongue which defies the Japa (hibiscus) flowers in its redness and is constantly engaged in the Japa (mutterings) that give expression to the glories of Thy Consort! The ruddiness of that tongue is so intense that the goddess of speech Sarasvatī, who dwells on the tip of that tongue, gets her crystal-like white complexion changed into the colour of a ruby (noted for its reddish tinge)."
-  },
-  {
-    "id": "sl-65",
-    "verse_number": "65",
-    "original": "रणे जित्वा दैत्यानपहृतशिरस्त्रैः कवचिभिर्-। निवृत्तैश्चण्डांशत्रिपुरहरनिर्माल्यविमुखैः । विशाखेन्द्रोपेन्द्रैः शशिविशदकर्पूरशकला। विलीयन्ते मातस्तव वदनताम्बूलकबलाः ॥ ६५॥",
-    "transliteration": "raṇe jitvā daityānapahṛtaśirastraiḥ kavacibhir- . nivṛttais Caṇḍāmśa-Tripurahara-nirmālva-vimukhaiḥ . viśākhendropendraiḥ śaśiviśadakarpūraśakalā . vilīyante mātastava vadanatāmbūlakabalāḥ .. 65..",
-    "translation": "Rejecting the leavings of Siva as the share of the devotee Caṇda, celestials like Kumāra, Indra and Viṣṇu, after their victory over the Asuras, come to Thee, with their head dress removed and only the mails on, to receive as Thy gracious gift(prasada) the betel rolls used by Thee, and chew them until they along with the white pieces of refined camphol contained in them dissolve."
-  },
-  {
-    "id": "sl-66",
-    "verse_number": "66",
-    "original": "विपञ्च्या गायन्ती विविधमपदानं पशुपतेः। त्वयारब्धे वक्तुं चलितशिरसा साधुवचने । तदीयैर्माधुर्यैरपलपिततन्त्रीकलरवां। निजां वीणां वाणी निचुलयति चोलेन निभृतम् ॥ ६६॥",
-    "transliteration": "vipañcyā gāyantī vividhamapadānaṃ paśupateḥ . tvayārabdhe vaktuṃ calitaśirasā sādhuvacane . tadīyairmādhuryairapalapitatantrīkalaravāṃ . nijāṃ vīṇāṃ vāṇī niculayati colena nibhṛtam .. 66..",
-    "translation": "When, on hearing the songs on the greatness and achievements of Siva tuned on the Vīna by Sarasvatī, the goddess of learning and fine arts, Thou beginnest to speak nodding Thy head in appreciation, the sweetness of Thy voice seems to cast ridicule on the soft melody of that musical instrument, and Sarasvatī therefore secretly puts it in its case."
-  },
-  {
-    "id": "sl-67",
-    "verse_number": "67",
-    "original": "कराग्रेण स्पृष्टं तुहिनगिरिणा वत्सलतया। गिरीशेनोदस्तं मुहुरधरपानाकुलतया । करग्राह्यं शम्भोर्मुखमुकुरवृन्तं गिरिसुते। कथङ्कारं ब्रूमस्तव चिबुकमौपम्यरहितम् ॥ ६७॥",
-    "transliteration": "karāgreṇa spṛṣṭaṃ tuhinagiriṇā vatsalatayā . girīśenodastaṃ muhuradharapānākulatayā . karagrāhyaṃ śambhormukhamukuravṛntaṃ girisute . kathaṅkāraṃ brūmastava cibukamaupamyarahitam .. 67..",
-    "translation": "O daughter of Himavat! How can we poets describe the unmatched beauty of Thy chin, which is stroked with all affection by Thy father the Mountain King, which is again and again lifted up by Thy Consort Śambhu in the intensity of his desire to kiss Thee repeatedly, and which forms the handle of the mirror of Thy face for Śambhu to hold and view."
-  },
-  {
-    "id": "sl-68",
-    "verse_number": "68",
-    "original": "भुजाश्लेषान् नित्यं पुरदमयितुः कण्टकवती। तव ग्रीवा धत्ते मुखकमलनालश्रियमियम् । स्वतः श्वेता कालागुरुबहुलजम्बालमलिना। मृणालीलालित्यम् वहति यदधो हारलतिका ॥ ६८॥",
-    "transliteration": "bhujāśleṣān nityaṃ puradamayituḥ kaṇṭakavatī . tava grīvā dhatte mukhakamalanālaśriyamiyam . svataḥ śvetā kālāgurubahulajambālamalinā . mṛṇālīlālityam vahati yadadho hāralatikā .. 68..",
-    "translation": "Thy neck, with horripilations caused by the constant embraces of Thy Consort, the Destroyer of the Cities, resembles the thorny stalk of Thy lotus-like face. For, below Thy neck are Thy naturally white cluster of pearl necklaces, which, being discoloured by the generously applied dark-coloured Agaru paste on the chest, bears the comeliness of the tender bottom part of the stalk of Thy lotus-like face embedded in mire."
-  },
-  {
-    "id": "sl-69",
-    "verse_number": "69",
-    "original": "गले रेखास्तिस्रो गतिगमकगीतैकनिपुणे। विवाहव्यानद्धप्रगुणगुणसंख्याप्रतिभुवः । विराजन्ते नानाविधमधुररागाकरभुवां। त्रयाणां ग्रामाणां स्थितिनियमसीमान इव ते ॥ ६९॥",
-    "transliteration": "gale rekhāstisro gatigamakagītaikanipuṇe . vivāha-vyānaddha-praguṇa-guṇa-samkhyā-pratibhuvaḥ . virājante nānāvidhamadhurarāgākarabhuvāṃ . trayāṇāṃ grāmāṇāṃ sthitiniyamasīmāna iva te .. 69..",
-    "translation": "O Mistress of the musical technicalities of Gati (procedure)Gamakam (undulations) and Gītam (song)! As though for the confirmation of the three-foldness of the strands of the auspicious string made by twisting several threads and tied round Thy neck (surrounding the mangala-sutra) by Thy Consort at the time of Thy marriage, shine forth the three lines of Thy neck, standing, as it were, as the boundaries demarcating the three musical scales (or Gamakas consisting of Saḍja, Madhyama, and Gāndhāra), which form the source of the various melodies of musical modes."
-  },
-  {
-    "id": "sl-70",
-    "verse_number": "70",
-    "original": "मृणालीमृद्वीनां तव भुजलतानां चतसृणां। चतुर्भिः सौन्दर्यं सरसिजभवः स्तौति वदनैः । नखेभ्यः सन्त्रस्यन् प्रथममथनादन्धकरिपो-। श्चतुर्णां शीर्षाणां सममभयहस्तार्पणधिया ॥ ७०॥",
-    "transliteration": "mṛṇālīmṛdvīnāṃ tava bhujalatānāṃ catasṛṇāṃ . caturbhiḥ saundaryaṃ sarasijabhavaḥ stauti vadanaiḥ . nakhebhyaḥ santrasyan prathamamathanādandhakaripo- . ścaturṇāṃ śīrṣāṇāṃ samamabhayahastārpaṇadhiyā .. 70..",
-    "translation": "The lotus-born Brahmā, being afraid of the fingernails of Sadāśiva, with which the latter in former times nipped off his fifth head, is now praising simultaneously with the remaining four heads the comeliness of Thy four creeper-like arms resembling the stalk of lotus in beauty, so that Thou might give those heads protection from the fear of a fate similar to that of the lost head."
-  },
-  {
-    "id": "sl-71",
-    "verse_number": "71",
-    "original": "नखानामुद्द्योतैरनवनलिनरागं विहसतां। कराणां ते कान्तिं कथय कथयामः कथमुमे । कयाचिद्वा साम्यं भजतु कलया हन्त कमलं। यदि क्रीडल्लक्ष्मीचरणतललाक्षारसछणम् ॥ ७१॥",
-    "transliteration": "nakhānāmuddyotairnavanalinarāgaṃ vihasatāṃ . karāṇāṃ te kāntiṃ kathaya kathayāmaḥ kathamume . kayācidvā sāmyaṃ bhajatu kalayā hanta kamalaṃ . yadi krīḍal-lakṣmī-caraṇa-tala-lākṣā-rasa-caṇam .. 71..",
-    "translation": "O Uma! Pray, tell us how we can describe the splendour of Thy hands, which, being lit up with the radiance of Thy nails, surpasses the brightness of the morning’s lotus blooms. Perhaps these flowers can attain to some similarity with Thy nails when their redness is enhanced by contact with the lac-dye of the feet of goddess Lakṣmī who sports in them."
-  },
-  {
-    "id": "sl-72",
-    "verse_number": "72",
-    "original": "समं देवि स्कन्दद्विपवदनपीतं स्तनयुगं। तवेदं नः खेदं हरतु सततं प्रस्नुतमुखम् । यदालोक्याशङ्काकुलितहृदयो हासजनकः। स्वकुम्भौ हेरम्बः परिमृशति हस्तेन झडिति ॥ ७२॥",
-    "transliteration": "samaṃ devi skandadvipavadanapītaṃ stanayugaṃ . tavedaṃ naḥ khedaṃ haratu satataṃ prasnutamukham . yadālokyāśaṅkākulitahṛdayo hāsajanakaḥ . svakumbhau herambaḥ parimṛśati hastena jhaḍiti .. 72..",
-    "translation": "O Mother! May we be relieved of all our sorrows by Thy breasts, from which milk is flowing always and which are being simultaneously sucked by both Skanda and Gaṇeśa, Thy sons. All of a sudden Gaṇesa (Heramba), looking at Thy breasts, feels with his hands whether the pair of frontal globes on his elephant face are there in their proper places (or whether they have disappeared to become Thy breasts present before his eyes), thus giving occasion for great fun (to his parents and onlookers)."
-  },
-  {
-    "id": "sl-73",
-    "verse_number": "73",
-    "original": "अमू ते वक्षोजावमृतरसमाणिक्यकुतुपौ। न संदेहस्पन्दो नगपतिपताके मनसि नः । पिबन्तौ तौ यस्मादविदितवधूसङ्गरसिकौ। कुमारावद्यापि द्विरदवदनक्रौञ्चदलनौ ॥ ७३॥",
-    "transliteration": "amū te vakṣojāvamṛtarasamāṇikyakutupau . na saṃdehaspando nagapatipatāke manasi naḥ . pibantau tau yasmādaviditavadhūsaṅgarasikau . kumārāvadyāpi dviradāvadanakrauñcadalanau .. 73..",
-    "translation": "O the Mountain-King’s flag of victory! We have not even the shadow of a doubt about Thy two breasts being jars made of Māṇikya (ruby) and filled with Amṛta, the immortal drink. For, it is by drinking their contents that Thy two sons, the mountain-piercing Kumāra and the elephant-headed Vināyaka, have remained young boys (celibates) without knowing woman, to this day."
-  },
-  {
-    "id": "sl-74",
-    "verse_number": "74",
-    "original": "वहत्यम्ब स्तम्बेरमदनुजकुम्भप्रकृतिभिः। समारब्धां मुक्तामणिभिरमलां हारलतिकाम् । कुचाभोगो बिम्बाधररुचिभिरन्तः शबलितां। प्रतापव्यामिश्रां पुरदमयितुः कीर्तिमिव ते ॥ ७४॥",
-    "transliteration": "vahatvāṃba stamberamadanujakumbhaprakṛtibhiḥ . samārabdhāṃ muktāmaṇibhiramalāṃ hāralatikām . kucābhogo bimbādhararucibhirantaḥ śabalitāṃ . pratāpavyāmiśrāṃ puradamayituḥ kīrtimiva te .. 74..",
-    "translation": "O Mother! In the region of Thy breasts is a flawless necklace made of pearls got from the frontal globe of Gajāsura (the elephant-demon). It rests there with its white brilliance variegated from within by the reflection of the ruddy tinge of Thy Bimba-like lips, as if it were the confluence of the (white) fame and the (red) valour of Thy Consort, the Destroyer of the Cities."
-  },
-  {
-    "id": "sl-75",
-    "verse_number": "75",
-    "original": "तव स्तन्यं मन्ये धरणिधरकन्ये हृदयतः। पयःपारावारः परिवहति सारस्वतमिव । दयावत्या दत्तं द्रविडशिशुरास्वाद्य तव यत्। कवीनां प्रौढानामजनि कमनीयः कवयिता ॥ ७५॥",
-    "transliteration": "tava stanyaṃ manye dharaṇidharakanye hṛdayataḥ . payaḥpārāvāraḥ parivahati sārasvatamiva . dayāvatyā dattaṃ draviḍaśiśurāsvādya tava yat . kavīnāṃ prauḍhānāmajani kamanīyaḥ kavayitā .. 75..",
-    "translation": "O Daughter of the Mountain-King! I fancy that Thy breast milk is the milk-ocean emerging as poetic inspiration from Thy heart. For, it was by drinking it, so graciously given by Thee, that the child of the Dramila country became a noted poet among great composers."
-  },
-  {
-    "id": "sl-76",
-    "verse_number": "76",
-    "original": "हरक्रोधज्वालावलिभिरवलीढेन वपुषा। गभीरे ते नाभीसरसि कृतसङ्गो मनसिजः । समुत्तस्थौ तस्मादचलतनये धूमलतिका। जनस्तां जानीते तव जननि रोमावलिरिति ॥ ७६॥",
-    "transliteration": "harakrodhajvālāvalibhiravalīḍhena vapuṣā . gabhīre te nābhīsarasi kṛtasaṅgo manasijaḥ . samuttasthau tasmādacalatanaye dhūmalatikā . janastāṃ jānīte tava janani romāvaliriti .. 76..",
-    "translation": "O Mother born of the Mountain! When the flames of Siva’s anger began to envelop Kāma-deva (Cupid), he took refuge in the deep lake of Thy navel. The fire that thus got extinguished sent forth a thin creeper-like column of smoke, which men describe as Thy Romāvali or the line of hair that goes up from Thy navel."
-  },
-  {
-    "id": "sl-77",
-    "verse_number": "77",
-    "original": "यदेतत् कालिन्दीतनुतरतरङ्गाकृति शिवे। कृशे मध्ये किंचिज्जननि तव यद्भाति सुधियाम् । विमर्दादन्योऽन्यं कुचकलशयोरन्तरगतं। तनूभूतं व्योम प्रविशदिव नाभिं कुहरिणीम् ॥ ७७॥",
-    "transliteration": "yadetat kālindītanutarataraṅgākṛti śive . kṛśe madhye kiṃcijjanani tava yadbhāti sughiyām . vimardādanyo’nyaṃ kucakalaśayorantaragataṃ . tanūbhūtaṃ vyoma praviśadiva nābhiṃ kuhariṇīm .. 77..",
-    "translation": "O Consort of Siva! What in Thy slender middle region shines before me and what is seen by devotees as Thy navel-hair (Romāvali) like the subtle ripples on the surface of Kālindī (Yamuna), is the Vyoma (sky) or interspace between Thy bulging breasts, thinned by their pressure and forced into the cavity of the navel."
-  },
-  {
-    "id": "sl-78",
-    "verse_number": "78",
-    "original": "स्थिरो गङ्गावर्तः स्तनमुकुलरोमावलिलता-। कलावालं कुण्डं कुसुमशरतेजोहुतभुजः । रतेर्लीलागारं किमपि तव नाभिर्गिरिसुते। बिलद्वारं सिद्धेर्गिरिशनयनानां विजयते ॥ ७८॥",
-    "transliteration": "sthiro gaṅgāvartaḥ stanamukularomāvalilatā- . kalāvālaṃ kuṇḍaṃ kusumaśaratejohutabhujaḥ . raterlīlāgāraṃ kimapi tava nābhirgirisute . biladvāraṃ siddheśrgiriśanayanānāṃ vijayate .. 78..",
-    "translation": "O Daughter of the Mountain! Indescribably unique is the glory of Thy navel, which is verily a still whirl-pool on the surface of the river Gaṅga; which forms the bed for the creeper of Thy Romāvali bearing two fruits in the shape of Thy breasts; which is the sacrificial pit wherein burns the fire of the prowess of Kama Deva, the flower-arrowed god of love; which is the pleasure house of his wife Rati; and which forms the opening of the cavern wherein the eyes of Hara found the consummation of the great austerities he had performed."
-  },
-  {
-    "id": "sl-79",
-    "verse_number": "79",
-    "original": "निसर्गक्षीणस्य स्तनतटभरेण क्लमजुषो। नमन्मूर्तेर्नारीतिलक शनकैस्त्रुट्यत इव । चिरं ते मध्यस्य त्रुटिततटिनीतीरतरुणा। समावस्थास्थेम्नो भवतु कुशलं शैलतनये ॥ ७९॥",
-    "transliteration": "nisargakṣīṇasya stanataṭabhareṇa klama juṣo . namanmūrternārītilaka śanakaistruṭyata iva . ciraṃ te madhyasya truṭitataṭinītīrataruṇā . samāvasthāsthemno bhavatu kuśalaṃ śailatanaye .. 79..",
-    "translation": "O Daughter of the Mountain! O Ornament of womankind! May safety be assured for Thy waist, which, being slender, is labouring under the weight of Thy breasts and therefore stooping, threatening to break under that weight, and whose precarious firmness is like that of a tree on a cracking river bank."
-  },
-  {
-    "id": "sl-80",
-    "verse_number": "80",
-    "original": "कुचौ सद्यःस्विद्यत्तटघटितकूर्पासभिदुरौ। कषन्तौ दोर्मूले कनककलशाभौ कलयता । तव त्रातुं भङ्गादलमिति वलग्नं तनुभुवा। त्रिधा नद्धं देवि त्रिवलि लवलीवल्लिभिरिव ॥ ८०॥",
-    "transliteration": "kucau sadyaḥsvidyattaṭaghaṭitakūrpāsabhidurau . kaṣantau dormūle kanakakalaśābhau kalayatā . tava trātuṃ bhaṅgādalमिति valagnaṃ tanubhuvā . tridhā naddhaṃ devi trivali lavalīvallibhiriva .. 80..",
-    "translation": "O Mother Divine! The three folds (Trivali) in Thy middle region look like three strands of Lavali creeper wound by Kama Deva, the god of love, as a support to prevent Thy middle region from breaking under the weight of his creation, Thy quickly perspiring breasts, which (under the excitement of love for Śambhu) have swollen to the size of two golden pots, touching Thy arm pits and bursting the garment covering them."
-  },
-  {
-    "id": "sl-81",
-    "verse_number": "81",
-    "original": "गुरुत्वं विस्तारं क्षितिधरपतिः पार्वति निजा-। न्नितम्बादाच्छिद्य त्वयि हरणरूपेण निदधे । अतस्ते विस्तीर्णो गुरुरयमशेषां वसुमतीं। नितम्बप्राग्भारः स्थगयति लघुत्वं नयति च ॥ ८१॥",
-    "transliteration": "gurutvaṃ vistāraṃ kṣitidharapatiḥ pārvati nijā- . nnitambādācchidya tvayi haraṇarūpeṇa nidadhe . ataste vistīrṇo gururayamaśeṣāṃ vasumatīṃ . nitambaprāgbhāraḥ sthagayati laghutvaṃ nayati ca .. 81..",
-    "translation": "O Parvati! Thy father, the Mountain-king, gave the weight and extensiveness of his flanks to Thee as dowry at the time of Thy marriage. It is for this reason that Thy hips, covering the earth, have become more extensive than it, and excelling it in weight, rendered it lighter in comparative weight."
-  },
-  {
-    "id": "sl-82",
-    "verse_number": "82",
-    "original": "करीन्द्राणां शुण्डान् कनककदलीकाण्डपटली-। मुभाभ्यामूरुभ्यामुभयमपि निर्जित्य भवती । सुवृत्ताभ्यां पत्युः प्रणतिकठिनाभ्यां गिरिसुते। विधिज्ञ्ये जानुभ्यां विबुधकरिकुम्भद्वयमसि ॥ ८२॥",
-    "transliteration": "karīndrāṇāṃ śuṇḍān kanakakadalīkāṇḍapaṭalī- . mubhābhyāmūrubhyāmubhayamapi nirjitya bhavatī . suvṛttābhyāṃ patyuḥ praṇatikaṭhinābhyāṃ girisute . vidhijñye jānubhyāṃ vibudhakarikumbhadvayamasi .. 82..",
-    "translation": "O Daughter of the Mountain! Thy thighs subdue by their beauty the trunk of lordly elephants as also the stem of golden coloured banana trees, while, O observer of all ordained duties, Thy knees, hardened and perfectly rounded by repeated prostrations to Thy Consort, rival the frontal globes of the heavenly Elephant Airavata."
-  },
-  {
-    "id": "sl-83",
-    "verse_number": "83",
-    "original": "पराजेतुं रुद्रं द्विगुणशरगर्भौ गिरिसुते। निषङ्गौ जङ्घे ते विषमविशिखो बाढमकृत । यदग्रे दृश्यन्ते दशशरफलाः पादयुगली-। नखाग्रच्छद्मानः सुरमकुटशाणैकनिशिताः ॥ ८३॥",
-    "transliteration": "parājetuṃ rudraṃ dviguṇaśaragarbhau girisute . niṣaṅgau jaṅghe te viṣamaviśikho bāḍhamakṛta . yadagrer dṛśyante daśaśaraphalāḥ pādayugalī- . nakhāgracchadmānaḥ suramakuṭaśāṇaikaniśitāḥ .. 83..",
-    "translation": "O Daughter of the Mountain! Surely the five-arrowed Kāmadeva has, in order to conquer Rudra, utilised Thy shanks as a quiver to store therein double the number of arrows he is credited with. For, at the end of Thy feet are seen, under the guise of Thy toe nails, ten crescent shaped arrow heads sharpened on the whetstone of the crowns of prostrating Divinities."
-  },
-  {
-    "id": "sl-84",
-    "verse_number": "84",
-    "original": "श्रुतीनां मूर्धानो दधति तव यौ शेखरतया। ममाप्येतौ मातः शिरसि दयया धेहि चरणौ । ययोः पाद्यं पाथः पशुपतिजटाजूटतटिनी। ययोर्लाक्षालक्ष्मीररुणहरिचूडामणिरुचिः ॥ ८४॥",
-    "transliteration": "śrutīnāṃ mūrdhāno dadhati tava yau śekharatayā . mamāpyetau mātaḥ śirasi dayayā dhehi caraṇau . yayoḥ pādyaṃ pāthaḥ paśupatijaṭājūṭataṭinī . yayorlākṣālakṣmīraruṇaharicūḍāmaṇiruciḥ .. 84..",
-    "translation": "O Mother! The crest of the Veda (i.e. the Vedanta known as the Vedaśiras) bear Thy feet as its head ornament. Mayest Thou condescend to place those feet on my head too—the feet the water-offerings on which form the Gaṅgā in the matted locks of Siva, and the bright red dye of which gives brilliance to the jewels on the diadem ofViṣṇu."
-  },
-  {
-    "id": "sl-85",
-    "verse_number": "85",
-    "original": "नमोवाकं ब्रूमो नयनरमणीयाय पदयो-। स्तवास्मै द्वन्द्वाय स्फुटरुचिरसालक्तकवते । असूयत्यत्यन्तं यदभिहननाय स्पृहयते। पशूनामीशानः प्रमदवनकङ्केलितरवे ॥ ८५॥",
-    "transliteration": "namovākaṃ brūmo nayanaramaṇīyāya padayo- . stavāsmai dvandvāya sphuṭarucirasālaktakavate . asūyatyatyantam yadabhihananāya spṛhayate . paśūnāmīśānaḥ pramadavanakaṅkelitarave .. 85..",
-    "translation": "Our praise by way of obeisance to Thy feet, a delight to the eyes because of their brilliance arising from the liquid lac dye applied to them! Thy Consort Paśupati, desiring to be kicked with those feet, is extremely jealous of the Kankeli (Aśoka) tree of Thy pleasure garden, as that tree too is a rival aspirant for such kicks."
-  },
-  {
-    "id": "sl-86",
-    "verse_number": "86",
-    "original": "मृषा कृत्वा गोत्रस्खलनमथ वैलक्ष्यनमितं। ललाटे भर्तारं चरणकमले ताडयति ते । चिरादन्तःशल्यं दहनकृतमुन्मूलितवता। तुलाकोटिक्वाणैः किलिकिलितमीशानरिपुणा ॥ ८६॥",
-    "transliteration": "mṛṣā kṛtvā gotraskhalanamatha vailakṣyanamitaṃ . lalāṭe bhartāraṃ caraṇakamale tāḍayati te . cirādantaḥśalyaṃ dahanakṛtamunmūlitavatā . tulākoṭikvāṇaiḥ kilikilitamīśānaripuṇā .. 86..",
-    "translation": "O Devi! When Thou didst deliver a kick (in love quarrel) at the forehead of Thy Consort when he bent his head in shame for calling Thee inadvertently by the name of another woman, his enemy Kama got an opportunity to root out of himself his long-standing rancour towards him, Īśa, for consuming him in fire, and he gave out his joyous acclamations, as it were, in the form of the tinkling of Thy anklets."
-  },
-  {
-    "id": "sl-87",
-    "verse_number": "87",
-    "original": "हिमानीहन्तव्यं हिमगिरिनिवासैकचतुरौ। निशायां निद्राणं निशि चरमभागे च विशदौ । वरं लक्ष्मीपात्रं श्रियमतिसृजन्तौ समयिनां। सरोजं त्वत्पादौ जननि जयतश्चित्रमिह किम् ॥ ८७॥",
-    "transliteration": "himānīhantavyaṃ himagirinivāsaikacaturau . niśāyāṃ nidrāṇaṃ niśi caramabhāge ca viśadau . varaṃ lakṣmīpātraṃ śriyamatisṛjantau samayināṃ . sarojaṃ tvatpādau janani jayataścitramiha kim .. 87..",
-    "translation": "O Mother of the Universe! The lotus of Thy feet, which flourishes always on the snow Mountain (Himalayas), blooming night and day and bestowing undecaying wealth (Lakṣmī) on the inner circle of devotees, is undoubtedly far superior to the common lotus flower which perishes in snowļ closes at night and forms the favourite resort of Lakṣmī (the goddess of wealth whose blessings on devotees are very temporary)."
-  },
-  {
-    "id": "sl-88",
-    "verse_number": "88",
-    "original": "पदं ते कीर्तीनां प्रपदमपदं देवि विपदां। कथं नीतं सद्भिः कठिनकमठीकर्परतुलाम् । कथं वा बाहुभ्यामुपयमनकाले पुरभिदा। यदादाय न्यस्तं दृषदि दयमानेन मनसा ॥ ८८॥",
-    "transliteration": "padaṃ te kīrtīnāṃ prapadamapadaṃ devi vipadāṃ . kathaṃ nītaṃ sadbhiḥ kaṭhinakamaṭhīkarparatulām . kathaṃ vā bāhubhyāmupayamanakāle purabhidā . yadādāya nyastaṃ dṛṣadi dayamānena manasā .. 88..",
-    "translation": "The upper part of Thy feet are the seat of all excellences worthy of praise and they are the panacea for all dangers. How then do great poets equate them with the hard shell of a tortoise? And how did Thy Consort, the Destroyer of the Cities, in spite of all His tenderness towards Thee, have the heart to place them on a hard granite grinding stone at Thy marriage rite?"
-  },
-  {
-    "id": "sl-89",
-    "verse_number": "89",
-    "original": "नखैर्नाकस्त्रीणां करकमलसंकोचशशिभि-। स्तस्तूणां दिव्यानां हसत इव ते चण्डि चरणौ । फलानि स्वःस्थेभ्यः किसलयकराग्रेण ददतां। दरिद्रेभ्यो भद्रां श्रियमनिशमह्नाय ददतौ ॥ ८९॥",
-    "transliteration": "nakhairnākastrīṇāṃ karakamalasaṃkocaśaśibhi- . starūṇāṃ divyānāṃ hasata iva te caṇḍi caraṇau . phalāni svaḥsthebhyaḥ kisalayakarāgreṇa dadatāṃ . daridrebhyo bhadrāṃ śriyamaniśamahnāya dadatau .. 89..",
-    "translation": "O Candị! Thy feet, of the moon-like nails, which make the lotus-bud-like palms of adoring heavenly damsels close, do shower abundant wealth quickly on humble and poor devotees, and thus mock at the wish-yielding Kalpaka trees of heaven whose arms of tender branches bestow desired gifts only to Devas who live in heavenly affluence."
-  },
-  {
-    "id": "sl-90",
-    "verse_number": "90",
-    "original": "ददाने दीनेभ्यः श्रियमनिशमाशानुसदृशी-। ममन्दं सौन्दर्यप्रकरमकरन्दम् विकिरति । तवास्मिन् मन्दारस्तबकसुभगे यातु चरणे। निमज्जन्मज्जीवः करणचरणः षट्चरणताम् ॥ ९०॥",
-    "transliteration": "dadāne dīnebhyaḥ śriyamaniśamāśānusadṛśī- . mamandaṃ saundaryaprakaramakarandam vikirati . tavāsmin mandārastabakasubhage yātu caraṇe . nimajjammajjīvaḥ karaṇacaraṇaḥ ṣaṭcaraṇatām .. 90..",
-    "translation": "Thy feet form a veritable bunch of Mandāra flowers dripping the honey of beauty and are a liberal supplier of wealth to Thy poor devotees. May my spirit with its six organs of knowledge (including the mind) become a six-footed honey-sucking bee at those feet for ever more."
-  },
-  {
-    "id": "sl-91",
-    "verse_number": "91",
-    "original": "पदन्यासक्रीडापरिचयमिवारब्धुमनसः। स्खलन्तस्ते खेलं भवनकलहंसा न जहति । अतस्तेषां शिक्षां सुभगमणिमञ्जीररणित-। च्छलादाचक्षाणं चरणकमलं चारुचरिते ॥ ९१॥",
-    "transliteration": "padanyāsakrīḍāparicayamivārabdhumanasaḥ . skhalantaste khelaṃ bhavanakalahaṃsā na jahanī . atasteṣāṃ śikṣāṃ subhagamaṇimañjīraraṇita- . cchalādācakṣāṇaṃ caraṇakamalaṃ cārucarite .. 91..",
-    "translation": "O Goddess of Holy Fame! The royal Swans inhabiting Thy residence are never abandoning their pursuit of Thee, in their effort to observe Thy gait for correcting their own defective ways. And Thy lotus feet are, it seems, giving instructions to them in the guise of the tinkling sounds made by the anklets on them, studded with precious stones."
-  },
-  {
-    "id": "sl-92",
-    "verse_number": "92",
-    "original": "गतास्ते मञ्चत्वं द्रुहिणहरिरुद्रेश्वरभृतः। शिवः स्वच्छच्छायाघटितकपटप्रच्छदपटः । त्वदीयानां भासां प्रतिफलनरागारुणतया। शरीरी श‍ृङ्गारो रस इव दृशां दोग्धि कुतुकम् ॥ ९२॥",
-    "transliteration": "gatāste mañcatvaṃ druhiṇaharirudreśvarabhṛtaḥ . śivaḥ svacchac-chāyā-ghaṭita-kapaṭa-pracchada-paṭaḥ . tvadīyānāṃ bhāsāṃ pratiphalanarāgāruṇatayā . śarīrī śṛṅgāro rasa iva dṛśāṃ dogdhi kutukam .. 92..",
-    "translation": "Thy servitors Brahmā, Viṣṇu, Rudra and Īśvara have taken the shape of Thy cot (i. e. the four legs of the cot) in order to serve Thee very closely, while Sadasiva has formed himself into Thy bedsheet, reflecting Thy crimson glory in his assumed whiteness, thereby causing amazement to Thee by presenting Himself as the very embodiment of erotic sentiment."
-  },
-  {
-    "id": "sl-93",
-    "verse_number": "93",
-    "original": "अराला केशेषु प्रकृतिसरला मन्दहसिते। शिरीषाभा चित्ते दृषदुपलशोभा कुचतटे । भृशं तन्वी मध्ये पृथुरुरसिजारोहविषये। जगत्त्रातुं शम्भोर्जयति करुणा काचिदरुणा ॥ ९३॥",
-    "transliteration": "arālā keśeṣu prakṛtisaralā mandahasite . śirīṣābhā citte dṛṣadupalaśobhā kucataṭe . bhṛśaṃ tanvī madhye pṛthururasijārohaviṣaye . jagattrātuṃ śambhorjayati karuṇā kācidaruṇā .. 93..",
-    "translation": "Her glory Aruṇā (Kāmeśvarī), the Śakti of Śambhu—the very embodiment of graciousness—with her locks all curly, her smile naturally artless, her heart soft like Śirīṣa flower, her breast as tight and hard like a grinding stone, her waist extremely slender, and her hips and breasts generous in size."
-  },
-  {
-    "id": "sl-94",
-    "verse_number": "94",
-    "original": "कलङ्कः कस्तूरी रजनिकरबिम्बं जलमयं। कलाभिः कर्पूरैर्मरकतकरण्डं निबिडितम् । अतस्त्वद्भोगेन प्रतिदिनमिदं रिक्तकुहरं। विधिर्भूयो भूयो निबिडयति नूनं तव कृते ॥ ९४॥",
-    "transliteration": "kalaṅkaḥ kastūrī rajanikarabimbaṃ jalamayaṃ . kalābhiḥ karpūrairmarakatakaraṇḍaṃ nibiḍitam . atastvadbhogena pratidinamidaṃ riktakuharaṃ . vidhirbhūyo bhūyo nibiḍayati nūnaṃ tava kṛte .. 94..",
-    "translation": "The mark on the moon is musk; and her watery disc, a receptacle (canister) of emerald for containing pieces of camphol in the form of the digits of the moon. As and when the contents of that receptacle are exhausted by Thy using them, Brahmā fills it up day by day for Thee with the digits of the waxing moon."
-  },
-  {
-    "id": "sl-95",
-    "verse_number": "95",
-    "original": "पुरारातेरन्तःपुरमसि ततस्त्वच्चरणयोः। सपर्यामर्यादा तरलकरणानामसुलभा । तथा ह्येते नीताः शतमखमुखाः सिद्धिमतुलां। तव द्वारोपान्तस्थितिभिरणिमाद्याभिरमराः ॥ ९५॥",
-    "transliteration": "purārāterantaḥpuramasi tatastvaccaraṇayoḥ . saparyāmaryādā taralakaraṇānāmasulabhā . tathā hyete nītāḥ śatamakhamukhāḥ siddhimatulāṃ . tava dvār’opānta-sthitibhir aṇim’ ādyābhir amarāḥ .. 95",
-    "translation": "Thou art the Consort of the Destroyer of the Cities, residing in His inner apartment, to which votaries with unregenerate mind find no entry and are therefore denied the privilege of the immediate worship of Thy feet. It is therefore that all the Deities headed by Indra have by their unparalleled austerities been able only to attain to Anima and other psychic powers (Siddhis) which are but Thy gate keepers (being only peripheral to Thee and far removed from Thy innermost attributes)."
-  },
-  {
-    "id": "sl-96",
-    "verse_number": "96",
-    "original": "कलत्रं वैधात्रं कतिकति भजन्ते न कवयः। श्रियो देव्याः को वा न भवति पतिः कैरपि धनैः । महादेवं हित्वा तव सति सतीनामचरमे। कुचाभ्यामासङ्गः कुरवकतरोरप्यसुलभः ॥ ९६॥",
-    "transliteration": "kalatraṃ vaidhātraṃ katikati bhajante na kavayaḥ . śriyo devyāḥ ko vā na bhavati patiḥ kairapi dhanaiḥ . mahādevaṃ hitvā tava sati satīnāmacarame . kucābhyāmāsaṅgaḥ kuravakatarorapyasulabhaḥ .. 96..",
-    "translation": "O Chastity Emobodied! How numerous are the poets who have courted and attained Sarasvati, the consort of Brahmā and the deity of learning and fine arts! So also who with some wealth fails to become the Lord of Śrī (Śrīpati), the consort of Viṣṇu and the goddess of wealth! But, O the foremost of Chaste Ones! None besides Śiva the Great God,-not even the tree called Kuravaka, has ever had the embrace of Thy breasts."
-  },
-  {
-    "id": "sl-97",
-    "verse_number": "97",
-    "original": "गिरामाहुर्देवीं द्रुहिणगृहिणीमागमविदो। हरेः पत्नीं पद्मां हरसहचरीमद्रितनयाम् । तुरीया कापि त्वं दुरधिगमनिःसीममहिमा। महामाया विश्वं भ्रमयसि परब्रह्ममहिषि ॥ ९७॥",
-    "transliteration": "girāmāhurdeवीं druhiṇagṛhiṇīmāgamavido . hareḥ patnīṃ padmāṃ harasahacarīmadritanayām . turīyā kāpi tvaṃ duradhigamaniḥsīmamahimā . mahāmāyā viśvaṃ bhramayasi parabrahmamahiṣi .. 97..",
-    "translation": "O Consort of Parabrahman! The scholars who know the real meaning of the Āgamas (scriptures) describe Thee as Sarasvatī, the Goddess of Learning and the Consort of Brahmā. Besides, they speak of Thee as the lotus-born Lakṣmī, the Consort of Viṣṇu, as also as the Daughter of the Mountain (Pārvatī) and the Consort of Hara (Śiva). But Thou art however the Fourth (the unique Power that is the source of the three Deities mentioned) of inconceivable and limitless majesties—the indeterninable Mahāmāyā who revolves the wheel of this world."
-  },
-  {
-    "id": "sl-98",
-    "verse_number": "98",
-    "original": "कदा काले मातः कथय कलितालक्तकरसं। पिबेयं विद्यार्थी तव चरणनिर्णेजनजलम् । प्रकृत्या मूकानामपि च कविताकारणतया। कदा धत्ते वाणीमुखकमलताम्बूलरसताम् ॥ ९८॥",
-    "transliteration": "kadā kāle mātaḥ kathaya kalitālaktakarasaṃ . pibeyaṃ vidyārthī tava caraṇanirṇejanajalam . prakṛtyā mūkānāmapi ca kavitākāraṇatayā . kadā dhatte vāṇīmukhakamalatāmbūlarasatām .. 98..",
-    "translation": "O Mother! Tell me when I, a seeker after wisdom, shall have the privilege of imbibing the red-tinged water with which Thy lac-painted feet have been washed,—water that can generate poetic genius even in a naturally dumb person. When shall I expect it (that red-tinged water) to flow out of my mouth as great poetry, which forms the chewed betel leaf juice of Vāṇī, (Sarasvatī), the Goddess of Learning and Poesy?"
-  },
-  {
-    "id": "sl-99",
-    "verse_number": "99",
-    "original": "सरस्वत्या लक्ष्म्या विधिहरिसपत्नो विहरते। रतेः पातिव्रत्यं शिथिलयति रम्येण वपुषा । चिरं जीवन्नेव क्षपितपशुपाशव्यतिकरः। परानन्दाभिख्यम् रसयति रसं त्वद्भजनवान् ॥ ९९॥",
-    "transliteration": "sarasvatyā lakṣmyā vidhiharisapatno viharate . rateḥ pātivratyaṃ śithilayati ramyeṇa vapuṣā . ciraṃ jīvanneva kṣapitapaśupāśavyatikaraḥ . parānandābhikhyam rasayati rasaṃ tvadbhajanavān .. 99..",
-    "translation": "O Mother! A devotee of Thine sports with Sarasvatī (learning) and Śrī (Wealth), and thus courts the jealousy of their consorts, Brahmā and Viṣṇu. By the charm of his body, he attracts the attention of Rati, the wife of Kama Deva (the god of love), and thus violates her chastity. And with the beginningless ignorance-born bondage of Jīvāhood broken, he is immersed in the supreme Bliss of Brahman even in this long-lived embodied state."
-  },
-  {
-    "id": "sl-100",
-    "verse_number": "100",
-    "original": "प्रदीपज्वालाभिर्दिवसकरनीराजनविधिः। सुधासूतेश्चन्द्रोपलजललवैरर्घ्यरचना । स्वकीयैरम्भोभिः सलिलनिधिसौहित्यकरणं। त्वदीयाभिर्वाग्भिस्तव जननि वाचां स्तुतिरियम् ॥ १००॥इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य। श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य। श्रीमच्छङ्करभगवतः कृतौ सौन्दर्यलहरी सम्पूर्णा ॥ ॐ तत्सत्",
-    "transliteration": "pradīpajvālābhirdivasakaranīrājanavidhiḥ . sudhāsūteścandropalajalalavairarghyaracanā . svakīyairambhobhiḥ salilanidhisauhityakaraṇaṃ . tvadīyābhirvāgbhistava janani vācāṃ stutiriyam .. 100..iti śrīmatparamahaṃsaparivrājakācāryasya . śrīgovindabhagavatpūjyapādaśiṣyasya . śrīmacchaṅkarabhagavataḥ kṛtau saundaryalaharī sampūrṇā .. oṃ tatsat",
-    "translation": "Just as doing Nīrājana (light waving ceremony) to the sun is only the offering of his own light to him; just as making an offering of Arghya to the moon with the water that oozes out of the moon-stone in contact with moon light, is only to give back what belongs to the moon, and just as making water-offering (Tarpaṇa)to the ocean is to return what belongs to it—so is, O Source of all Learning, this hymn addressed to Thee composed of words that are already Thine."
-  }
-]
+  "verses": [
+    {
+      "id": "sl-1",
+      "verse_number": "1",
+      "startTime": 0,
+      "endTime": 37,
+      "original": "शिवः शक्त्या युक्तो यदि भवति शक्तः प्रभवितुं। न चेदेवं देवो न खलु कुशलः स्पन्दितुमपि । अतस्त्वामाराध्यां हरिहरविरिञ्चादिभिरपि। प्रणन्तुं स्तोतुं वा कथमकृतपुण्यः प्रभवति ॥ १॥",
+      "transliteration": "śivaḥ śaktyā yukto yadi bhavati śaktaḥ prabhavituṃ . na cedevaṃ devo na khalu kuśalaḥ spanditumapi . atastvāmārādhyāṃ hariharaviriñcādibhirapi . praṇantuṃ stotuṃ vā kathamakṛtapuṇyaḥ prabhavati ॥ 1 ॥",
+      "translation": "United with Śakti, Śiva is endowed with the power to create the universe. Otherwise, He is incapable even of movement. Therefore, who except those endowed with great merits acquired in the past can be fortunate enough to salute or praise Thee, Mother Divine, who art the adored of even Hari, Hara and Viriñci?"
+    },
+    {
+      "id": "sl-2",
+      "verse_number": "2",
+      "startTime": 38,
+      "endTime": 64,
+      "original": "तनीयांसं पांसुं तव चरणपङ्केरुहभवं। विरिञ्चिस्सञ्चिन्वन् विरचयति लोकानविकलम् । वहत्येनं शौरिः कथमपि सहस्रेण शिरसां। हरस्संक्षुद्यैनं भजति भसितोद्धूलनविधिम् ॥ २॥",
+      "transliteration": "tanīyāṃsaṃ pāṃsuṃ tava caraṇapaṅkeruhabhavaṃ . viriñcissañcinvan viracayati lokānavikalam . vahatyenaṃ śauriḥ kathamapi sahasreṇa śirasāṃ . harassaṃkṣudyainaṃ bhajati bhasitoddhūlanavidhim ॥ 2 ॥",
+      "translation": "Gathering a minute particle of dust from Thy lotus feet, Brahmā the creator brings into being this universe without any imperfection. The sustentator Viṣṇu as Ādiśeṣa somehow supports this universe with His thousand hoods. And Hara, the destroyer, crushing it into powder, rubs the ashes all over His body."
+    },
+    {
+      "id": "sl-3",
+      "verse_number": "3",
+      "startTime": 65,
+      "endTime": 88,
+      "original": "अविद्यानामन्त-स्तिमिर-मिहिरद्वीपनगरी। जडानां चैतन्य-स्तबक-मकरन्द-स्रुतिझरी । दरिद्राणां चिन्तामणिगुणनिका जन्मजलधौ। निमग्नानां दंष्ट्रा मुररिपु-वराहस्य भवति ॥ ३॥",
+      "transliteration": "avidyānāmanta-stimira-mihiradvīpanagarī . jaḍānāṃ caitanya-stabaka-makaranda-srutijharī . daridrāṇāṃ cintāmaṇiguṇanikā janmajaladhau . nimagnānāṃ daṃṣṭrā muraripu-varāhasya bhavati ॥ 3 ॥",
+      "translation": "The dust of Thy feet is the Island City, wherefrom takes place the luminous sun-rise of spiritual illumination driving away the over-casting darkness of ignorance. It forms the cluster of flower buds, from which gushes forth the nectar of intelligence, enlivening the dull-witted. It is a necklace of wish-yielding gems for the poverty-stricken. And for those immersed in the ocean of Samsara, it becomes their up-lifter like the Tusk of Viṣṇu's Boar incarnation."
+    },
+    {
+      "id": "sl-4",
+      "verse_number": "4",
+      "startTime": 89,
+      "endTime": 114,
+      "original": "त्वदन्यः पाणिभ्यामभयवरदो दैवतगणः। त्वमेका नैवासि प्रकटितवराभीत्यभिनया । भयात् त्रातुं दातुं फलमपि च वाञ्छासमधिकं। शरण्ये लोकानां तव हि चरणावेव निपुणौ ॥ ४॥",
+      "transliteration": "tvadanyaḥ pāṇibhyāmabhayavarado daivatagaṇaḥ . tvamēkā naivāsi prakaṭitavarābhītyabhinayā . bhayāt trātuṃ dātuṃ phalamapi ca vāñchāsamadhikaṃ . śaraṇyē lōkānāṃ tava hi caraṇāvēva nipuṇau ॥ 4 ॥",
+      "translation": "All Deities other than Thee bestow boons and give shelter from fear by the pose of their hands. Thou alone art not given to any such external demonstration. For, O Refuge of All, Thy very feet are themselves inherently capable of sheltering devotees from fear and of giving them much more than what they pray for."
+    },
+    {
+      "id": "sl-5",
+      "verse_number": "5",
+      "startTime": 115,
+      "endTime": 141,
+      "original": "हरिस्त्वामाराध्य प्रणतजनसौभाग्यजननीं। पुरा नारी भूत्वा पुररिपुमपि क्षोभमनयत् । स्मरोऽपि त्वां नत्वा रतिनयनलेह्येन वपुषा। मुनीनामप्यन्तः प्रभवति हि मोहाय महताम् ॥ ५॥",
+      "transliteration": "haristvāmārādhya praṇatajanasaubhāgyajananīṃ . purā nārī bhūtvā puraripumapi kṣōbhamanayat . smarō'pi tvāṃ natvā ratinayanalehyēna vapuṣā . munīnāmapyantaḥ prabhavati hi mōhāya mahatām ॥ 5 ॥",
+      "translation": "Adoring Thee, the bestower of prosperity on votaries, Hari (Viṣṇu) became a charming female (Mohinī) and stirred waves of passion in Hara (Śiva). And Smara (Cupid), through Thy adoration, got a form—a feast for Rati's eyes—with which he can cause deep infatuation even in the minds of great sages."
+    },
+    {
+      "id": "sl-6",
+      "verse_number": "6",
+      "startTime": 142,
+      "endTime": 169,
+      "original": "धनुः पौष्पं मौर्वी मधुकरमयी पञ्च विशिखाः। वसन्तः सामन्तो मलयमरुदायोधनरथः । तथाप्येकः सर्वं हिमगिरिसुते कामपि कृपाम्। अपाङ्गात्ते लब्ध्वा जगदिद-मनङ्गो विजयते ॥ ६॥",
+      "transliteration": "dhanuḥ pauṣpaṃ maurvī madhukaramayī pañca viśikhāḥ . vasantaḥ sāmanto malayamarudāyodhanarathaḥ . tathāpyekaḥ sarvaṃ himagirisutē kāmapi kṛpām . apāṅgātte labdhvā jagadida-manaṅgō vijayatē ॥ 6 ॥",
+      "translation": "O Daughter of the Mountain! Though Kāma Deva (Cupid) has a bow of flowers, a bow-string of honey-bees, five floral arrows, spring as his minister, and the Malaya breeze as his chariot, and is bodiless, yet, blessed by Thy gracious side-glance, he alone is victorious over the whole world."
+    },
+    {
+      "id": "sl-7",
+      "verse_number": "7",
+      "startTime": 170,
+      "endTime": 196,
+      "original": "क्वणत्काञ्चीदामा करिकलभकुम्भस्तननता। परिक्षीणा मध्ये परिणतशरच्चन्द्रवदना । धनुर्बाणान् पाशं सृणिमपि दधाना करतलैः। पुरस्तादास्तां नः पुरमथितुराहोपुरुषिका ॥ ७॥",
+      "transliteration": "kvaṇatkāñcīdāmā karikalabhakumbhastananatā . parikṣīṇā madhyē pariṇataśaraccandravadanā . dhanurbāṇān pāśaṃ sṛṇimapi dadhānā karatalaiḥ . purastādāstāṃ naḥ puramathiturāhōpuruṣikā ॥ 7 ॥",
+      "translation": "May the Divine Mother Tripurasundarī, the Pride of Śiva, vouchsafe Her presence before us—the Mother with Her slender waist girdled with jingling mini-bells, Her frame bent by the weight of breasts like the frontal globes of a young elephant, with Her face like the autumnal moon, and with Her hands sporting a bow, arrows, a noose and a goad!"
+    },
+    {
+      "id": "sl-8",
+      "verse_number": "8",
+      "startTime": 197,
+      "endTime": 224,
+      "original": "सुधासिन्धोर्मध्ये सुरविटपिवाटीपरिवृते। मणिद्वीपे नीपोपवनवति चिन्तामणिगृहे । शिवाकारे मञ्चे परमशिवपर्यङ्कनिलयां। भजन्ति त्वां धन्याः कतिचन चिदानन्दलहरीम् ॥ ८॥",
+      "transliteration": "sudhāsindhormadhyē suraviṭapivāṭīparivṛtē . maṇidvīpē nīpōpavanavati cintāmaṇigṛhē . śivākārē mañcē paramaśivaparyaṅkanilayāṃ . bhajanti tvāṃ dhanyāḥ katicana cidānandalaharīm ॥ 8 ॥",
+      "translation": "Fortunate indeed are the few who adore Thee, the Inundation of Bliss-Consciousness, as abiding on a mattress that is Paramaśiva (Sadāśiva), spread on a couch which is an aspect of Śiva, placed in a chamber of wish-yielding gems (Cintāmaṇi), amidst a Nipa pleasure garden, in Maṇidvīpa (Isle of Gems), which is situated in the Nectar-Ocean and fringed by rows of celestial Kalpaka trees."
+    },
+    {
+      "id": "sl-9",
+      "verse_number": "9",
+      "startTime": 225,
+      "endTime": 251,
+      "original": "महीं मूलाधारे कमपि मणिपूरे हुतवहं। स्थितं स्वाधिष्ठाने हृदि मरुतमाकाशमुपरि । मनोऽपि भ्रूमध्ये सकलमपि भित्वा कुलपथं। सहस्रारे पद्मे सह रहसि पत्या विहरसे ॥ ९॥",
+      "transliteration": "mahīṃ mūlādhārē kamapi maṇipūrē hutavahaṃ . sthitaṃ svādhiṣṭhānē hṛdi marutamākāśamupari . manō'pi bhrūmadhyē sakalamapi bhitvā kulapathaṃ . sahasrārē padmē saha rahasi patyā viharasē ॥ 9 ॥",
+      "translation": "Having penetrated the Pṛthvī (Earth) element in the Mūlādhāra, the Jala (Water) in the Maṇipūra, the Agni (Fire) in the Svādhiṣṭhāna, the Vāyu (Air) in the Anāhata (heart), the Ākāśa (Sky) in the Viśuddhi, and Manas (Mind) in the Ājñā, Thou, ascending through the Suṣumnā (Kula Path), sportest with Thy Consort in the solitude of Sahasrāra, the Thousand-Petalled Lotus."
+    },
+    {
+      "id": "sl-10",
+      "verse_number": "10",
+      "startTime": 252,
+      "endTime": 280,
+      "original": "सुधाधारासारैश्चरणयुगलान्तर्विगलितैः। प्रपञ्चं सिञ्चन्ती पुनरपि रसाम्नायमहसः । अवाप्य स्वां भूमिं भुजगनिभमध्युष्टवलयं। स्वमात्मानं कृत्वा स्वपिषि कुलकुण्डे कुहरिणि ॥ १०॥",
+      "transliteration": "sudhā-dhārā-sāraiś caraṇa-yugalāntar vigalitaiḥ . prapañcaṃ siñcantī punarapi rasāmnāyamahasaḥ . avāpya svāṃ bhūmiṃ bhujaganibhamadhyuṣṭavalayaṃ . svamātmānaṃ kṛtvā svapiṣi kulakuṇḍē kuhariṇi ॥ 10 ॥",
+      "translation": "Drenching the whole manifested multiplicity (Nādis) with the nectar flowing from Thy feet, Thou (Kuṇḍalinī) descendest from the exuberance of the Nectarine Radiance of the Moon (Sahasrāra) into the hollow of Thy own sphere in the Mūlādhāra, assuming Thy serpentine form (of three and a half coils) and sleepest therein."
+    },
+    {
+      "id": "sl-11",
+      "verse_number": "11",
+      "startTime": 281,
+      "endTime": 304,
+      "original": "चतुर्भिः श्रीकण्ठैः शिवयुवतिभिः पञ्चभिरपि। प्रभिन्नाभिः शम्भोर्नवभिरपि मूलप्रकृतिभिः । चतुश्चत्वारिंशद्वसुदलकलाश्रत्रिवलय-। त्रिरेखाभिः सार्धं तव शरणकोणाः परिणताः ॥ ११॥",
+      "transliteration": "caturbhiḥ śrīkaṇṭhaiḥ śivayuvatibhiḥ pañcabhirapi . prabhinnābhiḥ śambhōrnavabhirapi mūlaprakṛtibhiḥ . catuś-catvārimśad vasu-dala-kalāśra-tri-valaya- . trirēkhābhiḥ sārdhaṃ tava śaraṇakōṇāḥ pariṇatāḥ ॥ 11 ॥",
+      "translation": "The four Śrī-Kaṇṭhas (Śiva-cakras) and the five Śiva-yuvatis (Śakti-cakras) are the nine Mūla-prakṛtis (basic manifestations). Then there are two lotuses (8-petalled and 16-petalled), besides three surrounding circles and three lines. This forms Thy mansion (Śrī Cakra) with forty-four Kōṇas (triangles)."
+    },
+    {
+      "id": "sl-12",
+      "verse_number": "12",
+      "startTime": 305,
+      "endTime": 332,
+      "original": "त्वदीयं सौन्दर्यं तुहिनगिरिकन्ये तुलयितुं। कवीन्द्राः कल्पन्ते कथमपि विरिञ्चिप्रभृतयः । यदालोकौत्सुक्यादमरललना यान्ति मनसा। तपोभिर्दुष्प्रापामपि गिरिशसायुज्यपदवीम् ॥ १२॥",
+      "transliteration": "tvadīyaṃ saundaryaṃ tuhinagirikanyē tulayituṃ . kavīndrāḥ kalpantē kathamapi viriñciprabhṛtayaḥ . yadālōkautsukyādamaralalanā yānti manasā . tapōbhirdūṣprāpāmapi giriśa-sāyujya-padavīm ॥ 12 ॥",
+      "translation": "O Daughter of the Mountain of Snow! The greatest of poets like Brahmā fail to find any comparison to portray Thy beauty. For, even the heavenly damsels, out of eagerness to experience Thy beauty, attain only to an imaginative identification with the State of Oneness with Śiva, which is difficult to gain even by severe austerities."
+    },
+    {
+      "id": "sl-13",
+      "verse_number": "13",
+      "startTime": 333,
+      "endTime": 360,
+      "original": "नरं वर्षीयांसं नयनविरसं नर्मसु जडं। तवापाङ्गालोके पतितमनुधावन्ति शतशः । गलद्वेणीबन्धाः कुचकलशविस्रस्तसिचया। हठात् त्रुट्यत्काञ्च्यो विगलितदुकूला युवतयः ॥ १३॥",
+      "transliteration": "naraṃ varṣīyāṃsaṃ nayanavirasaṃ narmasu jaḍaṃ . tavāpāṅgālōkē patitamanudhāvanti śataśaḥ . galadvēṇībandhāḥ kucakalaśavisrastasicayā . haṭhāt truṭyatkāñcyō vigalitadukūlā yuvatayaḥ ॥ 13 ॥",
+      "translation": "If Thy gracious side glance falls on even a decrepit old man who is ugly to look at and whose erotic sensibilities are dead, he will be followed in all haste in their hundreds by love-lorn young women with scattered locks, exposed breasts, and suddenly broken girdles, letting their garments slip down."
+    },
+    {
+      "id": "sl-14",
+      "verse_number": "14",
+      "startTime": 361,
+      "endTime": 387,
+      "original": "क्षितौ षट्पञ्चाशद् द्विसमधिकपञ्चाशदुदके। हुताशे द्वाषष्टिश्चतुरधिकपञ्चाशदनिले । दिवि द्विष्षट्त्रिंशन्मनसि च चतुष्षष्टिरिति ये। मयूखास्तेषामप्युपरि तव पादाम्बुजयुगम् ॥ १४॥",
+      "transliteration": "kṣitau ṣaṭpañcāśad dvisamadhikapañcāśadudakē . hutāśē dvāṣaṣṭiścaturadhikapañcāśadanilē . divi dviṣṣaṭtriṃśanmanasi ca catuṣṣaṣṭiriti yē . mayūkhāstēṣāmapyupari tava pādāmbuja-yugam ॥ 14 ॥",
+      "translation": "Thy transcendent station (pair of lotus feet) is far above the Cakras, to which Thy Rays reach in the following combinations: 56 in Mūlādhāra (Earth), 52 in Maṇipūra (Water), 62 in Svādhiṣṭhāna (Fire), 54 in Anāhata (Air), 72 in Viśuddhi (Ether), and 64 in Ājñā (Mind)."
+    },
+    {
+      "id": "sl-15",
+      "verse_number": "15",
+      "startTime": 388,
+      "endTime": 414,
+      "original": "शरज्ज्योत्स्नाशुद्धां शशियुतजटाजूटमकुटां। वरत्रासत्राणस्फटिकघटिकापुस्तककराम् । सकृन्न त्वा नत्वा कथमिव सतां संन्निदधते। मधुक्षीरद्राक्षामधुरिमधुरीणाः फणितयः ॥ १५॥",
+      "transliteration": "śarajjyōtsnāśuddhāṃ śaśiyutajaṭājūṭamakuṭāṃ . vara-trāsa-trāṇa -sphaṭika-ghuṭikā-pustaka karām . sakṛnna tvā natvā kathamiva satāṃ saṃnnidadhatē . madhukṣīradrākṣāmadhurimadhurīṇāḥ bhaṇitayaḥ ॥ 15 ॥",
+      "translation": "How can torrents of words, excelling honey, milk and grapes, help flowing from the mouth of good men who but once make prostration to Thee, who art pure as the autumnal moon, who holdest in Thy hands the poses of granting boons and protection, a crystal rosary, and a book, and who wearest the crescent moon in Thy crown of plaited locks!"
+    },
+    {
+      "id": "sl-16",
+      "verse_number": "16",
+      "startTime": 415,
+      "endTime": 441,
+      "original": "कवीन्द्राणां चेतःकमलवनबालातपरुचिं। भजन्ते ये सन्तः कतिचिदरुणामेव भवतीम् । विरिञ्चिप्रेयस्यास्तरुणतरश‍ृङ्गारलहरी-। गभीराभिर्वाग्भिर्विदधति सतां रञ्जनममी ॥ १६॥",
+      "transliteration": "kavīndrāṇāṃ cētaḥkamalavanabālātaparuciṃ . bhajantē yē santaḥ katicidarunāmēva bhavatīm . viriñci-prēyasyās taruṇatara śrṅgāra-laharī- . gabhīrābhirvāgbhirvidadhati satāṃ rañjanamamī ॥ 16 ॥",
+      "translation": "O Mother, Thou Aruṇā, the Crimson-coloured Goddess, art like the light of morning’s rising sun to the lotus flowers constituted of the minds of gifted poets. Therefore, those devoted men who adore Thee become capable of delighting literary connoisseurs with the majestic flow of their words surging like waves of erotic sentiments emanating from youthful Sarasvati."
+    },
+    {
+      "id": "sl-17",
+      "verse_number": "17",
+      "startTime": 442,
+      "endTime": 468,
+      "original": "सवित्रीभिर्वाचां शशिमणिशिलाभङ्गरुचिभिः। वशिन्याद्याभिस्त्वां सह जननि संचिन्तयति यः । स कर्ता काव्यानां भवति महतां भङ्गिरुचिभिः। वचोभिर्वाग्देवीवदनकमलामोदमधुरैः ॥ १७॥",
+      "transliteration": "savitrībhirvācāṃ śaśimaṇiśilābhaṅgarucibhiḥ . vaśinyādyābhistvāṃ saha janani saṃcintayati yaḥ . sa kartā kāvyānāṃ bhavati mahatāṃ bhaṅgirucibhiḥ . vacōbhir vāgdēvī-vadana-kamal’āmōda madhuraiḥ ॥ 17 ॥",
+      "translation": "O Mother! Those who meditate on Thee in association with Vaśinī and allied Deities—the sources of speech, whose radiance resembles the lustre of freshly cut Candrakānta gem—can become the authors of great poetical works, sweet with the fragrance of the mouth of Sarasvatī, the goddess of poesy and learning."
+    },
+    {
+      "id": "sl-18",
+      "verse_number": "18",
+      "startTime": 469,
+      "endTime": 497,
+      "original": "तनुच्छायाभिस्ते तरुणतरणिश्रीसरणिभिः। दिवं सर्वामुर्वीमरुणिमनि मग्नां स्मरति यः । भवन्त्यस्य त्रस्यद्वनहरिणशालीननयनाः। सहोर्वश्या वश्याः कति कति न गीर्वाणगणिकाः ॥ १८॥",
+      "transliteration": "tanucchāyābhiste taruṇataraṇiśrīsaraṇibhiḥ . divaṃ sarvāmurvīmaruṇimani magnāṃ smarati yaḥ . bhavantyasya trasyadvanahariṇaśālīnanayanāḥ . sahurvaśyā vaśyāḥ kati kati na gīrvāṇagaṇikāḥ ॥ 18 ॥",
+      "translation": "How can numerous celestial courtesans like Urvaśī with eyes resembling timid does of the forest, help being attracted by a person who meditates on the beauty of Thy form which bathes the heaven and the earth in its crimson radiance resembling the rising sun."
+    },
+    {
+      "id": "sl-19",
+      "verse_number": "19",
+      "startTime": 498,
+      "endTime": 524,
+      "original": "मुखं बिन्दुं कृत्वा कुचयुगमधस्तस्य तदधो। हरार्धं ध्यायेद्यो हरमहिषि ते मन्मथकलाम् । स सद्यः संक्षोभं नयति वनिता इत्यतिलघु। त्रिलोकीमप्याशु भ्रमयति रवीन्दुस्तनयुगाम् ॥ १९॥",
+      "transliteration": "mukhaṃ binduṃ kṛtvā kucayugamadhastasya tadadhō . harārdhaṃ dhyāyedyō haramahiṣi tē manmathakalām . sa sadyaḥ saṃkṣōbhaṃ nayati vanitā ityatilaghu . trilōkīmapyāśu bhramayati ravīndustanayugām ॥ 19 ॥",
+      "translation": "O Consort of Hara! A votary who contemplates Thy Manmathakalā, thinking of a woman’s face in the Bindu, her twin breasts below it and ‘the half of Hara’ still below, will quickly stir the mind of any woman. This is a trifle for him; in no time he can fascinate even the Triloki (the three worlds conceived as a woman) with the sun and moon as breasts."
+    },
+    {
+      "id": "sl-20",
+      "verse_number": "20",
+      "startTime": 525,
+      "endTime": 552,
+      "original": "किरन्तीमङ्गेभ्यः किरणनिकुरम्बामृतरसं। हृदि त्वामाधत्ते हिमकरशिलामूर्तिमिव यः । स सर्पाणां दर्पं शमयति शकुन्ताधिप इव। ज्वरप्लुष्टान् दृष्ट्या सुखयति सुधाधारसिरया ॥ २०॥",
+      "transliteration": "kirantīmaṅgēbhyaḥ kiraṇanikurambāmṛtarasaṃ . hṛdi tvāmādhattē himakaraśilāmūrtimiva yaḥ . sa sarpāṇāṃ darpaṃ śamayati śakuntādhipa iva . jvarapluṣṭān dṛṣṭyā sukhayati sudhādhārasirayā ॥ 20 ॥",
+      "translation": "He who meditates on Thee, who sends forth luminous waves of Bliss from Thy body as an image of moonstone does, will be capable of humbling the pride and ferocity of serpents by his mere look, like Garuḍa. His look can cure any ailment, including fever, like the nectar showering Nādi (nerve)."
+    },
+    {
+      "id": "sl-21",
+      "verse_number": "21",
+      "startTime": 553,
+      "endTime": 579,
+      "original": "तटिल्लेखातन्वीं तपनशशिवैश्वानरमयीं। निषण्णां षण्णामप्युपरि कमलानां तव कलाम् । महापद्माटव्यां मृदितमलमायेन मनसा। महान्तः पश्यन्तो दधति परमाह्लादलहरीम् ॥ २१॥",
+      "transliteration": "taṭillekhātanvīṃ tapanaśaśivaiśvānaramayīṃ . niṣaṇṇāṃ ṣaṇṇāmapyupari kamalānāṃ tava kalām . mahāpadmāṭavyāṃ mṛditamalamāyēna manasā . mahāntaḥ paśyantō dadhati paramāhlādalaharīm ॥ 21 ॥",
+      "translation": "The noble spiritual aspirants, whose minds are free from impurities, are filled with thrills of spiritual Bliss by experiencing Thy lightning-like Kalā (Śakti in union with Śiva known as Sadākhyā) in the core of the Thousand-petalled Lotus (Sahasrāra), which transcends the six lotuses and Thy manifestations as fire, sun and moon in them."
+    },
+    {
+      "id": "sl-22",
+      "verse_number": "22",
+      "startTime": 580,
+      "endTime": 607,
+      "original": "भवानि त्वं दासे मयि वितर दृष्टिं सकरुणा-। मिति स्तोतुं वाञ्छन् कथयति भवानि त्वमिति यः । तदैव त्वं तस्मै दिशसि निजसायुज्यपदवीं। मुकुन्दब्रह्मेन्द्रस्फुटमकुटनीराजितपदाम् ॥ २२॥",
+      "transliteration": "bhavāni tvaṃ dāsē mayi vitara dṛṣṭiṃ sakaruṇā- . iti stōtuṃ vāñchan kathayati bhavāni tvamiti yaḥ . tadaiva tvaṃ tasmai diśasi nijasāyujyapadavīṃ . mukunda-brahmēndra-sphuṭa-makuṭa-nīrājita-padām ॥ 22 ॥",
+      "translation": "Whoever, desiring to pray to Thee in terms like ‘Oh Bhavāni, bestow Thy gracious glance on me, Thy servant,’ even before he utters ‘Bhavāni tvam’ (May I become Thou), Thou art wont to bestow on him the status of oneness with Thy feet, at which Divinities like Viṣṇu, Brahmā and Indra are performing the lustration ceremony with the brilliance of their diadems."
+    },
+    {
+      "id": "sl-23",
+      "verse_number": "23",
+      "startTime": 608,
+      "endTime": 636,
+      "original": "त्वया हृत्वा वामं वपुरपरितृप्तेन मनसा। शरीरार्धं शम्भोरपरमपि शङ्के हृतमभूत् । यदेतत्त्वद्रूपं सकलमरुणाभं त्रिनयनं। कुचाभ्यामानम्रं कुटिलशशिचूडालमकुटम् ॥ २३॥",
+      "transliteration": "tvayā hṛtvā vāmaṃ vapuraparitṛptēna manasā . śarīrārdhaṃ śambhōraparamapi śaṅkē hṛtamabhūt . yadētattvadrūpaṃ sakalamaruṇābhaṃ trinayanaṃ . kucābhyāmānamraṃ kuṭilaśaśicūḍālamakuṭam ॥ 23 ॥",
+      "translation": "I have a feeling that, unsatisfied even after having appropriated the left half of Śambhu (Śiva) as Ardhanarīśvara, Thou hast also invaded his right half; for Thy form that shines in my heart is totally crimson in complexion and slightly bent by the weight of the two breasts, besides having three eyes and the crescent moon in the diadem."
+    },
+    {
+      "id": "sl-24",
+      "verse_number": "24",
+      "startTime": 637,
+      "endTime": 664,
+      "original": "जगत्सूते धाता हरिरवति रुद्रः क्षपयते। तिरस्कुर्वन्नेतत्स्वमपि वपुरीशस्तिरयति । सदापूर्वः सर्वं तदिदमनुगृह्णाति च शिव-। स्तवाज्ञामालम्ब्य क्षणचलितयोर्भ्रूलतिकयोः ॥ २४॥",
+      "transliteration": "jagatsūtē dhātā hariravati rudraḥ kṣapayate . tiraskurvannetat svamapi vapurīśastirayati . sadāpūrvaḥ sarvaṃ tadidamanugṛhṇāti ca śiva- . stavājñāmālambya kṣaṇacalitayōrbhrūlatikayōḥ ॥ 24 ॥",
+      "translation": "Brahmā creates; Hari sustains; Rudra destroys; Īśa absorbs all these Deities into Himself and disappears into Sadāśiva. Then Sadāśiva, on receiving the mandate from Thee by a movement of Thy creeper-like brows, blesses (manifests) them into activity."
+    },
+    {
+      "id": "sl-25",
+      "verse_number": "25",
+      "startTime": 665,
+      "endTime": 691,
+      "original": "त्रयाणां देवानां त्रिगुणजनितानां तव शिवे। भवेत् पूजा पूजा तव चरणयोर्या विरचिता । तथा हि त्वत्पादोद्वहनमणिपीठस्य निकटे। स्थिता ह्येते शश्वन्मुकुलितकरोत्तंसमकुटाः ॥ २५॥",
+      "transliteration": "trayāṇāṃ dēvānāṃ triguṇajanitānāṃ tava śivē . bhavēt pūjā pūjā tava caraṇayōryā viracitā . tathā hi tvatpādōdvahanamaṇipīṭhasya nikaṭē . sthitā hyētē śaśvanmukuli-takarōttaṃsamakuṭāḥ ॥ 25 ॥",
+      "translation": "The worship done at Thy feet, O Consort of Śiva, is also the worship of all the three Deities (Brahmā, Viṣṇu, and Śiva), who have their origin in Thy three Guṇas. They require no special worship, because they are ever waiting with their joined palms held above their diademed heads in salutation to Thee by the side of the diamond foot-stool that bears Thy feet."
+    },
+    {
+      "id": "sl-26",
+      "verse_number": "26",
+      "startTime": 692,
+      "endTime": 718,
+      "original": "विरिञ्चिः पञ्चत्वं व्रजति हरिराप्नोति विरतिं। विनाशं कीनाशो भजति धनदो याति निधनम् । वितन्द्री माहेन्द्री विततिरपि संमीलितदृशा। महासंहारेऽस्मिन् विहरति सति त्वत्पतिरसौ ॥ २६॥",
+      "transliteration": "viriñciḥ pañcatvaṃ vrajati harirāpnōti viratiṃ . vināśaṃ kīnāśō bhajati dhanadō yāti nidhanam . vitandrī māhēndrī vitatirapi saṃmīlitadṛśā . mahāsaṃhārē’smin viharati sati tvatpatirasau ॥ 26 ॥",
+      "translation": "Viriñci (Brahmā) is reduced into elements; Hari (Viṣṇu) retires into passivity; Kīnāśa (Yama) himself dies; Kubera meets with his end; and Indra with all his followers closes his eyes in destruction. When such is the state of all beings at the time of the total dissolution (Mahāsaṃhāra), Thy husband Sadāśiva alone is sporting."
+    },
+    {
+      "id": "sl-27",
+      "verse_number": "27",
+      "startTime": 719,
+      "endTime": 746,
+      "original": "जपो जल्पः शिल्पं सकलमपि मुद्राविरचना। गतिः प्रादक्षिण्यक्रमणमशनाद्याहुतिविधिः । प्रणामस्संवेशस्सुखमखिलमात्मार्पणदृशा। सपर्यापर्यायस्तव भवतु यन्मे विलसितम् ॥ २७॥",
+      "transliteration": "japo jalpaḥ śilpam sakalam api mudrā-viracanā . gatiḥ prādakṣiṇya-kramaṇam aśanādy’āhuti-vidhiḥ . praṇāmaḥ samveśaḥ sukham akilam ātmārpaṇa-dṛśā . saparyā-paryāyas tava bhavatu yan me vilasitam ॥ 27 ॥",
+      "translation": "May everything that I do with the sense of self-dedication be items in Thy service: my prattle, the utterance of Thy Mantra; the movements of my hand, the gestures of Thy worship; my walking, Thy circumambulation; my eating, fire-sacrifice to Thee; the stretching of the body in sleep and rest, prostration to Thee; and all my enjoyments, offerings made to Thee."
+    },
+    {
+      "id": "sl-28",
+      "verse_number": "28",
+      "startTime": 747,
+      "endTime": 771,
+      "original": "सुधामप्यास्वाद्य प्रतिभयजरामृत्युहरिणीं। विपद्यन्ते विश्वे विधिशतमखाद्या दिविषदः । करालं यत्क्ष्वेलं कबलितवतः कालकलना। न शम्भोस्तन्मूलं तव जननि ताटङ्कमहिमा ॥ २८॥",
+      "transliteration": "sudhāmapyāsvādya pratibhayajarāmṛtyuhariṇīṃ . vipadyantē viśvē vidhiśatamakhādyā diviṣadaḥ . karālaṃ yatkṣvēlaṃ kabalitavatō kālakalanā . na śambhōstanmūlaṃ tava janani tāṭaṅkamahimā ॥ 28 ॥",
+      "translation": "Even after consuming nectar, Deities like Brahmā and Indra perish finally at the time of cosmic dissolution. But in spite of taking the terrible Kālakūṭa poison, Thy Consort Śiva enjoys a life-span that has no end. The cause of this, O Mother, is indeed the unique glory of Thy ear ornament!"
+    },
+    {
+      "id": "sl-29",
+      "verse_number": "29",
+      "startTime": 772,
+      "endTime": 800,
+      "original": "किरीटं वैरिञ्चं परिहर पुरः कैटभभिदः। कठोरे कोटीरे स्खलसि जहि जम्भारिमुकुटम् । प्रणम्रेष्वेतेषु प्रसभमुपयातस्य भवनं। भवस्याभ्युत्थाने तव परिजनोक्तिर्विजयते ॥ २९॥",
+      "transliteration": "kirīṭaṃ vairiñcaṃ parihara puraḥ kaiṭabhabhidaḥ . kaṭhōrē kōṭīrē skhalasi jahi jambhārimukuṭam . praṇamrēṣvētēṣu prasabhamupayātasya bhavanaṃ . bhavasyābhyutthānē tava parijanōktirvijayatē ॥ 29 ॥",
+      "translation": "On Thy Consort Bhava approaching Thy abode unannounced, as Thou springest up in great haste to receive Him, Thy attendants caution Thee, crying out, 'Deign to keep away from the diadem of Viriñci (Brahmā); avoid tumbling over the heavy crown of Kaiṭabhārī (Viṣṇu); beware of the crest of Jambhāri (Indra).'"
+    },
+    {
+      "id": "sl-30",
+      "verse_number": "30",
+      "startTime": 801,
+      "endTime": 827,
+      "original": "स्वदेहोद्भूताभिर्घृणिभिरणिमाद्याभिरभितो। निषेव्ये नित्ये त्वामहमिति सदा भावयति यः । किमाश्चर्यं तस्य त्रिनयनसमृद्धिं तृणयतो। महासंवर्ताग्निर्विरचयति निराजनविधिम् ॥ ३०॥",
+      "transliteration": "svadēhōdbhūtābhirghṛṇibhiraṇimādyābhirabhito . niṣēvyē nityē tvāmahamiti sadā bhāvayati yaḥ . kimāścaryam tasya trinayanasamṛddhiṃ tṛṇayatō . mahāsaṃvartāgnirviracayati nirājanavidhim ॥ 30 ॥",
+      "translation": "O Mother eternal! By ever meditating with a feeling of identification with Thee, who art surrounded by divine powers like Aṇimā, which are rays emanating from Thy feet, a devotee attains to glories far above even those of Śiva. What wonder then that even the conflagration of Cosmic Dissolution proves only to be the rite of Nīrājana to him."
+    },
+    {
+      "id": "sl-31",
+      "verse_number": "31",
+      "startTime": 828,
+      "endTime": 853,
+      "original": "चतुष्षष्ट्या तन्त्रैः सकलमतिसंधाय भुवनं। स्थितस्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः । पुनस्त्वन्निर्बन्धादखिलपुरुषार्थैकघटना-। स्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम् ॥ ३१॥",
+      "transliteration": "catuṣṣaṣṭyā tantraiḥ sakalamatisamdhāya bhuvanaṃ . sthitastattatsiddhiprasavaparatantraiḥ paśupatiḥ . punastvannirbandhādakhilapuruṣārthaikaghaṭanā- . svatantraṃ tē tantraṃ kṣititalamavātītaradidamt ॥ 31 ॥",
+      "translation": "Paśupati (Śiva) at first remained satisfied after 'deluding' the world, by giving out the sixty-four Tantras, which expound practices conferring only one or another of the psychic powers. Afterwards, on Thy special insistence, He revealed this Thy own Tantra (Śrī Vidyā) to the world, independent of all the others and capable of conferring all the Puruṣārthas—Dharma, Artha, Kāma and Mokṣa—by Itself."
+    },
+    {
+      "id": "sl-32",
+      "verse_number": "32",
+      "startTime": 854,
+      "endTime": 882,
+      "original": "शिवः शक्तिः कामः क्षितिरथ रविः शीतकिरणः। स्मरो हंसः शक्रस्तदनु च परामारहरयः । अमी हृल्लेखाभिस्तिसृभिरवसानेषु घटिता। भजन्ते वर्णास्ते तव जननि नामावयवताम् ॥ ३२॥",
+      "transliteration": "śivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītakiraṇaḥ . smarō haṃsaḥ śakrastadanu ca parāmāraharayaḥ . amī hṛllēkhābhistisṛbhiravasānēṣu ghaṭitā . bhajantē varṇāstē tava janani nāmāvayavatām ॥ 32 ॥",
+      "translation": "O Mother! The syllables Ka, e, i, la (Śiva, Śakti, Kāma, Kṣiti); Ha, sa, ka, ha, la (Ravi, Śītakiraṇa, Smara, Haṃsa, Śakra); and Sa, ka, la (Parā, Māra, Hari), each group joined at the end with Hṛllekhā (Hrīm), become the component parts of Thy Name (Mantra)."
+    },
+    {
+      "id": "sl-33",
+      "verse_number": "33",
+      "startTime": 883,
+      "endTime": 909,
+      "original": "स्मरं योनिं लक्ष्मीं त्रितयमिदमादौ तव मनो-। र्निधायैके नित्ये निरवधिमहाभोगरसिकाः । भजन्ति त्वां चिन्तामणिगुननिबद्धाक्षवलयाः। शिवाग्नौ जुह्वन्तः सुरभिघृतधाराहुतिशतैः ॥ ३३॥",
+      "transliteration": "smaraṃ yōniṃ lakṣmīṃ tritayamidamādau tava manō- . rnidhāyai-kē nityē niravadhimahābhōgarasikāḥ . bhajanti tvāṃ cintāmaṇigunanibaddhākṣavalayāḥ . śivāgnau juhvantaḥ surabhighṛtadhārāhutiśataiḥ ॥ 33 ॥",
+      "translation": "Some connoisseurs of the highest Enjoyment, adding the Bīja-syllables of Kāmarāja (Klīm), Bhuvaneśvarī (Hrīm), and Śri (Śrīm) before Thy Mantra, and adorned with a necklace of Cintāmaṇi, worship Thee with oblations consisting of countless streams of Kāmadhenu’s ghee in the purified fire of Śivā (Śakti)."
+    },
+    {
+      "id": "sl-34",
+      "verse_number": "34",
+      "startTime": 910,
+      "endTime": 937,
+      "original": "शरीरं त्वं शम्भोः शशिमिहिरवक्षोरुहयुगं। तवात्मानं मन्ये भगवति नवात्मानमनघम् । अतश्शेषश्शेषीत्ययमुभयसाधारणतया। स्थितः संबन्धो वां समरसपरानन्दपरयोः ॥ ३४॥",
+      "transliteration": "śarīraṃ tvaṃ śambhōḥ śaśimihiravakṣōruhayugaṃ . tavātmānaṃ manyē bhagavati navātmānamanagham . ataśśēṣaśśēṣītyayamubhayasādhāraṇatayā . sthitaḥ saṃbandhō vāṃ samarasaparānandaparayōḥ ॥ 34 ॥",
+      "translation": "O Bhagavati! Thou art verily the body of Śambhu with the sun and the moon as the two breasts. And Thy being is verily the flawless Śambhu, having nine aspects. Therefore in the matter of the relationship of the subservient and the essential entity, both Parānanda (Ānanda-bhairava) and Parā (Ānanda-bhairavī) stand on an equal footing."
+    },
+    {
+      "id": "sl-35",
+      "verse_number": "35",
+      "startTime": 938,
+      "endTime": 965,
+      "original": "मनस्त्वं व्योम त्वं मरुदसि मरुत्सारथिरसि। त्वमापस्त्वं भूमिस्त्वयि परिणतायां न हि परम् । त्वमेव स्वात्मानं परिणमयितुं विश्ववपुषा। चिदानन्दाकारं शिवयुवति भावेन बिभृषे ॥ ३५॥",
+      "transliteration": "manastvaṃ vyōma tvaṃ marudasi marutsārathirasi . tvamāpastvaṃ bhūmistvayi pariṇatāyāṃ na hi param . tvamēva svātmānaṃ pariṇamayituṃ viśvavapuṣā . cidānandākāraṃ śivayuvati bhāvēna bibhṛṣē ॥ 35 ॥",
+      "translation": "Thou art the Mind, Thou art Ākāśa, Vāyu, Fire, Water and Earth too. When Thou hast transformed Thyself into the form of the universe, there is nothing beyond Thee. It is to transform Thyself into the universe that Thou assumest this form of Consciousness-Bliss as Śiva’s Consort (His Śakti)."
+    },
+    {
+      "id": "sl-36",
+      "verse_number": "36",
+      "startTime": 966,
+      "endTime": 993,
+      "original": "तवाज्ञाचक्रस्थं तपनशशिकोटिद्युतिधरं। परं शम्भुं वन्दे परिमिलितपार्श्वं परचिता । यमाराध्यन् भक्त्या रविशशिशुचीनामविषये। निरालोकेऽलोके निवसति हि भालोकभवने ॥ ३६॥",
+      "transliteration": "tavājñācakrasthaṃ tapanaśaśikōṭidyutidharaṃ . paraṃ śambhuṃ vandē parimilitapārśvaṃ paracitā . yamārādhyan bhaktyā raviśaśiśucīnāmaviṣayē . nirālōkē’lōkē nivasati hi bhālōkabhavanē ॥ 36 ॥",
+      "translation": "I salute the Supreme Śambhu residing in Thy Ājñā-Cakra, who is resplendent as crores of suns and moons, and whose side is integrated with the Supreme Consciousness (Devi). He who adores Him attains that Self-luminous State which is not a Loka, which transcends the pale of the light of Moon, Sun and Fire."
+    },
+    {
+      "id": "sl-37",
+      "verse_number": "37",
+      "startTime": 994,
+      "endTime": 1021,
+      "original": "विशुद्धौ ते शुद्धस्फटिकविशदं व्योमजनकं। शिवं सेवे देवीमपि शिवसमानव्यवसिताम् । ययोः कान्त्या यान्त्याः शशिकिरणसारूप्यसरणे-। विधूतान्तर्ध्वान्ता विलसति चकोरीव जगती ॥ ३७॥",
+      "transliteration": "viśuddhau tē śuddhasphaṭikaviśadaṃ vyōmajanakaṃ . śivaṃ sēvē dēvīmapi śivasamānavyavasitām . yayōḥ kāntyā yāntyāḥ śaśikiraṇasārūpyasaraṇē- . vidhūtāntardhvāntā vilasati cakōrīva jagatī ॥ 37 ॥",
+      "translation": "In Thy Viśuddhi cakra, I meditate on Śiva, the creator of Ākāśa (Ether), resembling a pure crystal, along with the Devī who is equal to Śiva. In the Lunar Brilliance proceeding from them both, the whole universe, free from the Darkness of Ignorance, rejoices like the bird Cakorī (female partridge)."
+    },
+    {
+      "id": "sl-38",
+      "verse_number": "38",
+      "startTime": 1022,
+      "endTime": 1047,
+      "original": "समुन्मीलत् संवित् कमलमकरन्दैकरसिकं। भजे हंसद्वन्द्वं किमपि महतां मानसचरम् । यदालापादष्टादशगुणितविद्यापरिणति-। र्यादादत्ते दोषाद् गुणमखिलमद्भ्यः पय इव ॥ ३८॥",
+      "transliteration": "samunmīlat saṃvit kamalamakarandaikarasikaṃ . bhajē haṃsadvandvaṃ kimapi mahatāṃ mānasacaram . yadālāpādaṣṭādaśaguṇitavidyāpariṇati- . ryadādatte dōṣād guṇamakhilamadbhyaḥ paya iva ॥ 38 ॥",
+      "translation": "I adore the pair of Swans (Śiva-Śakti) who take delight in imbibing the honey of the full-blown Lotus of Knowledge of the Anāhata-cakra, and who swim in the Mānasa lake of the mind of enlightened ones. Their mutual conversation has become the eighteen Vidyās, and they separate good from evil, as a swan separates milk from the water with which it is diluted."
+    },
+    {
+      "id": "sl-39",
+      "verse_number": "39",
+      "startTime": 1048,
+      "endTime": 1076,
+      "original": "तव स्वाधिष्ठाने हुतवहमधिष्ठाय निरतं। तमीडे संवर्तं जननि महतीं तां च समयाम् । यदालोके लोकान् दहति महति क्रोधकलिते। दयार्द्रा या दृष्टिः शिशिरमुपचारं रचयति ॥ ३९॥",
+      "transliteration": "tava svādhiṣṭhānē hutavahamadhiṣṭhāya nirataṃ . tamīḍē saṃvartaṃ janani mahatīṃ tāṃ ca samayām . yadālōkē lōkān dahati mahati krōdhakalitē . dayārdrā yā dṛṣṭiḥ śiśiramupacāraṃ racayati ॥ 39 ॥",
+      "translation": "O Mother! Invoking Samvarta (Kālāgni-Rudra), the lord of the Fire of Dissolution in the Fire Element of Thy Svādhiṣṭhāna-cakra, I adore Him along with Thee, Samayā, the great Potency of Rudra. When the angry looks of Rudra burn up the universe, it is Thy merciful look that bestows on them the reviving blessing of coolness."
+    },
+    {
+      "id": "sl-40",
+      "verse_number": "40",
+      "startTime": 1077,
+      "endTime": 1103,
+      "original": "तटित्त्वन्तं शक्त्या तिमिरपरिपन्थिफुरणया। स्फुरन्नानारत्नाभरणपरिणद्धेन्द्रधनुषम् । तव श्यामं मेघं कमपि मणिपूरैकशरणं। निषेवे वर्षन्तं हरमिहिरतप्तं त्रिभुवनम् ॥ ४०॥",
+      "transliteration": "taṭittvantaṃ śaktyā timiraparipanthiphuraṇayā . sphuran-nānā-ratn’ābharaṇa-pariṇaddhendra dhanuṣam . tava śyāmaṃ mēghaṃ kamapi maṇipūraikaśaraṇaṃ . niṣēvē varṣantaṃ haramihirataptaṃ tribhuvanam ॥ 40 ॥",
+      "translation": "I worship that unique dark-blue Rain Cloud which abides ever in the Maṇipūra sending showers on the universe that has been burnt by the sun of Rudra—the Rain-cloud that is illumined by the brilliant lightning in the form of Śakti, revealing the rain-bow made by the reflection of the numerous sparkling gems, and dispelling the darkness reigning in the Maṇipūra."
+    },
+    {
+      "id": "sl-41",
+      "verse_number": "41",
+      "startTime": 1104,
+      "endTime": 1131,
+      "original": "तवाधारे मूले सह समयया लास्यपरया। नवात्मानं मन्ये नवरसमहाताण्डवनटम् । उभाभ्यामेताभ्यामुदयविधिमुद्दिश्य दयया। सनाथाभ्यां जज्ञे जनकजननीमज्जगदिदम् ॥ ४१॥",
+      "transliteration": "tavādhāre mūle saha samayayā lāsyaparayā . navātmānaṃ manye navarasamahātāṇḍavanaṭam . ubhābhyām etābhyām udaya-vidhim uddiśya dayayā . sanāthābhyāṃ jajñe janakajananīmajjagadidam .. 41..",
+      "translation": "In Thy Mūlādhāra-cakra, I meditate on the Navāt-man (Mahā bhairava), who, expressing nine sentiments, is engaged in the Mahā-tānḍava dance in the company of Samayā (Mahā bhairavī) who is dancing the Lāsya type of dance. The universe has come to have a father and a mother in ye both, who have come together graciously for its regeneration (after its being burnt up)."
+    },
+    {
+      "id": "sl-42",
+      "verse_number": "42",
+      "startTime": 1132,
+      "endTime": 1159,
+      "original": "गतैर्माणिक्यत्वं गगनमणिभिः सान्द्रघटितं। किरीटं ते हैमं हिमगिरिसुते कीर्तयति यः । स नीडेयच्छायाच्छुरणशबलं चन्द्रशकलं। धनुः शौनासीरं किमिति न निबध्नाति धिषणाम् ॥ ४२॥",
+      "transliteration": "gatairmāṇikyatvaṃ gaganamaṇibhiḥ sāndraghaṭitaṃ . kirīṭaṃ te haimaṃ himagirisute kīrtayati yaḥ . sa nīḍeyacchāyācchuraṇaśabalaṃ candraśakalaṃ . dhanuḥ śaunāsīraṃ kimiti na nibadhnāti dhiṣaṇām .. 42..",
+      "translation": "O Daughter of the Snow-capped Mountain! A poet who describes the golden crown on Thy head, set densely with precious gems (māṇikya) constituted of the twelve suns—will he not have the impression that the crescent moon on Thy head is Indra’s bow (rainbow), on seeing the variegated hues it reflects from the diffused light of the surrounding luminous bodies falling on it."
+    },
+    {
+      "id": "sl-43",
+      "verse_number": "43",
+      "startTime": 1160,
+      "endTime": 1187,
+      "original": "धुनोतु ध्वान्तं नस्तुलितदलितेन्दीवरवनं। घनस्निग्धश्लक्ष्णं चिकुरनिकुरुम्बं तव शिवे । यदीयं सौरभ्यं सहजमुपलब्धुं सुमनसो। वसन्त्यस्मिन् मन्ये वलमथनवाटीविटपिनाम् ॥ ४३॥",
+      "transliteration": "dhunotu dhvāntaṃ nastulitadalitendīvaravanaṃ . ghanasniagdhaślakṣṇaṃ cikuranikurumbaṃ tava śive . yadīyaṃ saurabhyaṃ sahajamupalabdhūṃ sumanasaḥ . vasantvasmin manye valamathanavāṭīviṭapinām .. 43..",
+      "translation": "O Consort of Śiva! May Thy braid of locks resembling a forest of full-blown blue lotus flowers, luxuriant, soft and oily, remove the darkness of ignorance in our hearts. I presume that the heavenly flowers of Indra’s garden have taken a place in Thy locks to imbibe a little of the natural fragrance of those locks (and not to add fragrance to the locks like flowers ordinarily worn by women.)"
+    },
+    {
+      "id": "sl-44",
+      "verse_number": "44",
+      "startTime": 1188,
+      "endTime": 1212,
+      "original": "तनोतु क्षेमं नस्तव वदनसौन्दर्यलहरी-। परीवाहस्रोतःसरणिरिव सीमन्तसरणिः । वहन्ती सिन्दूरं प्रबलकबरीभारतिमिर-। द्विषां बृन्दैर्बन्दीकृतमिव नवीनार्ककिरणम् ॥ ४४॥",
+      "transliteration": "tanotu kṣemaṃ nastava vadanasaundaryalaharī- . parīvāhasrotaḥsaraṇiriva sīmantasaraṇiḥ . vahantī sindūraṃ prabalakabarībhāratimira- . dviṣāṃ bṛndairbandīkṛtamiva navīnārkakiraṇam .. 44..",
+      "translation": "May we be blessed ever more by the parting middle line of Thy hair, which appears to be a canal for carrying the overflowing flood of beauty of Thy face. The streak of vermilion adorning that line looks like the rays of the rising sun entrapped by the opposing enemy hordes of darkness constituted of Thy hair hemming it on both sides."
+    },
+    {
+      "id": "sl-45",
+      "verse_number": "45",
+      "startTime": 1213,
+      "endTime": 1239,
+      "original": "अरालैः स्वाभाव्यादलिकलभसश्रीभिरलकैः। परितं ते वक्त्रं परिहसति पङ्केरुहरुचिम् । दरस्मेरे यस्मिन् दशनरुचिकिञ्जलकरुचिरे। सुगन्धौ माद्यन्ति स्मरदहनचक्षुर्मधुलिहः ॥ ४५॥",
+      "transliteration": "arālaiḥ svābhāvyādalikalabhasaśrībhiralakaiḥ . parītaṃ te vaktraṃ parihasati paṅkeruharucim . darasmere yasmin daśanarucikiñjalkarucire . sugandhau mādyanti smaradahanacakṣurmadhulihāḥ .. 45..",
+      "translation": "Thy face surrounded by Thy naturally curly Alakas (fore-locks), beautiful like a swarm of young honey beetles, mocks at the celebrated beauty of lotus flowers. In that smiling and fragrant face, excelling the beauty of lotus flowers and rendered charming by the brilliance of Thy lotus-filament-iike rows of teeth, revel the intoxicated honey suckers of the eyes of Śiva, the destroyer of Cupid."
+    },
+    {
+      "id": "sl-46",
+      "verse_number": "46",
+      "startTime": 1240,
+      "endTime": 1266,
+      "original": "ललाटं लावण्यद्युतिविमलमाभाति तव य-। द्वितीयं तन्मन्ये मकुटघटितं चन्द्रशकलम् । विपर्यासन्यासादुभयमपि संभूय च मिथः। सुधालेपस्यूतिः परिणमति राकाहिमकरः ॥ ४६॥",
+      "transliteration": "lalāṭaṃ lāvaṇyadyutivimalamābhāti tava ya- . ddvitīyaṃ tanmanye makuṭaghaṭitaṃ candraśakalam . viparyāsanyāsādubhayamapi saṃbhūya ca mithaḥ . sudhālepasyūtiḥ pariṇamati rākāhimakaraḥ .. 46..",
+      "translation": "Thy forehead, shining with the pure brilliance of its divine beauty, is, I fancy, a second crescent moon inverted and attached below Thy crown (in addition to the crescent moon already on it). If these two halves (the one on Thy crown with ends up and the other the crescent moon of Thy forehead with ends down) are attached in the reverse order, they can form the full moon with the nectarine fluid dripping from it."
+    },
+    {
+      "id": "sl-47",
+      "verse_number": "47",
+      "startTime": 1267,
+      "endTime": 1294,
+      "original": "भ्रुवौ भुग्ने किंचिद्भुवनभयभङ्गव्यसनिनि। त्वदीये नेत्राभ्यां मधुकररुचिभ्यां धृतगुणम् । धनुर्मन्ये सव्येतरकरगृहीतं रतिपतेः। प्रकोष्ठे मुष्टौ च स्थगयति निगूढान्तरमुमे ॥ ४७॥",
+      "transliteration": "bhruvau bhugne kiṃcidbhuvanabhayabhaṅgavyasanini . tvadīye netrābhyāṃ madhukararucibhyāṃ dhṛtaguṇam . dhanurmanye savyetarakaragṛhītaṃ ratipateḥ . prakoṣṭhe muṣṭau ca sthagayati nigūḍhāntaramume .. 47..",
+      "translation": "O Uma, ever intent on remedying the distress of the worlds! I am led to believe that Thy two slightly knitted eyebrows form the bow of Kāmadeva and Thy honey-beetle like black eyes its string, while its middle portion is hidden by the nasal ridge, as if it were the clenched fist and forearm of Kama Deva’s right arm holding it."
+    },
+    {
+      "id": "sl-48",
+      "verse_number": "48",
+      "startTime": 1295,
+      "endTime": 1323,
+      "original": "अहः सूते सव्यं तव नयनमर्कात्मकतया। त्रियामां वामं ते सृजति रजनीनायकतया । तृतीया ते दृष्टिर्दरदलितहेमाम्बुजरुचिः। समाधत्ते संध्यां दिवसनिशयोरन्तरचरीम् ॥ ४८॥",
+      "transliteration": "ahaḥ sūte savyaṃ tava nayanamarkātmakatayā . triyāmāṃ vāmaṃ te sṛjati rajanīnāyakatayā . tṛtīyā te dṛṣṭirdaradalitahemāmbujaruciḥ . samādhatte saṃdhyāṃ divasanivśvorantaracarīm .. 48..",
+      "translation": "Thy right eye as the sun causes the day time, while from the left eye is born the night time with the moon as its lord. Then there is Thy third eye (on the forehead above), resembling a golden lotus slightly in bloom, which is responsible for the two Sandhyas, the twilight time that comes between day and night (in the morning and the evening)."
+    },
+    {
+      "id": "sl-49",
+      "verse_number": "49",
+      "startTime": 1324,
+      "endTime": 1351,
+      "original": "विशाला कल्याणी स्फुटरुचिरयोध्या कुवलयैः। कृपाधाराधारा किमपि मधुराभोगवतिका । अवन्ती दृष्टिस्ते बहुनगरविस्तारविजया। ध्रुवं तत्तन्नामव्यवहरणयोग्या विजयते ॥ ४९॥",
+      "transliteration": "viśālā kalyāṇī sphuṭarucirayodhyā kuvalayaiḥ . kṛpādhārādhārā kimapi madhurābhogavatikā . avantī dṛṣṭiste bahunagaravistāravijayā . dhruvaṃ tattannāmavyavaharaṇayogyā vijayate .. 49..",
+      "translation": "All glory to Thy eyes which are wide (Viśāla); auspicious (Kalyāṇī) because of being brilliantly clear; undefeated (Ayodhyā) even by blue lilies; shedding a continuous flow of grace (Kṛpādhārā dhārā); sweet without display (Avyakta-madhura); long (Ābhogavatī); and offering protection to the world (Avantī). Surpassing (Vijayā) all these great cities in their uniqueness, Thy eyes deserve to be denoted by all the names mentioned above."
+    },
+    {
+      "id": "sl-50",
+      "verse_number": "50",
+      "startTime": 1352,
+      "endTime": 1378,
+      "original": "कवीनां संदर्भस्तबकमकरन्दैकरसिकं। कटाक्षव्याक्षेपभ्रमरकलभौ कर्णयुगलम् । अमुञ्चन्तौ दृष्ट्वा तव नवरसास्वादतरला-। वसूयासंसर्गादलिकनयनं किंचिदरुणम् ॥ ५०॥",
+      "transliteration": "kavīnāṃ saṃdarbhastabakamakarandaikarasikaṃ . kaṭākṣavyākṣepabhramarakalabhau karṇayugalam . amuñcantau dṛṣṭvā tava navarasāsvādataralā- . vasūyāsaṃsargādalikanayanaṃ kiṃcidaruṇam .. 50..",
+      "translation": "The two honey-bees of Thy long eyes are unceasingly hovering about Thy ear, ever absorbed in Imbibing the honey dripping from the flower bunch of the nine poetic sentiments poured into them by poet-devotees (singing hymns on Thee). Seeing this good fortune of the two eyes, Thy third eye in the forehead looks slightly red out of jealous hostility."
+    },
+    {
+      "id": "sl-51",
+      "verse_number": "51",
+      "startTime": 1379,
+      "endTime": 1406,
+      "original": "शिवे श‍ृङ्गारार्द्रा तदितरजने कुत्सनपरा। सरोषा गङ्गायां गिरिशचरिते विस्मयवती । हराहिभ्यो भीता सरसिरुहसौभाग्यजयिनी। सखीषु स्मेरा ते मयि जननी दृष्टिः सकरुणा ॥ ५१॥",
+      "transliteration": "śive śṛṅgārārdrā taditarajane kutsanaparā . saroṣā gaṅgāyāṃ giriśacarite vismayavatī . harāhibhyo bhītā sarasiruhasaubhāgyajayinī . sakhīṣu smerā te mayi jananī dṛṣṭiḥ sakaruṇā .. 51..",
+      "translation": "O Mother! The expression of Thy look at Siva is characterised by the sentiment of love; at others with that of dislike; at the co-wife Gangā with that of anger; at the hearing of the great deeds of Siva, with that of wonder; at the great serpents forming the ornament of Siva, with that of dread; at the sight of Thy comrades, with that of light-hearted sympathy characterised by a patronising smile; and at me, a devotee, with that of a compassionate expression. And besides, Thy look has the red-tinged loveliness of a lotus flower, indicating heroism."
+    },
+    {
+      "id": "sl-52",
+      "verse_number": "52",
+      "startTime": 1407,
+      "endTime": 1432,
+      "original": "गते कर्णाभ्यर्णं गरुत इव पक्ष्माणि दधती। पुरां भेत्तुश्चित्तप्रशमरसविद्रावणफले । इमे नेत्रे गोत्राधरपतिकुलोत्तंसकलिके। तवाकर्णाकृष्टस्मरशरविलासं कलयतः ॥ ५२॥",
+      "transliteration": "gate karṇābhyarṇaṃ garuta iva pakṣmāṇi dadhatī . purām behttuś citta-praśama-rasa-vidrūvaṇa-phale . ime netre gotrādharapatikulottaṃsakalike . tavākarṇākṛṣṭasmaraśaravilāsaṃ kalayataḥ .. 52..",
+      "translation": "O Mother! Thou the flower bud placed on the crest of the Mountain King’s dynasty! These long eyes of Thine, which extend up to the ears, with eye-lashes resembling the feathery wings attached to arrows and which are engaged in disturbing the placidity of the mind of Śiva look like the arrows of Cupid aimed and drawn up to the ear."
+    },
+    {
+      "id": "sl-53",
+      "verse_number": "53",
+      "startTime": 1433,
+      "endTime": 1459,
+      "original": "विभक्तत्रैवर्ण्यं व्यतिकरितलीलाञ्जनतया। विभाति त्वन्नेत्रत्रितयमिदमीशानदयिते । पुनः स्रष्टुं देवान् द्रुहिणहरिरुद्रानुपरतान्। रजः सत्त्वं बिभ्रत्तम इति गुणानां त्रयमिव ॥ ५३॥",
+      "transliteration": "vibhaktatraivarṇyaṃ vyatikaritalīlāñjanatayā . vibhāti tvannetratritayamidamīśānadayite . punaḥ sraṣṭuṃ devān druhiṇaharirudrānuparatān . rajaḥ sattvaṃ bibhrattama iti guṇānāṃ trayamiva .. 53..",
+      "translation": "O Consort of Īśvara! Thy three eyes look tricoloured when the black of the beautifying collyrium shines by the side of their natural white and reddish tinges, each keeping its distinctiveness. It looks as if these three colours represent the three Guṇas of Rajas, Sattva and Tamas, which Thou assumest with a view to revive Brahmā, Viṣṇu and Rudra after their dissolution in the Pralaya, and start them once again on the creative activity."
+    },
+    {
+      "id": "sl-54",
+      "verse_number": "54",
+      "startTime": 1460,
+      "endTime": 1489,
+      "original": "पवित्रीकर्तुं नः पशुपतिपराधीनहृदये। दयामित्रैर्नेत्रैररुणधवलश्यामरुचिभिः । नदः शोणो गङ्गा तपनतनयेति ध्रुवममुं। त्रयाणां तीर्थानामुपनयसि संभेदमनघम् ॥ ५४॥",
+      "transliteration": "pavitrīkartuṃ naḥ paśupatiparādhīnahṛdaye . dayāmitrairnetrairaruṇadhavalaśyāmarucibhiḥ . nadaḥśoṇo gaṅgā tapanatanayeti dhruvamamuṃ . trayāṇāṃ tīrthānāmupanayasi saṃbhedamanagham .. 54..",
+      "translation": "O Mother who art ever devoted to Śiva! It seems certain that with Thy kindly eyes having the three colours of red, white and black, Thou presentest to us the confluence of the holy rivers of Soṇa, Gaṅgā and Yamunā to sanctify ourselves (by getting immersed in them)."
+    },
+    {
+      "id": "sl-55",
+      "verse_number": "55",
+      "startTime": 1490,
+      "endTime": 1520,
+      "original": "निमेषोन्मेषाभ्यां प्रलयमुदयं याति जगती। तवेत्याहुः सन्तो धरणिधरराजन्यतनये । त्वदुन्मेषाज्जातं जगदिदमशेषं प्रलयतः। परित्रातुं शङ्के परिहृतनिमेषास्तव दृशः ॥ ५५॥",
+      "transliteration": "nimeṣonmeṣābhyāṃ pralayamudayaṃ yāti jagatī . tavetyāhuḥ santo dharaṇidhararājanyatanaye . tvadunmeṣājjātaṃ jagadidamaśeṣaṃ pralayataḥ . paritrātuṃ śaṅke parihṛtanimeṣāstava dṛśaḥ .. 55..",
+      "translation": "O Daughter of the king of mountains! Great men say that the closing and opening of Thy eye-lids mark the dissolution and creation of this universe. Therefore it must be to prevent this universe, that has sprung at the opening of Thy eyes, from going into dissolution that Thou dost not wink but keepest Thy eyes always open."
+    },
+    {
+      "id": "sl-56",
+      "verse_number": "56",
+      "startTime": 1521,
+      "endTime": 1548,
+      "original": "तवापर्णे कर्णेजपनयनपैशुन्यचकिता। निलीयन्ते तोये नियतमनिमेषाः शफरिकाः । इयं च श्रीर्बद्धच्छदपुटकवाटं कुवलयम्। जहाति प्रत्यूषे निशि च विघटय्य प्रविशति ॥ ५६॥",
+      "transliteration": "tavāparṇe karṇejapanayanapaiśunyacakitā . nilīyante toye niyatamanimeṣāḥ śapharikāḥ . iyaṃ ca śrīrbaddhacchadapuṭakavāṭaṃ kuvalayam . jahāti pratyūṣe niśi ca vighaṭayya praviśati .. 56..",
+      "translation": "O Aparṇā! The Śapharikas (female fish) hide themselves in water in fear, afraid of the tell-tale activities of Thy eyes against them, their rivals; and Śri the Goddess of Beauty, abandons the closed petals of blue lily during the day (in order to reside in Thy lotus-like eyes), and returns again at night to the blooming blue lily (when Thy eyes are dosed in sleep)."
+    },
+    {
+      "id": "sl-57",
+      "verse_number": "57",
+      "startTime": 1549,
+      "endTime": 1576,
+      "original": "दृशा द्राघीयस्या दरदलितनीलोत्पलरुचा। दवीयांसं दीनं स्नपय कृपया मामपि शिवे । अनेनायं धन्यो भवति न च ते हानिरियता। वने वा हर्म्ये वा समकरनिपातो हिमकरः ॥ ५७॥",
+      "transliteration": "dṛśā drāghīyasyā daradalitanīlotpalarucā . davīyāṃsaṃ dīnaṃ snapaya kṛpayā māmapi śive . anenāyaṃ dhanvo bhavati na ca te hāniriyatā . vane vā harmye vā samakaranipāto himakaraḥ .. 57..",
+      "translation": "O Consort of Śiva! Grace my miserable self too, in spite of my being far removed from Thee (for lack of devotion), with the long-ranging and compassionate look of Thy eyes, which defeat the slightly blooming blue water lily in beauty. By this my humble self shall feel blessed, while to Thee it involves no loss. The rays of the moon fall alike, indeed, on a mansion and a wilderness."
+    },
+    {
+      "id": "sl-58",
+      "verse_number": "58",
+      "startTime": 1577,
+      "endTime": 1604,
+      "original": "अरालं ते पालीयुगलमगराजन्यतनये। न केषामाधत्ते कुसुमशरकोदण्डकुतुकम् । तिरश्चीनो यत्र श्रवणपथमुल्लङ्घ्य विलस-। न्नपाङ्गव्यासङ्गो दिशति शरसंधानधिषणाम् ॥ ५८॥",
+      "transliteration": "arālaṃ te pālīyugalamagarājanyatanaye . na keṣāmādhatte kusumaśarakodaṇḍakutukam . tiraścīno yatra śravaṇapathamuilaṅghya vilasa- . nnapāṅgavyāsaṅgo diśati śarasaṃdhānadhiṣaṇām .. 58..",
+      "translation": "O daughter of the Mountain King! Who will not perceive the graces of the bow of Kāmā, the flower-arrowed god of love, on seeing Thy pair of arched ridges between the eyes and the ears (Pālī-ugalam.) For, Thy long side-glances across the ridges reaching up to Thy ears give the impression of an arrow mounted on a bow-string."
+    },
+    {
+      "id": "sl-59",
+      "verse_number": "59",
+      "startTime": 1605,
+      "endTime": 1629,
+      "original": "स्फुरद्गण्डाभोगप्रतिफलितताटङ्कयुगलं। चतुश्चक्रं मन्ये तव मुखमिदं मन्मथरथम् । यमारुह्य द्रुह्यत्यवनिरथमर्केन्दुचरणं। महावीरो मारः प्रमथपतये सज्जितवते ॥ ५ ९॥",
+      "transliteration": "sphuradgaṇḍābhogapratiphalitatāṭaṅkayugalaṃ . catuścakraṃ manye tava mukhamidaṃ manmatharatham . yamāruhva druhyatyavanirathamarkenducaraṇaṃ . mahāvīro māraḥ pramathapataye sajjitavate .. 59..",
+      "translation": "I fancy that Thy face, having two ear-ornaments and their reflection in Thy glistening cheeks, is verily the four-wheeled chariot of Manmatha, the god of love (who can stir the mind of people to its depth). It is seated in this chariot of Thy face that he became valiant enough to inflict pangs on Śiva, the Lord of Pramatha hosts, when, ready for the destruction of the Tripuras, he was mounted on his earth-chariot having the sun and the moon for its two wheels."
+    },
+    {
+      "id": "sl-60",
+      "verse_number": "60",
+      "startTime": 1630,
+      "endTime": 1657,
+      "original": "सरस्वत्याः सूक्तीरमृतलहरीकौशलहरीः। पिबन्त्याः शर्वाणि श्रवणचुलुकाभ्यामविरलम् । चमत्कारश्लाघाचलितशिरसः कुण्डलगणो। झणत्कारैस्तारैः प्रतिवचनमाचष्ट इव ते ॥ ६०॥",
+      "transliteration": "sarasvatyāḥ sūktīramṛtalaharīkauśalaharīḥ . pibantyāḥ śarvāṇi śravaṇaculukābhyāmaviralam . camatkāraślāghācalitaśirasaḥ kuṇḍalagaṇo . jhaṇatkāraistāraiḥ prativacanamācaṣṭa iva te .. 60..",
+      "translation": "O consort of Śiva! Sarasvatī the Goddess of Learning, imbibing continuously through the cup of her ears Thy sweet speech that humbles the delectableness of the flood of the immortal drink Amṛta, replies congratulating Thee, as it were, by the loud clang of her ear-ornaments, as she shakes her head in appreciation of Thy delightful speech."
+    },
+    {
+      "id": "sl-61",
+      "verse_number": "61",
+      "startTime": 1658,
+      "endTime": 1686,
+      "original": "असौ नासावंशस्तुहिनगिरिवंशध्वजपटि। त्वदीयो नेदीयः फलतु फलमस्माकमुचितम् । वहन्नन्तर्मुक्ताः शिशिरतरनिश्वासगलितं। समृद्ध्या यत्तासां बहिरपि च मुक्तामणिधरः ॥ ६१॥",
+      "transliteration": "asau nāsāvaṃśastuhinagirivaṃśadhvajapaṭi . tvadīyo nedīyaḥ phalatu phalamasmākamucitam . vahannantarmuktāḥ śiśirataraniśvāsa-galitaṃ . samṛddhyā yattāsāṃ bahirapi ca muktāmaṇidharaḥ .. 61..",
+      "translation": "O Flag of the House of the Mountain of Snow! May Thy nose, which is, as it were, the hollow bamboo staff of that flag, bestow on us the desired fruit. The hollow of that staff-like nose is full of pearls; for it is out of their abundance that one pearl, pushed out by the moon-cooled breath of the left nostril, has come out to be Thy nasal pendant."
+    },
+    {
+      "id": "sl-62",
+      "verse_number": "62",
+      "startTime": 1687,
+      "endTime": 1715,
+      "original": "प्रकृत्या रक्तायास्तव सुदति दन्तच्छदरुचेः। प्रवक्ष्ये सादृश्यं जनयतु फलं विद्रुमलता । न बिम्बं तद्बिम्बप्रतिफलनरागादरुणितं। तुलामध्यारोढुं कथमिव विलज्जेत कलया ॥ ६२॥",
+      "transliteration": "prakṛtyā raktāyāstava sudati dantacchadaruceḥ . pravakṣye sādṛśyaṃ janayatu phalaṃ vidrumalatā . na bimbaṃ tadbimbapratiphalanarāgādarunitaṃ . tulāmadhyāroḍhuṃ kathamiva vilajjeta kalayā .. 62..",
+      "translation": "O Devi with attractive rows of teeth! I shall now try to find out an object of comparison to describe Thy naturally red lips. But I am afraid I shall have to wait for this until the coral creeper (red all over) produces a fruit (which one can expect to be more red than the creeper itself). But is there not the Bimba fruit as a fitting object of comparison? No; for how will Bimba fruit not feel ashamed to stand before those lips, a mere reflection of which has made that fruit red!"
+    },
+    {
+      "id": "sl-63",
+      "verse_number": "63",
+      "startTime": 1716,
+      "endTime": 1745,
+      "original": "स्मितज्योत्स्नाजालं तव वदनचन्द्रस्य पिबतां। चकोराणामासीदतिरसतया चञ्चुजडिमा । अतस्ते शीतांशोरमृतलहरीमम्लरुचयः। पिबन्ति स्वच्छन्दं निशि निशि भृशं काञ्जिकधिया ॥ ६३॥",
+      "transliteration": "smitajyotsnājālaṃ tava vadanacandrasya pibatāṃ . cakorāṇāmāsīdatirasatayā cañcujaḍimā . ataste śītāṃśoramṛtalaharīmamlarucayaḥ . pibanti svacchandaṃ niśi niśi bhṛśaṃ kāñjikadhiyā .. 63..",
+      "translation": "The Cakora bird has got its tongue insensitised because of the extreme satiety generated by drinking the luminous light of Thy smiling face. It is for this reason that every night it drinks to its fill the light of the ‘natural moon’ under the Impression that it is some sour gruel (that will relieve the insensitiveness of its tongue)."
+    },
+    {
+      "id": "sl-64",
+      "verse_number": "64",
+      "startTime": 1746,
+      "endTime": 1775,
+      "original": "अविश्रान्तं पत्युर्गुणगणकथाम्रेडनजपा। जपापुष्पच्छाया तव जननि जिह्वा जयति सा । यदग्रासीनायाः स्फटिकदृषदच्छच्छविमयी। सरस्वत्या मूर्तिः परिणमति माणिक्यवपुषा ॥ ६४॥",
+      "transliteration": "aviśrāntaṃ patyurguṇagaṇakathāmreḍanajapā . japāpuṣpacchāyā tava janani jihvā jayali sā . yadagrāsīnāyāḥ sphaṭikadṛṣadacchacchavimayī . sarasvatyā mūrtiḥ pariṇamati māṇikyavapuṣā .. 64..",
+      "translation": "Hail unto Thy tongue which defies the Japa (hibiscus) flowers in its redness and is constantly engaged in the Japa (mutterings) that give expression to the glories of Thy Consort! The ruddiness of that tongue is so intense that the goddess of speech Sarasvatī, who dwells on the tip of that tongue, gets her crystal-like white complexion changed into the colour of a ruby (noted for its reddish tinge)."
+    },
+    {
+      "id": "sl-65",
+      "verse_number": "65",
+      "startTime": 1776,
+      "endTime": 1804,
+      "original": "रणे जित्वा दैत्यानपहृतशिरस्त्रैः कवचिभिर्-। निवृत्तैश्चण्डांशत्रिपुरहरनिर्माल्यविमुखैः । विशाखेन्द्रोपेन्द्रैः शशिविशदकर्पूरशकला। विलीयन्ते मातस्तव वदनताम्बूलकबलाः ॥ ६५॥",
+      "transliteration": "raṇe jitvā daityānapahṛtaśirastraiḥ kavacibhir- . nivṛttais Caṇḍāmśa-Tripurahara-nirmālva-vimukhaiḥ . viśākhendropendraiḥ śaśiviśadakarpūraśakalā . vilīyante mātastava vadanatāmbūlakabalāḥ .. 65..",
+      "translation": "Rejecting the leavings of Siva as the share of the devotee Caṇda, celestials like Kumāra, Indra and Viṣṇu, after their victory over the Asuras, come to Thee, with their head dress removed and only the mails on, to receive as Thy gracious gift(prasada) the betel rolls used by Thee, and chew them until they along with the white pieces of refined camphol contained in them dissolve."
+    },
+    {
+      "id": "sl-66",
+      "verse_number": "66",
+      "startTime": 1805,
+      "endTime": 1834,
+      "original": "विपञ्च्या गायन्ती विविधमपदानं पशुपतेः। त्वयारब्धे वक्तुं चलितशिरसा साधुवचने । तदीयैर्माधुर्यैरपलपिततन्त्रीकलरवां। निजां वीणां वाणी निचुलयति चोलेन निभृतम् ॥ ६६॥",
+      "transliteration": "vipañcyā gāyantī vividhamapadānaṃ paśupateḥ . tvayārabdhe vaktuṃ calitaśirasā sādhuvacane . tadīyairmādhuryairapalapitatantrīkalaravāṃ . nijāṃ vīṇāṃ vāṇī niculayati colena nibhṛtam .. 66..",
+      "translation": "When, on hearing the songs on the greatness and achievements of Siva tuned on the Vīna by Sarasvatī, the goddess of learning and fine arts, Thou beginnest to speak nodding Thy head in appreciation, the sweetness of Thy voice seems to cast ridicule on the soft melody of that musical instrument, and Sarasvatī therefore secretly puts it in its case."
+    },
+    {
+      "id": "sl-67",
+      "verse_number": "67",
+      "startTime": 1835,
+      "endTime": 1863,
+      "original": "कराग्रेण स्पृष्टं तुहिनगिरिणा वत्सलतया। गिरीशेनोदस्तं मुहुरधरपानाकुलतया । करग्राह्यं शम्भोर्मुखमुकुरवृन्तं गिरिसुते। कथङ्कारं ब्रूमस्तव चिबुकमौपम्यरहितम् ॥ ६७॥",
+      "transliteration": "karāgreṇa spṛṣṭaṃ tuhinagiriṇā vatsalatayā . girīśenodastaṃ muhuradharapānākulatayā . karagrāhyaṃ śambhormukhamukuravṛntaṃ girisute . kathaṅkāraṃ brūmastava cibukamaupamyarahitam .. 67..",
+      "translation": "O daughter of Himavat! How can we poets describe the unmatched beauty of Thy chin, which is stroked with all affection by Thy father the Mountain King, which is again and again lifted up by Thy Consort Śambhu in the intensity of his desire to kiss Thee repeatedly, and which forms the handle of the mirror of Thy face for Śambhu to hold and view."
+    },
+    {
+      "id": "sl-68",
+      "verse_number": "68",
+      "startTime": 1864,
+      "endTime": 1891,
+      "original": "भुजाश्लेषान् नित्यं पुरदमयितुः कण्टकवती। तव ग्रीवा धत्ते मुखकमलनालश्रियमियम् । स्वतः श्वेता कालागुरुबहुलजम्बालमलिना। मृणालीलालित्यम् वहति यदधो हारलतिका ॥ ६८॥",
+      "transliteration": "bhujāśleṣān nityaṃ puradamayituḥ kaṇṭakavatī . tava grīvā dhatte mukhakamalanālaśriyamiyam . svataḥ śvetā kālāgurubahulajambālamalinā . mṛṇālīlālityam vahati yadadho hāralatikā .. 68..",
+      "translation": "Thy neck, with horripilations caused by the constant embraces of Thy Consort, the Destroyer of the Cities, resembles the thorny stalk of Thy lotus-like face. For, below Thy neck are Thy naturally white cluster of pearl necklaces, which, being discoloured by the generously applied dark-coloured Agaru paste on the chest, bears the comeliness of the tender bottom part of the stalk of Thy lotus-like face embedded in mire."
+    },
+    {
+      "id": "sl-69",
+      "verse_number": "69",
+      "startTime": 1892,
+      "endTime": 1919,
+      "original": "गले रेखास्तिस्रो गतिगमकगीतैकनिपुणे। विवाहव्यानद्धप्रगुणगुणसंख्याप्रतिभुवः । विराजन्ते नानाविधमधुररागाकरभुवां। त्रयाणां ग्रामाणां स्थितिनियमसीमान इव ते ॥ ६९॥",
+      "transliteration": "gale rekhāstisro gatigamakagītaikanipuṇe . vivāha-vyānaddha-praguṇa-guṇa-samkhyā-pratibhuvaḥ . virājante nānāvidhamadhurarāgākarabhuvāṃ . trayāṇāṃ grāmāṇāṃ sthitiniyamasīmāna iva te .. 69..",
+      "translation": "O Mistress of the musical technicalities of Gati (procedure)Gamakam (undulations) and Gītam (song)! As though for the confirmation of the three-foldness of the strands of the auspicious string made by twisting several threads and tied round Thy neck (surrounding the mangala-sutra) by Thy Consort at the time of Thy marriage, shine forth the three lines of Thy neck, standing, as it were, as the boundaries demarcating the three musical scales (or Gamakas consisting of Saḍja, Madhyama, and Gāndhāra), which form the source of the various melodies of musical modes."
+    },
+    {
+      "id": "sl-70",
+      "verse_number": "70",
+      "startTime": 1920,
+      "endTime": 1948,
+      "original": "मृणालीमृद्वीनां तव भुजलतानां चतसृणां। चतुर्भिः सौन्दर्यं सरसिजभवः स्तौति वदनैः । नखेभ्यः सन्त्रस्यन् प्रथममथनादन्धकरिपो-। श्चतुर्णां शीर्षाणां सममभयहस्तार्पणधिया ॥ ७०॥",
+      "transliteration": "mṛṇālīmṛdvīnāṃ tava bhujalatānāṃ catasṛṇāṃ . caturbhiḥ saundaryaṃ sarasijabhavaḥ stauti vadanaiḥ . nakhebhyaḥ santrasyan prathamamathanādandhakaripo- . ścaturṇāṃ śīrṣāṇāṃ samamabhayahastārpaṇadhiyā .. 70..",
+      "translation": "The lotus-born Brahmā, being afraid of the fingernails of Sadāśiva, with which the latter in former times nipped off his fifth head, is now praising simultaneously with the remaining four heads the comeliness of Thy four creeper-like arms resembling the stalk of lotus in beauty, so that Thou might give those heads protection from the fear of a fate similar to that of the lost head."
+    },
+    {
+      "id": "sl-71",
+      "verse_number": "71",
+      "startTime": 1949,
+      "endTime": 1976,
+      "original": "नखानामुद्द्योतैरनवनलिनरागं विहसतां। कराणां ते कान्तिं कथय कथयामः कथमुमे । कयाचिद्वा साम्यं भजतु कलया हन्त कमलं। यदि क्रीडल्लक्ष्मीचरणतललाक्षारसछणम् ॥ ७१॥",
+      "transliteration": "nakhānāmuddyotairnavanalinarāgaṃ vihasatāṃ . karāṇāṃ te kāntiṃ kathaya kathayāmaḥ kathamume . kayācidvā sāmyaṃ bhajatu kalayā hanta kamalaṃ . yadi krīḍal-lakṣmī-caraṇa-tala-lākṣā-rasa-caṇam .. 71..",
+      "translation": "O Uma! Pray, tell us how we can describe the splendour of Thy hands, which, being lit up with the radiance of Thy nails, surpasses the brightness of the morning’s lotus blooms. Perhaps these flowers can attain to some similarity with Thy nails when their redness is enhanced by contact with the lac-dye of the feet of goddess Lakṣmī who sports in them."
+    },
+    {
+      "id": "sl-72",
+      "verse_number": "72",
+      "startTime": 1977,
+      "endTime": 2002,
+      "original": "समं देवि स्कन्दद्विपवदनपीतं स्तनयुगं। तवेदं नः खेदं हरतु सततं प्रस्नुतमुखम् । यदालोक्याशङ्काकुलितहृदयो हासजनकः। स्वकुम्भौ हेरम्बः परिमृशति हस्तेन झडिति ॥ ७२॥",
+      "transliteration": "samaṃ devi skandadvipavadanapītaṃ stanayugaṃ . tavedaṃ naḥ khedaṃ haratu satataṃ prasnutamukham . yadālokyāśaṅkākulitahṛdayo hāsajanakaḥ . svakumbhau herambaḥ parimṛśati hastena jhaḍiti .. 72..",
+      "translation": "O Mother! May we be relieved of all our sorrows by Thy breasts, from which milk is flowing always and which are being simultaneously sucked by both Skanda and Gaṇeśa, Thy sons. All of a sudden Gaṇesa (Heramba), looking at Thy breasts, feels with his hands whether the pair of frontal globes on his elephant face are there in their proper places (or whether they have disappeared to become Thy breasts present before his eyes), thus giving occasion for great fun (to his parents and onlookers)."
+    },
+    {
+      "id": "sl-73",
+      "verse_number": "73",
+      "startTime": 2003,
+      "endTime": 2031,
+      "original": "अमू ते वक्षोजावमृतरसमाणिक्यकुतुपौ। न संदेहस्पन्दो नगपतिपताके मनसि नः । पिबन्तौ तौ यस्मादविदितवधूसङ्गरसिकौ। कुमारावद्यापि द्विरदवदनक्रौञ्चदलनौ ॥ ७३॥",
+      "transliteration": "amū te vakṣojāvamṛtarasamāṇikyakutupau . na saṃdehaspando nagapatipatāke manasi naḥ . pibantau tau yasmādaviditavadhūsaṅgarasikau . kumārāvadyāpi dviradāvadanakrauñcadalanau .. 73..",
+      "translation": "O the Mountain-King’s flag of victory! We have not even the shadow of a doubt about Thy two breasts being jars made of Māṇikya (ruby) and filled with Amṛta, the immortal drink. For, it is by drinking their contents that Thy two sons, the mountain-piercing Kumāra and the elephant-headed Vināyaka, have remained young boys (celibates) without knowing woman, to this day."
+    },
+    {
+      "id": "sl-74",
+      "verse_number": "74",
+      "startTime": 2032,
+      "endTime": 2057,
+      "original": "वहत्यम्ब स्तम्बेरमदनुजकुम्भप्रकृतिभिः। समारब्धां मुक्तामणिभिरमलां हारलतिकाम् । कुचाभोगो बिम्बाधररुचिभिरन्तः शबलितां। प्रतापव्यामिश्रां पुरदमयितुः कीर्तिमिव ते ॥ ७४॥",
+      "transliteration": "vahatvāṃba stamberamadanujakumbhaprakṛtibhiḥ . samārabdhāṃ muktāmaṇibhiramalāṃ hāralatikām . kucābhogo bimbādhararucibhirantaḥ śabalitāṃ . pratāpavyāmiśrāṃ puradamayituḥ kīrtimiva te .. 74..",
+      "translation": "O Mother! In the region of Thy breasts is a flawless necklace made of pearls got from the frontal globe of Gajāsura (the elephant-demon). It rests there with its white brilliance variegated from within by the reflection of the ruddy tinge of Thy Bimba-like lips, as if it were the confluence of the (white) fame and the (red) valour of Thy Consort, the Destroyer of the Cities."
+    },
+    {
+      "id": "sl-75",
+      "verse_number": "75",
+      "startTime": 2058,
+      "endTime": 2086,
+      "original": "तव स्तन्यं मन्ये धरणिधरकन्ये हृदयतः। पयःपारावारः परिवहति सारस्वतमिव । दयावत्या दत्तं द्रविडशिशुरास्वाद्य तव यत्। कवीनां प्रौढानामजनि कमनीयः कवयिता ॥ ७५॥",
+      "transliteration": "tava stanyaṃ manye dharaṇidharakanye hṛdayataḥ . payaḥpārāvāraḥ parivahati sārasvatamiva . dayāvatyā dattaṃ draviḍaśiśurāsvādya tava yat . kavīnāṃ prauḍhānāmajani kamanīyaḥ kavayitā .. 75..",
+      "translation": "O Daughter of the Mountain-King! I fancy that Thy breast milk is the milk-ocean emerging as poetic inspiration from Thy heart. For, it was by drinking it, so graciously given by Thee, that the child of the Dramila country became a noted poet among great composers."
+    },
+    {
+      "id": "sl-76",
+      "verse_number": "76",
+      "startTime": 2087,
+      "endTime": 2114,
+      "original": "हरक्रोधज्वालावलिभिरवलीढेन वपुषा। गभीरे ते नाभीसरसि कृतसङ्गो मनसिजः । समुत्तस्थौ तस्मादचलतनये धूमलतिका। जनस्तां जानीते तव जननि रोमावलिरिति ॥ ७६॥",
+      "transliteration": "harakrodhajvālāvalibhiravalīḍhena vapuṣā . gabhīre te nābhīsarasi kṛtasaṅgo manasijaḥ . samuttasthau tasmādacalatanaye dhūmalatikā . janastāṃ jānīte tava janani romāvaliriti .. 76..",
+      "translation": "O Mother born of the Mountain! When the flames of Siva’s anger began to envelop Kāma-deva (Cupid), he took refuge in the deep lake of Thy navel. The fire that thus got extinguished sent forth a thin creeper-like column of smoke, which men describe as Thy Romāvali or the line of hair that goes up from Thy navel."
+    },
+    {
+      "id": "sl-77",
+      "verse_number": "77",
+      "startTime": 2115,
+      "endTime": 2141,
+      "original": "यदेतत् कालिन्दीतनुतरतरङ्गाकृति शिवे। कृशे मध्ये किंचिज्जननि तव यद्भाति सुधियाम् । विमर्दादन्योऽन्यं कुचकलशयोरन्तरगतं। तनूभूतं व्योम प्रविशदिव नाभिं कुहरिणीम् ॥ ७७॥",
+      "transliteration": "yadetat kālindītanutarataraṅgākṛti śive . kṛśe madhye kiṃcijjanani tava yadbhāti sughiyām . vimardādanyo’nyaṃ kucakalaśayorantaragataṃ . tanūbhūtaṃ vyoma praviśadiva nābhiṃ kuhariṇīm .. 77..",
+      "translation": "O Consort of Siva! What in Thy slender middle region shines before me and what is seen by devotees as Thy navel-hair (Romāvali) like the subtle ripples on the surface of Kālindī (Yamuna), is the Vyoma (sky) or interspace between Thy bulging breasts, thinned by their pressure and forced into the cavity of the navel."
+    },
+    {
+      "id": "sl-78",
+      "verse_number": "78",
+      "startTime": 2142,
+      "endTime": 2170,
+      "original": "स्थिरो गङ्गावर्तः स्तनमुकुलरोमावलिलता-। कलावालं कुण्डं कुसुमशरतेजोहुतभुजः । रतेर्लीलागारं किमपि तव नाभिर्गिरिसुते। बिलद्वारं सिद्धेर्गिरिशनयनानां विजयते ॥ ७८॥",
+      "transliteration": "sthiro gaṅgāvartaḥ stanamukularomāvalilatā- . kalāvālaṃ kuṇḍaṃ kusumaśaratejohutabhujaḥ . raterlīlāgāraṃ kimapi tava nābhirgirisute . biladvāraṃ siddheśrgiriśanayanānāṃ vijayate .. 78..",
+      "translation": "O Daughter of the Mountain! Indescribably unique is the glory of Thy navel, which is verily a still whirl-pool on the surface of the river Gaṅga; which forms the bed for the creeper of Thy Romāvali bearing two fruits in the shape of Thy breasts; which is the sacrificial pit wherein burns the fire of the prowess of Kama Deva, the flower-arrowed god of love; which is the pleasure house of his wife Rati; and which forms the opening of the cavern wherein the eyes of Hara found the consummation of the great austerities he had performed."
+    },
+    {
+      "id": "sl-79",
+      "verse_number": "79",
+      "startTime": 2171,
+      "endTime": 2196,
+      "original": "निसर्गक्षीणस्य स्तनतटभरेण क्लमजुषो। नमन्मूर्तेर्नारीतिलक शनकैस्त्रुट्यत इव । चिरं ते मध्यस्य त्रुटिततटिनीतीरतरुणा। समावस्थास्थेम्नो भवतु कुशलं शैलतनये ॥ ७९॥",
+      "transliteration": "nisargakṣīṇasya stanataṭabhareṇa klama juṣo . namanmūrternārītilaka śanakaistruṭyata iva . ciraṃ te madhyasya truṭitataṭinītīrataruṇā . samāvasthāsthemno bhavatu kuśalaṃ śailatanaye .. 79..",
+      "translation": "O Daughter of the Mountain! O Ornament of womankind! May safety be assured for Thy waist, which, being slender, is labouring under the weight of Thy breasts and therefore stooping, threatening to break under that weight, and whose precarious firmness is like that of a tree on a cracking river bank."
+    },
+    {
+      "id": "sl-80",
+      "verse_number": "80",
+      "startTime": 2197,
+      "endTime": 2223,
+      "original": "कुचौ सद्यःस्विद्यत्तटघटितकूर्पासभिदुरौ। कषन्तौ दोर्मूले कनककलशाभौ कलयता । तव त्रातुं भङ्गादलमिति वलग्नं तनुभुवा। त्रिधा नद्धं देवि त्रिवलि लवलीवल्लिभिरिव ॥ ८०॥",
+      "transliteration": "kucau sadyaḥsvidyattaṭaghaṭitakūrpāsabhidurau . kaṣantau dormūle kanakakalaśābhau kalayatā . tava trātuṃ bhaṅgādalमिति valagnaṃ tanubhuvā . tridhā naddhaṃ devi trivali lavalīvallibhiriva .. 80..",
+      "translation": "O Mother Divine! The three folds (Trivali) in Thy middle region look like three strands of Lavali creeper wound by Kama Deva, the god of love, as a support to prevent Thy middle region from breaking under the weight of his creation, Thy quickly perspiring breasts, which (under the excitement of love for Śambhu) have swollen to the size of two golden pots, touching Thy arm pits and bursting the garment covering them."
+    },
+    {
+      "id": "sl-81",
+      "verse_number": "81",
+      "startTime": 2224,
+      "endTime": 2251,
+      "original": "गुरुत्वं विस्तारं क्षितिधरपतिः पार्वति निजा-। न्नितम्बादाच्छिद्य त्वयि हरणरूपेण निदधे । अतस्ते विस्तीर्णो गुरुरयमशेषां वसुमतीं। नितम्बप्राग्भारः स्थगयति लघुत्वं नयति च ॥ ८१॥",
+      "transliteration": "gurutvaṃ vistāraṃ kṣitidharapatiḥ pārvati nijā- . nnitambādācchidya tvayi haraṇarūpeṇa nidadhe . ataste vistīrṇo gururayamaśeṣāṃ vasumatīṃ . nitambaprāgbhāraḥ sthagayati laghutvaṃ nayati ca .. 81..",
+      "translation": "O Parvati! Thy father, the Mountain-king, gave the weight and extensiveness of his flanks to Thee as dowry at the time of Thy marriage. It is for this reason that Thy hips, covering the earth, have become more extensive than it, and excelling it in weight, rendered it lighter in comparative weight."
+    },
+    {
+      "id": "sl-82",
+      "verse_number": "82",
+      "startTime": 2252,
+      "endTime": 2279,
+      "original": "करीन्द्राणां शुण्डान् कनककदलीकाण्डपटली-। मुभाभ्यामूरुभ्यामुभयमपि निर्जित्य भवती । सुवृत्ताभ्यां पत्युः प्रणतिकठिनाभ्यां गिरिसुते। विधिज्ञ्ये जानुभ्यां विबुधकरिकुम्भद्वयमसि ॥ ८२॥",
+      "transliteration": "karīndrāṇāṃ śuṇḍān kanakakadalīkāṇḍapaṭalī- . mubhābhyāmūrubhyāmubhayamapi nirjitya bhavatī . suvṛttābhyāṃ patyuḥ praṇatikaṭhinābhyāṃ girisute . vidhijñye jānubhyāṃ vibudhakarikumbhadvayamasi .. 82..",
+      "translation": "O Daughter of the Mountain! Thy thighs subdue by their beauty the trunk of lordly elephants as also the stem of golden coloured banana trees, while, O observer of all ordained duties, Thy knees, hardened and perfectly rounded by repeated prostrations to Thy Consort, rival the frontal globes of the heavenly Elephant Airavata."
+    },
+    {
+      "id": "sl-83",
+      "verse_number": "83",
+      "startTime": 2280,
+      "endTime": 2308,
+      "original": "पराजेतुं रुद्रं द्विगुणशरगर्भौ गिरिसुते। निषङ्गौ जङ्घे ते विषमविशिखो बाढमकृत । यदग्रे दृश्यन्ते दशशरफलाः पादयुगली-। नखाग्रच्छद्मानः सुरमकुटशाणैकनिशिताः ॥ ८३॥",
+      "transliteration": "parājetuṃ rudraṃ dviguṇaśaragarbhau girisute . niṣaṅgau jaṅghe te viṣamaviśikho bāḍhamakṛta . yadagrer dṛśyante daśaśaraphalāḥ pādayugalī- . nakhāgracchadmānaḥ suramakuṭaśāṇaikaniśitāḥ .. 83..",
+      "translation": "O Daughter of the Mountain! Surely the five-arrowed Kāmadeva has, in order to conquer Rudra, utilised Thy shanks as a quiver to store therein double the number of arrows he is credited with. For, at the end of Thy feet are seen, under the guise of Thy toe nails, ten crescent shaped arrow heads sharpened on the whetstone of the crowns of prostrating Divinities."
+    },
+    {
+      "id": "sl-84",
+      "verse_number": "84",
+      "startTime": 2309,
+      "endTime": 2339,
+      "original": "श्रुतीनां मूर्धानो दधति तव यौ शेखरतया। ममाप्येतौ मातः शिरसि दयया धेहि चरणौ । ययोः पाद्यं पाथः पशुपतिजटाजूटतटिनी। ययोर्लाक्षालक्ष्मीररुणहरिचूडामणिरुचिः ॥ ८४॥",
+      "transliteration": "śrutīnāṃ mūrdhāno dadhati tava yau śekharatayā . mamāpyetau mātaḥ śirasi dayayā dhehi caraṇau . yayoḥ pādyaṃ pāthaḥ paśupatijaṭājūṭataṭinī . yayorlākṣālakṣmīraruṇaharicūḍāmaṇiruciḥ .. 84..",
+      "translation": "O Mother! The crest of the Veda (i.e. the Vedanta known as the Vedaśiras) bear Thy feet as its head ornament. Mayest Thou condescend to place those feet on my head too—the feet the water-offerings on which form the Gaṅgā in the matted locks of Siva, and the bright red dye of which gives brilliance to the jewels on the diadem ofViṣṇu."
+    },
+    {
+      "id": "sl-85",
+      "verse_number": "85",
+      "startTime": 2340,
+      "endTime": 2366,
+      "original": "नमोवाकं ब्रूमो नयनरमणीयाय पदयो-। स्तवास्मै द्वन्द्वाय स्फुटरुचिरसालक्तकवते । असूयत्यत्यन्तं यदभिहननाय स्पृहयते। पशूनामीशानः प्रमदवनकङ्केलितरवे ॥ ८५॥",
+      "transliteration": "namovākaṃ brūmo nayanaramaṇīyāya padayo- . stavāsmai dvandvāya sphuṭarucirasālaktakavate . asūyatyatyantam yadabhihananāya spṛhayate . paśūnāmīśānaḥ pramadavanakaṅkelitarave .. 85..",
+      "translation": "Our praise by way of obeisance to Thy feet, a delight to the eyes because of their brilliance arising from the liquid lac dye applied to them! Thy Consort Paśupati, desiring to be kicked with those feet, is extremely jealous of the Kankeli (Aśoka) tree of Thy pleasure garden, as that tree too is a rival aspirant for such kicks."
+    },
+    {
+      "id": "sl-86",
+      "verse_number": "86",
+      "startTime": 2367,
+      "endTime": 2394,
+      "original": "मृषा कृत्वा गोत्रस्खलनमथ वैलक्ष्यनमितं। ललाटे भर्तारं चरणकमले ताडयति ते । चिरादन्तःशल्यं दहनकृतमुन्मूलितवता। तुलाकोटिक्वाणैः किलिकिलितमीशानरिपुणा ॥ ८६॥",
+      "transliteration": "mṛṣā kṛtvā gotraskhalanamatha vailakṣyanamitaṃ . lalāṭe bhartāraṃ caraṇakamale tāḍayati te . cirādantaḥśalyaṃ dahanakṛtamunmūlitavatā . tulākoṭikvāṇaiḥ kilikilitamīśānaripuṇā .. 86..",
+      "translation": "O Devi! When Thou didst deliver a kick (in love quarrel) at the forehead of Thy Consort when he bent his head in shame for calling Thee inadvertently by the name of another woman, his enemy Kama got an opportunity to root out of himself his long-standing rancour towards him, Īśa, for consuming him in fire, and he gave out his joyous acclamations, as it were, in the form of the tinkling of Thy anklets."
+    },
+    {
+      "id": "sl-87",
+      "verse_number": "87",
+      "startTime": 2395,
+      "endTime": 2423,
+      "original": "हिमानीहन्तव्यं हिमगिरिनिवासैकचतुरौ। निशायां निद्राणं निशि चरमभागे च विशदौ । वरं लक्ष्मीपात्रं श्रियमतिसृजन्तौ समयिनां। सरोजं त्वत्पादौ जननि जयतश्चित्रमिह किम् ॥ ८७॥",
+      "transliteration": "himānīhantavyaṃ himagirinivāsaikacaturau . niśāyāṃ nidrāṇaṃ niśi caramabhāge ca viśadau . varaṃ lakṣmīpātraṃ śriyamatisṛjantau samayināṃ . sarojaṃ tvatpādau janani jayataścitramiha kim .. 87..",
+      "translation": "O Mother of the Universe! The lotus of Thy feet, which flourishes always on the snow Mountain (Himalayas), blooming night and day and bestowing undecaying wealth (Lakṣmī) on the inner circle of devotees, is undoubtedly far superior to the common lotus flower which perishes in snowļ closes at night and forms the favourite resort of Lakṣmī (the goddess of wealth whose blessings on devotees are very temporary)."
+    },
+    {
+      "id": "sl-88",
+      "verse_number": "88",
+      "startTime": 2424,
+      "endTime": 2451,
+      "original": "पदं ते कीर्तीनां प्रपदमपदं देवि विपदां। कथं नीतं सद्भिः कठिनकमठीकर्परतुलाम् । कथं वा बाहुभ्यामुपयमनकाले पुरभिदा। यदादाय न्यस्तं दृषदि दयमानेन मनसा ॥ ८८॥",
+      "transliteration": "padaṃ te kīrtīnāṃ prapadamapadaṃ devi vipadāṃ . kathaṃ nītaṃ sadbhiḥ kaṭhinakamaṭhīkarparatulām . kathaṃ vā bāhubhyāmupayamanakāle purabhidā . yadādāya nyastaṃ dṛṣadi dayamānena manasā .. 88..",
+      "translation": "The upper part of Thy feet are the seat of all excellences worthy of praise and they are the panacea for all dangers. How then do great poets equate them with the hard shell of a tortoise? And how did Thy Consort, the Destroyer of the Cities, in spite of all His tenderness towards Thee, have the heart to place them on a hard granite grinding stone at Thy marriage rite?"
+    },
+    {
+      "id": "sl-89",
+      "verse_number": "89",
+      "startTime": 2452,
+      "endTime": 2479,
+      "original": "नखैर्नाकस्त्रीणां करकमलसंकोचशशिभि-। स्तस्तूणां दिव्यानां हसत इव ते चण्डि चरणौ । फलानि स्वःस्थेभ्यः किसलयकराग्रेण ददतां। दरिद्रेभ्यो भद्रां श्रियमनिशमह्नाय ददतौ ॥ ८९॥",
+      "transliteration": "nakhairnākastrīṇāṃ karakamalasaṃkocaśaśibhi- . starūṇāṃ divyānāṃ hasata iva te caṇḍi caraṇau . phalāni svaḥsthebhyaḥ kisalayakarāgreṇa dadatāṃ . daridrebhyo bhadrāṃ śriyamaniśamahnāya dadatau .. 89..",
+      "translation": "O Candị! Thy feet, of the moon-like nails, which make the lotus-bud-like palms of adoring heavenly damsels close, do shower abundant wealth quickly on humble and poor devotees, and thus mock at the wish-yielding Kalpaka trees of heaven whose arms of tender branches bestow desired gifts only to Devas who live in heavenly affluence."
+    },
+    {
+      "id": "sl-90",
+      "verse_number": "90",
+      "startTime": 2480,
+      "endTime": 2505,
+      "original": "ददाने दीनेभ्यः श्रियमनिशमाशानुसदृशी-। ममन्दं सौन्दर्यप्रकरमकरन्दम् विकिरति । तवास्मिन् मन्दारस्तबकसुभगे यातु चरणे। निमज्जन्मज्जीवः करणचरणः षट्चरणताम् ॥ ९०॥",
+      "transliteration": "dadāne dīnebhyaḥ śriyamaniśamāśānusadṛśī- . mamandaṃ saundaryaprakaramakarandam vikirati . tavāsmin mandārastabakasubhage yātu caraṇe . nimajjammajjīvaḥ karaṇacaraṇaḥ ṣaṭcaraṇatām .. 90..",
+      "translation": "Thy feet form a veritable bunch of Mandāra flowers dripping the honey of beauty and are a liberal supplier of wealth to Thy poor devotees. May my spirit with its six organs of knowledge (including the mind) become a six-footed honey-sucking bee at those feet for ever more."
+    },
+    {
+      "id": "sl-91",
+      "verse_number": "91",
+      "startTime": 2506,
+      "endTime": 2532,
+      "original": "पदन्यासक्रीडापरिचयमिवारब्धुमनसः। स्खलन्तस्ते खेलं भवनकलहंसा न जहति । अतस्तेषां शिक्षां सुभगमणिमञ्जीररणित-। च्छलादाचक्षाणं चरणकमलं चारुचरिते ॥ ९१॥",
+      "transliteration": "padanyāsakrīḍāparicayamivārabdhumanasaḥ . skhalantaste khelaṃ bhavanakalahaṃsā na jahanī . atasteṣāṃ śikṣāṃ subhagamaṇimañjīraraṇita- . cchalādācakṣāṇaṃ caraṇakamalaṃ cārucarite .. 91..",
+      "translation": "O Goddess of Holy Fame! The royal Swans inhabiting Thy residence are never abandoning their pursuit of Thee, in their effort to observe Thy gait for correcting their own defective ways. And Thy lotus feet are, it seems, giving instructions to them in the guise of the tinkling sounds made by the anklets on them, studded with precious stones."
+    },
+    {
+      "id": "sl-92",
+      "verse_number": "92",
+      "startTime": 2533,
+      "endTime": 2560,
+      "original": "गतास्ते मञ्चत्वं द्रुहिणहरिरुद्रेश्वरभृतः। शिवः स्वच्छच्छायाघटितकपटप्रच्छदपटः । त्वदीयानां भासां प्रतिफलनरागारुणतया। शरीरी श‍ृङ्गारो रस इव दृशां दोग्धि कुतुकम् ॥ ९२॥",
+      "transliteration": "gatāste mañcatvaṃ druhiṇaharirudreśvarabhṛtaḥ . śivaḥ svacchac-chāyā-ghaṭita-kapaṭa-pracchada-paṭaḥ . tvadīyānāṃ bhāsāṃ pratiphalanarāgāruṇatayā . śarīrī śṛṅgāro rasa iva dṛśāṃ dogdhi kutukam .. 92..",
+      "translation": "Thy servitors Brahmā, Viṣṇu, Rudra and Īśvara have taken the shape of Thy cot (i. e. the four legs of the cot) in order to serve Thee very closely, while Sadasiva has formed himself into Thy bedsheet, reflecting Thy crimson glory in his assumed whiteness, thereby causing amazement to Thee by presenting Himself as the very embodiment of erotic sentiment."
+    },
+    {
+      "id": "sl-93",
+      "verse_number": "93",
+      "startTime": 2561,
+      "endTime": 2588,
+      "original": "अराला केशेषु प्रकृतिसरला मन्दहसिते। शिरीषाभा चित्ते दृषदुपलशोभा कुचतटे । भृशं तन्वी मध्ये पृथुरुरसिजारोहविषये। जगत्त्रातुं शम्भोर्जयति करुणा काचिदरुणा ॥ ९३॥",
+      "transliteration": "arālā keśeṣu prakṛtisaralā mandahasite . śirīṣābhā citte dṛṣadupalaśobhā kucataṭe . bhṛśaṃ tanvī madhye pṛthururasijārohaviṣaye . jagattrātuṃ śambhorjayati karuṇā kācidaruṇā .. 93..",
+      "translation": "Her glory Aruṇā (Kāmeśvarī), the Śakti of Śambhu—the very embodiment of graciousness—with her locks all curly, her smile naturally artless, her heart soft like Śirīṣa flower, her breast as tight and hard like a grinding stone, her waist extremely slender, and her hips and breasts generous in size."
+    },
+    {
+      "id": "sl-94",
+      "verse_number": "94",
+      "startTime": 2589,
+      "endTime": 2615,
+      "original": "कलङ्कः कस्तूरी रजनिकरबिम्बं जलमयं। कलाभिः कर्पूरैर्मरकतकरण्डं निबिडितम् । अतस्त्वद्भोगेन प्रतिदिनमिदं रिक्तकुहरं। विधिर्भूयो भूयो निबिडयति नूनं तव कृते ॥ ९४॥",
+      "transliteration": "kalaṅkaḥ kastūrī rajanikarabimbaṃ jalamayaṃ . kalābhiḥ karpūrairmarakatakaraṇḍaṃ nibiḍitam . atastvadbhogena pratidinamidaṃ riktakuharaṃ . vidhirbhūyo bhūyo nibiḍayati nūnaṃ tava kṛte .. 94..",
+      "translation": "The mark on the moon is musk; and her watery disc, a receptacle (canister) of emerald for containing pieces of camphol in the form of the digits of the moon. As and when the contents of that receptacle are exhausted by Thy using them, Brahmā fills it up day by day for Thee with the digits of the waxing moon."
+    },
+    {
+      "id": "sl-95",
+      "verse_number": "95",
+      "startTime": 2616,
+      "endTime": 2642,
+      "original": "पुरारातेरन्तःपुरमसि ततस्त्वच्चरणयोः। सपर्यामर्यादा तरलकरणानामसुलभा । तथा ह्येते नीताः शतमखमुखाः सिद्धिमतुलां। तव द्वारोपान्तस्थितिभिरणिमाद्याभिरमराः ॥ ९५॥",
+      "transliteration": "purārāterantaḥpuramasi tatastvaccaraṇayoḥ . saparyāmaryādā taralakaraṇānāmasulabhā . tathā hyete nītāḥ śatamakhamukhāḥ siddhimatulāṃ . tava dvār’opānta-sthitibhir aṇim’ ādyābhir amarāḥ .. 95",
+      "translation": "Thou art the Consort of the Destroyer of the Cities, residing in His inner apartment, to which votaries with unregenerate mind find no entry and are therefore denied the privilege of the immediate worship of Thy feet. It is therefore that all the Deities headed by Indra have by their unparalleled austerities been able only to attain to Anima and other psychic powers (Siddhis) which are but Thy gate keepers (being only peripheral to Thee and far removed from Thy innermost attributes)."
+    },
+    {
+      "id": "sl-96",
+      "verse_number": "96",
+      "startTime": 2643,
+      "endTime": 2670,
+      "original": "कलत्रं वैधात्रं कतिकति भजन्ते न कवयः। श्रियो देव्याः को वा न भवति पतिः कैरपि धनैः । महादेवं हित्वा तव सति सतीनामचरमे। कुचाभ्यामासङ्गः कुरवकतरोरप्यसुलभः ॥ ९६॥",
+      "transliteration": "kalatraṃ vaidhātraṃ katikati bhajante na kavayaḥ . śriyo devyāḥ ko vā na bhavati patiḥ kairapi dhanaiḥ . mahādevaṃ hitvā tava sati satīnāmacarame . kucābhyāmāsaṅgaḥ kuravakatarorapyasulabhaḥ .. 96..",
+      "translation": "O Chastity Emobodied! How numerous are the poets who have courted and attained Sarasvati, the consort of Brahmā and the deity of learning and fine arts! So also who with some wealth fails to become the Lord of Śrī (Śrīpati), the consort of Viṣṇu and the goddess of wealth! But, O the foremost of Chaste Ones! None besides Śiva the Great God,-not even the tree called Kuravaka, has ever had the embrace of Thy breasts."
+    },
+    {
+      "id": "sl-97",
+      "verse_number": "97",
+      "startTime": 2671,
+      "endTime": 2699,
+      "original": "गिरामाहुर्देवीं द्रुहिणगृहिणीमागमविदो। हरेः पत्नीं पद्मां हरसहचरीमद्रितनयाम् । तुरीया कापि त्वं दुरधिगमनिःसीममहिमा। महामाया विश्वं भ्रमयसि परब्रह्ममहिषि ॥ ९७॥",
+      "transliteration": "girāmāhurdeवीं druhiṇagṛhiṇīmāgamavido . hareḥ patnīṃ padmāṃ harasahacarīmadritanayām . turīyā kāpi tvaṃ duradhigamaniḥsīmamahimā . mahāmāyā viśvaṃ bhramayasi parabrahmamahiṣi .. 97..",
+      "translation": "O Consort of Parabrahman! The scholars who know the real meaning of the Āgamas (scriptures) describe Thee as Sarasvatī, the Goddess of Learning and the Consort of Brahmā. Besides, they speak of Thee as the lotus-born Lakṣmī, the Consort of Viṣṇu, as also as the Daughter of the Mountain (Pārvatī) and the Consort of Hara (Śiva). But Thou art however the Fourth (the unique Power that is the source of the three Deities mentioned) of inconceivable and limitless majesties—the indeterninable Mahāmāyā who revolves the wheel of this world."
+    },
+    {
+      "id": "sl-98",
+      "verse_number": "98",
+      "startTime": 2700,
+      "endTime": 2726,
+      "original": "कदा काले मातः कथय कलितालक्तकरसं। पिबेयं विद्यार्थी तव चरणनिर्णेजनजलम् । प्रकृत्या मूकानामपि च कविताकारणतया। कदा धत्ते वाणीमुखकमलताम्बूलरसताम् ॥ ९८॥",
+      "transliteration": "kadā kāle mātaḥ kathaya kalitālaktakarasaṃ . pibeyaṃ vidyārthī tava caraṇanirṇejanajalam . prakṛtyā mūkānāmapi ca kavitākāraṇatayā . kadā dhatte vāṇīmukhakamalatāmbūlarasatām .. 98..",
+      "translation": "O Mother! Tell me when I, a seeker after wisdom, shall have the privilege of imbibing the red-tinged water with which Thy lac-painted feet have been washed,—water that can generate poetic genius even in a naturally dumb person. When shall I expect it (that red-tinged water) to flow out of my mouth as great poetry, which forms the chewed betel leaf juice of Vāṇī, (Sarasvatī), the Goddess of Learning and Poesy?"
+    },
+    {
+      "id": "sl-99",
+      "verse_number": "99",
+      "startTime": 2727,
+      "endTime": 2752,
+      "original": "सरस्वत्या लक्ष्म्या विधिहरिसपत्नो विहरते। रतेः पातिव्रत्यं शिथिलयति रम्येण वपुषा । चिरं जीवन्नेव क्षपितपशुपाशव्यतिकरः। परानन्दाभिख्यम् रसयति रसं त्वद्भजनवान् ॥ ९९॥",
+      "transliteration": "sarasvatyā lakṣmyā vidhiharisapatno viharate . rateḥ pātivratyaṃ śithilayati ramyeṇa vapuṣā . ciraṃ jīvanneva kṣapitapaśupāśavyatikaraḥ . parānandābhikhyam rasayati rasaṃ tvadbhajanavān .. 99..",
+      "translation": "O Mother! A devotee of Thine sports with Sarasvatī (learning) and Śrī (Wealth), and thus courts the jealousy of their consorts, Brahmā and Viṣṇu. By the charm of his body, he attracts the attention of Rati, the wife of Kama Deva (the god of love), and thus violates her chastity. And with the beginningless ignorance-born bondage of Jīvāhood broken, he is immersed in the supreme Bliss of Brahman even in this long-lived embodied state."
+    },
+    {
+      "id": "sl-100",
+      "verse_number": "100",
+      "startTime": 2753,
+      "endTime": null,
+      "original": "प्रदीपज्वालाभिर्दिवसकरनीराजनविधिः। सुधासूतेश्चन्द्रोपलजललवैरर्घ्यरचना । स्वकीयैरम्भोभिः सलिलनिधिसौहित्यकरणं। त्वदीयाभिर्वाग्भिस्तव जननि वाचां स्तुतिरियम् ॥ १००॥इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य। श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य। श्रीमच्छङ्करभगवतः कृतौ सौन्दर्यलहरी सम्पूर्णा ॥ ॐ तत्सत्",
+      "transliteration": "pradīpajvālābhirdivasakaranīrājanavidhiḥ . sudhāsūteścandropalajalalavairarghyaracanā . svakīyairambhobhiḥ salilanidhisauhityakaraṇaṃ . tvadīyābhirvāgbhistava janani vācāṃ stutiriyam .. 100..iti śrīmatparamahaṃsaparivrājakācāryasya . śrīgovindabhagavatpūjyapādaśiṣyasya . śrīmacchaṅkarabhagavataḥ kṛtau saundaryalaharī sampūrṇā .. oṃ tatsat",
+      "translation": "Just as doing Nīrājana (light waving ceremony) to the sun is only the offering of his own light to him; just as making an offering of Arghya to the moon with the water that oozes out of the moon-stone in contact with moon light, is only to give back what belongs to the moon, and just as making water-offering (Tarpaṇa)to the ocean is to return what belongs to it—so is, O Source of all Learning, this hymn addressed to Thee composed of words that are already Thine."
+    }
+  ]
 }
