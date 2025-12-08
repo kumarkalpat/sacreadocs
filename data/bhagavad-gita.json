@@ -5496,8 +5496,19 @@
       "verses_count": 35,
       "verses": [
         {
-          "id": "gita-13-1",
-          "verse_number": 1,
+          "id": "gita-13-1.1",
+          "verse_number": 1.1,
+          "startTime": 0,
+          "endTime": null,
+          "original": "अर्जुन उवाच । प्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञमेव च । एतद्वेदितुमिच्छामि ज्ञानं ज्ञेयं च केशव ॥ १३-१॥",
+          "transliteration": "arjuna uvāca | prakṛtiṃ puruṣaṃ caiva kṣetraṃ kṣetrajñameva ca | etadveditumicchāmi jñānaṃ jñeyaṃ ca keśava ||",
+          "translations": {
+            "english": "Arjuna said: PRAKRITI (Matter) and PURUSHA (Spirit) , also the KSHETRA (the Field) and KSHETRAJNA (the Knower-of-the-Field) , Knowledge and that which ought to be known — these, I wish to learn, O Keshava."
+          }
+        },
+        {
+          "id": "gita-13-1.2",
+          "verse_number": 1.2,
           "startTime": 0,
           "endTime": null,
           "original": "श्रीभगवानुवाच | इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते | एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः ||",
