@@ -1,913 +1,286 @@
 {
   "id": "soundarya-lahari",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "name": "Soundarya Lahari Stotram",
-      "summary": "Soundarya Lahari (Waves of Beauty) is a devotional poem of one hundred verses composed by Adi Shankara. It is dedicated to Goddess Parvati/Dakshayani, a manifestation of the divine mother, and describes her beauty, grace, and her various aspects as the supreme energy (Shakti). The verses are rich in Tantric mysticism and profound philosophical insights.",
-      "verses": [
-        {
-          "id": "SL_1",
-          "original": "शिवः शक्त्या युक्तो यदि भवति शक्तः प्रभवितुंन चेदेवं देवो न खलु कुशलः स्पन्दितुमपि।अतस्त्वाम् आराध्यां हरि-हर-विरिञ्चादिभि रपिपर्णन्तुं स्तोतुं वा कथमकृत-पुण्यः प्रभवति॥१॥",
-          "translations": {
-            "english": "Shiva, only when united with Shakti, has the power to create. If not, the God is indeed unable to even stir. Therefore, how can a person without accumulated merits be able to salute or praise you, who are adored even by Vishnu, Shiva, and Brahma?"
-          },
-          "transliteration": "śivaḥ śaktyā yukto yadi bhavati śaktaḥ prabhavituṃna cedevaṃ devo na khalu kuśalaḥ spanditumapi|atastvām ārādhyāṃ hari-hara-viriñcādibhi rapi praṇantuṃ stotuṃ vā katham akṛta-puṇyaḥ prabhavati ||1||",
-          "verse_number": 1
-        },
-        {
-          "id": "SL_2",
-          "original": "तनीयां सुं पांसुं तव चरण पङ्केरुह-भवं विरिञ्चिः सञ्चिन्वन विरचयति लोकान् अविक्लवम्।वहत्येनं शौरिः कथमपि सहस्रेण शिरसां हरः संक्षुद्यैनं भजति भसितोद्धूलन विधिम्॥२॥",
-          "translations": {
-            "english": "Collecting the minute dust from your lotus feet, Brahma creates the worlds without effort. Vishnu somehow bears this dust on his thousand heads, and Shiva, reducing it to ashes, smears it on his body."
-          },
-          "transliteration": "tanīyāṃsuṃ pāṃsuṃ tava caraṇa paṅkeruha-bhavaṃ viriñciḥ sañcinvan viracayati lokān aviklavam|vahatyenaṃ śauriḥ kathamapi sahasreṇa śirasāṃ haraḥ saṃkṣudyainaṃ bhajati bhasitoddhūlana vidhim ||2||",
-          "verse_number": 2
-        },
-        {
-          "id": "SL_3",
-          "original": "अविद्यानाम् अन्तस्तिमिर-मिहिर द्वीपनगरीजडानां चैतन्य-स्तबक-मकरन्द-श्रुतिझरी।दरिद्राणां चिन्तामणि गुण-निका जन्मजलधौनिमग्नानां दंष्ट्रा मुररिपु वराहस्य भवति॥३॥",
-          "translations": {
-            "english": "You are like the sun-island city to the darkness of ignorance, a stream of honey from the cluster of awareness for the dull-witted. You are a wish-fulfilling jewel for the poor, and a tusk of Vishnu's boar incarnation for those drowned in the ocean of samsara."
-          },
-          "transliteration": "avidyānām antastimira-mihira dvīpanagarījaḍānāṃ caitanya-stabaka-makaranda-śrutijharī|daridrāṇāṃ cintāmaṇi guṇa-nikā janmajaladhau nimagnānāṃ daṃṣṭrā muraripu varāhasya bhavati ||3||",
-          "verse_number": 3
-        },
-        {
-          "id": "SL_4",
-          "original": "सुधासिन्धोर्मध्ये सुरविटपिवाटीपरिवृते मणिद्वीपे नीपोपवनवति चिन्तामणिगृहे।शिवकारे मञ्चे परमशिवपर्यङ्कनिलयाम् भजन्ति त्वां धन्याः कतिचन चिदानन्दलहरीम्॥४॥",
-          "translations": {
-            "english": "Within the ocean of nectar, surrounded by gardens of divine trees, in the island of gems, where there is a Kadamba forest, in a house of wish-fulfilling jewels, on a couch that is Shiva, upon the supreme Shiva's bed, fortunate few worship you, the wave of pure consciousness and bliss."
-          },
-          "transliteration": "sudhāsindhormadhye suraviṭapivāṭīparivṛte maṇidvīpe nīpopavanavati cintāmaṇigṛhe|śivākāre mañce paramaśivaparyaṅkanilayāṃ bhajanti tvāṃ dhanyāḥ katicana cidānandalaharīm ||4||",
-          "verse_number": 4
-        },
-        {
-          "id": "SL_5",
-          "original": "मही मूलाधारे कमपि मणिपूरे हुतवहंस्थितं स्वाधिष्ठाने हृदि मरुतमाकाशमुपरि।मनोऽपि भ्रूमध्ये सकलमपि भित्वा कुलपथं सहस्रारे पद्मे सह रहसि पत्या विहरसे॥५॥",
-          "translations": {
-            "english": "Having traversed the entire path of Kundalini, from Earth in Muladhara, water in Manipura, fire in Swadhisthana, air in Anahata, ether above (Vishuddha), and the mind in Ajna, you secretly unite with your husband (Shiva) in the Sahasrara lotus."
-          },
-          "transliteration": "mahī mūlādhāre kamapi maṇipūre hutavahaṃsthitaṃ svādhiṣṭhāne hṛdi marutamākāśamupari|mano'pi bhrūmadhye sakalamapi bhitvā kulapathaṃ sahasrāre padme saha rahasi patyā viharase ||5||",
-          "verse_number": 5
-        },
-        {
-          "id": "SL_6",
-          "original": "सुधाधारासारै स्तिरकैरवदान्तर्द्रुततरां शुक्रीभूत्वा सृष्टिश् शृणुकमकरै रन्यैरभिवृतौ।अयं त्वां ध्याये यस्यां शुभ्रं चन्द्रेन्दोर्मण्डलम्।धिया ध्याने ध्यानं तव हि चरणौ ध्यानमिति॥६॥",
-          "translations": {
-            "english": "With streams of nectar, the entire creation is born, permeated by the Moon's pure rays. I meditate on you, whose brilliance is like the clear orb of the moon. Indeed, meditation on your feet is the highest form of meditation."
-          },
-          "transliteration": "sudhādhārāsārais tirakairavadāntardrutatarāṃ śukrībhūtvā sṛṣṭiś śṛṇukamakairai ranyairabhivṛtau|ayaṃ tvāṃ dhyāye yasyāṃ śubhraṃ candrendoḥ maṇḍalam|dhiyā dhyāne dhyānaṃ tava hi caraṇau dhyānamiti ||6||",
-          "verse_number": 6
-        },
-        {
-          "id": "SL_7",
-          "original": "चतुःषष्ट्या तन्त्रैः सकलमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥७॥",
-          "translations": {
-            "english": "Lord Pashupati (Shiva), having completely understood the entire universe through sixty-four Tantras, which are devoted to bestowing various siddhis (powers), then, by your command, brought down to this earth your own Tantra, which is independent and capable of granting all human aspirations."
-          },
-          "transliteration": "catuḥṣaṣṭyā tantraiḥ sakalamatisandhāya bhuvanaṃsthita stattatsiddhiprasavaparatantraiḥ paśupatiḥ|punastvannibandhādakhilapuruṣārthaikaghaṭanāsvatantraṃ te tantraṃ kṣititalamavātītaradidham ||7||",
-          "verse_number": 7
-        },
-        {
-          "id": "SL_8",
-          "original": "शिवः शक्तिः कामः क्षितिरथ रविः शीतकिरणःस्मरो हंसः शक्रस्तदनु च परा मारहरयः।अमी लेखान्तर्गाः स्युरिह गिरिराजेन तनयाःस्मराणां नामानि प्रियमभजतैते तव मनाक्॥८॥",
-          "translations": {
-            "english": "Shiva, Shakti, Kama, Earth, then the Sun, the Moon, Cupid, Hamsa, Indra – these letters, enclosed within, are indeed the names of the children of the mountain king (Himalaya). These, your names, are worshipped by the desirous."
-          },
-          "transliteration": "śivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītarakiraṇaḥsmaro haṃsaḥ śakrastadanu ca parā māraharayaḥ|amī lekhāntargāḥ syuriha girirājena tanayāḥsmarāṇāṃ nāmāni priyamabhajataite tava manāk ||8||",
-          "verse_number": 8
-        },
-        {
-          "id": "SL_9",
-          "original": "त्रयाणां देवानां त्रिगुणजनितानां तव शिवेभवेत् पूजा पूजा तव चरणयोर्या विरचिता।तथा हि त्वत्पादोद्वहनमणिपीठस्य निकटंस्थिता ह्येते शश्वन्मुकुलितकरोत्तंसमकुटाः॥९॥",
-          "translations": {
-            "english": "Oh Shivaa (consort of Shiva)! The worship offered to your feet becomes the worship of the three gods (Brahma, Vishnu, Shiva) who are born from the three gunas. Indeed, these (gods) always stand near the jeweled pedestal supporting your feet, with their crown-adorned heads bowed and hands clasped in reverence."
-          },
-          "transliteration": "trayāṇāṃ devānāṃ triguṇajanitānāṃ tava śivebhavet pūjā pūjā tava caraṇayoryā viracitā|tathā hi tvatpādodvahaṇamaṇipīṭhasya nikaṭaṃsthitā hyete śaśvanmukulitakarottaṃsamakuṭāḥ ||9||",
-          "verse_number": 9
-        },
-        {
-          "id": "SL_10",
-          "original": "विरिञ्चिः पञ्चत्वं व्रजति हरिराप्नोति विरतिंवनाशं याति शम्भुर्विबुधगणरूढिरपि फलम्।ततस्त्वं शम्भुर्मत्कुसुमधनुषस्तुल्यमधुनात्वदाज्ञामाज्ञां परिलयविधीनां परिणयन्॥१०॥",
-          "translations": {
-            "english": "Brahma attains dissolution, Vishnu reaches cessation, Shiva goes to destruction, and even the established order of gods yields its fruit. Then, O Mother, you, taking the form of Shiva, now equal to the flower-bowed god (Kama, Cupid), by your command, bring about the methods of cosmic dissolution."
-          },
-          "transliteration": "viriñciḥ pañcatvaṃ vrajati harirāpnoti viratiṃvanāśaṃ yāti śambhūrvibudhagaṇarūḍhirapi phalam|tatastvaṃ śambhūrmatkusumadhanuṣastulyamadhunātvadājñāmājñāṃ parilayavidhīnāṃ pariṇayan ||10||",
-          "verse_number": 10
-        },
-        {
-          "id": "SL_11",
-          "original": "तनुच्छायभिस्ते तरुणतरणिश्रीधरणिधरशुचीनां भासां त्वमरुणयसि सिन्दूरित इव।चतुर्भिः श्रीकण्ठैः परिवृतोऽयमित्यक्षैः परोऽपि त्वां सन्तुष्टुवनारोहति ॥११॥",
-          "translations": {
-            "english": "By the radiance of your body, which surpasses the splendor of the youthful sun and mountains, you make everything crimson, as if smeared with vermilion. Although transcendent, even the supreme being (Shiva) surrounded by four Srikantahs (forms of Shiva) praises you, ascending (to your presence)."
-          },
-          "transliteration": "tanucchāyabhiste taruṇataraniśrīdharaṇidharaśucīnāṃ bhāsāṃ tvamarunayasi sindūrita iva|caturbhiḥ śrīkaṇṭhaiḥ parivṛto'yamityakṣaiḥ paro'pi tvāṃ santuṣṭuvanārohati ||11||",
-          "verse_number": 11
-        },
-        {
-          "id": "SL_12",
-          "original": "धनूं पाशं हस्तै रमितगुणितं त्वं च धुरितेनदधानं सक्तानां त्वमसि परमोऽसौ परमः।सतां देहस्थानां त्वयि जनमनोऽब्जे जनयसि प्रबोधं सत्वे त्वं ननु परशिवे ते दयितता॥१२॥",
-          "translations": {
-            "english": "With hands holding bow and noose, you are the ultimate one for those who are entangled (in worldly affairs) by excessive qualities. You awaken the consciousness of the pure-hearted dwelling in the lotus of your mind. Indeed, O Parashiva (Supreme Shivaa), your benevolence is directed towards them."
-          },
-          "transliteration": "dhanūṃ pāśaṃ hastai ramitaguṇitaṃ tvaṃ ca dhuritenadadhānaṃ saktānāṃ tvamasi paramo'sau paramaḥ|satāṃ dehasthānāṃ tvayi janāmano'abje janayasi prabodhaṃ satve tvaṃ nanu paraśive te dayitatā ||12||",
-          "verse_number": 12
-        },
-        {
-          "id": "SL_13",
-          "original": "सुधेशस्योपास्ते सकलमपि संमोहिनीं त्वदाज्ञांतेजांसि क्षुल्लकाणि प्रणिहितधृतोद्धूतबलात्।अतो भक्तस्त्वां त्वं हि जनयसि तेषामहर्निशंविभुं यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥१३॥",
-          "translations": {
-            "english": "Even the lord of nectar (Indra) humbly obeys your all-enchanting command, as do the minor deities whose powers are diminished by your forceful presence. Therefore, you generate enlightenment day and night for your devotees, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "sudheśasyopāste sakalamapi saṃmohinīṃ tvadājñāṃtejāṃsi kṣullakāṇi praṇihitadhṛtoddhūtabalāt|ato bhaktastvāṃ tvaṃ hi janayasi teṣāmaharniśaṃvibhuṃ yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||13||",
-          "verse_number": 13
-        },
-        {
-          "id": "SL_14",
-          "original": "पुरारेरन्तःपुरमिह ततो मूलगृहंयतेयथा शक्रस्तंभः कनकवृषभः कण्टकवरः।सुखस्यान्ते त्वं हि स्थिरचरचराणां त्वमसि तेनयद् ब्रह्मणस्त्वं जननि जननीं प्रणिहितवान्॥१४॥",
-          "translations": {
-            "english": "You are the inner sanctum of the enemy of the cities (Shiva), and thus the original abode. Just as the Indra's pillar is a golden bull with excellent horns, so too are you the ultimate happiness for all moving and unmoving beings. Therefore, you are the Mother who has placed the Mother (Prakriti) in Brahman."
-          },
-          "transliteration": "purārerantaḥpuramiha tato mūlagṛhaṃyateyathā śakrastambhaḥ kanakavṛṣabhaḥ kaṇṭakavaraḥ|sukhasyānte tvaṃ hi sthiracaracarāṇāṃ tvamasi tenayād brahmaṇastvaṃ janani jananīṃ praṇihitavān ||14||",
-          "verse_number": 14
-        },
-        {
-          "id": "SL_15",
-          "original": "चतुःषष्ट्या तन्त्रैः सकलमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥१५॥",
-          "translations": {
-            "english": "Lord Pashupati (Shiva), having completely understood the entire universe through sixty-four Tantras, which are devoted to bestowing various siddhis (powers), then, by your command, brought down to this earth your own Tantra, which is independent and capable of granting all human aspirations."
-          },
-          "transliteration": "catuḥṣaṣṭyā tantraiḥ sakalamatisandhāya bhuvanaṃsthita stattatsiddhiprasavaparatantraiḥ paśupatiḥ|punastvannibandhādakhilapuruṣārthaikaghaṭanāsvatantraṃ te tantraṃ kṣititalamavātītaradidham ||15||",
-          "verse_number": 15
-        },
-        {
-          "id": "SL_16",
-          "original": "शिरासि संधायाहं चरणयोर्हि मकुटंतेजोभिर्लोकानां प्रथितजगता यद्यपि परम्।अथ श्रीकाले नित्यं करुणमवलोक्य त्रिभुवनंसन्तोषं ध्याने तव हि चरणाब्जे जनयसि ॥१६॥",
-          "translations": {
-            "english": "Placing my head at your feet, though the world is renowned by the brilliance of the beings (gods) as supreme, yet, O Sri Kala, by constantly gazing compassionately at the three worlds, you generate contentment in the meditation on your lotus feet."
-          },
-          "transliteration": "śirāsi saṃdhāyāhaṃ caraṇayorhi makuṭaṃtejobhirlokānāṃ prathitajagatā yadyapi param|atha śrīkāle nityaṃ karuṇamavalokya tribhuvanaṃsantoṣaṃ dhyāne tava hi caraṇābje janayasi ||16||",
-          "verse_number": 16
-        },
-        {
-          "id": "SL_17",
-          "original": "समन्ताल्लोकं त्वं ननु परशिवे ते दयितताअतो भक्तस्त्वां त्वं हि जनयसि तेषामहर्निशंविभुं यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥१७॥",
-          "translations": {
-            "english": "Indeed, O Parashiva, your benevolence extends to the entire world. Therefore, you generate enlightenment day and night for your devotees, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "samantāllokaṃ tvaṃ nanu paraśive te dayitatāato bhaktastvāṃ tvaṃ hi janayasi teṣāmaharniśaṃvibhuṃ yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||17||",
-          "verse_number": 17
-        },
-        {
-          "id": "SL_18",
-          "original": "महाशक्त्या तत्र प्रलयविधीनां परिणयन्शिवः शक्तिः कामः क्षितिरथ रविः शीतकिरणः।स्मरो हंसः शक्रस्तदनु च परा मारहरयःअमी लेखान्तर्गाः स्युरिह गिरिराजेन तनयाः॥१८॥",
-          "translations": {
-            "english": "There, with great power, leading to the methods of cosmic dissolution – Shiva, Shakti, Kama, Earth, then the Sun, the Moon, Cupid, Hamsa, Indra – these letters, enclosed within, are indeed the names of the children of the mountain king (Himalaya)."
-          },
-          "transliteration": "mahāśaktyā tatra pralayavidhīnāṃ pariṇayanśivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītarakiraṇaḥsmaro haṃsaḥ śakrastadanu ca parā māraharayaḥamī lekhāntargāḥ syuriha girirājena tanayāḥ ||18||",
-          "verse_number": 18
-        },
-        {
-          "id": "SL_19",
-          "original": "चतुर्भिश्चतुर्भिः सकलमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥१९॥",
-          "translations": {
-            "english": "Lord Pashupati (Shiva), having completely understood the entire universe through sixty-four Tantras, which are devoted to bestowing various siddhis (powers), then, by your command, brought down to this earth your own Tantra, which is independent and capable of granting all human aspirations."
-          },
-          "transliteration": "caturbhiścaturbhiḥ sakalamatisandhāya bhuvanaṃsthita stattatsiddhiprasavaparatantraiḥ paśupatiḥ|punastvannibandhādakhilapuruṣārthaikaghaṭanāsvatantraṃ te tantraṃ kṣititalamavātītaradidham ||19||",
-          "verse_number": 19
-        },
-        {
-          "id": "SL_20",
-          "original": "कुरुते हरिरभ्रामतव चरणयोर्या विरचिता।तथा हि त्वत्पादोद्वहनमणिपीठस्य निकटंस्थिता ह्येते शश्वन्मुकुलितकरोत्तंसमकुटाः॥२०॥",
-          "translations": {
-            "english": "Vishnu performs for you the worship offered to your feet. Indeed, these (gods) always stand near the jeweled pedestal supporting your feet, with their crown-adorned heads bowed and hands clasped in reverence."
-          },
-          "transliteration": "kurute harirabhrāmatava caraṇayoryā viracitā|tathā hi tvatpādodvahaṇamaṇipīṭhasya nikaṭaṃsthitā hyete śaśvanmukulitakarottaṃsamakuṭāḥ ||20||",
-          "verse_number": 20
-        },
-        {
-          "id": "SL_21",
-          "original": "चतुःषष्ट्या तन्त्रैः सकलमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥२१॥",
-          "translations": {
-            "english": "Lord Pashupati (Shiva), having completely understood the entire universe through sixty-four Tantras, which are devoted to bestowing various siddhis (powers), then, by your command, brought down to this earth your own Tantra, which is independent and capable of granting all human aspirations."
-          },
-          "transliteration": "catuḥṣaṣṭyā tantraiḥ sakalamatisandhāya bhuvanaṃsthita stattatsiddhiprasavaparatantraiḥ paśupatiḥ|punastvannibandhādakhilapuruṣārthaikaghaṭanāsvatantraṃ te tantraṃ kṣititalamavātītaradidham ||21||",
-          "verse_number": 21
-        },
-        {
-          "id": "SL_22",
-          "original": "महारत्नालङ्काररञ्जितमुखेन्दुमृदुहासं विरचयसि।तत्पादाम्भोजे तव भक्तजनानां करुणा रसैर्विद्युतैर्देव्यास्ते चरणाव्दे हि शरणं गताः॥२२॥",
-          "translations": {
-            "english": "You adorn your moon-like face with great jeweled ornaments, radiating a gentle smile. Therefore, devotees seeking refuge at your lotus feet are imbued with compassion, illuminated by the divine grace of your sacred feet."
-          },
-          "transliteration": "mahāratnālaṅkārarajitamukhendumṛduhāsaṃ viracayasi|tatpādāmbhoje tava bhaktajanānāṃ karuṇā rasairvidyutairdevyāste caraṇāvde hi śaraṇaṃ gatāḥ ||22||",
-          "verse_number": 22
-        },
-        {
-          "id": "SL_23",
-          "original": "तव श्रीचक्रं त्वं सकलमपि भित्वा कुलपथं सहस्रारे पद्मे सह रहसि पत्या विहरसे।यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥२३॥",
-          "translations": {
-            "english": "You traverse your Sri Chakra, having broken through the entire path of Kundalini, and secretly unite with your husband (Shiva) in the Sahasrara lotus, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "tava śrīcakraṃ tvaṃ sakalamapi bhitvā kulapathaṃ sahasrāre padme saha rahasi patyā viharase|yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||23||",
-          "verse_number": 23
-        },
-        {
-          "id": "SL_24",
-          "original": "चतुःषष्ट्या तन्त्रैः सकलमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥२४॥",
-          "translations": {
-            "english": "Lord Pashupati (Shiva), having completely understood the entire universe through sixty-four Tantras, which are devoted to bestowing various siddhis (powers), then, by your command, brought down to this earth your own Tantra, which is independent and capable of granting all human aspirations."
-          },
-          "transliteration": "catuḥṣaṣṭyā tantraiḥ sakalamatisandhāya bhuvanaṃsthita stattatsiddhiprasavaparatantraiḥ paśupatiḥ|punastvannibandhādakhilapuruṣārthaikaghaṭanāsvatantraṃ te tantraṃ kṣititalamavātītaradidham ||24||",
-          "verse_number": 24
-        },
-        {
-          "id": "SL_25",
-          "original": "अहो देवि त्वत्पादं शरणं गताः सकलाः।महाशक्त्या तत्र प्रलयविधीनां परिणयन्।कuruते हरिरभ्रामतव चरणयोर्या विरचिता॥२५॥",
-          "translations": {
-            "english": "Oh Goddess! All beings seek refuge at your feet. With great power, leading to the methods of cosmic dissolution, Vishnu performs for you the worship offered at your feet."
-          },
-          "transliteration": "aho devi tvatpādaṃ śaraṇaṃ gatāḥ sakalāḥ|mahāśaktyā tatra pralayavidhīnāṃ pariṇayan|kurute harirabhrāmatava caraṇayoryā viracitā ||25||",
-          "verse_number": 25
-        },
-        {
-          "id": "SL_26",
-          "original": "समानं देवी त्वं हि जननीं प्रणिहितवान्।चतुःषष्ट्या तन्त्रैः सकलमतिसन्धाय भुवनं।अतस्त्वाम् आराध्यां हरि-हर-विरिञ्चादिभि रपिपर्णन्तुं स्तोतुं वा कथमकृत-पुण्यः प्रभवति॥२६॥",
-          "translations": {
-            "english": "Oh Goddess, you are truly the equal of the Mother, who has placed the Mother (Prakriti) in Brahman. Having completely understood the entire universe through sixty-four Tantras, how can a person without accumulated merits be able to salute or praise you, who are adored even by Vishnu, Shiva, and Brahma?"
-          },
-          "transliteration": "samānaṃ devī tvaṃ hi jananīṃ praṇihitavān|catuḥṣaṣṭyā tantraiḥ sakalamatisandhāya bhuvanaṃ|atastvām ārādhyāṃ hari-hara-viriñcādibhi rapi praṇantuṃ stotuṃ vā katham akṛta-puṇyaḥ prabhavati ||26||",
-          "verse_number": 26
-        },
-        {
-          "id": "SL_27",
-          "original": "महाशक्त्या तत्र प्रलयविधीनां परिणयन्शिवः शक्तिः कामः क्षितिरथ रविः शीतकिरणः।स्मरो हंसः शक्रस्तदनु च परा मारहरयःअमी लेखान्तर्गाः स्युरिह गिरिराजेन तनयाः॥२७॥",
-          "translations": {
-            "english": "There, with great power, leading to the methods of cosmic dissolution – Shiva, Shakti, Kama, Earth, then the Sun, the Moon, Cupid, Hamsa, Indra – these letters, enclosed within, are indeed the names of the children of the mountain king (Himalaya)."
-          },
-          "transliteration": "mahāśaktyā tatra pralayavidhīnāṃ pariṇayanśivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītarakiraṇaḥ|smaro haṃsaḥ śakrastadanu ca parā māraharayaḥamī lekhāntargāḥ syuriha girirājena tanayāḥ ||27||",
-          "verse_number": 27
-        },
-        {
-          "id": "SL_28",
-          "original": "धनूं पाशं हस्तै रमितगुणितं त्वं च धुरितेनदधानं सक्तानां त्वमसि परमोऽसौ परमः।सतां देहस्थानां त्वयि जनमनोऽब्जे जनयसि प्रबोधं सत्वे त्वं ननु परशिवे ते दयितता॥२८॥",
-          "translations": {
-            "english": "With hands holding bow and noose, you are the ultimate one for those who are entangled (in worldly affairs) by excessive qualities. You awaken the consciousness of the pure-hearted dwelling in the lotus of your mind. Indeed, O Parashiva (Supreme Shivaa), your benevolence is directed towards them."
-          },
-          "transliteration": "dhanūṃ pāśaṃ hastai ramitaguṇitaṃ tvaṃ ca dhuritenadadhānaṃ saktānāṃ tvamasi paramo'sau paramaḥ|satāṃ dehasthānāṃ tvayi janāmano'abje janayasi prabodhaṃ satve tvaṃ nanu paraśive te dayitatā ||28||",
-          "verse_number": 28
-        },
-        {
-          "id": "SL_29",
-          "original": "समन्ताल्लोकं त्वं ननु परशिवे ते दayitatāअतो भक्तस्त्वां त्वं हि जनयसि तेषामहर्निशंविभुं यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥२९॥",
-          "translations": {
-            "english": "Indeed, O Parashiva, your benevolence extends to the entire world. Therefore, you generate enlightenment day and night for your devotees, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "samantāllokaṃ tvaṃ nanu paraśive te dayitatāato bhaktastvāṃ tvaṃ hi janayasi teṣāmaharniśaṃvibhuṃ yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||29||",
-          "verse_number": 29
-        },
-        {
-          "id": "SL_30",
-          "original": "चतुःषष्ट्या तन्त्रैः सकलमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥३०॥",
-          "translations": {
-            "english": "Lord Pashupati (Shiva), having completely understood the entire universe through sixty-four Tantras, which are devoted to bestowing various siddhis (powers), then, by your command, brought down to this earth your own Tantra, which is independent and capable of granting all human aspirations."
-          },
-          "transliteration": "catuḥṣaṣṭyā tantraiḥ sakalamatisandhāya bhuvanaṃsthita stattatsiddhiprasavaparatantraiḥ paśupatiḥ|punastvannibandhādakhilapuruṣārthaikaghaṭanāsvatantraṃ te tantraṃ kṣititalamavātītaradidham ||30||",
-          "verse_number": 30
-        },
-        {
-          "id": "SL_31",
-          "original": "सुधाधारासारै स्तिरकैरवदान्तर्द्रुततरां शुक्रीभूत्वा सृष्टिश् शृणुकमकरै रन्यैरभिवृतौ।अयं त्वां ध्याये यस्यां शुभ्रं चन्द्रेन्दोर्मण्डलम्।धिया ध्याने ध्यानं तव हि चरणौ ध्यानमिति॥३१॥",
-          "translations": {
-            "english": "With streams of nectar, the entire creation is born, permeated by the Moon's pure rays. I meditate on you, whose brilliance is like the clear orb of the moon. Indeed, meditation on your feet is the highest form of meditation."
-          },
-          "transliteration": "sudhādhārāsārais tirakairavadāntardrutatarāṃ śukrībhūtvā sṛṣṭiś śṛṇukamakairai ranyairabhivṛtau|ayaṃ tvāṃ dhyāye yasyāṃ śubhraṃ candrendoḥ maṇḍalam|dhiyā dhyāne dhyānaṃ tava hi caraṇau dhyānamiti ||31||",
-          "verse_number": 31
-        },
-        {
-          "id": "SL_32",
-          "original": "चतुर्भिश्चतुर्भिः सकलमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥३२॥",
-          "translations": {
-            "english": "Lord Pashupati (Shiva), having completely understood the entire universe through sixty-four Tantras, which are devoted to bestowing various siddhis (powers), then, by your command, brought down to this earth your own Tantra, which is independent and capable of granting all human aspirations."
-          },
-          "transliteration": "caturbhiścaturbhiḥ sakalamatisandhāya bhuvanaṃsthita stattatsiddhiprasavaparatantraiḥ paśupatiḥ|punastvannibandhādakhilapuruṣārthaikaghaṭanāsvatantraṃ te tantraṃ kṣititalamavātītaradidham ||32||",
-          "verse_number": 32
-        },
-        {
-          "id": "SL_33",
-          "original": "अहो देवि त्वत्पादं शरणं गताः सकलाः।महाशक्त्या तत्र प्रलयविधीनां परिणयन्।कुरुते हरिरभ्रामतव चरणयोर्या विरचिता॥३३॥",
-          "translations": {
-            "english": "Oh Goddess! All beings seek refuge at your feet. With great power, leading to the methods of cosmic dissolution, Vishnu performs for you the worship offered at your feet."
-          },
-          "transliteration": "aho devi tvatpādaṃ śaraṇaṃ gatāḥ sakalāḥ|mahāśaktyā tatra pralayavidhīnāṃ pariṇayan|kurute harirabhrāmatava caraṇayoryā viracitā ||33||",
-          "verse_number": 33
-        },
-        {
-          "id": "SL_34",
-          "original": "समन्ताल्लोकं त्वं ननु परशिवे ते दयितताअतो भक्तस्त्वां त्वं हि जनयसि तेषामहर्निशंविभुं यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥३४॥",
-          "translations": {
-            "english": "Indeed, O Parashiva, your benevolence extends to the entire world. Therefore, you generate enlightenment day and night for your devotees, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "samantāllokaṃ tvaṃ nanu paraśive te dayitatāato bhaktastvāṃ tvaṃ hi janayasi teṣāmaharniśaṃvibhuṃ yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||34||",
-          "verse_number": 34
-        },
-        {
-          "id": "SL_35",
-          "original": "शिरासि संधायाहं चरणयोर्हि मकुटंतेजोभिर्लोकानां प्रथितजगता यद्यपि परम्।अथ श्रीकाले नित्यं करुणमवलोक्य त्रिभुवनंसन्तोषं ध्याने तव हि चरणाब्जे जनयसि ॥३५॥",
-          "translations": {
-            "english": "Placing my head at your feet, though the world is renowned by the brilliance of the beings (gods) as supreme, yet, O Sri Kala, by constantly gazing compassionately at the three worlds, you generate contentment in the meditation on your lotus feet."
-          },
-          "transliteration": "śirāsi saṃdhāyāhaṃ caraṇayorhi makuṭaṃtejobhirlokānāṃ prathitajagatā yadyapi param|atha śrīkāle nityaṃ karuṇamavalokya tribhuvanaṃsantoṣaṃ dhyāne tava hi caraṇābje janayasi ||35||",
-          "verse_number": 35
-        },
-        {
-          "id": "SL_36",
-          "original": "महाशक्त्या तत्र प्रलयविधीनां परिणयन्शिवः शक्तिः कामः क्षितिरथ रविः शीतकिरणः।स्मरो हंसः शक्रस्तदनु च परा मारहरयःअमी लेखान्तर्गाः स्युरिह गिरिराजेन तनयाः॥३६॥",
-          "translations": {
-            "english": "There, with great power, leading to the methods of cosmic dissolution – Shiva, Shakti, Kama, Earth, then the Sun, the Moon, Cupid, Hamsa, Indra – these letters, enclosed within, are indeed the names of the children of the mountain king (Himalaya)."
-          },
-          "transliteration": "mahāśaktyā tatra pralayavidhīnāṃ pariṇayanśivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītarakiraṇaḥ|smaro haṃsaḥ śakrastadanu ca parā māraharayaḥamī lekhāntargāḥ syuriha girirājena tanayāḥ ||36||",
-          "verse_number": 36
-        },
-        {
-          "id": "SL_37",
-          "original": "कुरुते हरिरभ्रामतव चरणयोर्या विरचिता।तथा हि त्वत्पादोद्वहनमणिपीठस्य निकटंस्थिता ह्येते शश्वन्मुकुलितकरोत्तंसमकुटाः॥३७॥",
-          "translations": {
-            "english": "Vishnu performs for you the worship offered to your feet. Indeed, these (gods) always stand near the jeweled pedestal supporting your feet, with their crown-adorned heads bowed and hands clasped in reverence."
-          },
-          "transliteration": "kurute harirabhrāmatava caraṇayoryā viracitā|tathā hi tvatpādodvahaṇamaṇipīṭhasya nikaṭaṃsthitā hyete śaśvanmukulitakarottaṃsamakuṭāḥ ||37||",
-          "verse_number": 37
-        },
-        {
-          "id": "SL_38",
-          "original": "महारत्नालङ्काररञ्जितमुखेन्दुमृदुहासं विरचयसि।तत्पादाम्भोजे तव भक्तजनानां करुणा रसैर्विद्युतैर्देव्यास्ते चरणाव्दे हि शरणं गताः॥३८॥",
-          "translations": {
-            "english": "You adorn your moon-like face with great jeweled ornaments, radiating a gentle smile. Therefore, devotees seeking refuge at your lotus feet are imbued with compassion, illuminated by the divine grace of your sacred feet."
-          },
-          "transliteration": "mahāratnālaṅkārarajitamukhendumṛduhāsaṃ viracayasi|tatpādāmbhoje tava bhaktajanānāṃ karuṇā rasairvidyutairdevyāste caraṇāvde hi śaraṇaṃ gatāḥ ||38||",
-          "verse_number": 38
-        },
-        {
-          "id": "SL_39",
-          "original": "तव श्रीचक्रं त्वं सकलमपि भित्वा कुलपथं सहस्रारे पद्मे सह रहसि पत्या विहरसे।यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥३९॥",
-          "translations": {
-            "english": "You traverse your Sri Chakra, having broken through the entire path of Kundalini, and secretly unite with your husband (Shiva) in the Sahasrara lotus, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "tava śrīcakraṃ tvaṃ sakalamapi bhitvā kulapathaṃ sahasrāre padme saha rahasi patyā viharase|yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||39||",
-          "verse_number": 39
-        },
-        {
-          "id": "SL_40",
-          "original": "चतुःषष्ट्या तन्त्रैः सकलमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥४०॥",
-          "translations": {
-            "english": "Lord Pashupati (Shiva), having completely understood the entire universe through sixty-four Tantras, which are devoted to bestowing various siddhis (powers), then, by your command, brought down to this earth your own Tantra, which is independent and capable of granting all human aspirations."
-          },
-          "transliteration": "catuḥṣaṣṭyā tantraiḥ sakalamatisandhāya bhuvanaṃsthita stattatsiddhiprasavaparatantraiḥ paśupatiḥ|punastvannibandhādakhilapuruṣārthaikaghaṭanāsvatantraṃ te tantraṃ kṣititalamavātītaradidham ||40||",
-          "verse_number": 40
-        },
-        {
-          "id": "SL_41",
-          "original": "अहो देवि त्वत्पादं शरणं गताः सकलाः।महाशक्त्या तत्र प्रलयविधीनां परिणयन्।कुरुते हरिरभ्रामतव चरणयोर्या विरचिता॥४१॥",
-          "translations": {
-            "english": "Oh Goddess! All beings seek refuge at your feet. With great power, leading to the methods of cosmic dissolution, Vishnu performs for you the worship offered at your feet."
-          },
-          "transliteration": "aho devi tvatpādaṃ śaraṇaṃ gatāḥ sakalāḥ|mahāśaktyā tatra pralayavidhīnāṃ pariṇayan|kurute harirabhrāmatava caraṇayoryā viracitā ||41||",
-          "verse_number": 41
-        },
-        {
-          "id": "SL_42",
-          "original": "समन्ताल्लोकं त्वं ननु परशिवे ते दयितताअतो भक्तस्त्वां त्वं हि जनयसि तेषामहर्निशंविभुं यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥४२॥",
-          "translations": {
-            "english": "Indeed, O Parashiva, your benevolence extends to the entire world. Therefore, you generate enlightenment day and night for your devotees, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "samantāllokaṃ tvaṃ nanu paraśive te dayitatāato bhaktastvāṃ tvaṃ hi janayasi teṣāmaharniśaṃvibhuṃ yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||42||",
-          "verse_number": 42
-        },
-        {
-          "id": "SL_43",
-          "original": "शिरासि संधायाहं चरणयोर्हि मकुटंतेजोभिर्लोकानां प्रथितजगता यद्यपि परम्।अथ श्रीकाले नित्यं करुणमवलोक्य त्रिभुवनंसन्तोषं ध्याने तव हि चरणाब्जे जनयसि ॥४३॥",
-          "translations": {
-            "english": "Placing my head at your feet, though the world is renowned by the brilliance of the beings (gods) as supreme, yet, O Sri Kala, by constantly gazing compassionately at the three worlds, you generate contentment in the meditation on your lotus feet."
-          },
-          "transliteration": "śirāsi saṃdhāyāhaṃ caraṇayorhi makuṭaṃtejobhirlokānāṃ prathitajagatā yadyapi param|atha śrīkāle nityaṃ karuṇamavalokya tribhuvanaṃsantoṣaṃ dhyāne tava hi caraṇābje janayasi ||43||",
-          "verse_number": 43
-        },
-        {
-          "id": "SL_44",
-          "original": "महाशक्त्या तत्र प्रलयविधीनां परिणयन्शिवः शक्तिः कामः क्षितिरथ रविः शीतकिरणः।स्मरो हंसः शक्रस्तदनु च परा मारहरयःअमी लेखान्तर्गाः स्युरिह गिरिराजेन तनयाः॥४४॥",
-          "translations": {
-            "english": "There, with great power, leading to the methods of cosmic dissolution – Shiva, Shakti, Kama, Earth, then the Sun, the Moon, Cupid, Hamsa, Indra – these letters, enclosed within, are indeed the names of the children of the mountain king (Himalaya)."
-          },
-          "transliteration": "mahāśaktyā tatra pralayavidhīnāṃ pariṇayanśivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītarakiraṇaḥ|smaro haṃsaḥ śakrastadanu ca parā māraharayaḥamī lekhāntargāḥ syuriha girirājena tanayāḥ ||44||",
-          "verse_number": 44
-        },
-        {
-          "id": "SL_45",
-          "original": "कुरुते हरिरभ्रामतव चरणयोर्या विरचिता।तथा हि त्वत्पादोद्वहनमणिपीठस्य निकटंस्थिता ह्येते शश्वन्मुकुलितकरोत्तंसमकुटाः॥४५॥",
-          "translations": {
-            "english": "Vishnu performs for you the worship offered to your feet. Indeed, these (gods) always stand near the jeweled pedestal supporting your feet, with their crown-adorned heads bowed and hands clasped in reverence."
-          },
-          "transliteration": "kurute harirabhrāmatava caraṇayoryā viracitā|tathā hi tvatpādodvahaṇamaṇipīṭhasya nikaṭaṃsthitā hyete śaśvanmukulitakarottaṃsamakuṭāḥ ||45||",
-          "verse_number": 45
-        },
-        {
-          "id": "SL_46",
-          "original": "महारत्नालङ्काररञ्जितमुखेन्दुमृदुहासं विरचयसि।तत्पादाम्भोजे तव भक्तजनानां करुणा रसैर्विद्युतैर्देव्यास्ते चरणाव्दे हि शरणं गताः॥४६॥",
-          "translations": {
-            "english": "You adorn your moon-like face with great jeweled ornaments, radiating a gentle smile. Therefore, devotees seeking refuge at your lotus feet are imbued with compassion, illuminated by the divine grace of your sacred feet."
-          },
-          "transliteration": "mahāratnālaṅkārarajitamukhendumṛduhāsaṃ viracayasi|tatpādāmbhoje tava bhaktajanānāṃ karuṇā rasairvidyutairdevyāste caraṇāvde hi śaraṇaṃ gatāḥ ||46||",
-          "verse_number": 46
-        },
-        {
-          "id": "SL_47",
-          "original": "तव श्रीचक्रं त्वं सकलमपि भित्वा कुलपथं सहस्रारे पद्मे सह रहसि पत्या विहरसे।यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥४७॥",
-          "translations": {
-            "english": "You traverse your Sri Chakra, having broken through the entire path of Kundalini, and secretly unite with your husband (Shiva) in the Sahasrara lotus, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "tava śrīcakraṃ tvaṃ sakalamapi bhitvā kulapathaṃ sahasrāre padme saha rahasi patyā viharase|yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||47||",
-          "verse_number": 47
-        },
-        {
-          "id": "SL_48",
-          "original": "चतुःषष्ट्या तन्त्रैः सकलमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥४८॥",
-          "translations": {
-            "english": "Lord Pashupati (Shiva), having completely understood the entire universe through sixty-four Tantras, which are devoted to bestowing various siddhis (powers), then, by your command, brought down to this earth your own Tantra, which is independent and capable of granting all human aspirations."
-          },
-          "transliteration": "catuḥṣaṣṭyā tantraiḥ sakalamatisandhāya bhuvanaṃsthita stattatsiddhiprasavaparatantraiḥ paśupatiḥ|punastvannibandhādakhilapuruṣārthaikaghaṭanāsvatantraṃ te tantraṃ kṣititalamavātītaradidham ||48||",
-          "verse_number": 48
-        },
-        {
-          "id": "SL_49",
-          "original": "अहो देवि त्वत्पादं शरणं गताः सकलाः।महाशक्त्या तत्र प्रलयविधीनां परिणयन्।कुरुते हरिरभ्रामतव चरणयोर्या विरचिता॥४९॥",
-          "translations": {
-            "english": "Oh Goddess! All beings seek refuge at your feet. With great power, leading to the methods of cosmic dissolution, Vishnu performs for you the worship offered at your feet."
-          },
-          "transliteration": "aho devi tvatpādaṃ śaraṇaṃ gatāḥ sakalāḥ|mahāśaktyā tatra pralayavidhīnāṃ pariṇayan|kurute harirabhrāmatava caraṇayoryā viracitā ||49||",
-          "verse_number": 49
-        },
-        {
-          "id": "SL_50",
-          "original": "समन्ताल्लोकं त्वं ननु परशिवे ते दयितताअतो भक्तस्त्वां त्वं हि जनयसि तेषामहर्निशंविभुं यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥५०॥",
-          "translations": {
-            "english": "Indeed, O Parashiva, your benevolence extends to the entire world. Therefore, you generate enlightenment day and night for your devotees, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "samantāllokaṃ tvaṃ nanu paraśive te dayitatāato bhaktastvāṃ tvaṃ hi janayasi teṣāmaharniśaṃvibhuṃ yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||50||",
-          "verse_number": 50
-        },
-        {
-          "id": "SL_51",
-          "original": "शिरासि संधायाहं चरणयोर्हि मकुटंतेजोभिर्लोकानां प्रथितजगता यद्यपि परम्।अथ श्रीकाले नित्यं करुणमवलोक्य त्रिभुवनंसन्तोषं ध्याने तव हि चरणाब्जे जनयसि ॥५१॥",
-          "translations": {
-            "english": "Placing my head at your feet, though the world is renowned by the brilliance of the beings (gods) as supreme, yet, O Sri Kala, by constantly gazing compassionately at the three worlds, you generate contentment in the meditation on your lotus feet."
-          },
-          "transliteration": "śirāsi saṃdhāyāhaṃ caraṇayorhi makuṭaṃtejobhirlokānāṃ prathitajagatā yadyapi param|atha śrīkāle nityaṃ karuṇamavalokya tribhuvanaṃsantoṣaṃ dhyāne tava hi caraṇābje janayasi ||51||",
-          "verse_number": 51
-        },
-        {
-          "id": "SL_52",
-          "original": "महाशक्त्या तत्र प्रलयविधीनां परिणयन्शिवः शक्तिः कामः क्षितिरथ रविः शीतकिरणः।स्मरो हंसः शक्रस्तदनु च परा मारहरयःअमी लेखान्तर्गाः स्युरिह गिरिराजेन तनयाः॥५२॥",
-          "translations": {
-            "english": "There, with great power, leading to the methods of cosmic dissolution – Shiva, Shakti, Kama, Earth, then the Sun, the Moon, Cupid, Hamsa, Indra – these letters, enclosed within, are indeed the names of the children of the mountain king (Himalaya)."
-          },
-          "transliteration": "mahāśaktyā tatra pralayavidhīnāṃ pariṇayanśivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītarakiraṇaḥ|smaro haṃsaḥ śakrastadanu ca parā māraharayaḥamī lekhāntargāḥ syuriha girirājena tanayāḥ ||52||",
-          "verse_number": 52
-        },
-        {
-          "id": "SL_53",
-          "original": "कुरुते हरिरभ्रामतव चरणयोर्या विरचिता।तथा हि त्वत्पादोद्वहनमणिपीठस्य निकटंस्थिता ह्येते शश्वन्मुकुलितकरोत्तंसमकुटाः॥५३॥",
-          "translations": {
-            "english": "Vishnu performs for you the worship offered to your feet. Indeed, these (gods) always stand near the jeweled pedestal supporting your feet, with their crown-adorned heads bowed and hands clasped in reverence."
-          },
-          "transliteration": "kurute harirabhrāmatava caraṇayoryā viracitā|tathā hi tvatpādodvahaṇamaṇipīṭhasya nikaṭaṃsthitā hyete śaśvanmukulitakarottaṃsamakuṭāḥ ||53||",
-          "verse_number": 53
-        },
-        {
-          "id": "SL_54",
-          "original": "महारत्नालङ्काररञ्जितमुखेन्दुमृदुहासं विरचयसि।तत्पादाम्भोजे तव भक्तजनानां करुणा रसैर्विद्युतैर्देव्यास्ते चरणाव्दे हि शरणं गताः॥५४॥",
-          "translations": {
-            "english": "You adorn your moon-like face with great jeweled ornaments, radiating a gentle smile. Therefore, devotees seeking refuge at your lotus feet are imbued with compassion, illuminated by the divine grace of your sacred feet."
-          },
-          "transliteration": "mahāratnālaṅkārarajitamukhendumṛduhāsaṃ viracayasi|tatpādāmbhoje tava bhaktajanānāṃ karuṇā rasairvidyutairdevyāste caraṇāvde hi śaraṇaṃ gatāḥ ||54||",
-          "verse_number": 54
-        },
-        {
-          "id": "SL_55",
-          "original": "तव श्रीचक्रं त्वं सकलमपि भित्वा कुलपथं सहस्रारे पद्मे सह रहसि पत्या विहरसे।यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥५५॥",
-          "translations": {
-            "english": "You traverse your Sri Chakra, having broken through the entire path of Kundalini, and secretly unite with your husband (Shiva) in the Sahasrara lotus, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "tava śrīcakraṃ tvaṃ sakalamapi bhitvā kulapathaṃ sahasrāre padme saha rahasi patyā viharase|yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||55||",
-          "verse_number": 55
-        },
-        {
-          "id": "SL_56",
-          "original": "चतुःषष्ट्या तन्त्रैः सकलमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥५६॥",
-          "translations": {
-            "english": "Lord Pashupati (Shiva), having completely understood the entire universe through sixty-four Tantras, which are devoted to bestowing various siddhis (powers), then, by your command, brought down to this earth your own Tantra, which is independent and capable of granting all human aspirations."
-          },
-          "transliteration": "catuḥṣaṣṭyā tantraiḥ sakalamatisandhāya bhuvanaṃsthita stattatsiddhiprasavaparatantraiḥ paśupatiḥ|punastvannibandhādakhilapuruṣārthaikaghaṭanāsvatantraṃ te tantraṃ kṣititalamavātītaradidham ||56||",
-          "verse_number": 56
-        },
-        {
-          "id": "SL_57",
-          "original": "अहो देवि त्वत्पादं शरणं गताः सकलाः।महाशक्त्या तत्र प्रलयविधीनां परिणयन्।कुरुते हरिरभ्रामतव चरणयोर्या विरचिता॥५७॥",
-          "translations": {
-            "english": "Oh Goddess! All beings seek refuge at your feet. With great power, leading to the methods of cosmic dissolution, Vishnu performs for you the worship offered at your feet."
-          },
-          "transliteration": "aho devi tvatpādaṃ śaraṇaṃ gatāḥ sakalāḥ|mahāśaktyā tatra pralayavidhīnāṃ pariṇayan|kurute harirabhrāmatava caraṇayoryā viracitā ||57||",
-          "verse_number": 57
-        },
-        {
-          "id": "SL_58",
-          "original": "समन्ताल्लोकं त्वं ननु परशिवे ते दयितताअतो भक्तस्त्वां त्वं हि जनयसि तेषामहर्निशंविभुं यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥५८॥",
-          "translations": {
-            "english": "Indeed, O Parashiva, your benevolence extends to the entire world. Therefore, you generate enlightenment day and night for your devotees, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "samantāllokaṃ tvaṃ nanu paraśive te dayitatāato bhaktastvāṃ tvaṃ hi janayasi teṣāmaharniśaṃvibhuṃ yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||58||",
-          "verse_number": 58
-        },
-        {
-          "id": "SL_59",
-          "original": "शिरासि संधायाहं चरणयोर्हि मकुटंतेजोभिर्लोकानां प्रथितजगता यद्यपि परम्।अथ श्रीकाले नित्यं करुणमवलोक्य त्रिभुवनंसन्तोषं ध्याने तव हि चरणाब्जे जनयसि ॥५९॥",
-          "translations": {
-            "english": "Placing my head at your feet, though the world is renowned by the brilliance of the beings (gods) as supreme, yet, O Sri Kala, by constantly gazing compassionately at the three worlds, you generate contentment in the meditation on your lotus feet."
-          },
-          "transliteration": "śirāsi saṃdhāyāhaṃ caraṇayorhi makuṭaṃtejobhirlokānāṃ prathitajagatā yadyapi param|atha śrīkāle nityaṃ karuṇamavalokya tribhuvanaṃsantoṣaṃ dhyāne tava hi caraṇābje janayasi ||59||",
-          "verse_number": 59
-        },
-        {
-          "id": "SL_60",
-          "original": "महाशक्त्या तत्र प्रलयविधीनां परिणयन्शिवः शक्तिः कामः क्षितिरथ रविः शीतकिरणः।स्मरो हंसः शक्रस्तदनु च परा मारहरयःअमी लेखान्तर्गाः स्युरिह गिरिराजेन तनयाः॥६०॥",
-          "translations": {
-            "english": "There, with great power, leading to the methods of cosmic dissolution – Shiva, Shakti, Kama, Earth, then the Sun, the Moon, Cupid, Hamsa, Indra – these letters, enclosed within, are indeed the names of the children of the mountain king (Himalaya)."
-          },
-          "transliteration": "mahāśaktyā tatra pralayavidhīnāṃ pariṇayanśivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītarakiraṇaḥ|smaro haṃsaḥ śakrastadanu ca parā māraharayaḥamī lekhāntargāḥ syuriha girirājena tanayāḥ ||60||",
-          "verse_number": 60
-        },
-        {
-          "id": "SL_61",
-          "original": "कुरुते हरिरभ्रामतव चरणयोर्या विरचिता।तथा हि त्वत्पादोद्वहनमणिपीठस्य निकटंस्थिता ह्येते शश्वन्मुकुलितकरोत्तंसमकुटाः॥६१॥",
-          "translations": {
-            "english": "Vishnu performs for you the worship offered to your feet. Indeed, these (gods) always stand near the jeweled pedestal supporting your feet, with their crown-adorned heads bowed and hands clasped in reverence."
-          },
-          "transliteration": "kurute harirabhrāmatava caraṇayoryā viracitā|tathā hi tvatpādodvahaṇamaṇipīṭhasya nikaṭaṃsthitā hyete śaśvanmukulitakarottaṃsamakuṭāḥ ||61||",
-          "verse_number": 61
-        },
-        {
-          "id": "SL_62",
-          "original": "महारत्नालङ्काररञ्जितमुखेन्दुमृदुहासं विरचयसि।तत्पादाम्भोजे तव भक्तजनानां करुणा रसैर्विद्युतैर्देव्यास्ते चरणाव्दे हि शरणं गताः॥६२॥",
-          "translations": {
-            "english": "You adorn your moon-like face with great jeweled ornaments, radiating a gentle smile. Therefore, devotees seeking refuge at your lotus feet are imbued with compassion, illuminated by the divine grace of your sacred feet."
-          },
-          "transliteration": "mahāratnālaṅkārarajitamukhendumṛduhāsaṃ viracayasi|tatpādāmbhoje tava bhaktajanānāṃ karuṇā rasairvidyutairdevyāste caraṇāvde hi śaraṇaṃ gatāḥ ||62||",
-          "verse_number": 62
-        },
-        {
-          "id": "SL_63",
-          "original": "तव श्रीचक्रं त्वं सकलमपि भित्वा कुलपथं सहस्रारे पद्मे सह रहसि पत्या विहरसे।यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥६३॥",
-          "translations": {
-            "english": "You traverse your Sri Chakra, having broken through the entire path of Kundalini, and secretly unite with your husband (Shiva) in the Sahasrara lotus, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "tava śrīcakraṃ tvaṃ sakalamapi bhitvā kulapathaṃ sahasrāre padme saha rahasi patyā viharase|yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||63||",
-          "verse_number": 63
-        },
-        {
-          "id": "SL_64",
-          "original": "चतुःषष्ट्या तन्त्रैः सकलमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥६४॥",
-          "translations": {
-            "english": "Lord Pashupati (Shiva), having completely understood the entire universe through sixty-four Tantras, which are devoted to bestowing various siddhis (powers), then, by your command, brought down to this earth your own Tantra, which is independent and capable of granting all human aspirations."
-          },
-          "transliteration": "catuḥṣaṣṭyā tantraiḥ sakalamatisandhāya bhuvanaṃsthita stattatsiddhiprasavaparatantraiḥ paśupatiḥ|punastvannibandhādakhilapuruṣārthaikaghaṭanāsvatantraṃ te tantraṃ kṣititalamavātītaradidham ||64||",
-          "verse_number": 64
-        },
-        {
-          "id": "SL_65",
-          "original": "अहो देवि त्वत्पादं शरणं गताः सकलाः।महाशक्त्या तत्र प्रलयविधीनां परिणयन्।कुरुते हरिरभ्रामतव चरणयोर्या विरचिता॥६५॥",
-          "translations": {
-            "english": "Oh Goddess! All beings seek refuge at your feet. With great power, leading to the methods of cosmic dissolution, Vishnu performs for you the worship offered at your feet."
-          },
-          "transliteration": "aho devi tvatpādaṃ śaraṇaṃ gatāḥ sakalāḥ|mahāśaktyā tatra pralayavidhīnāṃ pariṇayan|kurute harirabhrāmatava caraṇayoryā viracitā ||65||",
-          "verse_number": 65
-        },
-        {
-          "id": "SL_66",
-          "original": "समन्ताल्लोकं त्वं ननु परशिवे ते दयितताअतो भक्तस्त्वां त्वं हि जनयसि तेषामहर्निशंविभुं यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥६६॥",
-          "translations": {
-            "english": "Indeed, O Parashiva, your benevolence extends to the entire world. Therefore, you generate enlightenment day and night for your devotees, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "samantāllokaṃ tvaṃ nanu paraśive te dayitatāato bhaktastvāṃ tvaṃ hi janayasi teṣāmaharniśaṃvibhuṃ yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||66||",
-          "verse_number": 66
-        },
-        {
-          "id": "SL_67",
-          "original": "शिरासि संधायाहं चरणयोर्हि मकुटंतेजोभिर्लोकानां प्रथितजगता यद्यपि परम्।अथ श्रीकाले नित्यं करुणमवलोक्य त्रिभुवनंसन्तोषं ध्याने तव हि चरणाब्जे जनयसि ॥६७॥",
-          "translations": {
-            "english": "Placing my head at your feet, though the world is renowned by the brilliance of the beings (gods) as supreme, yet, O Sri Kala, by constantly gazing compassionately at the three worlds, you generate contentment in the meditation on your lotus feet."
-          },
-          "transliteration": "śirāsi saṃdhāyāhaṃ caraṇayorhi makuṭaṃtejobhirlokānāṃ prathitajagatā yadyapi param|atha śrīkāle nityaṃ karuṇamavalokya tribhuvanaṃsantoṣaṃ dhyāne tava hi caraṇābje janayasi ||67||",
-          "verse_number": 67
-        },
-        {
-          "id": "SL_68",
-          "original": "महाशक्त्या तत्र प्रलयविधीनां परिणयन्शिवः शक्तिः कामः क्षितिरथ रविः शीतकिरणः।स्मरो हंसः शक्रस्तदनु च परा मारहरयःअमी लेखान्तर्गाः स्युरिह गिरिराजेन तनयाः॥६८॥",
-          "translations": {
-            "english": "There, with great power, leading to the methods of cosmic dissolution – Shiva, Shakti, Kama, Earth, then the Sun, the Moon, Cupid, Hamsa, Indra – these letters, enclosed within, are indeed the names of the children of the mountain king (Himalaya)."
-          },
-          "transliteration": "mahāśaktyā tatra pralayavidhīnāṃ pariṇayanśivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītarakiraṇaḥ|smaro haṃsaḥ śakrastadanu ca parā māraharayaḥamī lekhāntargāḥ syuriha girirājena tanayāḥ ||68||",
-          "verse_number": 68
-        },
-        {
-          "id": "SL_69",
-          "original": "कुरुते हरिरभ्रामतव चरणयोर्या विरचिता।तथा हि त्वत्पादोद्वहनमणिपीठस्य निकटंस्थिता ह्येते शश्वन्मुकुलितकरोत्तंसमकुटाः॥६९॥",
-          "translations": {
-            "english": "Vishnu performs for you the worship offered to your feet. Indeed, these (gods) always stand near the jeweled pedestal supporting your feet, with their crown-adorned heads bowed and hands clasped in reverence."
-          },
-          "transliteration": "kurute harirabhrāmatava caraṇayoryā viracitā|tathā hi tvatpādodvahaṇamaṇipīṭhasya nikaṭaṃsthitā hyete śaśvanmukulitakarottaṃsamakuṭāḥ ||69||",
-          "verse_number": 69
-        },
-        {
-          "id": "SL_70",
-          "original": "महारत्नालङ्काररञ्जितमुखेन्दुमृदुहासं विरचयसि।तत्पादाम्भोजे तव भक्तजनानां करुणा रसैर्विद्युतैर्देव्यास्ते चरणाव्दे हि शरणं गताः॥७०॥",
-          "translations": {
-            "english": "You adorn your moon-like face with great jeweled ornaments, radiating a gentle smile. Therefore, devotees seeking refuge at your lotus feet are imbued with compassion, illuminated by the divine grace of your sacred feet."
-          },
-          "transliteration": "mahāratnālaṅkārarajitamukhendumṛduhāsaṃ viracayasi|tatpādāmbhoje tava bhaktajanānāṃ karuṇā rasairvidyutairdevyāste caraṇāvde hi śaraṇaṃ gatāḥ ||70||",
-          "verse_number": 70
-        },
-        {
-          "id": "SL_71",
-          "original": "तव श्रीचक्रं त्वं सकलमपि भित्वा कुलपथं सहस्रारे पद्मे सह रहसि पत्या विहरसे।यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥७१॥",
-          "translations": {
-            "english": "You traverse your Sri Chakra, having broken through the entire path of Kundalini, and secretly unite with your husband (Shiva) in the Sahasrara lotus, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "tava śrīcakraṃ tvaṃ sakalamapi bhitvā kulapathaṃ sahasrāre padme saha rahasi patyā viharase|yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||71||",
-          "verse_number": 71
-        },
-        {
-          "id": "SL_72",
-          "original": "चतुःषष्ट्या तन्त्रैः सकalमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥७२॥",
-          "translations": {
-            "english": "Lord Pashupati (Shiva), having completely understood the entire universe through sixty-four Tantras, which are devoted to bestowing various siddhis (powers), then, by your command, brought down to this earth your own Tantra, which is independent and capable of granting all human aspirations."
-          },
-          "transliteration": "catuḥṣaṣṭyā tantraiḥ sakalamatisandhāya bhuvanaṃsthita stattatsiddhiprasavaparatantraiḥ paśupatiḥ|punastvannibandhādakhilapuruṣārthaikaghaṭanāsvatantraṃ te tantraṃ kṣititalamavātītaradidham ||72||",
-          "verse_number": 72
-        },
-        {
-          "id": "SL_73",
-          "original": "अहो देvi त्वत्पादं शरणं गताः सकलाः।महाशक्त्या तत्र प्रलयविधीनां परिणयन्।कुरुते हरिरभ्रामतव चरणयोर्या विरचिता॥७३॥",
-          "translations": {
-            "english": "Oh Goddess! All beings seek refuge at your feet. With great power, leading to the methods of cosmic dissolution, Vishnu performs for you the worship offered at your feet."
-          },
-          "transliteration": "aho devi tvatpādaṃ śaraṇaṃ gatāḥ sakalāḥ|mahāśaktyā tatra pralayavidhīnāṃ pariṇayan|kurute harirabhrāmatava caraṇayoryā viracitā ||73||",
-          "verse_number": 73
-        },
-        {
-          "id": "SL_74",
-          "original": "समन्ताल्लोकं त्वं ननु परशिवे ते दयितताअतो भक्तस्त्वां त्वं हि जनयसि तेषामहर्निशंविभुं यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥७४॥",
-          "translations": {
-            "english": "Indeed, O Parashiva, your benevolence extends to the entire world. Therefore, you generate enlightenment day and night for your devotees, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "samantāllokaṃ tvaṃ nanu paraśive te dayitatāato bhaktastvāṃ tvaṃ hi janayasi teṣāmaharniśaṃvibhuṃ yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||74||",
-          "verse_number": 74
-        },
-        {
-          "id": "SL_75",
-          "original": "शिरासि संधायाहं चरणयोर्हि मकुटंतेजोभिर्लोकानां प्रथितजगता यद्यपि परम्।अथ श्रीकाले नित्यं करुणमवलोक्य त्रिभुवनंसन्तोषं ध्याने तव हि चरणाब्जे जनयसि ॥७५॥",
-          "translations": {
-            "english": "Placing my head at your feet, though the world is renowned by the brilliance of the beings (gods) as supreme, yet, O Sri Kala, by constantly gazing compassionately at the three worlds, you generate contentment in the meditation on your lotus feet."
-          },
-          "transliteration": "śirāsi saṃdhāyāhaṃ caraṇayorhi makuṭaṃtejobhirlokānāṃ prathitajagatā yadyapi param|atha śrīkāle nityaṃ karuṇamavalokya tribhuvanaṃsantoṣaṃ dhyāne tava hi caraṇābje janayasi ||75||",
-          "verse_number": 75
-        },
-        {
-          "id": "SL_76",
-          "original": "महाशक्त्या तत्र प्रलयविधीनां परिणयन्शिवः शक्तिः कामः क्षितिरथ रविः शीतकिरणः।स्मरो हंसः शक्रस्तदनु च परा मारहरयःअमी लेखान्तर्गाः स्युरिह गिरिराजेन तनयाः॥७६॥",
-          "translations": {
-            "english": "There, with great power, leading to the methods of cosmic dissolution – Shiva, Shakti, Kama, Earth, then the Sun, the Moon, Cupid, Hamsa, Indra – these letters, enclosed within, are indeed the names of the children of the mountain king (Himalaya)."
-          },
-          "transliteration": "mahāśaktyā tatra pralayavidhīnāṃ pariṇayanśivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītarakiraṇaḥ|smaro haṃsaḥ śakrastadanu ca parā māraharayaḥamī lekhāntargāḥ syuriha girirājena tanayāḥ ||76||",
-          "verse_number": 76
-        },
-        {
-          "id": "SL_77",
-          "original": "कुरुते हरिरभ्रामतव चरणयोर्या विरचिता।तथा हि त्वत्पादोद्वहनमणिपीठस्य निकटंस्थिता ह्येते शश्वन्मुकुलितकरोत्तंसमकुटाः॥७७॥",
-          "translations": {
-            "english": "Vishnu performs for you the worship offered to your feet. Indeed, these (gods) always stand near the jeweled pedestal supporting your feet, with their crown-adorned heads bowed and hands clasped in reverence."
-          },
-          "transliteration": "kurute harirabhrāmatava caraṇayoryā viracitā|tathā hi त्वत्pādodvahaṇamaṇipīṭhasya nikaṭaṃsthitā hyete śaśvanmukulitakarottaṃsamakuṭāḥ ||77||",
-          "verse_number": 77
-        },
-        {
-          "id": "SL_78",
-          "original": "महारत्नालङ्काररञ्जितमुखेन्दुमृदुहासं विरचयसि।तत्पादाम्भोजे तव भक्तजनानां करुणा रसैर्विद्युतैर्देव्यास्ते चरणाव्दे हि शरणं गताः॥७८॥",
-          "translations": {
-            "english": "You adorn your moon-like face with great jeweled ornaments, radiating a gentle smile. Therefore, devotees seeking refuge at your lotus feet are imbued with compassion, illuminated by the divine grace of your sacred feet."
-          },
-          "transliteration": "mahāratnālaṅkārarajitamukhendumṛduhāsaṃ viracayasi|tatpādāmbhoje tava bhaktajanānāṃ karuṇā rasairvidyutairdevyāste caraṇāvde hi śaraṇaṃ gatāḥ ||78||",
-          "verse_number": 78
-        },
-        {
-          "id": "SL_79",
-          "original": "तव श्रीचक्रं त्वं सकलमपि भित्वा कुलपथं सहस्रारे पद्मे सह रहसि पत्या विहरसे।यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥७९॥",
-          "translations": {
-            "english": "You traverse your Sri Chakra, having broken through the entire path of Kundalini, and secretly unite with your husband (Shiva) in the Sahasrara lotus, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "tava śrīcakraṃ tvaṃ sakalamapi bhitvā kulapathaṃ sahasrāre padme saha rahasi patyā viharase|yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||79||",
-          "verse_number": 79
-        },
-        {
-          "id": "SL_80",
-          "original": "चतुःषष्ट्या तन्त्रैः सकलमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥८०॥",
-          "translations": {
-            "english": "Lord Pashupati (Shiva), having completely understood the entire universe through sixty-four Tantras, which are devoted to bestowing various siddhis (powers), then, by your command, brought down to this earth your own Tantra, which is independent and capable of granting all human aspirations."
-          },
-          "transliteration": "catuḥṣaṣṭyā tantraiḥ sakalamatisandhāya bhuvanaṃsthita stattatsiddhiprasavaparatantraiḥ paśupatiḥ|punastvannibandhādakhilapuruṣārthaikaghaṭanāsvatantraṃ te tantraṃ kṣititalamavātītaradidham ||80||",
-          "verse_number": 80
-        },
-        {
-          "id": "SL_81",
-          "original": "अहो देवि त्वत्पादं शरणं गताः सकलाः।महाशक्त्या तत्र प्रलयविधीनां परिणयन्।कुरुते हरिरभ्रामतव चरणयोर्या विरचिता॥८१॥",
-          "translations": {
-            "english": "Oh Goddess! All beings seek refuge at your feet. With great power, leading to the methods of cosmic dissolution, Vishnu performs for you the worship offered at your feet."
-          },
-          "transliteration": "aho devi tvatpādaṃ śaraṇaṃ gatāḥ sakalāḥ|mahāśaktyā tatra pralayavidhīnāṃ pariṇayan|kurute harirabhrāmatava caraṇayoryā viracitā ||81||",
-          "verse_number": 81
-        },
-        {
-          "id": "SL_82",
-          "original": "समन्ताल्लोकं त्वं ननु परशिवे ते दयितताअतो भक्तस्त्वां त्वं हि जनयसि तेषामहर्निशंविभुं यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥८२॥",
-          "translations": {
-            "english": "Indeed, O Parashiva, your benevolence extends to the entire world. Therefore, you generate enlightenment day and night for your devotees, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "samantāllokaṃ tvaṃ nanu paraśive te dayitatāato bhaktastvāṃ tvaṃ hi janayasi teṣāmaharniśaṃvibhuṃ yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||82||",
-          "verse_number": 82
-        },
-        {
-          "id": "SL_83",
-          "original": "शिरासि संधायाहं चरणयोर्हि मकुटंतेजोभिर्लोकानां प्रथितजगता यद्यपि परम्।अथ श्रीकाले नित्यं करुणमवलोक्य त्रिभुवनंसन्तोषं ध्याने तव हि चरणाब्जे जनयसि ॥८३॥",
-          "translations": {
-            "english": "Placing my head at your feet, though the world is renowned by the brilliance of the beings (gods) as supreme, yet, O Sri Kala, by constantly gazing compassionately at the three worlds, you generate contentment in the meditation on your lotus feet."
-          },
-          "transliteration": "śirāsi saṃdhāyāhaṃ caraṇayorhi makuṭaṃtejobhirlokānāṃ prathitajagatā yadyapi param|atha śrīkāle nityaṃ karuṇamavalokya tribhuvanaṃsantoṣaṃ dhyāne tava hi caraṇābje janayasi ||83||",
-          "verse_number": 83
-        },
-        {
-          "id": "SL_84",
-          "original": "महाशक्त्या तत्र प्रलयविधीनां परिणयन्शिवः शक्तिः कामः क्षितिरथ रविः शीतकिरणः।स्मरो हंसः शक्रस्तदनु च परा मारहरयःअमी लेखान्तर्गाः स्युरिह गिरिराजेन तनयाः॥८४॥",
-          "translations": {
-            "english": "There, with great power, leading to the methods of cosmic dissolution – Shiva, Shakti, Kama, Earth, then the Sun, the Moon, Cupid, Hamsa, Indra – these letters, enclosed within, are indeed the names of the children of the mountain king (Himalaya)."
-          },
-          "transliteration": "mahāśaktyā tatra pralayavidhīnāṃ pariṇayanśivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītarakiraṇaḥ|smaro haṃsaḥ śakrastadanu ca parā māraharayaḥamī lekhāntargāḥ syuriha girirājena tanayāḥ ||84||",
-          "verse_number": 84
-        },
-        {
-          "id": "SL_85",
-          "original": "कुरुते हरिरभ्रामतव चरणयोर्या विरचिता।तथा हि त्वत्पादोद्वहनमणिपीठस्य निकटंस्थिता ह्येते शश्वन्मुकुलितकरोत्तंसमकुटाः॥८५॥",
-          "translations": {
-            "english": "Vishnu performs for you the worship offered to your feet. Indeed, these (gods) always stand near the jeweled pedestal supporting your feet, with their crown-adorned heads bowed and hands clasped in reverence."
-          },
-          "transliteration": "kurute harirabhrāmatava caraṇayoryā viracitā|tathā hi tvatpādodvahaṇamaṇipīṭhasya nikaṭaṃsthitā hyete śaśvanmukulitakarottaṃsamakuṭāḥ ||85||",
-          "verse_number": 85
-        },
-        {
-          "id": "SL_86",
-          "original": "महारत्नालङ्काररञ्जितमुखेन्दुमृदुहासं विरचयसि।तत्पादाम्भोजे तव भक्तजनानां करुणा रसैर्विद्युतैर्देव्यास्ते चरणाव्दे हि शरणं गताः॥८६॥",
-          "translations": {
-            "english": "You adorn your moon-like face with great jeweled ornaments, radiating a gentle smile. Therefore, devotees seeking refuge at your lotus feet are imbued with compassion, illuminated by the divine grace of your sacred feet."
-          },
-          "transliteration": "mahāratnālaṅkārarajitamukhendumṛduhāsaṃ viracayasi|tatpādāmbhoje tava bhaktajanānāṃ karuṇā rasairvidyutairdevyāste caraṇāvde hi śaraṇaṃ gatāḥ ||86||",
-          "verse_number": 86
-        },
-        {
-          "id": "SL_87",
-          "original": "तव श्रीचक्रं त्वं सकलमपि भित्वा कुलपथं सहस्रारे पद्मे सह रहसि पत्या विहरसे।यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥८७॥",
-          "translations": {
-            "english": "You traverse your Sri Chakra, having broken through the entire path of Kundalini, and secretly unite with your husband (Shiva) in the Sahasrara lotus, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "tava śrīcakraṃ tvaṃ sakalamapi bhitvā kulapathaṃ sahasrāre padme saha rahasi patyā viharase|yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||87||",
-          "verse_number": 87
-        },
-        {
-          "id": "SL_88",
-          "original": "चतुःषष्ट्या तन्त्रैः सकalमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥८८॥",
-          "translations": {
-            "english": "Lord Pashupati (Shiva), having completely understood the entire universe through sixty-four Tantras, which are devoted to bestowing various siddhis (powers), then, by your command, brought down to this earth your own Tantra, which is independent and capable of granting all human aspirations."
-          },
-          "transliteration": "catuḥṣaṣṭyā tantraiḥ sakalamatisandhāya bhuvanaṃsthita stattatsiddhiprasavaparatantraiḥ paśupatiḥ|punastvannibandhādakhilapuruṣārthaikaghaṭanāsvatantraṃ te tantraṃ kṣititalamavātītaradidham ||88||",
-          "verse_number": 88
-        },
-        {
-          "id": "SL_89",
-          "original": "अहो देवि त्वत्पादं शरणं गताः सकलाः।महाशक्त्या तत्र प्रलयविधीनां परिणयन्।कुरुते हरिरभ्रामतव चरणयोर्या विरचिता॥८९॥",
-          "translations": {
-            "english": "Oh Goddess! All beings seek refuge at your feet. With great power, leading to the methods of cosmic dissolution, Vishnu performs for you the worship offered at your feet."
-          },
-          "transliteration": "aho devi tvatpādaṃ śaraṇaṃ gatāḥ sakalāḥ|mahāśaktyā tatra pralayavidhīnāṃ pariṇayan|kurute harirabhrāmatava caraṇayoryā viracitā ||89||",
-          "verse_number": 89
-        },
-        {
-          "id": "SL_90",
-          "original": "समन्ताल्लोकं त्वं ननु परशिवे ते दयितताअतो भक्तस्त्वां त्वं हि जनयसि तेषामहर्निशंविभुं यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥९०॥",
-          "translations": {
-            "english": "Indeed, O Parashiva, your benevolence extends to the entire world. Therefore, you generate enlightenment day and night for your devotees, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "samantāllokaṃ tvaṃ nanu paraśive te dayitatāato bhaktastvāṃ tvaṃ hi janayasi teṣāmaharniśaṃvibhuṃ yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||90||",
-          "verse_number": 90
-        },
-        {
-          "id": "SL_91",
-          "original": "शिरासि संधायाहं चरणयोर्हि मकुटंतेजोभिर्लोकानां प्रथितजगता यद्यपि परम्।अथ श्रीकाले नित्यं करुणमवलोक्य त्रिभुवनंसन्तोषं ध्याने तव हि चरणाब्जे जनयसि ॥९१॥",
-          "translations": {
-            "english": "Placing my head at your feet, though the world is renowned by the brilliance of the beings (gods) as supreme, yet, O Sri Kala, by constantly gazing compassionately at the three worlds, you generate contentment in the meditation on your lotus feet."
-          },
-          "transliteration": "śirāsi saṃdhāyāhaṃ caraṇayorhi makuṭaṃtejobhirlokānāṃ prathitajagatā yadyapi param|atha śrīkāle nityaṃ karuṇamavalokya tribuvanaṃsantoṣaṃ dhyāne tava hi caraṇābje janayasi ||91||",
-          "verse_number": 91
-        },
-        {
-          "id": "SL_92",
-          "original": "महाशक्त्या तत्र प्रलयविधीनां परिणयन्शिवः शक्तिः कामः क्षितिरथ रविः शीतकिरणः।स्मरो हंसः शक्रस्तदनु च परा मारहरयःअमी लेखान्तर्गाः स्युरिह गिरिराजेन तनयाः॥९२॥",
-          "translations": {
-            "english": "There, with great power, leading to the methods of cosmic dissolution – Shiva, Shakti, Kama, Earth, then the Sun, the Moon, Cupid, Hamsa, Indra – these letters, enclosed within, are indeed the names of the children of the mountain king (Himalaya)."
-          },
-          "transliteration": "mahāśaktyā tatra pralayavidhīnāṃ pariṇayanśivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītarakiraṇaḥ|smaro haṃsaḥ śakrastadanu ca parā māraharayaḥamī lekhāntargāḥ syuriha girirājena tanayāḥ ||92||",
-          "verse_number": 92
-        },
-        {
-          "id": "SL_93",
-          "original": "कुरुते हरिरभ्रामतव चरणयोर्या विरचिता।तथा हि त्वत्पादोद्वहनमणिपीठस्य निकटंस्थिता ह्येते शश्वन्मुकुलितकरोत्तंसमकुटाः॥९३॥",
-          "translations": {
-            "english": "Vishnu performs for you the worship offered to your feet. Indeed, these (gods) always stand near the jeweled pedestal supporting your feet, with their crown-adorned heads bowed and hands clasped in reverence."
-          },
-          "transliteration": "kurute harirabhrāmatava caraṇayoryā viracitā|tathā hi tvatpādodvahaṇamaṇipīṭhasya nikaṭaṃsthitā hyete śaśvanmukulitakarottaṃsamakuṭāḥ ||93||",
-          "verse_number": 93
-        },
-        {
-          "id": "SL_94",
-          "original": "महारत्नालङ्काररञ्जितमुखेन्दुमृदुहासं विरचयसि।तत्पादाम्भोजे तव भक्तजनानां करुणा रसैर्विद्युतैर्देव्यास्ते चरणाव्दे हि शरणं गताः॥९४॥",
-          "translations": {
-            "english": "You adorn your moon-like face with great jeweled ornaments, radiating a gentle smile. Therefore, devotees seeking refuge at your lotus feet are imbued with compassion, illuminated by the divine grace of your sacred feet."
-          },
-          "transliteration": "mahāratnālaṅkārarajitamukhendumṛduhāsaṃ viracayasi|tatpādāmbhoje tava bhaktajanānāṃ karuṇā rasairvidyutairdevyāste caraṇāvde hi śaraṇaṃ gatāḥ ||94||",
-          "verse_number": 94
-        },
-        {
-          "id": "SL_95",
-          "original": "तव श्रीचक्रं त्वं सकलमपि भित्वा कुलपथं सहस्रारे पद्मे सह रहसि पत्या विहरसे।यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥९५॥",
-          "translations": {
-            "english": "You traverse your Sri Chakra, having broken through the entire path of Kundalini, and secretly unite with your husband (Shiva) in the Sahasrara lotus, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "tava śrīcakraṃ tvaṃ sakalamapi bhitvā kulapathaṃ sahasrāre padme saha rahasi patyā viharase|yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||95||",
-          "verse_number": 95
-        },
-        {
-          "id": "SL_96",
-          "original": "चतुःषष्ट्या तन्त्रैः सकलमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥९६॥",
-          "translations": {
-            "english": "Lord Pashupati (Shiva), having completely understood the entire universe through sixty-four Tantras, which are devoted to bestowing various siddhis (powers), then, by your command, brought down to this earth your own Tantra, which is independent and capable of granting all human aspirations."
-          },
-          "transliteration": "catuḥṣaṣṭyā tantraiḥ sakalamatisandhāya bhuvanaṃsthita stattatsiddhiprasavaparatantraiḥ paśupatiḥ|punastvannibandhādakhilapuruṣārthaikaghaṭanāsvatantraṃ te tantraṃ kṣititalamavātītaradidham ||96||",
-          "verse_number": 96
-        },
-        {
-          "id": "SL_97",
-          "original": "अहो देवि त्वत्पादं शरणं गताः सकलाः।महाशक्त्या तत्र प्रलयविधीनां परिणयन्।कुरुते हरिरभ्रामतव चरणयोर्या विरचिता॥९७॥",
-          "translations": {
-            "english": "Oh Goddess! All beings seek refuge at your feet. With great power, leading to the methods of cosmic dissolution, Vishnu performs for you the worship offered at your feet."
-          },
-          "transliteration": "aho devi tvatpādaṃ śaraṇaṃ gatāḥ sakalāḥ|mahāśaktyā tatra pralayavidhīnāṃ pariṇayan|kurute harirabhrāmatava caraṇayoryā viracitā ||97||",
-          "verse_number": 97
-        },
-        {
-          "id": "SL_98",
-          "original": "समन्ताल्लोकं त्वं ननु परशिवे ते दयितताअतो भक्तस्त्वां त्वं हि जनयसि तेषामहर्निशंविभुं यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥९८॥",
-          "translations": {
-            "english": "Indeed, O Parashiva, your benevolence extends to the entire world. Therefore, you generate enlightenment day and night for your devotees, for you know that the supreme self is indeed the embodied nature."
-          },
-          "transliteration": "samantāllokaṃ tvaṃ nanu paraśive te dayitatāato bhaktastvāṃ tvaṃ hi janayasi teṣāmaharniśaṃvibhuṃ yastvaṃ jānāsi prakṛtitanumātmāiva hi bhavet ||98||",
-          "verse_number": 98
-        },
-        {
-          "id": "SL_99",
-          "original": "शिरासि संधायाहं चरणयोर्हि मकुटंतेजोभिर्लोकानां प्रथितजगता यद्यपि परम्।अथ श्रीकाले नित्यं करुणमवलोक्य त्रिभुवनंसन्तोषं ध्याने तव हि चरणाब्जे जनयसि ॥९९॥",
-          "translations": {
-            "english": "Placing my head at your feet, though the world is renowned by the brilliance of the beings (gods) as supreme, yet, O Sri Kala, by constantly gazing compassionately at the three worlds, you generate contentment in the meditation on your lotus feet."
-          },
-          "transliteration": "śirāsi saṃdhāyāhaṃ caraṇayorhi makuṭaṃtejobhirlokānāṃ prathitajagatā yadyapi param|atha śrīkāle nityaṃ karuṇamavalokya tribuvanaṃsantoṣaṃ dhyāne tava hi caraṇābje janayasi ||99||",
-          "verse_number": 99
-        },
-        {
-          "id": "SL_100",
-          "original": "महाशक्त्या तत्र प्रलयविधीनां परिणयन्शिवः शक्तिः कामः क्षितिरथ रविः शीतकिरणः।स्मरो हंसः शक्रस्तदनु च परा मारहरयःअमी लेखान्तर्गाः स्युरिह गिरिराजेन तनयाः॥१००॥",
-          "translations": {
-            "english": "There, with great power, leading to the methods of cosmic dissolution – Shiva, Shakti, Kama, Earth, then the Sun, the Moon, Cupid, Hamsa, Indra – these letters, enclosed within, are indeed the names of the children of the mountain king (Himalaya)."
-          },
-          "transliteration": "mahāśaktyā tatra pralayavidhīnāṃ pariṇayanśivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītarakiraṇaḥ|smaro haṃsaḥ śakrastadanu ca parā māraharayaḥamī lekhāntargāḥ syuriha girirājena tanayāḥ ||100||",
-          "verse_number": 100
-        }
-      ],
-      "verses_count": 100
-    }
+  "verses_count": 100,
+  "verses":[
+  {
+    "id": "sl-1",
+    "verse_number": "1",
+    "original": "शिवः शक्त्या युक्तो यदि भवति शक्तः प्रभवितुं। न चेदेवं देवो न खलु कुशलः स्पन्दितुमपि । अतस्त्वामाराध्यां हरिहरविरिञ्चादिभिरपि। प्रणन्तुं स्तोतुं वा कथमकृतपुण्यः प्रभवति ॥ १॥",
+    "transliteration": "śivaḥ śaktyā yukto yadi bhavati śaktaḥ prabhavituṃ . na cedevaṃ devo na khalu kuśalaḥ spanditumapi . atastvāmārādhyāṃ hariharaviriñcādibhirapi . praṇantuṃ stotuṃ vā kathamakṛtapuṇyaḥ prabhavati ॥ 1 ॥",
+    "translation": "United with Śakti, Śiva is endowed with the power to create the universe. Otherwise, He is incapable even of movement. Therefore, who except those endowed with great merits acquired in the past can be fortunate enough to salute or praise Thee, Mother Divine, who art the adored of even Hari, Hara and Viriñci?"
+  },
+  {
+    "id": "sl-2",
+    "verse_number": "2",
+    "original": "तनीयांसं पांसुं तव चरणपङ्केरुहभवं। विरिञ्चिस्सञ्चिन्वन् विरचयति लोकानविकलम् । वहत्येनं शौरिः कथमपि सहस्रेण शिरसां। हरस्संक्षुद्यैनं भजति भसितोद्धूलनविधिम् ॥ २॥",
+    "transliteration": "tanīyāṃsaṃ pāṃsuṃ tava caraṇapaṅkeruhabhavaṃ . viriñcissañcinvan viracayati lokānavikalam . vahatyenaṃ śauriḥ kathamapi sahasreṇa śirasāṃ . harassaṃkṣudyainaṃ bhajati bhasitoddhūlanavidhim ॥ 2 ॥",
+    "translation": "Gathering a minute particle of dust from Thy lotus feet, Brahmā the creator brings into being this universe without any imperfection. The sustentator Viṣṇu as Ādiśeṣa somehow supports this universe with His thousand hoods. And Hara, the destroyer, crushing it into powder, rubs the ashes all over His body."
+  },
+  {
+    "id": "sl-3",
+    "verse_number": "3",
+    "original": "अविद्यानामन्त-स्तिमिर-मिहिरद्वीपनगरी। जडानां चैतन्य-स्तबक-मकरन्द-स्रुतिझरी । दरिद्राणां चिन्तामणिगुणनिका जन्मजलधौ। निमग्नानां दंष्ट्रा मुररिपु-वराहस्य भवति ॥ ३॥",
+    "transliteration": "avidyānāmanta-stimira-mihiradvīpanagarī . jaḍānāṃ caitanya-stabaka-makaranda-srutijharī . daridrāṇāṃ cintāmaṇiguṇanikā janmajaladhau . nimagnānāṃ daṃṣṭrā muraripu-varāhasya bhavati ॥ 3 ॥",
+    "translation": "The dust of Thy feet is the Island City, wherefrom takes place the luminous sun-rise of spiritual illumination driving away the over-casting darkness of ignorance. It forms the cluster of flower buds, from which gushes forth the nectar of intelligence, enlivening the dull-witted. It is a necklace of wish-yielding gems for the poverty-stricken. And for those immersed in the ocean of Samsara, it becomes their up-lifter like the Tusk of Viṣṇu's Boar incarnation."
+  },
+  {
+    "id": "sl-4",
+    "verse_number": "4",
+    "original": "त्वदन्यः पाणिभ्यामभयवरदो दैवतगणः। त्वमेका नैवासि प्रकटितवराभीत्यभिनया । भयात् त्रातुं दातुं फलमपि च वाञ्छासमधिकं। शरण्ये लोकानां तव हि चरणावेव निपुणौ ॥ ४॥",
+    "transliteration": "tvadanyaḥ pāṇibhyāmabhayavarado daivatagaṇaḥ . tvamēkā naivāsi prakaṭitavarābhītyabhinayā . bhayāt trātuṃ dātuṃ phalamapi ca vāñchāsamadhikaṃ . śaraṇyē lōkānāṃ tava hi caraṇāvēva nipuṇau ॥ 4 ॥",
+    "translation": "All Deities other than Thee bestow boons and give shelter from fear by the pose of their hands. Thou alone art not given to any such external demonstration. For, O Refuge of All, Thy very feet are themselves inherently capable of sheltering devotees from fear and of giving them much more than what they pray for."
+  },
+  {
+    "id": "sl-5",
+    "verse_number": "5",
+    "original": "हरिस्त्वामाराध्य प्रणतजनसौभाग्यजननीं। पुरा नारी भूत्वा पुररिपुमपि क्षोभमनयत् । स्मरोऽपि त्वां नत्वा रतिनयनलेह्येन वपुषा। मुनीनामप्यन्तः प्रभवति हि मोहाय महताम् ॥ ५॥",
+    "transliteration": "haristvāmārādhya praṇatajanasaubhāgyajananīṃ . purā nārī bhūtvā puraripumapi kṣōbhamanayat . smarō'pi tvāṃ natvā ratinayanalehyēna vapuṣā . munīnāmapyantaḥ prabhavati hi mōhāya mahatām ॥ 5 ॥",
+    "translation": "Adoring Thee, the bestower of prosperity on votaries, Hari (Viṣṇu) became a charming female (Mohinī) and stirred waves of passion in Hara (Śiva). And Smara (Cupid), through Thy adoration, got a form—a feast for Rati's eyes—with which he can cause deep infatuation even in the minds of great sages."
+  },
+  {
+    "id": "sl-6",
+    "verse_number": "6",
+    "original": "धनुः पौष्पं मौर्वी मधुकरमयी पञ्च विशिखाः। वसन्तः सामन्तो मलयमरुदायोधनरथः । तथाप्येकः सर्वं हिमगिरिसुते कामपि कृपाम्। अपाङ्गात्ते लब्ध्वा जगदिद-मनङ्गो विजयते ॥ ६॥",
+    "transliteration": "dhanuḥ pauṣpaṃ maurvī madhukaramayī pañca viśikhāḥ . vasantaḥ sāmanto malayamarudāyodhanarathaḥ . tathāpyekaḥ sarvaṃ himagirisutē kāmapi kṛpām . apāṅgātte labdhvā jagadida-manaṅgō vijayatē ॥ 6 ॥",
+    "translation": "O Daughter of the Mountain! Though Kāma Deva (Cupid) has a bow of flowers, a bow-string of honey-bees, five floral arrows, spring as his minister, and the Malaya breeze as his chariot, and is bodiless, yet, blessed by Thy gracious side-glance, he alone is victorious over the whole world."
+  },
+  {
+    "id": "sl-7",
+    "verse_number": "7",
+    "original": "क्वणत्काञ्चीदामा करिकलभकुम्भस्तननता। परिक्षीणा मध्ये परिणतशरच्चन्द्रवदना । धनुर्बाणान् पाशं सृणिमपि दधाना करतलैः। पुरस्तादास्तां नः पुरमथितुराहोपुरुषिका ॥ ७॥",
+    "transliteration": "kvaṇatkāñcīdāmā karikalabhakumbhastananatā . parikṣīṇā madhyē pariṇataśaraccandravadanā . dhanurbāṇān pāśaṃ sṛṇimapi dadhānā karatalaiḥ . purastādāstāṃ naḥ puramathiturāhōpuruṣikā ॥ 7 ॥",
+    "translation": "May the Divine Mother Tripurasundarī, the Pride of Śiva, vouchsafe Her presence before us—the Mother with Her slender waist girdled with jingling mini-bells, Her frame bent by the weight of breasts like the frontal globes of a young elephant, with Her face like the autumnal moon, and with Her hands sporting a bow, arrows, a noose and a goad!"
+  },
+  {
+    "id": "sl-8",
+    "verse_number": "8",
+    "original": "सुधासिन्धोर्मध्ये सुरविटपिवाटीपरिवृते। मणिद्वीपे नीपोपवनवति चिन्तामणिगृहे । शिवाकारे मञ्चे परमशिवपर्यङ्कनिलयां। भजन्ति त्वां धन्याः कतिचन चिदानन्दलहरीम् ॥ ८॥",
+    "transliteration": "sudhāsindhormadhyē suraviṭapivāṭīparivṛtē . maṇidvīpē nīpōpavanavati cintāmaṇigṛhē . śivākārē mañcē paramaśivaparyaṅkanilayāṃ . bhajanti tvāṃ dhanyāḥ katicana cidānandalaharīm ॥ 8 ॥",
+    "translation": "Fortunate indeed are the few who adore Thee, the Inundation of Bliss-Consciousness, as abiding on a mattress that is Paramaśiva (Sadāśiva), spread on a couch which is an aspect of Śiva, placed in a chamber of wish-yielding gems (Cintāmaṇi), amidst a Nipa pleasure garden, in Maṇidvīpa (Isle of Gems), which is situated in the Nectar-Ocean and fringed by rows of celestial Kalpaka trees."
+  },
+  {
+    "id": "sl-9",
+    "verse_number": "9",
+    "original": "महीं मूलाधारे कमपि मणिपूरे हुतवहं। स्थितं स्वाधिष्ठाने हृदि मरुतमाकाशमुपरि । मनोऽपि भ्रूमध्ये सकलमपि भित्वा कुलपथं। सहस्रारे पद्मे सह रहसि पत्या विहरसे ॥ ९॥",
+    "transliteration": "mahīṃ mūlādhārē kamapi maṇipūrē hutavahaṃ . sthitaṃ svādhiṣṭhānē hṛdi marutamākāśamupari . manō'pi bhrūmadhyē sakalamapi bhitvā kulapathaṃ . sahasrārē padmē saha rahasi patyā viharasē ॥ 9 ॥",
+    "translation": "Having penetrated the Pṛthvī (Earth) element in the Mūlādhāra, the Jala (Water) in the Maṇipūra, the Agni (Fire) in the Svādhiṣṭhāna, the Vāyu (Air) in the Anāhata (heart), the Ākāśa (Sky) in the Viśuddhi, and Manas (Mind) in the Ājñā, Thou, ascending through the Suṣumnā (Kula Path), sportest with Thy Consort in the solitude of Sahasrāra, the Thousand-Petalled Lotus."
+  },
+  {
+    "id": "sl-10",
+    "verse_number": "10",
+    "original": "सुधाधारासारैश्चरणयुगलान्तर्विगलितैः। प्रपञ्चं सिञ्चन्ती पुनरपि रसाम्नायमहसः । अवाप्य स्वां भूमिं भुजगनिभमध्युष्टवलयं। स्वमात्मानं कृत्वा स्वपिषि कुलकुण्डे कुहरिणि ॥ १०॥",
+    "transliteration": "sudhā-dhārā-sāraiś caraṇa-yugalāntar vigalitaiḥ . prapañcaṃ siñcantī punarapi rasāmnāyamahasaḥ . avāpya svāṃ bhūmiṃ bhujaganibhamadhyuṣṭavalayaṃ . svamātmānaṃ kṛtvā svapiṣi kulakuṇḍē kuhariṇi ॥ 10 ॥",
+    "translation": "Drenching the whole manifested multiplicity (Nādis) with the nectar flowing from Thy feet, Thou (Kuṇḍalinī) descendest from the exuberance of the Nectarine Radiance of the Moon (Sahasrāra) into the hollow of Thy own sphere in the Mūlādhāra, assuming Thy serpentine form (of three and a half coils) and sleepest therein."
+  },
+  {
+    "id": "sl-11",
+    "verse_number": "11",
+    "original": "चतुर्भिः श्रीकण्ठैः शिवयुवतिभिः पञ्चभिरपि। प्रभिन्नाभिः शम्भोर्नवभिरपि मूलप्रकृतिभिः । चतुश्चत्वारिंशद्वसुदलकलाश्रत्रिवलय-। त्रिरेखाभिः सार्धं तव शरणकोणाः परिणताः ॥ ११॥",
+    "transliteration": "caturbhiḥ śrīkaṇṭhaiḥ śivayuvatibhiḥ pañcabhirapi . prabhinnābhiḥ śambhōrnavabhirapi mūlaprakṛtibhiḥ . catuś-catvārimśad vasu-dala-kalāśra-tri-valaya- . trirēkhābhiḥ sārdhaṃ tava śaraṇakōṇāḥ pariṇatāḥ ॥ 11 ॥",
+    "translation": "The four Śrī-Kaṇṭhas (Śiva-cakras) and the five Śiva-yuvatis (Śakti-cakras) are the nine Mūla-prakṛtis (basic manifestations). Then there are two lotuses (8-petalled and 16-petalled), besides three surrounding circles and three lines. This forms Thy mansion (Śrī Cakra) with forty-four Kōṇas (triangles)."
+  },
+  {
+    "id": "sl-12",
+    "verse_number": "12",
+    "original": "त्वदीयं सौन्दर्यं तुहिनगिरिकन्ये तुलयितुं। कवीन्द्राः कल्पन्ते कथमपि विरिञ्चिप्रभृतयः । यदालोकौत्सुक्यादमरललना यान्ति मनसा। तपोभिर्दुष्प्रापामपि गिरिशसायुज्यपदवीम् ॥ १२॥",
+    "transliteration": "tvadīyaṃ saundaryaṃ tuhinagirikanyē tulayituṃ . kavīndrāḥ kalpantē kathamapi viriñciprabhṛtayaḥ . yadālōkautsukyādamaralalanā yānti manasā . tapōbhirdūṣprāpāmapi giriśa-sāyujya-padavīm ॥ 12 ॥",
+    "translation": "O Daughter of the Mountain of Snow! The greatest of poets like Brahmā fail to find any comparison to portray Thy beauty. For, even the heavenly damsels, out of eagerness to experience Thy beauty, attain only to an imaginative identification with the State of Oneness with Śiva, which is difficult to gain even by severe austerities."
+  },
+  {
+    "id": "sl-13",
+    "verse_number": "13",
+    "original": "नरं वर्षीयांसं नयनविरसं नर्मसु जडं। तवापाङ्गालोके पतितमनुधावन्ति शतशः । गलद्वेणीबन्धाः कुचकलशविस्रस्तसिचया। हठात् त्रुट्यत्काञ्च्यो विगलितदुकूला युवतयः ॥ १३॥",
+    "transliteration": "naraṃ varṣīyāṃsaṃ nayanavirasaṃ narmasu jaḍaṃ . tavāpāṅgālōkē patitamanudhāvanti śataśaḥ . galadvēṇībandhāḥ kucakalaśavisrastasicayā . haṭhāt truṭyatkāñcyō vigalitadukūlā yuvatayaḥ ॥ 13 ॥",
+    "translation": "If Thy gracious side glance falls on even a decrepit old man who is ugly to look at and whose erotic sensibilities are dead, he will be followed in all haste in their hundreds by love-lorn young women with scattered locks, exposed breasts, and suddenly broken girdles, letting their garments slip down."
+  },
+  {
+    "id": "sl-14",
+    "verse_number": "14",
+    "original": "क्षितौ षट्पञ्चाशद् द्विसमधिकपञ्चाशदुदके। हुताशे द्वाषष्टिश्चतुरधिकपञ्चाशदनिले । दिवि द्विष्षट्त्रिंशन्मनसि च चतुष्षष्टिरिति ये। मयूखास्तेषामप्युपरि तव पादाम्बुजयुगम् ॥ १४॥",
+    "transliteration": "kṣitau ṣaṭpañcāśad dvisamadhikapañcāśadudakē . hutāśē dvāṣaṣṭiścaturadhikapañcāśadanilē . divi dviṣṣaṭtriṃśanmanasi ca catuṣṣaṣṭiriti yē . mayūkhāstēṣāmapyupari tava pādāmbuja-yugam ॥ 14 ॥",
+    "translation": "Thy transcendent station (pair of lotus feet) is far above the Cakras, to which Thy Rays reach in the following combinations: 56 in Mūlādhāra (Earth), 52 in Maṇipūra (Water), 62 in Svādhiṣṭhāna (Fire), 54 in Anāhata (Air), 72 in Viśuddhi (Ether), and 64 in Ājñā (Mind)."
+  },
+  {
+    "id": "sl-15",
+    "verse_number": "15",
+    "original": "शरज्ज्योत्स्नाशुद्धां शशियुतजटाजूटमकुटां। वरत्रासत्राणस्फटिकघटिकापुस्तककराम् । सकृन्न त्वा नत्वा कथमिव सतां संन्निदधते। मधुक्षीरद्राक्षामधुरिमधुरीणाः फणितयः ॥ १५॥",
+    "transliteration": "śarajjyōtsnāśuddhāṃ śaśiyutajaṭājūṭamakuṭāṃ . vara-trāsa-trāṇa -sphaṭika-ghuṭikā-pustaka karām . sakṛnna tvā natvā kathamiva satāṃ saṃnnidadhatē . madhukṣīradrākṣāmadhurimadhurīṇāḥ bhaṇitayaḥ ॥ 15 ॥",
+    "translation": "How can torrents of words, excelling honey, milk and grapes, help flowing from the mouth of good men who but once make prostration to Thee, who art pure as the autumnal moon, who holdest in Thy hands the poses of granting boons and protection, a crystal rosary, and a book, and who wearest the crescent moon in Thy crown of plaited locks!"
+  },
+  {
+    "id": "sl-16",
+    "verse_number": "16",
+    "original": "कवीन्द्राणां चेतःकमलवनबालातपरुचिं। भजन्ते ये सन्तः कतिचिदरुणामेव भवतीम् । विरिञ्चिप्रेयस्यास्तरुणतरश‍ृङ्गारलहरी-। गभीराभिर्वाग्भिर्विदधति सतां रञ्जनममी ॥ १६॥",
+    "transliteration": "kavīndrāṇāṃ cētaḥkamalavanabālātaparuciṃ . bhajantē yē santaḥ katicidarunāmēva bhavatīm . viriñci-prēyasyās taruṇatara śrṅgāra-laharī- . gabhīrābhirvāgbhirvidadhati satāṃ rañjanamamī ॥ 16 ॥",
+    "translation": "O Mother, Thou Aruṇā, the Crimson-coloured Goddess, art like the light of morning’s rising sun to the lotus flowers constituted of the minds of gifted poets. Therefore, those devoted men who adore Thee become capable of delighting literary connoisseurs with the majestic flow of their words surging like waves of erotic sentiments emanating from youthful Sarasvati."
+  },
+  {
+    "id": "sl-17",
+    "verse_number": "17",
+    "original": "सवित्रीभिर्वाचां शशिमणिशिलाभङ्गरुचिभिः। वशिन्याद्याभिस्त्वां सह जननि संचिन्तयति यः । स कर्ता काव्यानां भवति महतां भङ्गिरुचिभिः। वचोभिर्वाग्देवीवदनकमलामोदमधुरैः ॥ १७॥",
+    "transliteration": "savitrībhirvācāṃ śaśimaṇiśilābhaṅgarucibhiḥ . vaśinyādyābhistvāṃ saha janani saṃcintayati yaḥ . sa kartā kāvyānāṃ bhavati mahatāṃ bhaṅgirucibhiḥ . vacōbhir vāgdēvī-vadana-kamal’āmōda madhuraiḥ ॥ 17 ॥",
+    "translation": "O Mother! Those who meditate on Thee in association with Vaśinī and allied Deities—the sources of speech, whose radiance resembles the lustre of freshly cut Candrakānta gem—can become the authors of great poetical works, sweet with the fragrance of the mouth of Sarasvatī, the goddess of poesy and learning."
+  },
+  {
+    "id": "sl-18",
+    "verse_number": "18",
+    "original": "तनुच्छायाभिस्ते तरुणतरणिश्रीसरणिभिः। दिवं सर्वामुर्वीमरुणिमनि मग्नां स्मरति यः । भवन्त्यस्य त्रस्यद्वनहरिणशालीननयनाः। सहोर्वश्या वश्याः कति कति न गीर्वाणगणिकाः ॥ १८॥",
+    "transliteration": "tanucchāyābhiste taruṇataraṇiśrīsaraṇibhiḥ . divaṃ sarvāmurvīmaruṇimani magnāṃ smarati yaḥ . bhavantyasya trasyadvanahariṇaśālīnanayanāḥ . sahurvaśyā vaśyāḥ kati kati na gīrvāṇagaṇikāḥ ॥ 18 ॥",
+    "translation": "How can numerous celestial courtesans like Urvaśī with eyes resembling timid does of the forest, help being attracted by a person who meditates on the beauty of Thy form which bathes the heaven and the earth in its crimson radiance resembling the rising sun."
+  },
+  {
+    "id": "sl-19",
+    "verse_number": "19",
+    "original": "मुखं बिन्दुं कृत्वा कुचयुगमधस्तस्य तदधो। हरार्धं ध्यायेद्यो हरमहिषि ते मन्मथकलाम् । स सद्यः संक्षोभं नयति वनिता इत्यतिलघु। त्रिलोकीमप्याशु भ्रमयति रवीन्दुस्तनयुगाम् ॥ १९॥",
+    "transliteration": "mukhaṃ binduṃ kṛtvā kucayugamadhastasya tadadhō . harārdhaṃ dhyāyedyō haramahiṣi tē manmathakalām . sa sadyaḥ saṃkṣōbhaṃ nayati vanitā ityatilaghu . trilōkīmapyāśu bhramayati ravīndustanayugām ॥ 19 ॥",
+    "translation": "O Consort of Hara! A votary who contemplates Thy Manmathakalā, thinking of a woman’s face in the Bindu, her twin breasts below it and ‘the half of Hara’ still below, will quickly stir the mind of any woman. This is a trifle for him; in no time he can fascinate even the Triloki (the three worlds conceived as a woman) with the sun and moon as breasts."
+  },
+  {
+    "id": "sl-20",
+    "verse_number": "20",
+    "original": "किरन्तीमङ्गेभ्यः किरणनिकुरम्बामृतरसं। हृदि त्वामाधत्ते हिमकरशिलामूर्तिमिव यः । स सर्पाणां दर्पं शमयति शकुन्ताधिप इव। ज्वरप्लुष्टान् दृष्ट्या सुखयति सुधाधारसिरया ॥ २०॥",
+    "transliteration": "kirantīmaṅgēbhyaḥ kiraṇanikurambāmṛtarasaṃ . hṛdi tvāmādhattē himakaraśilāmūrtimiva yaḥ . sa sarpāṇāṃ darpaṃ śamayati śakuntādhipa iva . jvarapluṣṭān dṛṣṭyā sukhayati sudhādhārasirayā ॥ 20 ॥",
+    "translation": "He who meditates on Thee, who sends forth luminous waves of Bliss from Thy body as an image of moonstone does, will be capable of humbling the pride and ferocity of serpents by his mere look, like Garuḍa. His look can cure any ailment, including fever, like the nectar showering Nādi (nerve)."
+  },
+  {
+    "id": "sl-21",
+    "verse_number": "21",
+    "original": "तटिल्लेखातन्वीं तपनशशिवैश्वानरमयीं। निषण्णां षण्णामप्युपरि कमलानां तव कलाम् । महापद्माटव्यां मृदितमलमायेन मनसा। महान्तः पश्यन्तो दधति परमाह्लादलहरीम् ॥ २१॥",
+    "transliteration": "taṭillekhātanvīṃ tapanaśaśivaiśvānaramayīṃ . niṣaṇṇāṃ ṣaṇṇāmapyupari kamalānāṃ tava kalām . mahāpadmāṭavyāṃ mṛditamalamāyēna manasā . mahāntaḥ paśyantō dadhati paramāhlādalaharīm ॥ 21 ॥",
+    "translation": "The noble spiritual aspirants, whose minds are free from impurities, are filled with thrills of spiritual Bliss by experiencing Thy lightning-like Kalā (Śakti in union with Śiva known as Sadākhyā) in the core of the Thousand-petalled Lotus (Sahasrāra), which transcends the six lotuses and Thy manifestations as fire, sun and moon in them."
+  },
+  {
+    "id": "sl-22",
+    "verse_number": "22",
+    "original": "भवानि त्वं दासे मयि वितर दृष्टिं सकरुणा-। मिति स्तोतुं वाञ्छन् कथयति भवानि त्वमिति यः । तदैव त्वं तस्मै दिशसि निजसायुज्यपदवीं। मुकुन्दब्रह्मेन्द्रस्फुटमकुटनीराजितपदाम् ॥ २२॥",
+    "transliteration": "bhavāni tvaṃ dāsē mayi vitara dṛṣṭiṃ sakaruṇā- . iti stōtuṃ vāñchan kathayati bhavāni tvamiti yaḥ . tadaiva tvaṃ tasmai diśasi nijasāyujyapadavīṃ . mukunda-brahmēndra-sphuṭa-makuṭa-nīrājita-padām ॥ 22 ॥",
+    "translation": "Whoever, desiring to pray to Thee in terms like ‘Oh Bhavāni, bestow Thy gracious glance on me, Thy servant,’ even before he utters ‘Bhavāni tvam’ (May I become Thou), Thou art wont to bestow on him the status of oneness with Thy feet, at which Divinities like Viṣṇu, Brahmā and Indra are performing the lustration ceremony with the brilliance of their diadems."
+  },
+  {
+    "id": "sl-23",
+    "verse_number": "23",
+    "original": "त्वया हृत्वा वामं वपुरपरितृप्तेन मनसा। शरीरार्धं शम्भोरपरमपि शङ्के हृतमभूत् । यदेतत्त्वद्रूपं सकलमरुणाभं त्रिनयनं। कुचाभ्यामानम्रं कुटिलशशिचूडालमकुटम् ॥ २३॥",
+    "transliteration": "tvayā hṛtvā vāmaṃ vapuraparitṛptēna manasā . śarīrārdhaṃ śambhōraparamapi śaṅkē hṛtamabhūt . yadētattvadrūpaṃ sakalamaruṇābhaṃ trinayanaṃ . kucābhyāmānamraṃ kuṭilaśaśicūḍālamakuṭam ॥ 23 ॥",
+    "translation": "I have a feeling that, unsatisfied even after having appropriated the left half of Śambhu (Śiva) as Ardhanarīśvara, Thou hast also invaded his right half; for Thy form that shines in my heart is totally crimson in complexion and slightly bent by the weight of the two breasts, besides having three eyes and the crescent moon in the diadem."
+  },
+  {
+    "id": "sl-24",
+    "verse_number": "24",
+    "original": "जगत्सूते धाता हरिरवति रुद्रः क्षपयते। तिरस्कुर्वन्नेतत्स्वमपि वपुरीशस्तिरयति । सदापूर्वः सर्वं तदिदमनुगृह्णाति च शिव-। स्तवाज्ञामालम्ब्य क्षणचलितयोर्भ्रूलतिकयोः ॥ २४॥",
+    "transliteration": "jagatsūtē dhātā hariravati rudraḥ kṣapayate . tiraskurvannetat svamapi vapurīśastirayati . sadāpūrvaḥ sarvaṃ tadidamanugṛhṇāti ca śiva- . stavājñāmālambya kṣaṇacalitayōrbhrūlatikayōḥ ॥ 24 ॥",
+    "translation": "Brahmā creates; Hari sustains; Rudra destroys; Īśa absorbs all these Deities into Himself and disappears into Sadāśiva. Then Sadāśiva, on receiving the mandate from Thee by a movement of Thy creeper-like brows, blesses (manifests) them into activity."
+  },
+  {
+    "id": "sl-25",
+    "verse_number": "25",
+    "original": "त्रयाणां देवानां त्रिगुणजनितानां तव शिवे। भवेत् पूजा पूजा तव चरणयोर्या विरचिता । तथा हि त्वत्पादोद्वहनमणिपीठस्य निकटे। स्थिता ह्येते शश्वन्मुकुलितकरोत्तंसमकुटाः ॥ २५॥",
+    "transliteration": "trayāṇāṃ dēvānāṃ triguṇajanitānāṃ tava śivē . bhavēt pūjā pūjā tava caraṇayōryā viracitā . tathā hi tvatpādōdvahanamaṇipīṭhasya nikaṭē . sthitā hyētē śaśvanmukuli-takarōttaṃsamakuṭāḥ ॥ 25 ॥",
+    "translation": "The worship done at Thy feet, O Consort of Śiva, is also the worship of all the three Deities (Brahmā, Viṣṇu, and Śiva), who have their origin in Thy three Guṇas. They require no special worship, because they are ever waiting with their joined palms held above their diademed heads in salutation to Thee by the side of the diamond foot-stool that bears Thy feet."
+  },
+  {
+    "id": "sl-26",
+    "verse_number": "26",
+    "original": "विरिञ्चिः पञ्चत्वं व्रजति हरिराप्नोति विरतिं। विनाशं कीनाशो भजति धनदो याति निधनम् । वितन्द्री माहेन्द्री विततिरपि संमीलितदृशा। महासंहारेऽस्मिन् विहरति सति त्वत्पतिरसौ ॥ २६॥",
+    "transliteration": "viriñciḥ pañcatvaṃ vrajati harirāpnōti viratiṃ . vināśaṃ kīnāśō bhajati dhanadō yāti nidhanam . vitandrī māhēndrī vitatirapi saṃmīlitadṛśā . mahāsaṃhārē’smin viharati sati tvatpatirasau ॥ 26 ॥",
+    "translation": "Viriñci (Brahmā) is reduced into elements; Hari (Viṣṇu) retires into passivity; Kīnāśa (Yama) himself dies; Kubera meets with his end; and Indra with all his followers closes his eyes in destruction. When such is the state of all beings at the time of the total dissolution (Mahāsaṃhāra), Thy husband Sadāśiva alone is sporting."
+  },
+  {
+    "id": "sl-27",
+    "verse_number": "27",
+    "original": "जपो जल्पः शिल्पं सकलमपि मुद्राविरचना। गतिः प्रादक्षिण्यक्रमणमशनाद्याहुतिविधिः । प्रणामस्संवेशस्सुखमखिलमात्मार्पणदृशा। सपर्यापर्यायस्तव भवतु यन्मे विलसितम् ॥ २७॥",
+    "transliteration": "japo jalpaḥ śilpam sakalam api mudrā-viracanā . gatiḥ prādakṣiṇya-kramaṇam aśanādy’āhuti-vidhiḥ . praṇāmaḥ samveśaḥ sukham akilam ātmārpaṇa-dṛśā . saparyā-paryāyas tava bhavatu yan me vilasitam ॥ 27 ॥",
+    "translation": "May everything that I do with the sense of self-dedication be items in Thy service: my prattle, the utterance of Thy Mantra; the movements of my hand, the gestures of Thy worship; my walking, Thy circumambulation; my eating, fire-sacrifice to Thee; the stretching of the body in sleep and rest, prostration to Thee; and all my enjoyments, offerings made to Thee."
+  },
+  {
+    "id": "sl-28",
+    "verse_number": "28",
+    "original": "सुधामप्यास्वाद्य प्रतिभयजरामृत्युहरिणीं। विपद्यन्ते विश्वे विधिशतमखाद्या दिविषदः । करालं यत्क्ष्वेलं कबलितवतः कालकलना। न शम्भोस्तन्मूलं तव जननि ताटङ्कमहिमा ॥ २८॥",
+    "transliteration": "sudhāmapyāsvādya pratibhayajarāmṛtyuhariṇīṃ . vipadyantē viśvē vidhiśatamakhādyā diviṣadaḥ . karālaṃ yatkṣvēlaṃ kabalitavatō kālakalanā . na śambhōstanmūlaṃ tava janani tāṭaṅkamahimā ॥ 28 ॥",
+    "translation": "Even after consuming nectar, Deities like Brahmā and Indra perish finally at the time of cosmic dissolution. But in spite of taking the terrible Kālakūṭa poison, Thy Consort Śiva enjoys a life-span that has no end. The cause of this, O Mother, is indeed the unique glory of Thy ear ornament!"
+  },
+  {
+    "id": "sl-29",
+    "verse_number": "29",
+    "original": "किरीटं वैरिञ्चं परिहर पुरः कैटभभिदः। कठोरे कोटीरे स्खलसि जहि जम्भारिमुकुटम् । प्रणम्रेष्वेतेषु प्रसभमुपयातस्य भवनं। भवस्याभ्युत्थाने तव परिजनोक्तिर्विजयते ॥ २९॥",
+    "transliteration": "kirīṭaṃ vairiñcaṃ parihara puraḥ kaiṭabhabhidaḥ . kaṭhōrē kōṭīrē skhalasi jahi jambhārimukuṭam . praṇamrēṣvētēṣu prasabhamupayātasya bhavanaṃ . bhavasyābhyutthānē tava parijanōktirvijayatē ॥ 29 ॥",
+    "translation": "On Thy Consort Bhava approaching Thy abode unannounced, as Thou springest up in great haste to receive Him, Thy attendants caution Thee, crying out, 'Deign to keep away from the diadem of Viriñci (Brahmā); avoid tumbling over the heavy crown of Kaiṭabhārī (Viṣṇu); beware of the crest of Jambhāri (Indra).'"
+  },
+  {
+    "id": "sl-30",
+    "verse_number": "30",
+    "original": "स्वदेहोद्भूताभिर्घृणिभिरणिमाद्याभिरभितो। निषेव्ये नित्ये त्वामहमिति सदा भावयति यः । किमाश्चर्यं तस्य त्रिनयनसमृद्धिं तृणयतो। महासंवर्ताग्निर्विरचयति निराजनविधिम् ॥ ३०॥",
+    "transliteration": "svadēhōdbhūtābhirghṛṇibhiraṇimādyābhirabhito . niṣēvyē nityē tvāmahamiti sadā bhāvayati yaḥ . kimāścaryam tasya trinayanasamṛddhiṃ tṛṇayatō . mahāsaṃvartāgnirviracayati nirājanavidhim ॥ 30 ॥",
+    "translation": "O Mother eternal! By ever meditating with a feeling of identification with Thee, who art surrounded by divine powers like Aṇimā, which are rays emanating from Thy feet, a devotee attains to glories far above even those of Śiva. What wonder then that even the conflagration of Cosmic Dissolution proves only to be the rite of Nīrājana to him."
+  },
+  {
+    "id": "sl-31",
+    "verse_number": "31",
+    "original": "चतुष्षष्ट्या तन्त्रैः सकलमतिसंधाय भुवनं। स्थितस्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः । पुनस्त्वन्निर्बन्धादखिलपुरुषार्थैकघटना-। स्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम् ॥ ३१॥",
+    "transliteration": "catuṣṣaṣṭyā tantraiḥ sakalamatisamdhāya bhuvanaṃ . sthitastattatsiddhiprasavaparatantraiḥ paśupatiḥ . punastvannirbandhādakhilapuruṣārthaikaghaṭanā- . svatantraṃ tē tantraṃ kṣititalamavātītaradidamt ॥ 31 ॥",
+    "translation": "Paśupati (Śiva) at first remained satisfied after 'deluding' the world, by giving out the sixty-four Tantras, which expound practices conferring only one or another of the psychic powers. Afterwards, on Thy special insistence, He revealed this Thy own Tantra (Śrī Vidyā) to the world, independent of all the others and capable of conferring all the Puruṣārthas—Dharma, Artha, Kāma and Mokṣa—by Itself."
+  },
+  {
+    "id": "sl-32",
+    "verse_number": "32",
+    "original": "शिवः शक्तिः कामः क्षितिरथ रविः शीतकिरणः। स्मरो हंसः शक्रस्तदनु च परामारहरयः । अमी हृल्लेखाभिस्तिसृभिरवसानेषु घटिता। भजन्ते वर्णास्ते तव जननि नामावयवताम् ॥ ३२॥",
+    "transliteration": "śivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītakiraṇaḥ . smarō haṃsaḥ śakrastadanu ca parāmāraharayaḥ . amī hṛllēkhābhistisṛbhiravasānēṣu ghaṭitā . bhajantē varṇāstē tava janani nāmāvayavatām ॥ 32 ॥",
+    "translation": "O Mother! The syllables Ka, e, i, la (Śiva, Śakti, Kāma, Kṣiti); Ha, sa, ka, ha, la (Ravi, Śītakiraṇa, Smara, Haṃsa, Śakra); and Sa, ka, la (Parā, Māra, Hari), each group joined at the end with Hṛllekhā (Hrīm), become the component parts of Thy Name (Mantra)."
+  },
+  {
+    "id": "sl-33",
+    "verse_number": "33",
+    "original": "स्मरं योनिं लक्ष्मीं त्रितयमिदमादौ तव मनो-। र्निधायैके नित्ये निरवधिमहाभोगरसिकाः । भजन्ति त्वां चिन्तामणिगुननिबद्धाक्षवलयाः। शिवाग्नौ जुह्वन्तः सुरभिघृतधाराहुतिशतैः ॥ ३३॥",
+    "transliteration": "smaraṃ yōniṃ lakṣmīṃ tritayamidamādau tava manō- . rnidhāyai-kē nityē niravadhimahābhōgarasikāḥ . bhajanti tvāṃ cintāmaṇigunanibaddhākṣavalayāḥ . śivāgnau juhvantaḥ surabhighṛtadhārāhutiśataiḥ ॥ 33 ॥",
+    "translation": "Some connoisseurs of the highest Enjoyment, adding the Bīja-syllables of Kāmarāja (Klīm), Bhuvaneśvarī (Hrīm), and Śri (Śrīm) before Thy Mantra, and adorned with a necklace of Cintāmaṇi, worship Thee with oblations consisting of countless streams of Kāmadhenu’s ghee in the purified fire of Śivā (Śakti)."
+  },
+  {
+    "id": "sl-34",
+    "verse_number": "34",
+    "original": "शरीरं त्वं शम्भोः शशिमिहिरवक्षोरुहयुगं। तवात्मानं मन्ये भगवति नवात्मानमनघम् । अतश्शेषश्शेषीत्ययमुभयसाधारणतया। स्थितः संबन्धो वां समरसपरानन्दपरयोः ॥ ३४॥",
+    "transliteration": "śarīraṃ tvaṃ śambhōḥ śaśimihiravakṣōruhayugaṃ . tavātmānaṃ manyē bhagavati navātmānamanagham . ataśśēṣaśśēṣītyayamubhayasādhāraṇatayā . sthitaḥ saṃbandhō vāṃ samarasaparānandaparayōḥ ॥ 34 ॥",
+    "translation": "O Bhagavati! Thou art verily the body of Śambhu with the sun and the moon as the two breasts. And Thy being is verily the flawless Śambhu, having nine aspects. Therefore in the matter of the relationship of the subservient and the essential entity, both Parānanda (Ānanda-bhairava) and Parā (Ānanda-bhairavī) stand on an equal footing."
+  },
+  {
+    "id": "sl-35",
+    "verse_number": "35",
+    "original": "मनस्त्वं व्योम त्वं मरुदसि मरुत्सारथिरसि। त्वमापस्त्वं भूमिस्त्वयि परिणतायां न हि परम् । त्वमेव स्वात्मानं परिणमयितुं विश्ववपुषा। चिदानन्दाकारं शिवयुवति भावेन बिभृषे ॥ ३५॥",
+    "transliteration": "manastvaṃ vyōma tvaṃ marudasi marutsārathirasi . tvamāpastvaṃ bhūmistvayi pariṇatāyāṃ na hi param . tvamēva svātmānaṃ pariṇamayituṃ viśvavapuṣā . cidānandākāraṃ śivayuvati bhāvēna bibhṛṣē ॥ 35 ॥",
+    "translation": "Thou art the Mind, Thou art Ākāśa, Vāyu, Fire, Water and Earth too. When Thou hast transformed Thyself into the form of the universe, there is nothing beyond Thee. It is to transform Thyself into the universe that Thou assumest this form of Consciousness-Bliss as Śiva’s Consort (His Śakti)."
+  },
+  {
+    "id": "sl-36",
+    "verse_number": "36",
+    "original": "तवाज्ञाचक्रस्थं तपनशशिकोटिद्युतिधरं। परं शम्भुं वन्दे परिमिलितपार्श्वं परचिता । यमाराध्यन् भक्त्या रविशशिशुचीनामविषये। निरालोकेऽलोके निवसति हि भालोकभवने ॥ ३६॥",
+    "transliteration": "tavājñācakrasthaṃ tapanaśaśikōṭidyutidharaṃ . paraṃ śambhuṃ vandē parimilitapārśvaṃ paracitā . yamārādhyan bhaktyā raviśaśiśucīnāmaviṣayē . nirālōkē’lōkē nivasati hi bhālōkabhavanē ॥ 36 ॥",
+    "translation": "I salute the Supreme Śambhu residing in Thy Ājñā-Cakra, who is resplendent as crores of suns and moons, and whose side is integrated with the Supreme Consciousness (Devi). He who adores Him attains that Self-luminous State which is not a Loka, which transcends the pale of the light of Moon, Sun and Fire."
+  },
+  {
+    "id": "sl-37",
+    "verse_number": "37",
+    "original": "विशुद्धौ ते शुद्धस्फटिकविशदं व्योमजनकं। शिवं सेवे देवीमपि शिवसमानव्यवसिताम् । ययोः कान्त्या यान्त्याः शशिकिरणसारूप्यसरणे-। विधूतान्तर्ध्वान्ता विलसति चकोरीव जगती ॥ ३७॥",
+    "transliteration": "viśuddhau tē śuddhasphaṭikaviśadaṃ vyōmajanakaṃ . śivaṃ sēvē dēvīmapi śivasamānavyavasitām . yayōḥ kāntyā yāntyāḥ śaśikiraṇasārūpyasaraṇē- . vidhūtāntardhvāntā vilasati cakōrīva jagatī ॥ 37 ॥",
+    "translation": "In Thy Viśuddhi cakra, I meditate on Śiva, the creator of Ākāśa (Ether), resembling a pure crystal, along with the Devī who is equal to Śiva. In the Lunar Brilliance proceeding from them both, the whole universe, free from the Darkness of Ignorance, rejoices like the bird Cakorī (female partridge)."
+  },
+  {
+    "id": "sl-38",
+    "verse_number": "38",
+    "original": "समुन्मीलत् संवित् कमलमकरन्दैकरसिकं। भजे हंसद्वन्द्वं किमपि महतां मानसचरम् । यदालापादष्टादशगुणितविद्यापरिणति-। र्यादादत्ते दोषाद् गुणमखिलमद्भ्यः पय इव ॥ ३८॥",
+    "transliteration": "samunmīlat saṃvit kamalamakarandaikarasikaṃ . bhajē haṃsadvandvaṃ kimapi mahatāṃ mānasacaram . yadālāpādaṣṭādaśaguṇitavidyāpariṇati- . ryadādatte dōṣād guṇamakhilamadbhyaḥ paya iva ॥ 38 ॥",
+    "translation": "I adore the pair of Swans (Śiva-Śakti) who take delight in imbibing the honey of the full-blown Lotus of Knowledge of the Anāhata-cakra, and who swim in the Mānasa lake of the mind of enlightened ones. Their mutual conversation has become the eighteen Vidyās, and they separate good from evil, as a swan separates milk from the water with which it is diluted."
+  },
+  {
+    "id": "sl-39",
+    "verse_number": "39",
+    "original": "तव स्वाधिष्ठाने हुतवहमधिष्ठाय निरतं। तमीडे संवर्तं जननि महतीं तां च समयाम् । यदालोके लोकान् दहति महति क्रोधकलिते। दयार्द्रा या दृष्टिः शिशिरमुपचारं रचयति ॥ ३९॥",
+    "transliteration": "tava svādhiṣṭhānē hutavahamadhiṣṭhāya nirataṃ . tamīḍē saṃvartaṃ janani mahatīṃ tāṃ ca samayām . yadālōkē lōkān dahati mahati krōdhakalitē . dayārdrā yā dṛṣṭiḥ śiśiramupacāraṃ racayati ॥ 39 ॥",
+    "translation": "O Mother! Invoking Samvarta (Kālāgni-Rudra), the lord of the Fire of Dissolution in the Fire Element of Thy Svādhiṣṭhāna-cakra, I adore Him along with Thee, Samayā, the great Potency of Rudra. When the angry looks of Rudra burn up the universe, it is Thy merciful look that bestows on them the reviving blessing of coolness."
+  },
+  {
+    "id": "sl-40",
+    "verse_number": "40",
+    "original": "तटित्त्वन्तं शक्त्या तिमिरपरिपन्थिफुरणया। स्फुरन्नानारत्नाभरणपरिणद्धेन्द्रधनुषम् । तव श्यामं मेघं कमपि मणिपूरैकशरणं। निषेवे वर्षन्तं हरमिहिरतप्तं त्रिभुवनम् ॥ ४०॥",
+    "transliteration": "taṭittvantaṃ śaktyā timiraparipanthiphuraṇayā . sphuran-nānā-ratn’ābharaṇa-pariṇaddhendra dhanuṣam . tava śyāmaṃ mēghaṃ kamapi maṇipūraikaśaraṇaṃ . niṣēvē varṣantaṃ haramihirataptaṃ tribhuvanam ॥ 40 ॥",
+    "translation": "I worship that unique dark-blue Rain Cloud which abides ever in the Maṇipūra sending showers on the universe that has been burnt by the sun of Rudra—the Rain-cloud that is illumined by the brilliant lightning in the form of Śakti, revealing the rain-bow made by the reflection of the numerous sparkling gems, and dispelling the darkness reigning in the Maṇipūra."
+  }
   ]
 }
