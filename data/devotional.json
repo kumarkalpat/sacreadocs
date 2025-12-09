@@ -83,9 +83,19 @@
           "audioSource": "Mere Ghar Ram Aaye Hain Credit - Jubin Nautiyal - Payal Dev - Manoj Muntashir"
         },
         {
-          "Track": 16,
+          "Track": 17,
           "audioUrl": "https://youtu.be/HZfzqDnZNu8?si=M1rjeeHLmcOhaM9M",
           "audioSource": "Pranamya Shirasa Devam | S P Balasubramaniam | Ajay Atul"
+        },
+        {
+          "Track": 18,
+          "audioUrl": "https://youtu.be/H9tWRGxuKTw?si=YS-Xo8AvmAzgimQQ",
+          "audioSource": "Shree Siddhivinayak Mantra & Aarti |Amitabh Bachchan"  
+      		},       
+						 {
+          "Track": 19,
+          "audioUrl": "https://music.youtube.com/watch?v=WnbeV3eMH4s&si=tnIyCN4RC8qURY3a",
+          "audioSource": "Madhurashtakam - MS Subbulakshmi"
         }           
     ],
     "discourses": [
@@ -121,3 +131,4 @@
     ]
   }
 }
+
