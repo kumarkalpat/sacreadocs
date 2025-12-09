@@ -84,7 +84,7 @@
     "audioUrl": "https://archive.org/download/Ganapati_Atharvashirsha/ShriGaneshAtharvashirsha1.mp3",
     "audioSource": "Archive.org",
     "introduction": "The Ganapati Atharvashirsha (also known as the Ganapati Upanishad) is a Sanskrit text and a minor Upanishad of Hinduism, specifically associated with the Atharvaveda. It is a late Upanishadic text dedicated to **Lord Ganesha**, the deity of intellect, wisdom, and the remover of obstacles. The text elevates Ganesha to the status of **Brahman**, the Supreme Reality, asserting that he is the essence of all existence, the creator, sustainer, and destroyer of the universe. Chanting this hymn is considered highly meritorious, leading to spiritual fulfillment, success, and liberation (Moksha). The text is generally considered to have ten core verses (mantras) preceded by a Shanti Mantra (Peace Invocation) and followed by a PhalaSruti (statement of benefits).",
-    "path": "ganapati-atharvashirsha2.json",
+    "path": "ganapati-atharvashirsha.json",
     "coverImage": "images/ganapati.png"
   },
   {
@@ -94,7 +94,7 @@
     "audioUrl": "https://music.youtube.com/watch?v=Nre6Qt7Fqv4&si=03d7RrlIqG9qliGP",
     "audioSource": "Challakere Brothers - Youtube Music",
     "introduction": "Sri Rudram is a Vedic hymn dedicated to Lord Rudra (Shiva). It consists of two parts: Namakam (11 anuvakas) praising Rudra in his many forms, and Chamakam (11 anuvakas) requesting blessings. Together they form 22 sections (~220 verses).",
-    "path": "sri-rudram2.json",
+    "path": "sri-rudram.json",
     "coverImage": "images/sri-rudram.png"
   },
   {
@@ -164,7 +164,7 @@
     "introduction": "The Skanda Sashti Kavacham is one of the most popular protective hymns in Tamil literature, devoted to Lord Murugan, also known as Skanda, Karttikeya, or Subramanya. Composed in a rhythmic poetic style, the hymn invokes the Lord (in His various forms and associated locations like Pazhani, Thiruthani, Swamimalai, etc.) to protect every part of the devotee's body, acting as a divine armor against all harm, poisons, evil spirits, and diseases.",
     "audioUrl": "https://archive.org/download/skandha-sashti-kavacham-and-sri-skandha-guru-kavacham/Skandha%20Sashti%20Kavacham%20and%20Sri%20Skandha%20Guru%20Kavacham/01-Skandha%20Sashti%20Kavasam.mp3",
     "audioSource": "Archive.org",
-    "path": "skanda-sashti-kavacham2.json",
+    "path": "skanda-sashti-kavacham.json",
     "coverImage": "images/skanda-sashti-kavacham.png"
   },
   {
