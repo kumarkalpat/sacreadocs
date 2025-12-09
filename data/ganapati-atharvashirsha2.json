@@ -123,24 +123,28 @@
       "id": "13",
       "verse_number": "13",
       "startTime": 341,
-      "endTime": 362,
+      "endTime": 363,
       "original": "यो दूर्वांकुरैर्यजति स वैश्रवणोपमो भवति ॥\nयो लाजैर्यजति स यशोवान् भवति ॥ स मेधावान् भवति ॥\nयो मोदकसहस्रेण यजति स वाञ्छितफलमवाप्नोति ॥\nयः साज्यसमिद्भिर्यजति स सर्वं लभते स सर्वं लभते ॥ १३॥",
       "transliteration": "yo dūrvāṅkurairyajati sa vaiśravaṇopamo bhavati . \nyo lājairyajati sa yaśovān bhavati . sa medhāvān bhavati . \nyo modakasahasreṇa yajati sa vāñchitaphalamavāpnoti . \nyaḥ sājya samidbhiryajati sa sarvaṃ labhate sa sarvaṃ labhate. 13",
       "translation": "He who worships (Lord Ganapati) with blades of durvā grass becomes as rich as the God of wealth, Kubera.\nHe who worships with parched grains, becomes famous (and successful); he becomes a very intelligent person.\nHe who worships with a thousands modakas, gets his cherished desires fulfilled.\nOne who performs sacrifices by offering wood together with ghee as oblation, gets everything. He gets everything."
     },
-  {
-    "id": "14",
-    "verse_number": "14",
-    "original": "अष्टौ ब्राह्मणान् सम्यग्ग्राहयित्वा\nसूर्यवर्चस्वी भवति ॥\nसूर्यग्रहे महानद्यां प्रतिमासंनिधौ\nवा जप्त्वा सिद्धमंत्रो भवति ॥\nमहाविघ्नात्प्रमुच्यते ॥ महादोषात्प्रमुच्यते ॥\nमहापापात् प्रमुच्यते ॥\nस सर्वविद्भवति स सर्वविद्भवति ॥\nय एवं वेद इत्युपनिषत् ॥ १४॥",
-    "transliteration": "aṣṭau brāhmaṇān samyaggrāhayitvā\nsūryavarcasvī bhavati . \nsūryagrahe mahānadyāṃ pratimāsannidhau \nvā japtvā siddhamantro bhavati . \nmahāvighnāt pramucyate . mahādoṣātpramucyate . \nmahāpāpāt pramucyate . mahāpratyavāyāt pramucyate. \nsa sarvavidbhavati sa sarvavidbhavati . \nya evaṃ veda ityupaniṣat. 14",
-    "translation": "By teaching this to eight Brāhmaṇas, one becomes brilliant like the Sun.\nBy chanting this at the time of a solar eclipse, or near a river or near a statue (of Ganapati), one attains perfection (siddhi) of the mantra.\nOne is freed from great obstacles. One is freed from great defects. One is freed from great sins. One is freed from great retribution.\nHe becomes omniscient. He becomes omniscient. He who knows this (attains the fruit). Thus is the Upanishad."
-  },
-  {
-    "id": "15",
-    "verse_number": "Śānti Pāṭha",
-    "original": "ॐ भद्रं कर्णेभिः श‍ृणुयाम देवा ।\nभद्रं पश्येमाक्षभिर्यजत्राः ॥\nस्थिरैरङ्गैस्तुष्टुवाग्‍ँसस्तनूभिः ।\nव्यशेम देवहितं यदायुः ॥\nॐ स्वस्ति न इन्द्रो वृद्धश्रवाः ।\nस्वस्ति नः पूषा विश्ववेदाः ॥\nस्वस्तिनस्तार्क्ष्यो अरिष्टनेमिः ।\nस्वस्ति नो बृहस्पतिर्दधातु ॥\nॐ शांतिः । शांतिः ॥ शांतिः॥।",
-    "transliteration": "oṃ bhadraṃ karṇebhiḥ śṛṇuyāma devā . \nbhadraṃ paśyemākṣabhiryajatrāḥ . \nsthirairaṅgaistuṣṭuvāgṃ sastanūbhiḥ . \nvyaśema devahitaṃ yadāyuḥ . \noṃ svasti na indro vṛddhaśravāḥ . \nsvasti naḥ pūṣā viśvavedāḥ . \nsvastinastārkṣyo ariṣṭanemiḥ . \nsvasti no bṛhaspatirdadhātu . \noṃ śāntiḥ śāntiḥ śāntiḥ ..",
-    "translation": "O Deities! By ears may we hear what is auspicious; by eyes may we see what is auspicious; O Worshipped ones! With hale and hearty limbs may we live offering our praises (unto Thee). For the benefit of God may we live the entire span of life. May the ancient and famous Indra give blessings to us. May the all-knowing Sun give blessings to us. May the Lord of swift motion (Garuda), who removes our obstacles give blessings to us. May Brhaspati (Guru of deities) give blessings to us. Let there be peace, let there be peace, let there be peace."
-  }  
-]
+    {
+      "id": "14",
+      "verse_number": "14",
+      "startTime": 364,
+      "endTime": 394,
+      "original": "अष्टौ ब्राह्मणान् सम्यग्ग्राहयित्वा\nसूर्यवर्चस्वी भवति ॥\nसूर्यग्रहे महानद्यां प्रतिमासंनिधौ\nवा जप्त्वा सिद्धमंत्रो भवति ॥\nमहाविघ्नात्प्रमुच्यते ॥ महादोषात्प्रमुच्यते ॥\nमहापापात् प्रमुच्यते ॥\nस सर्वविद्भवति स सर्वविद्भवति ॥\nय एवं वेद इत्युपनिषत् ॥ १४॥",
+      "transliteration": "aṣṭau brāhmaṇān samyaggrāhayitvā\nsūryavarcasvī bhavati . \nsūryagrahe mahānadyāṃ pratimāsannidhau \nvā japtvā siddhamantro bhavati . \nmahāvighnāt pramucyate . mahādoṣātpramucyate . \nmahāpāpāt pramucyate . mahāpratyavāyāt pramucyate. \nsa sarvavidbhavati sa sarvavidbhavati . \nya evaṃ veda ityupaniṣat. 14",
+      "translation": "By teaching this to eight Brāhmaṇas, one becomes brilliant like the Sun.\nBy chanting this at the time of a solar eclipse, or near a river or near a statue (of Ganapati), one attains perfection (siddhi) of the mantra.\nOne is freed from great obstacles. One is freed from great defects. One is freed from great sins. One is freed from great retribution.\nHe becomes omniscient. He becomes omniscient. He who knows this (attains the fruit). Thus is the Upanishad."
+    },
+    {
+      "id": "15",
+      "verse_number": "Śānti Pāṭha",
+      "startTime": 395,
+      "endTime": null,
+      "original": "ॐ भद्रं कर्णेभिः श‍ृणुयाम देवा ।\nभद्रं पश्येमाक्षभिर्यजत्राः ॥\nस्थिरैरङ्गैस्तुष्टुवाग्‍ँसस्तनूभिः ।\nव्यशेम देवहितं यदायुः ॥\nॐ स्वस्ति न इन्द्रो वृद्धश्रवाः ।\nस्वस्ति नः पूषा विश्ववेदाः ॥\nस्वस्तिनस्तार्क्ष्यो अरिष्टनेमिः ।\nस्वस्ति नो बृहस्पतिर्दधातु ॥\nॐ शांतिः । शांतिः ॥ शांतिः॥।",
+      "transliteration": "oṃ bhadraṃ karṇebhiḥ śṛṇuyāma devā . \nbhadraṃ paśyemākṣabhiryajatrāḥ . \nsthirairaṅgaistuṣṭuvāgṃ sastanūbhiḥ . \nvyaśema devahitaṃ yadāyuḥ . \noṃ svasti na indro vṛddhaśravāḥ . \nsvasti naḥ pūṣā viśvavedāḥ . \nsvastinastārkṣyo ariṣṭanemiḥ . \nsvasti no bṛhaspatirdadhātu . \noṃ śāntiḥ śāntiḥ śāntiḥ ..",
+      "translation": "O Deities! By ears may we hear what is auspicious; by eyes may we see what is auspicious; O Worshipped ones! With hale and hearty limbs may we live offering our praises (unto Thee). For the benefit of God may we live the entire span of life. May the ancient and famous Indra give blessings to us. May the all-knowing Sun give blessings to us. May the Lord of swift motion (Garuda), who removes our obstacles give blessings to us. May Brhaspati (Guru of deities) give blessings to us. Let there be peace, let there be peace, let there be peace."
+    }
+  ]
 }
