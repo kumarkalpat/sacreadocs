@@ -2,110 +2,145 @@
   "id": "ganapati-atharvashirsha",
   "verses_count": 14,
   "verses": [
+    {
+      "id": "ga-shanti",
+      "verse_number": "Śānti Pāṭha",
+      "startTime": 0,
+      "endTime": 43,
+      "original": "ॐ भद्रं कर्णेभिः श‍ृणुयाम देवा ।\nभद्रं पश्येमाक्षभिर्यजत्राः ॥\nस्थिरैरङ्गैस्तुष्टुवाग्‍ँसस्तनूभिः ।\nव्यशेम देवहितं यदायुः ॥\nॐ स्वस्ति न इन्द्रो वृद्धश्रवाः ।\nस्वस्ति नः पूषा विश्ववेदाः ॥\nस्वस्तिनस्तार्क्ष्यो अरिष्टनेमिः ।\nस्वस्ति नो बृहस्पतिर्दधातु ॥\nॐ शांतिः । शांतिः ॥ शांतिः॥।",
+      "transliteration": "oṃ bhadraṃ karṇebhiḥ śṛṇuyāma devā . \nbhadraṃ paśyemākṣabhiryajatrāḥ . \nsthirairaṅgaistuṣṭuvāgṃ sastanūbhiḥ . \nvyaśema devahitaṃ yadāyuḥ . \noṃ svasti na indro vṛddhaśravāḥ . \nsvasti naḥ pūṣā viśvavedāḥ . \nsvastinastārkṣyo ariṣṭanemiḥ . \nsvasti no bṛhaspatirdadhātu . \noṃ śāntiḥ śāntiḥ śāntiḥ ..",
+      "translation": "O Deities! By ears may we hear what is auspicious; by eyes may we see what is auspicious; O Worshipped ones! With hale and hearty limbs may we live offering our praises (unto Thee). For the benefit of God may we live the entire span of life. May the ancient and famous Indra give blessings to us. May the all-knowing Sun give blessings to us. May the Lord of swift motion (Garuda), who removes our obstacles give blessings to us. May Brhaspati (Guru of deities) give blessings to us. Let there be peace, let there be peace, let there be peace."
+    },
+    {
+      "id": "1",
+      "verse_number": "1",
+      "startTime": 44,
+      "endTime": 65,
+      "original": "हरिः ॐ नमस्ते गणपतये ॥\nत्वमेव प्रत्यक्षं तत्त्वमसि ॥\nत्वमेव केवलं कर्ताऽसि ॥\nत्वमेव केवलं धर्ताऽसि ॥\nत्वमेव केवलं हर्ताऽसि ॥\nत्वमेव सर्वं खल्विदं ब्रह्मासि ॥\nत्वं साक्षादात्माऽसि नित्यम् ॥१॥",
+      "transliteration": "hariḥ oṃ namaste gaṇapataye . \ntvameva pratyakṣaṃ tattvamasi . \ntvameva kevalaṃ kartā’si . \ntvameva kevalaṃ dhartā’si . \ntvameva kevalaṃ hartā’si . \ntvameva sarvaṃ khalvidaṃ brahmāsi . \ntvaṃ sākṣādātmā’si nityam. 1",
+      "translation": "Om. Prostration to Lord Ganapathi who is of the nature of OM. You alone are the direct essence of the statement ‘That thou art’. You alone indeed are the creator, sustainer and destroyer. You alone as Brahman are indeed all this. You are the directly experienced Self which is eternal."
+    },
+    {
+      "id": "2",
+      "verse_number": "2",
+      "startTime": 66,
+      "endTime": 69,
+      "original": "ऋतं वच्मि (वदिष्यामि) ॥ सत्यं वच्मि (वदिष्यामि) ॥ २॥",
+      "transliteration": "ṛtaṃ vacmi (vadiṣyāmi) . satyaṃ vacmi (vadiṣyāmi) 2",
+      "translation": "I speak the Truth (as determined by the scriptures). I speak the Truth (as directly experienced and verified by myself)."
+    },
+    {
+      "id": "3",
+      "verse_number": "3",
+      "startTime": 70,
+      "endTime": 98,
+      "original": "अव त्वं माम् ॥ अव वक्तारम् ॥ अव श्रोतारम् ॥\nअव दातारम् ॥ अव धातारम् ॥\nअवानूचानमव शिष्यम् ॥\nअव पश्चात्तात् ॥ अव पुरस्तात् ॥\nअवोत्तरात्तात् ॥ अव दक्षिणात्तात् ॥\nअव चोर्ध्वात्तात् ॥ अवाधरात्तात् ॥\nसर्वतो मां पाहि पाहि समंतात् ॥ ३॥",
+      "transliteration": "ava tvaṃ mām . ava vaktāram . ava śrotāram . \nava dātāram . ava dhātāram . \navānūcānamava śiṣyam . \nava paścāttāt . ava purastāt . \navottarāttāt . ava dakṣiṇāttāt . \nava cordhvāttāt . avādharāttāt . \nsarvato māṃ pāhi pāhi samantāt. 3",
+      "translation": "You please protect me. Please protect the speaker, the listener, the donor and the supporter. Please protect the teacher and the disciple. Please protect me from all four directions (east, west, north and south). Please protect me from the above and below. Please protect me totally from all directions."
+    },
+    {
+      "id": "4",
+      "verse_number": "4",
+      "startTime": 99,
+      "endTime": 114,
+      "original": "त्वं वाङ्मयस्त्वं चिन्मयः ॥\nत्वमानंदमयस्त्वं ब्रह्ममयः ॥\nत्वं सच्चिदानंदाद्वितीयोऽसि ॥\nत्वं प्रत्यक्षं ब्रह्मासि ॥\nत्वं ज्ञानमयो विज्ञानमयोऽसि ॥ ४॥",
+      "transliteration": "tvaṃ vāṅmayastvaṃ cinmayaḥ . \ntvamānandamayastvaṃ brahmamayaḥ . \ntvaṃ saccidānandādvitīyo’si . \ntvaṃ pratyakṣaṃ brahmāsi . \ntvaṃ jñānamayo vijñānamayo’si. 4",
+      "translation": "You are the embodiment of speech. You are the embodiment of Consciousness. You are the embodiment of Bliss. You are the embodiment of infinitude. You are non-dual Existence-Consciousness Bliss. You are the self-evident Brahman/Reality. You are the embodiment of knowledge and wisdom."
+    },
+    {
+      "id": "5",
+      "verse_number": "5",
+      "startTime": 115,
+      "endTime": 136,
+      "original": "सर्वं जगदिदं त्वत्तो जायते ॥\nसर्वं जगदिदं त्वत्तस्तिष्ठति ॥\nसर्वं जगदिदं त्वयि लयमेष्यति ॥\nसर्वं जगदिदं त्वयि प्रत्येति ॥\nत्वं भूमिरापोऽनलोऽनिलो नभः ॥\nत्वं चत्वारि वाक्पदानि ॥ ५॥",
+      "transliteration": "sarvaṃ jagadidaṃ tvatto jāyate . \nsarvaṃ jagadidaṃ tvattastiṣṭhati . \nsarvaṃ jagadidaṃ tvayi layameṣyati . \nsarvaṃ jagadidaṃ tvayi pratyeti . \ntvaṃ bhūmirāpo’nalo’nilo nabhaḥ . \ntvaṃ catvāri vākpadāni. 5",
+      "translation": "This entire world is born from You. This entire world exists because of You. This entire world merges in You. This entire world appears in You. You are the earth, water, fire, air and space (the world of matter). You are the four kinds of speech (the world of speech)."
+    },
+    {
+      "id": "6",
+      "verse_number": "6",
+      "startTime": 137,
+      "endTime": 165,
+      "original": "त्वं गुणत्रयातीतः त्वमवस्थात्रयातीतः ॥\nत्वं देहत्रयातीतः ॥ त्वं कालत्रयातीतः ॥\nत्वं मूलाधारस्थितोऽसि नित्यम् ॥\nत्वं शक्तित्रयात्मकः ॥\nत्वां योगिनो ध्यायंति नित्यम् ॥\nत्वं ब्रह्मा त्वं विष्णुस्त्वं रुद्रस्त्वं\nइन्द्रस्त्वं अग्निस्त्वं वायुस्त्वं सूर्यस्त्वं चंद्रमास्त्वं\nब्रह्मभूर्भुवःस्वरोम् ॥ ६॥",
+      "transliteration": "tvaṃ guṇatrayātītaḥ tvamavasthātrayātītaḥ . \ntvaṃ dehatrayātītaḥ . tvaṃ kālatrayātītaḥ . \ntvaṃ mūlādhārasthito’si nityam . \ntvaṃ śaktitrayātmakaḥ . \ntvāṃ yogino dhyāyanti nityam . \ntvaṃ brahmā tvaṃ viṣṇustvaṃ rudrastvaṃ \nindrastvaṃ agnistvaṃ vāyustvaṃ sūryastvaṃ caṃdramāstvaṃ \nbrahmabhūrbhuvaḥsvarom. 6",
+      "translation": "You are beyond the three Gunas (qualities). You are beyond the three states of experience. You are beyond the three bodies. You are beyond the three periods of time.\nYou are ever seated in the base (mūlādhāra). You are of the nature of the three-fold power. Yogis ever meditate on You.\nYou are Brahmā, Visnu, Rudra, Indra, Fire, Air, Sun, Moon (divine deities). You are Brahman/Truth. You are the three worlds."
+    },
+    {
+      "id": "7",
+      "verse_number": "7",
+      "startTime": 166,
+      "endTime": 206,
+      "original": "गणादिं पूर्वमुच्चार्य वर्णादिं तदनंतरम् ॥\nअनुस्वारः परतरः ॥ अर्धेन्दुलसितम् ॥ तारेण ऋद्धम् ॥\nएतत्तव मनुस्वरूपम् ॥ गकारः पूर्वरूपम् ॥\nअकारो मध्यमरूपम् ॥ अनुस्वारश्चान्त्यरूपम् ॥\nबिन्दुरुत्तररूपम् ॥ नादः संधानम् ॥\nसंहितासंधिः ॥\nसैषा गणेशविद्या ॥ गणकऋषिः ॥ निचृद्गायत्रीच्छंदः ॥\nगणपतिर्देवता ॥\nॐ गं गणपतये नमः ॥ ७॥",
+      "transliteration": "gaṇādiṃ pūrvamuccārya varṇādiṃ tadanaṃtaram . \nanusvāraḥ parataraḥ . ardhendulasitam . tāreṇa ṛddham . \netattava manusvarūpam . gakāraḥ pūrvarūpam . \nakāro madhyamarūpam . anusvāraścāntyarūpam . \nbinduruttararūpam . nādaḥ sandhānam . \nsaṃhitāsandhiḥ . \nsaiṣā gaṇeśavidyā . gaṇakaṛṣiḥ . nicṛdgāyatrīcchandaḥ . \ngaṇapatirdevatā . \noṃ gaṃ gaṇapataye namaḥ. 7",
+      "translation": "One should first utter the first syllable ‘ga’ in the word ‘gana’ followed by ‘a’ the first of alphabets, add an ‘anusvāra’ (a nasal ‘m’ indicated by a dot above the line); then adorn it by a crescent (also a nasal), prefix ‘Om’ to it. And this represents (O Lord Ganapati!) Your terrestrial form (endowed with guëas). ‘Ga’ is the first form, ‘a’ is the middle form, ‘anusvāra’ is the subsequent form and the dot ‘bindu’ – a nasal denoted by crescent – is the concluding form; the sound ‘nāda’ is the intermediary and ‘samhitā sandhi’ is the close connection (of syllable).\nThis is Ganeśa Vidyā. The Sage or Seer (of this mantra) is Ganaka, ‘nicrt gayatri’ is its metre. Ganapati is the deity (of this mantra).\nSalutation to (Lord) Ganapati!"
+    },
+    {
+      "id": "8",
+      "verse_number": "8",
+      "startTime": 207,
+      "endTime": 217,
+      "original": "एकदंताय विद्महे । वक्रतुण्डाय धीमहि ॥\nतन्नो दंतिः प्रचोदयात् ॥ ८॥",
+      "transliteration": "ekadantāya vidmahe . vakratuṇḍāya dhīmahi . \ntanno dantiḥ pracodayāt. 8",
+      "translation": "We have heard about the one-tusked; we meditate on the one having a twisted trunk. May that Ganapati (one-tusked) inspire us (to meditate)."
+    },
+    {
+      "id": "9",
+      "verse_number": "9",
+      "startTime": 218,
+      "endTime": 252,
+      "original": "एकदंतं चतुर्हस्तं पाशमंकुशधारिणम् ॥\nरदं च वरदं हस्तैर्बिभ्राणं मूषकध्वजम् ॥\nरक्तं लंबोदरं शूर्पकर्णकं रक्तवाससम् ॥\nरक्तगंधानुलिप्तांगं रक्तपुष्पैः सुपूजितम् ॥\nभक्तानुकंपिनं देवं जगत्कारणमच्युतम् ॥\nआविर्भूतं च सृष्ट्यादौ प्रकृतेः पुरुषात्परम् ॥\nएवं ध्यायति यो नित्यं स योगी योगिनां वरः ॥ ९॥",
+      "transliteration": "ekadantaṃ caturhastaṃ pāśamaṅkuśadhāriṇam . \nradaṃ ca varadaṃ hastairbibhrāṇaṃ mūṣakadhvajam . \nraktaṃ laṃbodaraṃ śūrpakarṇakaṃ raktavāsasam . \nraktagandhānuliptāṅgaṃ raktapuṣpaiḥ supūjitam . \nbhaktānukampinaṃ devaṃ jagatkāraṇamacyutam . \nāvirbhūtaṃ ca sṛṣṭyādau prakṛteḥ puruṣātparam . \nevaṃ dhyāyati yo nityaṃ sa yogī yogināṃ varaḥ. 9",
+      "translation": "One who constantly meditates on Him, who has one (right) tusk, who has four hands, who holds a noose (in His upper right hand) and a goad (in the left), who holds a tusk in His (lower left) hand, who has held the fingers of His (right lower) hand in a posture bestowing blessing, whose flag bears the insignia of mouse, who is red in colour, who is big-bellied, whose ears have the form of a scuttle, who has worn red clothes, whose body is smeared with red sandal paste, who is well worshipped with red flowers, who is compassionate towards His devotees, who is self-effulgent, who is the cause of the world, who never has a fall from his nature, who manifested/existed even before creation and who is beyond prakrti and Purusha – the yogi who thus meditates on Him is the best among yogis."
+    },
+    {
+      "id": "10",
+      "verse_number": "10",
+      "startTime": 253,
+      "endTime": 272,
+      "original": "नमो व्रातपतये । नमो गणपतये । नमः प्रमथपतये ।\nनमस्तेऽस्तु लंबोदरायैकदंताय ।\nविघ्ननाशिने शिवसुताय । श्रीवरदमूर्तये नमो नमः ॥ १०॥",
+      "transliteration": "namo vrātapataye . namo gaṇapataye . namaḥ pramathapataye . \nnamaste’stu laṃbodarāyaikadantāya . \nvighnanāśine śivasutāya . śrīvaradamūrtaye namo namaḥ. 10.",
+      "translation": "Prostration to the Lord of all who earn through hard work (vrāta). Prostration to the Lord of all the groups (ganas). Prostration to the Lord of the special devotees of Lord Siva (pramathas). Prostration unto You who are big-bellied, one-tusked, destroyer of obstacles and the son of Siva. Prostration to the form who bestows all desires."
+    },
+    {
+      "id": "11",
+      "verse_number": "11",
+      "startTime": 273,
+      "endTime": 323,
+      "original": "एतदथर्वशीर्षं योऽधीते ॥ स ब्रह्मभूयाय कल्पते ॥\nस सर्वतः सुखमेधते ॥ स सर्व विघ्नैर्नबाध्यते ॥\nस पंचमहापापात्प्रमुच्यते ॥\nसायमधीयानो दिवसकृतं पापं नाशयति ॥\nप्रातरधीयानो रात्रिकृतं पापं नाशयति ॥\nसायंप्रातः प्रयुञ्जानो पापोऽपापो भवति ॥\nसर्वत्राधीयानोऽपविघ्नो भवति ॥\nधर्मार्थकाममोक्षं च विंदति ॥\nइदमथर्वशीर्षमशिष्याय न देयम् ॥\nयो यदि मोहाद्दास्यति स पापीयान् भवति\nसहस्रावर्तनात् यं यं काममधीते\nतं तमनेन साधयेत् ॥ ११॥",
+      "transliteration": "etadatharvaśīrṣaṃ yo’dhīte . sa brahmabhūyāya kalpate . \nsa sarvataḥ sukhamedhate . sa sarva vighnairnabādhyate . \nsa pañcamahāpāpātpramucyate . \nsāyamadhīyāno divasakṛtaṃ pāpaṃ nāśayati . \nprātaradhīyāno rātrikṛtaṃ pāpaṃ nāśayati . \nsāyaṃprātaḥ prayuñjāno pāpo’pāpo bhavati . \nsarvatrādhīyāno’pavighno bhavati . \ndharmārthakāmamokṣaṃ ca vindati . \nidam atharvaśīrṣam aśiṣyāya na deyam . \nyo yadi mohāddāsyati sa pāpīyān bhavati \nsahasrāvartanāt yaṃ yaṃ kāmamadhīte \ntaṃ tamanena sādhayet. 11",
+      "translation": "Now for the fruits from reading this hymn:\nWhoever meditates on this Atharva-Sirsha (Upanishad) becomes fit for the Realisation, ‘I am the infinite Truth’. He is not affected by any of the obstacles. He gains happiness everywhere, at all times, under all circumstances. He becomes free from the five great sins.\nOne who chants this in the evening destroys all sins committed during the day. One who chants this in the morning destroys all sins committed during the night. The one who chants both in the morning and evening becomes sinless. One who chants everywhere (and all the time) encounters no obstacle, and gains all the four types of human accomplishments, namely religious merit (dharma), wealth (artha), desired objects (kāma) and Liberation (moksha).\nThis Atharva-Sirsha (Upanishad) should not be given/taught to an unqualified student. One who does so due to any temptation/delusion/attachment will incur sin.\nOne achieves the fulfilment of all his desires by the repetition of this (Upanishad) thousand times."
+    },
+    {
+      "id": "12",
+      "verse_number": "12",
+      "startTime": 324,
+      "endTime": 340,
+      "original": "अनेन गणपतिमभिषिंचति स वाग्मी भवति ॥\nचतुर्थ्यामनश्नन् जपति स विद्यावान् भवति ।\nइत्यथर्वणवाक्यम् ॥\nब्रह्माद्यावरणं विद्यात् न बिभेति कदाचनेति ॥ १२॥",
+      "transliteration": "anena gaṇapatimabhiṣincati sa vāgmī bhavati . \ncaturthyāmanaśnan japati sa vidyāvān bhavati . \nityatharvaṇavākyam . \nbrahmādyāvaraṇaṃ vidyāt na bibheti kadācaneti. 12",
+      "translation": "One who bathes Ganapati whilst chanting this Atharva-Sirsha (Upanishad) becomes an eloquent speaker (in due course).\nOne who whilst fasting, repeats this Atharva-Sirsha (Upanishad), on (the auspicious day of) chaturthi (fourth day of lunar fortnight), becomes a knowledgeable person.\nThus says Sage Atharvana.\nOne should know Brahman/Truth and its inscrutable power (ādyā or māyā) along with its veiling power (āvarana shakti). (Thus) he does not fear at any time."
+    },
+    {
+      "id": "13",
+      "verse_number": "13",
+      "startTime": 341,
+      "endTime": 362,
+      "original": "यो दूर्वांकुरैर्यजति स वैश्रवणोपमो भवति ॥\nयो लाजैर्यजति स यशोवान् भवति ॥ स मेधावान् भवति ॥\nयो मोदकसहस्रेण यजति स वाञ्छितफलमवाप्नोति ॥\nयः साज्यसमिद्भिर्यजति स सर्वं लभते स सर्वं लभते ॥ १३॥",
+      "transliteration": "yo dūrvāṅkurairyajati sa vaiśravaṇopamo bhavati . \nyo lājairyajati sa yaśovān bhavati . sa medhāvān bhavati . \nyo modakasahasreṇa yajati sa vāñchitaphalamavāpnoti . \nyaḥ sājya samidbhiryajati sa sarvaṃ labhate sa sarvaṃ labhate. 13",
+      "translation": "He who worships (Lord Ganapati) with blades of durvā grass becomes as rich as the God of wealth, Kubera.\nHe who worships with parched grains, becomes famous (and successful); he becomes a very intelligent person.\nHe who worships with a thousands modakas, gets his cherished desires fulfilled.\nOne who performs sacrifices by offering wood together with ghee as oblation, gets everything. He gets everything."
+    },
   {
-    "id": "ga-shanti",
+    "id": "14",
+    "verse_number": "14",
+    "original": "अष्टौ ब्राह्मणान् सम्यग्ग्राहयित्वा\nसूर्यवर्चस्वी भवति ॥\nसूर्यग्रहे महानद्यां प्रतिमासंनिधौ\nवा जप्त्वा सिद्धमंत्रो भवति ॥\nमहाविघ्नात्प्रमुच्यते ॥ महादोषात्प्रमुच्यते ॥\nमहापापात् प्रमुच्यते ॥\nस सर्वविद्भवति स सर्वविद्भवति ॥\nय एवं वेद इत्युपनिषत् ॥ १४॥",
+    "transliteration": "aṣṭau brāhmaṇān samyaggrāhayitvā\nsūryavarcasvī bhavati . \nsūryagrahe mahānadyāṃ pratimāsannidhau \nvā japtvā siddhamantro bhavati . \nmahāvighnāt pramucyate . mahādoṣātpramucyate . \nmahāpāpāt pramucyate . mahāpratyavāyāt pramucyate. \nsa sarvavidbhavati sa sarvavidbhavati . \nya evaṃ veda ityupaniṣat. 14",
+    "translation": "By teaching this to eight Brāhmaṇas, one becomes brilliant like the Sun.\nBy chanting this at the time of a solar eclipse, or near a river or near a statue (of Ganapati), one attains perfection (siddhi) of the mantra.\nOne is freed from great obstacles. One is freed from great defects. One is freed from great sins. One is freed from great retribution.\nHe becomes omniscient. He becomes omniscient. He who knows this (attains the fruit). Thus is the Upanishad."
+  },
+  {
+    "id": "15",
     "verse_number": "Śānti Pāṭha",
     "original": "ॐ भद्रं कर्णेभिः श‍ृणुयाम देवा ।\nभद्रं पश्येमाक्षभिर्यजत्राः ॥\nस्थिरैरङ्गैस्तुष्टुवाग्‍ँसस्तनूभिः ।\nव्यशेम देवहितं यदायुः ॥\nॐ स्वस्ति न इन्द्रो वृद्धश्रवाः ।\nस्वस्ति नः पूषा विश्ववेदाः ॥\nस्वस्तिनस्तार्क्ष्यो अरिष्टनेमिः ।\nस्वस्ति नो बृहस्पतिर्दधातु ॥\nॐ शांतिः । शांतिः ॥ शांतिः॥।",
     "transliteration": "oṃ bhadraṃ karṇebhiḥ śṛṇuyāma devā . \nbhadraṃ paśyemākṣabhiryajatrāḥ . \nsthirairaṅgaistuṣṭuvāgṃ sastanūbhiḥ . \nvyaśema devahitaṃ yadāyuḥ . \noṃ svasti na indro vṛddhaśravāḥ . \nsvasti naḥ pūṣā viśvavedāḥ . \nsvastinastārkṣyo ariṣṭanemiḥ . \nsvasti no bṛhaspatirdadhātu . \noṃ śāntiḥ śāntiḥ śāntiḥ ..",
     "translation": "O Deities! By ears may we hear what is auspicious; by eyes may we see what is auspicious; O Worshipped ones! With hale and hearty limbs may we live offering our praises (unto Thee). For the benefit of God may we live the entire span of life. May the ancient and famous Indra give blessings to us. May the all-knowing Sun give blessings to us. May the Lord of swift motion (Garuda), who removes our obstacles give blessings to us. May Brhaspati (Guru of deities) give blessings to us. Let there be peace, let there be peace, let there be peace."
-  },
-  {
-    "id": "1",
-    "verse_number": "1",
-    "original": "हरिः ॐ नमस्ते गणपतये ॥\nत्वमेव प्रत्यक्षं तत्त्वमसि ॥\nत्वमेव केवलं कर्ताऽसि ॥\nत्वमेव केवलं धर्ताऽसि ॥\nत्वमेव केवलं हर्ताऽसि ॥\nत्वमेव सर्वं खल्विदं ब्रह्मासि ॥\nत्वं साक्षादात्माऽसि नित्यम् ॥१॥",
-    "transliteration": "hariḥ oṃ namaste gaṇapataye . \ntvameva pratyakṣaṃ tattvamasi . \ntvameva kevalaṃ kartā’si . \ntvameva kevalaṃ dhartā’si . \ntvameva kevalaṃ hartā’si . \ntvameva sarvaṃ khalvidaṃ brahmāsi . \ntvaṃ sākṣādātmā’si nityam. 1",
-    "translation": "Om. Prostration to Lord Ganapathi who is of the nature of OM. You alone are the direct essence of the statement ‘That thou art’. You alone indeed are the creator, sustainer and destroyer. You alone as Brahman are indeed all this. You are the directly experienced Self which is eternal."
-  },
-  {
-    "id": "2",
-    "verse_number": "2",
-    "original": "ऋतं वच्मि (वदिष्यामि) ॥ सत्यं वच्मि (वदिष्यामि) ॥ २॥",
-    "transliteration": "ṛtaṃ vacmi (vadiṣyāmi) . satyaṃ vacmi (vadiṣyāmi) 2",
-    "translation": "I speak the Truth (as determined by the scriptures). I speak the Truth (as directly experienced and verified by myself)."
-  },
-  {
-    "id": "3",
-    "verse_number": "3",
-    "original": "अव त्वं माम् ॥ अव वक्तारम् ॥ अव श्रोतारम् ॥\nअव दातारम् ॥ अव धातारम् ॥\nअवानूचानमव शिष्यम् ॥\nअव पश्चात्तात् ॥ अव पुरस्तात् ॥\nअवोत्तरात्तात् ॥ अव दक्षिणात्तात् ॥\nअव चोर्ध्वात्तात् ॥ अवाधरात्तात् ॥\nसर्वतो मां पाहि पाहि समंतात् ॥ ३॥",
-    "transliteration": "ava tvaṃ mām . ava vaktāram . ava śrotāram . \nava dātāram . ava dhātāram . \navānūcānamava śiṣyam . \nava paścāttāt . ava purastāt . \navottarāttāt . ava dakṣiṇāttāt . \nava cordhvāttāt . avādharāttāt . \nsarvato māṃ pāhi pāhi samantāt. 3",
-    "translation": "You please protect me. Please protect the speaker, the listener, the donor and the supporter. Please protect the teacher and the disciple. Please protect me from all four directions (east, west, north and south). Please protect me from the above and below. Please protect me totally from all directions."
-  },
-  {
-    "id": "4",
-    "verse_number": "4",
-    "original": "त्वं वाङ्मयस्त्वं चिन्मयः ॥\nत्वमानंदमयस्त्वं ब्रह्ममयः ॥\nत्वं सच्चिदानंदाद्वितीयोऽसि ॥\nत्वं प्रत्यक्षं ब्रह्मासि ॥\nत्वं ज्ञानमयो विज्ञानमयोऽसि ॥ ४॥",
-    "transliteration": "tvaṃ vāṅmayastvaṃ cinmayaḥ . \ntvamānandamayastvaṃ brahmamayaḥ . \ntvaṃ saccidānandādvitīyo’si . \ntvaṃ pratyakṣaṃ brahmāsi . \ntvaṃ jñānamayo vijñānamayo’si. 4",
-    "translation": "You are the embodiment of speech. You are the embodiment of Consciousness. You are the embodiment of Bliss. You are the embodiment of infinitude. You are non-dual Existence-Consciousness Bliss. You are the self-evident Brahman/Reality. You are the embodiment of knowledge and wisdom."
-  },
-  {
-    "id": "5",
-    "verse_number": "5",
-    "original": "सर्वं जगदिदं त्वत्तो जायते ॥\nसर्वं जगदिदं त्वत्तस्तिष्ठति ॥\nसर्वं जगदिदं त्वयि लयमेष्यति ॥\nसर्वं जगदिदं त्वयि प्रत्येति ॥\nत्वं भूमिरापोऽनलोऽनिलो नभः ॥\nत्वं चत्वारि वाक्पदानि ॥ ५॥",
-    "transliteration": "sarvaṃ jagadidaṃ tvatto jāyate . \nsarvaṃ jagadidaṃ tvattastiṣṭhati . \nsarvaṃ jagadidaṃ tvayi layameṣyati . \nsarvaṃ jagadidaṃ tvayi pratyeti . \ntvaṃ bhūmirāpo’nalo’nilo nabhaḥ . \ntvaṃ catvāri vākpadāni. 5",
-    "translation": "This entire world is born from You. This entire world exists because of You. This entire world merges in You. This entire world appears in You. You are the earth, water, fire, air and space (the world of matter). You are the four kinds of speech (the world of speech)."
-  },
-  {
-    "id": "6",
-    "verse_number": "6",
-    "original": "त्वं गुणत्रयातीतः त्वमवस्थात्रयातीतः ॥\nत्वं देहत्रयातीतः ॥ त्वं कालत्रयातीतः ॥\nत्वं मूलाधारस्थितोऽसि नित्यम् ॥\nत्वं शक्तित्रयात्मकः ॥\nत्वां योगिनो ध्यायंति नित्यम् ॥\nत्वं ब्रह्मा त्वं विष्णुस्त्वं रुद्रस्त्वं\nइन्द्रस्त्वं अग्निस्त्वं वायुस्त्वं सूर्यस्त्वं चंद्रमास्त्वं\nब्रह्मभूर्भुवःस्वरोम् ॥ ६॥",
-    "transliteration": "tvaṃ guṇatrayātītaḥ tvamavasthātrayātītaḥ . \ntvaṃ dehatrayātītaḥ . tvaṃ kālatrayātītaḥ . \ntvaṃ mūlādhārasthito’si nityam . \ntvaṃ śaktitrayātmakaḥ . \ntvāṃ yogino dhyāyanti nityam . \ntvaṃ brahmā tvaṃ viṣṇustvaṃ rudrastvaṃ \nindrastvaṃ agnistvaṃ vāyustvaṃ sūryastvaṃ caṃdramāstvaṃ \nbrahmabhūrbhuvaḥsvarom. 6",
-    "translation": "You are beyond the three Gunas (qualities). You are beyond the three states of experience. You are beyond the three bodies. You are beyond the three periods of time.\nYou are ever seated in the base (mūlādhāra). You are of the nature of the three-fold power. Yogis ever meditate on You.\nYou are Brahmā, Visnu, Rudra, Indra, Fire, Air, Sun, Moon (divine deities). You are Brahman/Truth. You are the three worlds."
-  },
-  {
-    "id": "7",
-    "verse_number": "7",
-    "original": "गणादिं पूर्वमुच्चार्य वर्णादिं तदनंतरम् ॥\nअनुस्वारः परतरः ॥ अर्धेन्दुलसितम् ॥ तारेण ऋद्धम् ॥\nएतत्तव मनुस्वरूपम् ॥ गकारः पूर्वरूपम् ॥\nअकारो मध्यमरूपम् ॥ अनुस्वारश्चान्त्यरूपम् ॥\nबिन्दुरुत्तररूपम् ॥ नादः संधानम् ॥\nसंहितासंधिः ॥\nसैषा गणेशविद्या ॥ गणकऋषिः ॥ निचृद्गायत्रीच्छंदः ॥\nगणपतिर्देवता ॥\nॐ गं गणपतये नमः ॥ ७॥",
-    "transliteration": "gaṇādiṃ pūrvamuccārya varṇādiṃ tadanaṃtaram . \nanusvāraḥ parataraḥ . ardhendulasitam . tāreṇa ṛddham . \netattava manusvarūpam . gakāraḥ pūrvarūpam . \nakāro madhyamarūpam . anusvāraścāntyarūpam . \nbinduruttararūpam . nādaḥ sandhānam . \nsaṃhitāsandhiḥ . \nsaiṣā gaṇeśavidyā . gaṇakaṛṣiḥ . nicṛdgāyatrīcchandaḥ . \ngaṇapatirdevatā . \noṃ gaṃ gaṇapataye namaḥ. 7",
-    "translation": "One should first utter the first syllable ‘ga’ in the word ‘gana’ followed by ‘a’ the first of alphabets, add an ‘anusvāra’ (a nasal ‘m’ indicated by a dot above the line); then adorn it by a crescent (also a nasal), prefix ‘Om’ to it. And this represents (O Lord Ganapati!) Your terrestrial form (endowed with guëas). ‘Ga’ is the first form, ‘a’ is the middle form, ‘anusvāra’ is the subsequent form and the dot ‘bindu’ – a nasal denoted by crescent – is the concluding form; the sound ‘nāda’ is the intermediary and ‘samhitā sandhi’ is the close connection (of syllable).\nThis is Ganeśa Vidyā. The Sage or Seer (of this mantra) is Ganaka, ‘nicrt gayatri’ is its metre. Ganapati is the deity (of this mantra).\nSalutation to (Lord) Ganapati!"
-  },
-  {
-    "id": "8",
-    "verse_number": "8",
-    "original": "एकदंताय विद्महे । वक्रतुण्डाय धीमहि ॥\nतन्नो दंतिः प्रचोदयात् ॥ ८॥",
-    "transliteration": "ekadantāya vidmahe . vakratuṇḍāya dhīmahi . \ntanno dantiḥ pracodayāt. 8",
-    "translation": "We have heard about the one-tusked; we meditate on the one having a twisted trunk. May that Ganapati (one-tusked) inspire us (to meditate)."
-  },
-  {
-    "id": "9",
-    "verse_number": "9",
-    "original": "एकदंतं चतुर्हस्तं पाशमंकुशधारिणम् ॥\nरदं च वरदं हस्तैर्बिभ्राणं मूषकध्वजम् ॥\nरक्तं लंबोदरं शूर्पकर्णकं रक्तवाससम् ॥\nरक्तगंधानुलिप्तांगं रक्तपुष्पैः सुपूजितम् ॥\nभक्तानुकंपिनं देवं जगत्कारणमच्युतम् ॥\nआविर्भूतं च सृष्ट्यादौ प्रकृतेः पुरुषात्परम् ॥\nएवं ध्यायति यो नित्यं स योगी योगिनां वरः ॥ ९॥",
-    "transliteration": "ekadantaṃ caturhastaṃ pāśamaṅkuśadhāriṇam . \nradaṃ ca varadaṃ hastairbibhrāṇaṃ mūṣakadhvajam . \nraktaṃ laṃbodaraṃ śūrpakarṇakaṃ raktavāsasam . \nraktagandhānuliptāṅgaṃ raktapuṣpaiḥ supūjitam . \nbhaktānukampinaṃ devaṃ jagatkāraṇamacyutam . \nāvirbhūtaṃ ca sṛṣṭyādau prakṛteḥ puruṣātparam . \nevaṃ dhyāyati yo nityaṃ sa yogī yogināṃ varaḥ. 9",
-    "translation": "One who constantly meditates on Him, who has one (right) tusk, who has four hands, who holds a noose (in His upper right hand) and a goad (in the left), who holds a tusk in His (lower left) hand, who has held the fingers of His (right lower) hand in a posture bestowing blessing, whose flag bears the insignia of mouse, who is red in colour, who is big-bellied, whose ears have the form of a scuttle, who has worn red clothes, whose body is smeared with red sandal paste, who is well worshipped with red flowers, who is compassionate towards His devotees, who is self-effulgent, who is the cause of the world, who never has a fall from his nature, who manifested/existed even before creation and who is beyond prakrti and Purusha – the yogi who thus meditates on Him is the best among yogis."
-  },
-  {
-    "id": "10",
-    "verse_number": "10",
-    "original": "नमो व्रातपतये । नमो गणपतये । नमः प्रमथपतये ।\nनमस्तेऽस्तु लंबोदरायैकदंताय ।\nविघ्ननाशिने शिवसुताय । श्रीवरदमूर्तये नमो नमः ॥ १०॥",
-    "transliteration": "namo vrātapataye . namo gaṇapataye . namaḥ pramathapataye . \nnamaste’stu laṃbodarāyaikadantāya . \nvighnanāśine śivasutāya . śrīvaradamūrtaye namo namaḥ. 10.",
-    "translation": "Prostration to the Lord of all who earn through hard work (vrāta). Prostration to the Lord of all the groups (ganas). Prostration to the Lord of the special devotees of Lord Siva (pramathas). Prostration unto You who are big-bellied, one-tusked, destroyer of obstacles and the son of Siva. Prostration to the form who bestows all desires."
-  },
-  {
-    "id": "11",
-    "verse_number": "11",
-    "original": "एतदथर्वशीर्षं योऽधीते ॥ स ब्रह्मभूयाय कल्पते ॥\nस सर्वतः सुखमेधते ॥ स सर्व विघ्नैर्नबाध्यते ॥\nस पंचमहापापात्प्रमुच्यते ॥\nसायमधीयानो दिवसकृतं पापं नाशयति ॥\nप्रातरधीयानो रात्रिकृतं पापं नाशयति ॥\nसायंप्रातः प्रयुञ्जानो पापोऽपापो भवति ॥\nसर्वत्राधीयानोऽपविघ्नो भवति ॥\nधर्मार्थकाममोक्षं च विंदति ॥\nइदमथर्वशीर्षमशिष्याय न देयम् ॥\nयो यदि मोहाद्दास्यति स पापीयान् भवति\nसहस्रावर्तनात् यं यं काममधीते\nतं तमनेन साधयेत् ॥ ११॥",
-    "transliteration": "etadatharvaśīrṣaṃ yo’dhīte . sa brahmabhūyāya kalpate . \nsa sarvataḥ sukhamedhate . sa sarva vighnairnabādhyate . \nsa pañcamahāpāpātpramucyate . \nsāyamadhīyāno divasakṛtaṃ pāpaṃ nāśayati . \nprātaradhīyāno rātrikṛtaṃ pāpaṃ nāśayati . \nsāyaṃprātaḥ prayuñjāno pāpo’pāpo bhavati . \nsarvatrādhīyāno’pavighno bhavati . \ndharmārthakāmamokṣaṃ ca vindati . \nidam atharvaśīrṣam aśiṣyāya na deyam . \nyo yadi mohāddāsyati sa pāpīyān bhavati \nsahasrāvartanāt yaṃ yaṃ kāmamadhīte \ntaṃ tamanena sādhayet. 11",
-    "translation": "Now for the fruits from reading this hymn:\nWhoever meditates on this Atharva-Sirsha (Upanishad) becomes fit for the Realisation, ‘I am the infinite Truth’. He is not affected by any of the obstacles. He gains happiness everywhere, at all times, under all circumstances. He becomes free from the five great sins.\nOne who chants this in the evening destroys all sins committed during the day. One who chants this in the morning destroys all sins committed during the night. The one who chants both in the morning and evening becomes sinless. One who chants everywhere (and all the time) encounters no obstacle, and gains all the four types of human accomplishments, namely religious merit (dharma), wealth (artha), desired objects (kāma) and Liberation (moksha).\nThis Atharva-Sirsha (Upanishad) should not be given/taught to an unqualified student. One who does so due to any temptation/delusion/attachment will incur sin.\nOne achieves the fulfilment of all his desires by the repetition of this (Upanishad) thousand times."
-  },
-  {
-    "id": "12",
-    "verse_number": "12",
-    "original": "अनेन गणपतिमभिषिंचति स वाग्मी भवति ॥\nचतुर्थ्यामनश्नन् जपति स विद्यावान् भवति ।\nइत्यथर्वणवाक्यम् ॥\nब्रह्माद्यावरणं विद्यात् न बिभेति कदाचनेति ॥ १२॥",
-    "transliteration": "anena gaṇapatimabhiṣincati sa vāgmī bhavati . \ncaturthyāmanaśnan japati sa vidyāvān bhavati . \nityatharvaṇavākyam . \nbrahmādyāvaraṇaṃ vidyāt na bibheti kadācaneti. 12",
-    "translation": "One who bathes Ganapati whilst chanting this Atharva-Sirsha (Upanishad) becomes an eloquent speaker (in due course).\nOne who whilst fasting, repeats this Atharva-Sirsha (Upanishad), on (the auspicious day of) chaturthi (fourth day of lunar fortnight), becomes a knowledgeable person.\nThus says Sage Atharvana.\nOne should know Brahman/Truth and its inscrutable power (ādyā or māyā) along with its veiling power (āvarana shakti). (Thus) he does not fear at any time."
-  },
-  {
-    "id": "13",
-    "verse_number": "13",
-    "original": "यो दूर्वांकुरैर्यजति स वैश्रवणोपमो भवति ॥\nयो लाजैर्यजति स यशोवान् भवति ॥ स मेधावान् भवति ॥\nयो मोदकसहस्रेण यजति स वाञ्छितफलमवाप्नोति ॥\nयः साज्यसमिद्भिर्यजति स सर्वं लभते स सर्वं लभते ॥ १३॥",
-    "transliteration": "yo dūrvāṅkurairyajati sa vaiśravaṇopamo bhavati . \nyo lājairyajati sa yaśovān bhavati . sa medhāvān bhavati . \nyo modakasahasreṇa yajati sa vāñchitaphalamavāpnoti . \nyaḥ sājya samidbhiryajati sa sarvaṃ labhate sa sarvaṃ labhate. 13",
-    "translation": "He who worships (Lord Ganapati) with blades of durvā grass becomes as rich as the God of wealth, Kubera.\nHe who worships with parched grains, becomes famous (and successful); he becomes a very intelligent person.\nHe who worships with a thousands modakas, gets his cherished desires fulfilled.\nOne who performs sacrifices by offering wood together with ghee as oblation, gets everything. He gets everything."
-  },
-  {
-    "id": "14",
-    "verse_number": "14",
-    "original": "अष्टौ ब्राह्मणान् सम्यग्ग्राहयित्वा\nसूर्यवर्चस्वी भवति ॥\nसूर्यग्रहे महानद्यां प्रतिमासंनिधौ\nवा जप्त्वा सिद्धमंत्रो भवति ॥\nमहाविघ्नात्प्रमुच्यते ॥ महादोषात्प्रमुच्यते ॥\nमहापापात् प्रमुच्यते ॥\nस सर्वविद्भवति स सर्वविद्भवति ॥\nय एवं वेद इत्युपनिषत् ॥ १४॥\nॐ शांतिः । शांतिः ॥ शांतिः ॥।",
-    "transliteration": "aṣṭau brāhmaṇān samyaggrāhayitvā\nsūryavarcasvī bhavati . \nsūryagrahe mahānadyāṃ pratimāsannidhau \nvā japtvā siddhamantro bhavati . \nmahāvighnāt pramucyate . mahādoṣātpramucyate . \nmahāpāpāt pramucyate . mahāpratyavāyāt pramucyate. \nsa sarvavidbhavati sa sarvavidbhavati . \nya evaṃ veda ityupaniṣat. 14 \noṃ śāntiḥ śāntiḥ śāntiḥ ..",
-    "translation": "By teaching this to eight Brāhmaṇas, one becomes brilliant like the Sun.\nBy chanting this at the time of a solar eclipse, or near a river or near a statue (of Ganapati), one attains perfection (siddhi) of the mantra.\nOne is freed from great obstacles. One is freed from great defects. One is freed from great sins. One is freed from great retribution.\nHe becomes omniscient. He becomes omniscient. He who knows this (attains the fruit). Thus is the Upanishad.\nOm. Peace. Peace. Peace."
-  }
+  }  
 ]
 }
