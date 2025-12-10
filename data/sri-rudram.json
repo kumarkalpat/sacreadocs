@@ -83,7 +83,7 @@
           "id": "rudra-1-v9",
           "verse_number": "1.9",
           "startTime": 95,
-          "endTime": 111,
+          "endTime": 112,
           "original": "अ॒सौ यो॑-ऽव॒सर्प॑ति॒ नील॑ग्रीवो॒ विलो॑हितः ।\nउ॒तैन॑-ङ्गो॒पा अ॑दृश॒न्नदृ॑शन्नुदहा॒र्यः॑ ।\nउ॒तैनं॒-विँश्वा॑ भू॒तानि॒ स दृ॒ष्टो मृ॑डयाति नः ॥",
           "transliteration": "a̠sau yō̍-‘va̠sarpa̍ti̠ nīla̍grīvō̠ vilō̍hitaḥ ।\nu̠taina̍-ṅgō̠pā a̍dṛśa̠nnadṛ̍śannudahā̠rya̍ḥ ।\nu̠taina̠ṃ viśvā̍ bhū̠tāni̠ sa dṛ̠ṣṭō mṛ̍ḍayāti naḥ ॥",
           "translation": "That one who moves about, **blue-necked** (**Nīlagrīva**) and **blood-red** (**Vilōhita**) – the cowherds have seen him, and the water-bearers have seen him. May he, being seen, **bring happiness to us**."
@@ -91,8 +91,8 @@
         {
           "id": "rudra-1-v10",
           "verse_number": "1.10",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 113,
+          "endTime": 125,
           "original": "नम॑स्ते अस्तु॒ नील॑ग्रीवाय सहस्रा॒क्षाय॑ मी॒ढुषे᳚ ।\nअथो॒ ये अ॒स्य॒ सत्वा॑नो॒-ऽह-न्तेभ्यो॑-ऽकर॒न्नमः॑ ॥",
           "transliteration": "namō̍ astu̠ nīla̍grīvāya sahasrā̠kṣāya̍ mī̠ḍhuṣē̎ ।\nathō̠ yē a̍sya̠ satvā̍nō̠-‘ha-ntēbhyō̍-‘kara̠nnama̍ḥ ॥",
           "translation": "Salutations to the **blue-necked one** (**Nīlagrīva**), the **thousand-eyed one** (**Sahasrākṣa**), the **bountiful one** (**Mīḍhuṣē**). And to those beings (**Satvānas**) of his—I offer my salutations."
@@ -100,18 +100,17 @@
         {
           "id": "rudra-1-v11",
           "verse_number": "1.11",
-          "startTime": 112,
-          "endTime": null,
+          "startTime": 126,
+          "endTime": 136,
           "original": "प्रमु॑ञ्च॒ धन्व॑न॒स्त्वमु॒भयो॒रार्त्नि॑ यो॒र्ज्याम् ।\nयाश्च॑ ते॒ हस्त॒ इष॑वः॒ परा॒ ता भ॑गवो वप ॥",
           "transliteration": "pramu̍ñcha̠ dhanva̍na̠stvamu̠bhayō̠rārtni̍ yō̠rjyām ।\nyāścha̍ tē̠ hasta̠ iṣa̍va̠ḥ parā̠ tā bha̍gavō vapa ॥",
           "translation": "**Release the string** from both ends of your bow. O Bhagavan, **cast away the arrows** from your hand."
         },
- 
         {
           "id": "rudra-1-v12",
           "verse_number": "1.12",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 137,
+          "endTime": 148,
           "original": "अ॒व॒तत्य॒ धनु॒स्त्वग्ं सह॑स्राक्ष॒ शते॑षुधे ।\nनि॒शीर्य॑ श॒ल्याना॒-म्मुखा॑ शि॒वो नः॑ सु॒मना॑ भव ॥",
           "transliteration": "a̠va̠tatya̠ dhanu̠stvagṃ saha̍srākṣa̠ śatē̍ṣudhē ।\nni̠śīrya̍ śa̠lyānā̠-mmukhā̍ śi̠vō na̍-ssu̠manā̍ bhava ॥",
           "translation": "Having **unstrung your bow**, O thousand-eyed one, O keeper of a hundred quivers, and having **shattered the points of the darts**, be auspicious and kind to us."
@@ -119,8 +118,8 @@
         {
           "id": "rudra-1-v13",
           "verse_number": "1.13",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 149,
+          "endTime": 159,
           "original": "विज्य॒-न्धनुः॑ कप॒र्दिनो॒ विश॑ल्यो॒ बाण॑वाग्ं उ॒त ।\nअने॑शन्न॒स्येष॑व आ॒भुर॑स्य निष॒ङ्गथिः॑ ॥",
           "transliteration": "vijya̠-ndhanu̍ḥ kapa̠rdinō̠ viśa̍lyō̠ bāṇa̍vāgṃ u̠ta ।\nanē̍śanna̠syēṣa̍va ā̠bhura̍sya niṣa̠ṅgathi̍ḥ ॥",
           "translation": "May the bow of the **Kapardin** (Rudra with matted hair) be **unstrung**, and his quiver be **without darts**. May his arrows be **powerless** and his quiver be **without strength**."
@@ -128,8 +127,8 @@
         {
           "id": "rudra-1-v14",
           "verse_number": "1.14",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 160,
+          "endTime": 172,
           "original": "या ते॑ हे॒तिर्मी॑डुष्टम॒ हस्ते॑ ब॒भूव॑ ते॒ धनुः॑ ।\nतया॒-ऽस्मान्, वि॒श्वत॒स्त्वम॑य॒क्ष्मया॒ परि॑ब्भुज ॥",
           "transliteration": "yā tē̍ hē̠tirmī̍ḍuṣṭama̠ hastē̍ ba̠bhūva̍ tē̠ dhanu̍ḥ ।\ntayā̠-‘smān, vi̠śvata̠stvama̍ya̠kṣmayā̠ pari̍bbhuja ॥",
           "translation": "O most bounteous one, may the weapon that is in your hand, and the bow that is yours, **protect us from all sides** with its non-injurious form."
@@ -137,8 +136,8 @@
         {
           "id": "rudra-1-v15",
           "verse_number": "1.15",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 173,
+          "endTime": 184,
           "original": "नम॑स्ते अ॒स्त्वायु॑धा॒याना॑तताय धृ॒ष्णवे᳚ ।\nउ॒भाभ्या॑मु॒त ते॒ नमो॑ बा॒हुभ्या॒-न्तव॒ धन्व॑ने ॥",
           "transliteration": "nama̍stē a̠stvāyu̍dhā̠yānā̍tatāya dhṛ̠ṣṇavē̎ ।\nu̠bhābhyā̍mu̠ta tē̠ namō̍ bā̠hubhyā̠-ntava̠ dhanva̍nē ॥",
           "translation": "Salutations to your **weapon** which is **unstrung** and **fearsome**. Salutations to your two **arms** and to your **bow**."
@@ -146,8 +145,8 @@
         {
           "id": "rudra-1-v16",
           "verse_number": "1.16",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 185,
+          "endTime": 196,
           "original": "परि॑ ते॒ धन्व॑नो हे॒तिर॒स्मान् वृ॑णक्तु वि॒श्वतः॑ ।\nअथो॒ य इ॑षु॒धिस्तवा॒रē अ॒स्मन्निधे॑हि॒ तम् ॥१॥",
           "transliteration": "pari̍ tē̠ dhanva̍nō hē̠tira̠smān vṛ̍ṇaktu vi̠śvata̍ḥ ।\nathō̠ ya i̍ṣu̠dhistavā̠rē a̠smannidhē̍hi̠ tam ॥ 1 ॥",
           "translation": "May the **striking force (Hēti)** of your bow **avoid us from all sides**. And may you place your quiver far away from us."
@@ -155,8 +154,8 @@
         {
           "id": "rudra-1-v17",
           "verse_number": "1.17",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 197,
+          "endTime": 223,
           "original": "श्री शम्भ॑वे॒ नमः॑ ॥\nनम॑स्ते अस्तु भगवन्-विश्वेश्व॒राय॑ महादे॒वाय॑ त्र्यम्ब॒काय॑ त्रिपुरान्त॒काय॑\nत्रिकाग्निका॒लाय॑ कालाग्निरु॒द्राय॑ नीलक॒ण्ठाय॑\nमृत्युञ्ज॒याय॑ सर्वेश्व॒राय॑ सदाशि॒वाय॑ [शङ्क॒राय॑] श्रीम-न्महादे॒वाय॒ नमः॑ ।",
           "transliteration": "śrī śambha̍vē̠ nama̍ḥ ॥\nnama̍stē astu bhagavan-viśvēśva̠rāya̍ mahādē̠vāya̍ tryamba̠kāya̍ tripurānta̠kāya̍ trikāgnikā̠lāya̍ kālāgniru̠drāya̍ nīlaka̠ṇṭhāya̍ mṛtyuñja̠yāya̍ sarvēśva̠rāya̍ sadāśi̠vāya̍ [śaṅka̠rāya̍] śrīma-nmahādē̠vāya̠ nama̍ḥ ।",
           "translation": "Salutations to **Śrī Śambhu**.\nSalutations to the venerable Lord, the **Lord of the Universe** (**Viśvēśvarāya**), the **Great God** (**Mahādēvāya**), the **three-eyed one** (**Tryambakāya**), the **destroyer of the three cities** (**Tripurāntakāya**), the form of time/death (**Trikāgnikālāya**), the **Rudra who is the fire of time** (**Kālāgnirudrāya**), the **blue-throated one** (**Nīlakaṇṭhāya**), the **conqueror of death** (**Mṛtyuñjayāya**), the **Lord of All** (**Sarvēśvarāya**), the **ever-auspicious one** (**Sadāśivāya**), salutations to the glorious Great God (**Mahādēvāya**)."
@@ -164,8 +163,8 @@
         {
           "id": "rudra-2",
           "verse_number": "2nd Anuvaka",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 224,
+          "endTime": 303,
           "original": "नमो॒ हिर॑ण्य बाहवे सेना॒न्ये॑ दि॒शा-ञ्च॒ पत॑ये॒ नमो॒\nनमो॑ वृ॒क्षेभ्यो॒ हरि॑केशेभ्यः पशू॒ना-म्पत॑ये॒ नमो॒\nनमः॑ स॒स्पिञ्ज॑राय॒ त्विषी॑मते पथी॒ना-म्पत॑ये॒ नमो॒\nनमो॑ बभ्लु॒शाय॑ विव्या॒धिने-ऽन्ना॑ना॒-म्पत॑ये॒ नमो॒\nनमो॒ हरि॑केशायोपवी॒तिने॑ पु॒ष्टाना॒-म्पत॑ये॒ नमो॒\nनमो॑ भ॒वस्य॑ हे॒त्यै जग॑ता॒-म्पत॑ये॒ नमो॒\nनमो॑ रु॒द्राया॑तता॒विने॒ क्षेत्रा॑णा॒-म्पत॑ये॒ नमो॒\nनम॑स्सू॒तायाह॑न्त्याय॒ वना॑ना॒-म्पत॑ये॒ नमो॒\nनमो॒ रोहि॑ताय स्थ॒पत॑ये वृ॒क्षाणा॒-म्पत॑ये॒ नमो॒\nनमो॑ म॒न्त्रिणे॑ वाणि॒जाय॒ कक्षा॑णा॒-म्पत॑ये॒ नमो॒\nनमो॑ भुव॒न्तये॑ वारिवस्कृ॒ता-यौष॑धीना॒-म्पत॑ये॒ नमो॒\nनम॑ उ॒च्चैर्घो॑षायाक्र॒न्दय॑ते पत्ती॒ना-म्पत॑ये॒ नमो॒\nनमः॑ कृत्स्नवी॒ताय॒ धाव॑ते॒ सत्त्व॑ना॒-म्पत॑ये॒ नमः॑ ॥२॥",
           "transliteration": "namō̠ hira̍ṇya bāhavē sēnā̠nyē̍ di̠śā-ñcha̠ pata̍yē̠ namō̠\nnamō̍ vṛ̠kṣēbhyō̠ hari̍kēśēbhyaḥ paśū̠nā-mpata̍yē̠ namō̠\nnama̍-ssa̠spiñja̍rāya̠ tviṣī̍matē pathī̠nā-mpata̍yē̠ namō̠\nnamō̍ babhlu̠śāya̍ vivyā̠dhinē-‘nnā̍nā̠-mpata̍yē̠ namō̠\nnamō̠ hari̍kēśāyōpavī̠tinē̍ pu̠ṣṭānā̠-mpata̍yē̠ namō̠\nnamō̍ bha̠vasya̍ hē̠tyai jaga̍tā̠-mpata̍yē̠ namō̠\nnamō̍ ru̠drāyā̍tatā̠vinē̠ kṣētrā̍ṇā̠-mpata̍yē̠ namō̠\nnama̍ssū̠tāyāha̍ntyāya̠ vanā̍nā̠-mpata̍yē̠ namō̠\nnamō̠ rōhi̍tāya stha̠pata̍yē vṛ̠kṣāṇā̠-mpata̍yē̠ namō̠\nnamō̍ ma̠ntriṇē̍ vāṇi̠jāya̠ kakṣā̍ṇā̠-mpata̍yē̠ namō̠\nnama̍ u̠chchairghō̍ṣāyākra̠ndaya̍tē pattī̠nā-mpata̍yē̠ namō̠\nnama̍ḥ kṛtsnavī̠tāya̠ dhāva̍tē̠ sattva̍nā̠-mpata̍yē̠ nama̍ḥ ॥ 2 ॥",
           "translation": "Salutations to the one with golden arms (Hiraṇyabāhu), the Commander of the Army (Sēnāni), and the Lord of the Directions (Diśām Pati). Salutations to the trees with green foliage (Harikēśēbhyaḥ) and the Lord of Cattle (Paśūnām Pati). Salutations to the one yellowish-green (Saspijñjara), radiant (Tviṣīmate), and the Lord of paths (Pathīnām Pati). Salutations to the brown one (Babhluśa), the afflicter (Vivyādhine), and the Lord of Food (Annānām Pati). Salutations to the green-haired one (Harikēśāya), who wears the sacred thread (Upavītine), and the Lord of the Prosperous (Puṣṭānām Pati).\nSalutations to the striking force (Hēti) of Bhava, and the Lord of all creation (Jagatām Pati). Salutations to Rudra, the stretcher of the bow (Ātatāvine), and the Lord of fields (Kṣētrāṇām Pati). Salutations to the Charioteer (Sūta), the unassailable one (Ahantyāya), and the Lord of forests (Vanānām Pati). Salutations to the Red one (Rōhita), the Chief architect (Sthapataye), and the Lord of trees (Vṛkṣāṇām Pati). Salutations to the Counselor (Mantriṇe), the merchant (Vāṇijāya), and the Lord of thickets (Kakṣāṇām Pati). Salutations to the Lord of the world (Bhuvantaye), the giver of wealth (Vārivaskṛtāya), and the Lord of herbs (Auṣadhīnām Pati). Salutations to the one with the loud battle-cry (Uccairghoṣāya), who makes others cry (Ākrandayate), and the Lord of foot-soldiers (Pattīnām Pati). Salutations to the one completely enveloped (Kṛtsnavītāya), the runner (Dhāvate), and the Lord of brave men (Sattvanām Pati)."
@@ -173,8 +172,8 @@
         {
           "id": "rudra-3",
           "verse_number": "3rd Anuvaka",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 304,
+          "endTime": 399,
           "original": "नम॒-स्सह॑मानाय निव्या॒धिन॑ आव्या॒धिनी॑ना॒-म्पत॑ये नमो॒\nनमः॑ ककु॒भाय॑ निष॒ङ्गिणे᳚ स्ते॒नाना॒-म्पत॑ये॒ नमो॒\nनमो॑ निष॒ङ्गिण॑ इषुधि॒मते॒ तस्क॑राणा॒-म्पत॑ये॒ नमो॒\nनमो॒ वञ्च॑ते परि॒वञ्च॑ते स्तायू॒ना-म्पत॑ये॒ नमो॒\nनमो॑ निचे॒रवे॑ परिच॒रायार॑ण्याना॒-म्पत॑ये॒ नमो॒\nनमः॑ सृका॒विभ्यो॒ जिघाग्ं॑सद्भ्यो मुष्ण॒ता-म्पत॑ये॒ नमो॒\nनमो॑-ऽसि॒मद्भ्यो॒ नक्त॒ञ्चर॑द्भ्यः प्रकृ॒न्ताना॒-म्पत॑ये॒ नमो॒\nनम॑ उष्णी॒षिणे॑ गिरिच॒राय॑ कुलु॒ञ्चाना॒-म्पत॑ये॒ नमो॒\nनम॒ इषु॑मद्भ्यो धन्वा॒विभ्य॑श्च वो॒ नमो॒\nनम॑ आतन्-वा॒नेभ्यः॑ प्रति॒दधा॑नेभ्यश्च वो॒ नमो॒\nनम॑ आ॒यच्छ॑द्भ्यो विसृ॒जद्भ्य॑श्च वो॒ नमो॒\nनमो-ऽस्स॑द्भ्यो॒ विद्य॑द्भ्यश्च वो॒ नमो॒\nनम॒ आसी॑नेभ्य॒-श्शया॑नेभ्यश्च वो॒ नमो॒\nनमः॑ स्व॒पद्भ्यो॒ जाग्र॑द्भ्यश्च वो॒ नमो॒\nनम॒स्तिष्ठ॑द्भ्यो॒ धाव॑द्भ्यश्च वो॒ नमो॒\nनमः॑ स॒भाभ्यः॑ स॒भाप॑तिभ्यश्च वो॒ नमो॒\nनमो॒ अश्वे॒भ्यो-ऽश्व॑पतिभ्यश्च वो॒ नमः॑ ॥३॥",
           "transliteration": "nama̠-ssaha̍mānāya nivyā̠dhina̍ āvyā̠dhinī̍nā̠-mpata̍yē namō̠\nnama̍ḥ kaku̠bhāya̍ niṣa̠ṅgiṇē̎ stē̠nānā̠-mpata̍yē̠ namō̠\nnamō̍ niṣa̠ṅgiṇa̍ iṣudhi̠matē̠ taska̍rāṇā̠-mpata̍yē̠ namō̠\nnamō̠ vañcha̍tē pari̠vañcha̍tē stāyū̠nā-mpata̍yē̠ namō̠\nnamō̍ nichē̠ravē̍ paricha̠rāyāra̍ṇyānā̠-mpata̍yē̠ namō̠\nnama̍-ssṛkā̠vibhyō̠ jighāg̍ṃsadbhyō muṣṇa̠tā-mpata̍yē̠ namō̠\nnamō̍-‘si̠madbhyō̠ nakta̠ñchara̍dbhyaḥ prakṛ̠ntānā̠-mpata̍yē̠ namō̠\nnama̍ uṣṇī̠ṣiṇē̍ giricha̠rāya̍ kulu̠ñchānā̠-mpata̍yē̠ namō̠\nnama̠ iṣu̍madbhyō dhanvā̠vibhya̍ścha vō̠ namō̠\nnama̍ ātan-vā̠nēbhya̍ḥ prati̠dadhā̍nēbhyaścha vō̠ namō̠\nnama̍ ā̠yachCha̍dbhyō visṛ̠jadbhya̍ścha vō̠ namō̠\nnamō-‘ssa̍dbhyō̠ vidya̍dbhyaścha vō̠ namō̠\nnama̠ āsī̍nēbhya̠-śśayā̍nēbhyaścha vō̠ namō̠\nnama̍-ssva̠padbhyō̠ jāgra̍dbhyaścha vō̠ namō̠\nnama̠stiṣṭha̍dbhyō̠ dhāva̍dbhyaścha vō̠ namō̠\nnama̍-ssa̠bhābhya̍-ssa̠bhāpa̍tibhyaścha vō̠ namō̠\nnamō̠ aśvē̠bhyō-‘śva̍patibhyaścha vō̠ nama̍ḥ ॥ 3 ॥",
           "translation": "Salutations to the victorious one (Sahamānāya), the striker (Nivyādhine), and the Lord of the attacking hordes (Āvyādhinīnām Pati). Salutations to the one on the summit (Kakubhāya), who wears a sword (Niṣaṅgiṇe), and the Lord of thieves (Stēnānām Pati).\nSalutations to the one who wears a sword and carries a quiver (Iṣudhimate), and the Lord of robbers (Taskarāṇām Pati). Salutations to the cheater (Vanchate), the complete deceiver (Parivañcate), and the Lord of lurking thieves (Stāyūnām Pati). Salutations to the silent stalker (Nicerave), the wanderer (Paricarāya), and the Lord of forest-dwellers (Āraṇyānām Pati).\nSalutations to those carrying swords (Sṛkāvibhyaḥ), those desirous of killing (Jighāgṃsadbhyaḥ), and the Lord of plunderers (Muṣṇatām Pati). Salutations to those bearing swords (Asimadbhyaḥ), those who roam at night (Naktañcaradbhyaḥ), and the Lord of cutthroats (Prakṛntānām Pati). Salutations to the turbaned one (Uṣṇīṣiṇe), the mountain-rover (Giricarāya), and the Lord of land-grabbers (Kuluñcānām Pati).\nSalutations to you, who are archers (Iṣumadbhyaḥ) and bow-men (Dhanvāvibhyaḥ). Salutations to you, who string the bow (Ātanvānebhyaḥ) and those who aim (Pratidadhānebhyaśca). Salutations to you, who draw the arrow (Āyaccha-dbhyaḥ) and those who release it (Visṛjadbhyaśca). Salutations to you, who are sitting (Asadbhyaḥ) and those who are striking (Vidya-dbhyaśca).\nSalutations to you, who are seated (Āsīnebhyaḥ) and those who are lying down (Śayānebhyaśca). Salutations to you, who are sleeping (Sva-padbhyaḥ) and those who are awake (Jāgra-dbhyaśca). Salutations to you, who are standing (Tiṣṭha-dbhyaḥ) and those who are running (Dhāva-dbhyaśca). Salutations to the assemblies (Sabhābhyaḥ) and the Lords of the assemblies (Sabhāpatibhyaśca). Salutations to the horses (Aśvebhyaḥ) and the masters of horses (Aśvapatibhyaśca)."
@@ -182,8 +181,8 @@
         {
           "id": "rudra-4",
           "verse_number": "4th Anuvaka",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 400,
+          "endTime": 486,
           "original": "नम॑ आव्या॒धिनी᳚भ्यो वि॒विध्य॑न्तीभ्यश्च वो॒ नमो॒\nनम॒ उग॑णाभ्यस्तृग्ं-ह॒तीभ्य॑श्च वो॒ नमो॒\nनमो॑ गृ॒त्सेभ्यो॑ गृ॒त्सप॑तिभ्यश्च वो॒ नमो॒\nनमो॒ व्राते᳚भ्यो॒ व्रात॑पतिभ्यश्च वो॒ नमो॒\nनमो॑ ग॒णेभ्यो॑ ग॒णप॑तिभ्यश्च वो॒ नमो॒\nनमो॒ विरू॑पेभ्यो वि॒श्वरू॑पेभ्यश्च वो॒ नमो॒\nनमो॑ मह॒द्भ्यः॑, क्षुल्ल॒केभ्य॑श्च वो॒ नमो॒\nनमो॑ र॒थिभ्यो॑-ऽर॒थेभ्य॑श्च वो॒ नमो॒\nनमो॒ रथे᳚भ्यो॒ रथ॑पतिभ्यश्च वो॒ नमो॒\nनम॒-स्सेना᳚भ्य-स्सेना॒निभ्य॑श्च वो॒ नमो॒\nनमः॑, क्ष॒त्तृभ्यः॑ सङ्ग्रही॒तृभ्य॑श्च वो॒ नमो॒\nनम॒स्तक्ष॑भ्यो रथका॒रेभ्य॑श्च वो॒ नमो॒\nनमः॒ कुला॑लेभ्यः क॒र्मारे᳚भ्यश्च वो॒ नमो॒\nनमः॑ पु॒ञ्जिष्टे᳚भ्यो निषा॒देभ्य॑श्च वो॒ नमो॒\nनम॑ इषु॒कृद्भ्यो॑ धन्व॒कृद्भ्य॑श्च वो॒ नमो॒\nनमो॑ मृग॒युभ्यः॑ श्व॒निभ्य॑श्च वो॒ नमो॒\nनम॒-श्श्वभ्य॒-श्श्वप॑तिभ्यश्च वो॒ नमः॑ ॥४॥",
           "transliteration": "nama̍ āvyā̠dhinī̎bhyō vi̠vidhya̍ntībhyaścha vō̠ namō̠\nnama̠ uga̍ṇābhyastṛgṃ-ha̠tībhya̍ścha vō̠ namō̠\nnamō̍ gṛ̠tsēbhyō̍ gṛ̠tsapa̍tibhyaścha vō̠ namō̠\nnamō̠ vrātē̎bhyō̠ vrāta̍patibhyaścha vō̠ namō̠\nnamō̍ ga̠ṇēbhyō̍ ga̠ṇapa̍tibhyaścha vō̠ namō̠\nnamō̠ virū̍pēbhyō vi̠śvarū̍pēbhyaścha vō̠ namō̠\nnamō̍ maha̠dbhya̍ḥ, kṣulla̠kēbhya̍ścha vō̠ namō̠\nnamō̍ ra̠thibhyō̍-‘ra̠thēbhya̍ścha vō̠ namō̠\nnamō̠ rathē̎bhyō̠ ratha̍patibhyaścha vō̠ namō̠\nnama̠-ssēnā̎bhya-ssēnā̠nibhya̍ścha vō̠ namō̠\nnama̍ḥ, kṣa̠ttṛbhya̍-ssaṅgrahī̠tṛbhya̍ścha vō̠ namō̠\nnama̠stakṣa̍bhyō rathakā̠rēbhya̍ścha vō̠ namō̠\nnama̠ḥ kulā̍lēbhyaḥ ka̠rmārē̎bhyaścha vō̠ namō̠\nnama̍ḥ pu̠ñjiṣṭē̎bhyō niṣā̠dēbhya̍ścha vō̠ namō̠\nnama̍ iṣu̠kṛdbhyō̍ dhanva̠kṛdbhya̍ścha vō̠ namō̠\nnama̍ḥ mṛga̠yubhya̍-śśva̠nibhya̍ścha vō̠ namō̠\nnama̠-śśvabhya̠-śśvapa̍tibhyaścha vō̠ nama̍ḥ ॥ 4 ॥",
           "translation": "Salutations to the attacking forces (Āvyādhinībhyaḥ) and the piercing forces (Vividhyantībhyas). Salutations to the fierce hosts (Ugaṇābhyaḥ) and the destroying forces (Tṛgṃhatībhyas). Salutations to the greedy ones (Gṛtsēbhyaḥ) and the leaders of the greedy (Gṛtsapatibhyas). Salutations to the wandering tribes (Vrātēbhyaḥ) and the leaders of the tribes (Vrātapati-bhyaśca). Salutations to the hosts (Gaṇēbhyaḥ) and the leaders of the hosts (Gaṇapatibhyaśca).\nSalutations to the deformed ones (Virūpēbhyaḥ) and the multi-formed ones (Viśvarūpēbhyaśca). Salutations to the great ones (Mahadbhyaḥ) and the small ones (Kṣullakēbhyaśca). Salutations to the chariot-riders (Rathibhyaḥ) and those without chariots (Arathēbhyaśca). Salutations to the chariots (Rathēbhyaḥ) and the masters of chariots (Rathapatibhyaśca). Salutations to the armies (Sēnābhyaḥ) and the leaders of the armies (Sēnānibhyaśca).\nSalutations to the car-drivers (Kṣattṛbhyaḥ) and the treasurers (Saṅgrahītṛbhyaśca). Salutations to the carpenters (Takṣabhyaḥ) and the chariot-makers (Rathakārēbhyaśca). Salutations to the potters (Kulālēbhyaḥ) and the blacksmiths (Karmārēbhyaśca). Salutations to the fowlers (Puñjiṣṭēbhyaḥ) and the fishermen (Niṣādēbhyaśca). Salutations to the arrow-makers (Iṣukṛdbhyaḥ) and the bow-makers (Dhanvakṛdbhyaśca). Salutations to the hunters (Mṛgayubhyaḥ) and the dog-keepers (Śvanibhyaśca). Salutations to the dogs (Śvabhyaḥ) and the masters of dogs (Śvapatibhyaśca)."
@@ -191,8 +190,8 @@
         {
           "id": "rudra-5",
           "verse_number": "5th Anuvaka",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 487,
+          "endTime": 543,
           "original": "नमो॑ भ॒वाय॑ च रु॒द्राय॑ च॒\nनमः॑ श॒र्वाय॑ च पशु॒पत॑ये च॒\nनमो॒ नील॑ग्रीवाय च शिति॒कण्ठा॑य च॒\nनमः॑ कप॒र्दिने॑ च॒ व्यु॑प्तकेशाय च॒\nनमः॑ सहस्रा॒क्षाय॑ च श॒तध॑न्वने च॒\nनमो॑ गिरि॒शाय॑ च शिपिवि॒ष्टाय॑ च॒\nनमो॑ मी॒ढुष्ट॑माय॒ चेषु॑मते च॒\nनमो᳚ ह्र॒स्वाय॑ च वाम॒नाय॑ च॒\nनमो॑ बृह॒ते च॒ वर्​षी॑यसे च॒\nनमो॑ वृ॒द्धाय॑ च सं॒​वृँध्व॑ने च॒\nनमो॒ अग्रि॑याय च प्रथ॒माय॑ च॒\nनम॑ आ॒शवे॑ चाजि॒राय॑ च॒\nनम॒-श्शीघ्रि॑याय च॒ शीभ्या॑य च॒\nनम॑ ऊ॒र्म्या॑य चावस्व॒न्या॑य च॒\nनमः॑ स्रोत॒स्या॑य च॒ द्वीप्या॑य च ॥५॥",
           "transliteration": "namō̍ bha̠vāya̍ cha ru̠drāya̍ cha̠\nnama̍-śśa̠rvāya̍ cha paśu̠pata̍yē cha̠\nnamō̠ nīla̍grīvāya cha śiti̠kaṇṭhā̍ya cha̠\nnama̍ḥ kapa̠rdinē̍ cha̠ vyu̍ptakēśāya cha̠\nnama̍-ssahasrā̠kṣāya̍ cha śa̠tadha̍nvanē cha̠\nnamō̍ giri̠śāya̍ cha śipivi̠ṣṭāya̍ cha̠\nnamō̍ mī̠ḍhuṣṭa̍māya̠ chēṣu̍matē cha̠\nnamō̎ hra̠svāya̍ cha vāma̠nāya̍ cha̠\nnamō̍ bṛha̠tē cha̠ var​ṣī̍yasē cha̠\nnamō̍ vṛ̠ddhāya̍ cha sa̠ṃvṛdhva̍nē cha̠\nnamō̠ agri̍yāya cha pratha̠māya̍ cha̠\nnama̍ ā̠śavē̍ chāji̠rāya̍ cha̠\nnama̠-śśīghri̍yāya cha̠ śībhyā̍ya cha̠\nnama̍ ū̠rmyā̍ya chāvasva̠nyā̍ya cha̠\nnama̍-ssrōta̠syā̍ya cha̠ dvīpyā̍ya cha ॥ 5 ॥",
           "translation": "Salutations to Bhava and to Rudra. Salutations to Śarva and to Paśupati (Lord of creatures). Salutations to the Blue-throated (Nīlagrīvāya) and to the White-throated (Śitikaṇṭhāya). Salutations to the one with matted hair (Kapardine) and the one with shaven hair (Vyuptakēśāya).\nSalutations to the thousand-eyed one (Sahasrākṣāya) and the one with a hundred bows (Śatadhanvane). Salutations to the dweller of the mountain (Giriśāya) and to Śipiviṣṭa (whose form is clothed in rays of light). Salutations to the most liberal bestower of wishes (Mīḍhuṣṭamāya) and the one with arrows (Iṣumate). Salutations to the short one (Hrasvāya) and the dwarf (Vāmanāya).\nSalutations to the great one (Bṛhate) and the oldest (Varṣīyase). Salutations to the old one (Vṛddhāya) and the one who increases growth (Saṃvṛdhvane). Salutations to the foremost (Agriyāya) and the first (Prathamāya). Salutations to the swift one (Āśave) and the quick one (Ajirāya).\nSalutations to the swift in action (Śīghriyāya) and the swift in motion (Śībhyāya). Salutations to the wave-dwelling one (Ūrmyāya) and the one dwelling in the waters (Avasvanyāya). Salutations to the one dwelling in streams (Srōtasyāya) and the one dwelling in islands (Dvīpyāya)."
@@ -200,8 +199,8 @@
         {
           "id": "rudra-6",
           "verse_number": "6th Anuvaka",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 544,
+          "endTime": 600,
           "original": "नमो᳚ ज्ये॒ष्ठाय॑ च कनि॒ष्ठाय॑ च॒\nनमः॑ पूर्व॒जाय॑ चापर॒जाय॑ च॒\nनमो॑ मध्य॒माय॑ चापग॒ल्भाय॑ च॒\nनमो॑ जघ॒न्या॑य च॒ बुध्नि॑याय च॒\nनमः॑ सो॒भ्या॑य च प्रतिस॒र्या॑य च॒\nनमो॒ याम्या॑य च॒ क्षेम्या॑य च॒\nनम॑ उर्व॒र्या॑य च॒ खल्या॑य च॒\nनम॒-श्श्लोक्या॑य चा-ऽवसा॒न्या॑य च॒\nनमो॒ वन्या॑य च॒ कक्ष्या॑य च॒\nनमः॑ श्र॒वाय॑ च प्रतिश्र॒वाय॑ च॒\nनम॑ आ॒शुषे॑णाय चा॒शुर॑थाय च॒\nनम॒-श्शूरा॑य चावभिन्द॒ते च॒\nनमो॑ व॒र्मिणे॑ च वरू॒धिने॑ च॒\nनमो॑ बि॒ल्मिने॑ च कव॒चिने॑ च॒\nनमः॑ श्रु॒ताय॑ च श्रुतसे॒नाय॑ च॥ ६॥",
           "transliteration": "namō̎ jyē̠ṣṭhāya̍ cha kani̠ṣṭhāya̍ cha̠\nnama̍ḥ pūrva̠jāya̍ chāpara̠jāya̍ cha̠\nnamō̍ madhya̠māya̍ chāpaga̠lbhāya̍ cha̠\nnamō̍ jagha̠nyā̍ya cha̠ budhni̍yāya cha̠\nnama̍-ssō̠bhyā̍ya cha pratisa̠ryā̍ya cha̠\nnamō̠ yāmyā̍ya cha̠ kṣēmyā̍ya cha̠\nnama̍ urva̠ryā̍ya cha̠ khalyā̍ya cha̠\nnama̠-śślōkyā̍ya chā-‘vasā̠nyā̍ya cha̠\nnamō̠ vanyā̍ya cha̠ kakṣyā̍ya cha̠\nnama̍-śśra̠vāya̍ cha pratiśra̠vāya̍ cha̠\nnama̍ ā̠śuṣē̍ṇāya chā̠śura̍thāya cha̠\nnama̠-śśūrā̍ya chāvabhinda̠tē cha̠\nnamō̍ va̠rmiṇē̍ cha varū̠dhinē̍ cha̠\nnamō̍ bi̠lminē̍ cha kava̠chinē̍ cha̠\nnama̍-śśru̠tāya̍ cha śrutasē̠nāya̍ cha ॥ 6 ॥",
           "translation": "Salutations to the eldest (Jyēṣṭhāya) and the youngest (Kaniṣṭhāya). Salutations to the one born before (Pūrvajāya) and the one born after (Aparajāya). Salutations to the middle one (Madhyamāya) and the simple one (Apagalbhāya). Salutations to the lowest one (Jaghanyāya) and the foundational one (Budhniyāya).\nSalutations to the one in the assembly (Sōbhyāya) and the one who moves forward (Pratisaryāya). Salutations to the one in the right direction (Yāmyāya) and the one in the safe land (Kṣēmyāya). Salutations to the one in the fertile land (Urvaryāya) and the one in the threshing floor (Khalyāya). Salutations to the one in the hymn (Ślōkyāya) and the one in the final moment (Avasānyāya).\nSalutations to the one in the forest (Vanyāya) and the one in the thicket (Kakṣyāya). Salutations to the sound (Śravāya) and the echo (Pratiśravāya). Salutations to the one with a swift army (Āśuṣēṇāya) and the one with a swift chariot (Āśurathāya). Salutations to the hero (Śūrāya) and the destroyer of opponents (Avabhindate).\nSalutations to the mail-clad one (Varmiṇe) and the one with a shield (Varūdhine). Salutations to the helmeted one (Bilmine) and the armored one (Kavachine). Salutations to the renowned one (Śrutāya) and the one with a famous army (Śrutasēnāya)."
@@ -209,8 +208,8 @@
         {
           "id": "rudra-7",
           "verse_number": "7th Anuvaka",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 601,
+          "endTime": 658,
           "original": "नमो॑ दुन्दु॒भ्या॑य चाहन॒न्या॑य च॒\nनमो॑ धृ॒ष्णवे॑ च प्रमृ॒शाय॑ च॒\nनमो॑ दू॒ताय॑ च प्रहि॑ताय च॒\nनमो॑ निष॒ङ्गिणे॑ चेषुधि॒मते॑ च॒\nनम॑स्ती॒क्ष्णेष॑वे चायु॒धिने॑ च॒\nनमः॑ स्वायु॒धाय॑ च सु॒धन्व॑ने च॒\nनम॒-स्स्रुत्या॑य च॒ पथ्या॑य च॒\nनमः॑ का॒ट्या॑य च नी॒प्या॑य च॒\nनम॒-स्सूद्या॑य च सर॒स्या॑य च॒\nनमो॑ ना॒द्याय॑ च वैश॒न्ताय॑ च॒\nनमः॒ कूप्या॑य चाव॒ट्या॑य च॒\nनमो॒ वर्​ष्या॑य चाव॒र्​ष्याय॑ च॒\nनमो॑ मे॒घ्या॑य च विद्यु॒त्या॑य च॒\nनम ई॒ध्रिया॑य चात॒प्या॑य च॒\nनमो॒ वात्या॑य च॒ रेष्मि॑याय च॒\nनमो॑ वास्त॒व्या॑य च वास्तु॒पाय॑ च ॥ ७॥",
           "transliteration": "namō̍ dundu̠bhyā̍ya chāhana̠nyā̍ya cha̠\nnamō̍ dhṛ̠ṣṇavē̍ cha pramṛ̠śāya̍ cha̠\nnamō̍ dū̠tāya̍ cha prahi̍tāya cha̠\nnamō̍ niṣa̠ṅgiṇē̍ chēṣudhi̠matē̍ cha̠\nnama̍stī̠kṣṇēṣa̍vē chāyu̠dhinē̍ cha̠\nnama̍-ssvāyu̠dhāya̍ cha su̠dhanva̍nē cha̠\nnama̠-ssrutyā̍ya cha̠ pathyā̍ya cha̠\nnama̍ḥ kā̠ṭyā̍ya cha nī̠pyā̍ya cha̠\nnama̠-ssūdyā̍ya cha sara̠syā̍ya cha̠\nnamō̍ nā̠dyāya̍ cha vaiśa̠ntāya̍ cha̠\nnama̠ḥ kūpyā̍ya chāva̠ṭyā̍ya cha̠\nnamō̠ var​ṣyā̍ya chāva̠r​ṣyāya̍ cha̠\nnamō̍ mē̠ghyā̍ya cha vidyu̠tyā̍ya cha̠\nnama ī̠dhriyā̍ya chāta̠pyā̍ya cha̠\nnamō̠ vātyā̍ya cha̠ rēṣmi̍yāya cha̠\nnamō̍ vāsta̠vyā̍ya cha vāstu̠pāya̍ cha ॥ 7 ॥",
           "translation": "Salutations to the one in the kettle-drum (Dundubhyāya) and the one in the drum-stick (Āhananyāya). Salutations to the daring one (Dhṛṣṇave) and the spy (Pramṛśāya). Salutations to the messenger (Dūtāya) and the appointed one (Prahitāya). Salutations to the one who wears a sword (Niṣaṅgiṇe) and the one who carries a quiver (Iṣudhimatē).\nSalutations to the one with sharp arrows (Tīkṣṇēṣave) and the one with weapons (Āyudhine). Salutations to the one with excellent weapons (Svāyudhāya) and the one with a good bow (Sudhanvane). Salutations to the one in the watercourse (Srutyāya) and the one in the path (Pathyāya). Salutations to the one in the precipice (Kāṭyāya) and the one in the lowland (Nīpyāya).\nSalutations to the one in the marshy ground (Sūdyāya) and the one in the lake (Sarasyāya). Salutations to the one in the river (Nādyāya) and the one in the pool (Vaiśantāya). Salutations to the one in the well (Kūpyāya) and the one in the pit (Avaṭyāya).\nSalutations to the one in the rain (Varṣyāya) and the one in the drought (Avarṣyāya). Salutations to the one in the cloud (Mēghyāya) and the one in the lightning (Vidyutyāya). Salutations to the one in the hail (Īdhriyāya) and the one in the sun's heat (Ātapyāya). Salutations to the one in the wind (Vātyāya) and the one in the whirlwind (Rēṣmiyāya). Salutations to the one in the household (Vāstavyāya) and the guardian of the dwelling (Vāstupāya)."
@@ -218,8 +217,8 @@
         {
           "id": "rudra-8",
           "verse_number": "8th Anuvaka",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 659,
+          "endTime": 717,
           "original": "नम॒-स्सोमा॑य च रु॒द्राय॑ च॒\nनम॑स्ता॒म्राय॑ चारु॒णाय॑ च॒\nनमः॑ श॒ङ्गाय॑ च पशु॒पत॑ये च॒\nनम॑ उ॒ग्राय॑ च भी॒माय॑ च॒\nनमो॑ अग्रेव॒धाय॑ च दूरेव॒धाय॑ च॒\nनमो॑ ह॒न्त्रे च॒ हनी॑यसे च॒\nनमो॑ वृ॒क्षेभ्यो॒ हरि॑केशेभ्यो॒\nनम॑स्ता॒राय॒\nनम॑श्श॒म्भवे॑ च मयो॒भवे॑ च॒\nनमः॑ शङ्क॒राय॑ च मयस्क॒राय॑ च॒\nनमः॑ शि॒वाय॑ च शि॒वत॑राय च॒\nनम॒स्तीर्थ्या॑य च॒ कूल्या॑य च॒\nनमः॑ पा॒र्या॑य चावा॒र्या॑य च॒\nनमः॑ प्र॒तर॑णाय चो॒त्तर॑णाय च॒\nनम॑ आता॒र्या॑य चाला॒द्या॑य च॒\nनम॒-श्शष्प्या॑य च॒ फेन्या॑य च॒\nनमः॑ सिक॒त्या॑य च प्रवा॒ह्या॑य च ॥ ८॥",
           "transliteration": "nama̠-ssōmā̍ya cha ru̠drāya̍ cha̠\nnama̍stā̠mrāya̍ chāru̠ṇāya̍ cha̠\nnama̍-śśa̠ṅgāya̍ cha paśu̠pata̍yē cha̠\nnama̍ u̠grāya̍ cha bhī̠māya̍ cha̠\nnamō̍ agrēva̠dhāya̍ cha dūrēva̠dhāya̍ cha̠\nnamō̍ ha̠ntrē cha̠ hanī̍yasē cha̠\nnamō̍ vṛ̠kṣēbhyō̠ hari̍kēśēbhyō̠\nnama̍stā̠rāya̠\nnama̍śśa̠mbhavē̍ cha mayō̠bhavē̍ cha̠\nnama̍-śśaṅka̠rāya̍ cha mayaska̠rāya̍ cha̠\nnama̍-śśi̠vāya̍ cha śi̠vata̍rāya cha̠\nnama̠stīrthyā̍ya cha̠ kūlyā̍ya cha̠\nnama̍ḥ pā̠ryā̍ya chāvā̠ryā̍ya cha̠\nnama̍ḥ pra̠tara̍ṇāya chō̠ttara̍ṇāya cha̠\nnama̍ ātā̠ryā̍ya chālā̠dyā̍ya cha̠\nnama̠-śśaṣpyā̍ya cha̠ phēnyā̍ya cha̠\nnama̍-ssika̠tyā̍ya cha pravā̠hyā̍ya cha ॥ 8 ॥",
           "translation": "Salutations to Sōma (with) and Rudra. Salutations to the copper-red (Tāmrāya) and the reddish-brown (Aruṇāya). Salutations to Śaṅga (the giver of joy) and Paśupati (Lord of creatures). Salutations to the fierce one (Ugrāya) and the terrible one (Bhīmāya).\nSalutations to the slayer in front (Agrēvadhāya) and the slayer from a distance (Dūrēvadhāya). Salutations to the slayer (Hantre) and the more dreadful slayer (Hanīyase). Salutations to the trees with green foliage (Harikēśēbhyaḥ). Salutations to the deliverer (Tārāya).\nSalutations to Śambhu (source of happiness) and Mayōbhava (source of delight). Salutations to Śaṅkara (giver of welfare) and Mayaskaraya (maker of delight). Salutations to Śiva (the auspicious one) and Śivatara (the most auspicious). Salutations to the one in sacred bathing places (Tīrthyāya) and the one on the bank (Kūlyāya).\nSalutations to the one on the farther shore (Pāryāya) and the one on the nearer shore (Avāryāya). Salutations to the one who helps cross over (Prataraṇāya) and the one who helps ascend (Uttaraṇāya). Salutations to the one who makes others cross over (Ātāryāya) and the one who moves everywhere (Ālādyāya).\nSalutations to the one in the tender grass (Śaṣpyāya) and the one in the foam (Phēnyāya). Salutations to the one in the sand (Sikatyāya) and the one in the swiftly flowing water (Pravāhyāya)."
@@ -227,8 +226,8 @@
         {
           "id": "rudra-9",
           "verse_number": "9th Anuvaka",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 718,
+          "endTime": 788,
           "original": "नम॑ इरि॒ण्या॑य च प्रप॒थ्या॑य च॒\nनमः॑ किग्ंशि॒लाय॑ च॒ क्षय॑णाय च॒\nनमः॑ कप॒र्दिने॑ च पुल॒स्तये॑ च॒\nनमो॒ गोष्ठ्या॑य च॒ गृह्या॑य च॒\nनम॒स्तल्प्या॑य च॒ गेह्या॑य च॒\nनमः॑ का॒ट्या॑य च गह्वरे॒ष्ठाय॑ च॒\nनमो᳚ ह्रद॒य्या॑य च निवे॒ष्प्या॑य च॒\nनमः॑ पाग्ं स॒व्या॑य च रज॒स्या॑य च॒\nनम॒-श्शुष्क्या॑य च हरि॒त्या॑य च॒\nनमो॒ लोप्या॑य चोल॒प्या॑य च॒\nनम॑ ऊ॒र्व्या॑य च सू॒र्म्या॑य च॒\nनमः॑ प॒र्ण्या॑य च पर्णश॒द्या॑य च॒\nनमो॑-ऽपगु॒रमा॑णाय चाभिघ्न॒ते च॒\nनम॑ आख्खिद॒ते च॑ प्रख्खिद॒ते च॒\nनमो॑ वः किरि॒केभ्यो॑ दे॒वाना॒ग्॒म्॒ हृद॑येभ्यो॒\nनमो॑ विक्षीण॒केभ्यो॒ नमो॑ विचिन्व॒त्केभ्यो॒\nनम॑ आनिर् ह॒तेभ्यो॒ नम॑ आमीव॒त्केभ्यः॑ ॥ ९॥",
           "transliteration": "nama̍ iri̠ṇyā̍ya cha prapa̠thyā̍ya cha̠\nnama̍ḥ kigṃśi̠lāya̍ cha̠ kṣaya̍ṇāya cha̠\nnama̍ḥ kapa̠rdinē̍ cha pula̠stayē̍ cha̠\nnamō̠ gōṣṭhyā̍ya cha̠ gṛhyā̍ya cha̠\nnama̠stalpyā̍ya cha̠ gēhyā̍ya cha̠\nnama̍ḥ kā̠ṭyā̍ya cha gahvarē̠ṣṭhāya̍ cha̠\nnamō̎ hrada̠yyā̍ya cha nivē̠ṣpyā̍ya cha̠\nnama̍ḥ pāgṃ sa̠vyā̍ya cha raja̠syā̍ya cha̠\nnama̠-śśuṣkyā̍ya cha hari̠tyā̍ya cha̠\nnamō̠ lōpyā̍ya chōla̠pyā̍ya cha̠\nnama̍ ū̠rvyā̍ya cha sū̠rmyā̍ya cha̠\nnama̍ḥ pa̠rṇyā̍ya cha parṇaśa̠dyā̍ya cha̠\nnamō̍-‘pagu̠ramā̍ṇāya chābhighna̠tē cha̠\nnama̍ ākhkhida̠tē cha̍ prakhkhida̠tē cha̠\nnamō̍ vaḥ kiri̠kēbhyō̍ dē̠vānā̠g̠m̠ hṛda̍yēbhyō̠\nnamō̍ vikṣīṇa̠kēbhyō̠ namō̍ vichinva̠tkēbhyō̠\nnama̍ ānir ha̠tēbhyō̠ nama̍ āmīva̠tkēbhya̍ḥ ॥ 9 ॥",
           "translation": "Salutations to the one in the barren land (Iriṇyāya) and the one in the public road (Prapathyāya). Salutations to the one in the pebbly ground (Kiṃśilāya) and the one in the dwelling (Kṣayaṇāya). Salutations to the matted-haired one (Kapardine) and the sage Pulastya (Pulastaye). Salutations to the one in the cow-shed (Gōṣṭhyāya) and the one in the home (Gṛhyāya).\nSalutations to the one on the couch (Talpyāya) and the one in the house (Gēhyāya). Salutations to the one in the narrow path (Kāṭyāya) and the one in the deep cave (Gahvarēṣṭhāya). Salutations to the one in the deep waters (Hradayyāya) and the one in the whirlpools (Nivēṣpyāya). Salutations to the one in the sandy places (Pāgṃsavyāya) and the one in the dusty places (Rajasyāya).\nSalutations to the one in the dry regions (Śuṣkyāya) and the one in the green regions (Harityāya). Salutations to the one in the neglected field (Lōpyāya) and the one in the abundant grass (Ulapyāya). Salutations to the one in the wide earth (Ūrvyāya) and the one in the good path (Sūrmyāya).\nSalutations to the one in the leaves (Parṇyāya) and the one in the leaf-litter (Parṇaśadyāya). Salutations to the one who is concealed (Apaguramāṇāya) and the one who strikes (Abhignate). Salutations to the one who torments (Ākhkhidate) and the one who terrifies (Prakhkhidate). Salutations to you, the scattered ones (Kirikēbhyaḥ), who are the hearts of the gods.\nSalutations to those who waste away (Vikṣīṇakēbhyaḥ). Salutations to those who investigate (Vicinvatkēbhyaḥ). Salutations to the fully killed ones (Ānirhatēbhyaḥ). Salutations to those who cause sickness (Āmīvatkēbhyaḥ)."
@@ -236,8 +235,8 @@
         {
           "id": "rudra-10",
           "verse_number": "10th Anuvaka",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 789,
+          "endTime": 975,
           "original": "द्रापे॒ अन्ध॑सस्पते॒ दरि॑द्र॒न्नील॑लोहित ।\nए॒षा-म्पुरु॑षाणामे॒षा-म्प॑शू॒ना-म्मा भेर्मा-ऽरो॒ मो ए॑षा॒-ङ्किञ्च॒नाम॑मत् ।\nया ते॑ रुद्र शि॒वा त॒नू-श्शि॒वा वि॒श्वाह॑भेषजी ।\nशि॒वा रु॒द्रस्य॑ भेष॒जी तया॑ नो मृड जी॒वसे᳚ ॥\nइ॒माग्ं रु॒द्राय॑ त॒वसे॑ कप॒र्दिने᳚ क्ष॒यद्वी॑राय॒ प्रभ॑रामहे म॒तिम् ।\nयथा॑ न॒श्शमस॑द्द्वि॒पदे॒ चतु॑ष्पदे॒ विश्व॑-म्पु॒ष्ट-ङ्ग्रामे॑ अ॒स्मिन्नना॑तुरम् ।\nमृ॒डा नो॑ रुद्रो॒त नो॒ मय॑स्कृधि क्ष॒यद्वी॑राय॒ नम॑सा विधेम ते ।\nयच्छ-ञ्च॒ योश्च॒ मनु॑राय॒जे पि॒ता तद॑श्याम॒ तव॑ रुद्र॒ प्रणी॑तौ ।\nमा नो॑ म॒हान्त॑मु॒त मा नो॑ अर्भ॒क-म्मा न॒ उक्ष॑न्तमु॒त मा न॑ उक्षि॒तम् ।\nमा नो॑-ऽवधीः पि॒तर॒-म्मोत मा॒तर॑-म्प्रि॒या मा न॑स्त॒नुवो॑ रुद्र रीरिषः ।\nमा न॑स्तो॒के तन॑ये॒ मा न॒ आयु॑षि॒ मा नो॒ गोषु॒ मा नो॒ अश्वे॑षु रीरिषः ।\nवी॒रान्मा नो॑ रुद्र भामि॒तो-ऽव॑धीर्​ह॒विष्मं॑तो॒ नम॑सा विधेम ते ।\nआ॒रात्ते॑ गो॒घ्न उ॒त पू॑रुष॒घ्ने क्ष॒यद्वी॑राय सु॒म्नम॒स्मे ते॑ अस्तु ।\nरक्षा॑ च नो॒ अधि॑ च देव ब्रू॒ह्यथा॑ च न॒-श्शर्म॑ यच्छ द्वि॒बर्​हाः᳚ ।\nस्तु॒हि श्रु॒त-ङ्ग॑र्त॒सदं॒-युँवा॑न-म्मृ॒गन्न भी॒ममु॑पह॒न्तुमु॒ग्रम् ।\nमृ॒डा ज॑रि॒त्रे रु॑द्र॒ स्तवा॑नो अ॒न्यन्ते॑ अ॒स्मन्निव॑पन्तु॒ सेनाः᳚ ।\nपरि॑णो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु॒ परि॑ त्वे॒षस्य॑ दुर्म॒ति र॑घा॒योः ।\nअव॑ स्थि॒रा म॒घव॑द्भ्य-स्तनुष्व॒ मीढ्व॑स्तो॒काय॒ तन॑याय मृडय ।\nमीढु॑ष्टम॒ शिव॑तम शि॒वो नः॑ सु॒मना॑ भव ।\nप॒र॒मे वृ॒क्ष आयु॑धन्नि॒धाय॒ कृत्तिं॒-वँसा॑न॒ आच॑र॒ पिना॑क॒-म्बिभ्र॒दाग॑हि ।\nविकि॑रिद॒ विलो॑हित॒ नम॑स्ते अस्तु भगवः ।\nयास्ते॑ स॒हस्रग्ं॑ हे॒तयो॒न्यम॒स्मन्निव॑पन्तु॒ ताः ।\nस॒हस्रा॑णि सहस्र॒धा बा॑हु॒वोस्तव॑ हे॒तयः॑ ।\nतासा॒मीशा॑नो भगवः परा॒चीना॒ मुखा॑ कृधि ॥ १०॥",
           "transliteration": "drāpē̠ andha̍saspatē̠ dari̍dra̠nnīla̍lōhita ।\nē̠ṣā-mpuru̍ṣāṇāmē̠ṣā-mpa̍śū̠nā-mmā bhērmā-‘rō̠ mō ē̍ṣā̠-ṅkiñcha̠nāma̍mat ।\nyā tē̍ rudra śi̠vā ta̠nū-śśi̠vā vi̠śvāha̍bhēṣajī ।\nśi̠vā ru̠drasya̍ bhēṣa̠jī tayā̍ nō mṛḍa jī̠vasē̎ ॥\ni̠māgṃ ru̠drāya̍ ta̠vasē̍ kapa̠rdinē̎ kṣa̠yadvī̍rāya̠ prabha̍rāmahē ma̠tim ।\nyathā̍ na̠śśamasa̍ddvi̠padē̠ chatu̍ṣpadē̠ viśva̍-mpu̠ṣṭa-ṅgrāmē̍ a̠sminnanā̍turam ।\nmṛ̠ḍā nō̍ rudrō̠ta nō̠ maya̍skṛdhi kṣa̠yadvī̍rāya̠ nama̍sā vidhēma tē ।\nyachCha-ñcha̠ yōścha̠ manu̍rāya̠jē pi̠tā tada̍śyāma̠ tava̍ rudra̠ praṇī̍tau ।\nmā nō̍ ma̠hānta̍mu̠ta mā nō̍ arbha̠ka-mmā na̠ ukṣa̍ntamu̠ta mā na̍ ukṣi̠tam ।\nmā nō̍-‘vadhīḥ pi̠tara̠-mmōta mā̠tara̍-mpri̠yā mā na̍sta̠nuvō̍ rudra rīriṣaḥ ।\nmāna̍stō̠kē tana̍yē̠ mā na̠ āyu̍ṣi̠ mā nō̠ gōṣu̠ mā nō̠ aśvē̍ṣu rīriṣaḥ ।\nvī̠rānmā nō̍ rudra bhāmi̠tō-‘va̍dhīr​ha̠viṣmaṃ̍tō̠ nama̍sā vidhēma tē ।\nā̠rāttē̍ gō̠ghna u̠ta pū̍ruṣa̠ghnē kṣa̠yadvī̍rāya su̠mnama̠smē tē̍ astu ।\nrakṣā̍ cha nō̠ adhi̍ cha dēva brū̠hyathā̍ cha na̠-śśarma̍ yachcha dvi̠bar​hā̎ḥ ।\nstu̠hi śru̠ta-ṅga̍rta̠sada̠ṃ yuvā̍na-mmṛ̠ganna bhī̠mamu̍paha̠ntumu̠gram ।\nmṛ̠ḍā ja̍ri̠trē ru̍dra̠ stavā̍nō a̠nyantē̍ a̠smanniva̍pantu̠ sēnā̎ḥ ।\npari̍ṇō ru̠drasya̍ hē̠tirvṛ̍ṇaktu̠ pari̍ tvē̠ṣasya̍ durma̠ti ra̍ghā̠yōḥ ।\nava̍ sthi̠rā ma̠ghava̍dbhya-stanuṣva̠ mīḍhva̍stō̠kāya̠ tana̍yāya mṛḍaya ।\nmīḍhu̍ṣṭama̠ śiva̍tama śi̠vō na̍-ssu̠manā̍ bhava ।\npa̠ra̠mē vṛ̠kṣa āyu̍dhanni̠dhāya̠ kṛtti̠ṃ vasā̍na̠ ācha̍ra̠ pinā̍ka̠-mbibhra̠dāga̍hi ।\nviki̍rida̠ vilō̍hita̠ nama̍stē astu bhagavaḥ ।\nyāstē̍ sa̠hasragṃ̍ hē̠tayō̠nyama̠smanniva̍pantu̠ tāḥ ।\nsa̠hasrā̍ṇi sahasra̠dhā bā̍hu̠vōstava̍ hē̠taya̍ḥ ।\ntāsā̠mīśā̍nō bhagavaḥ parā̠chīnā̠ mukhā̍ kṛdhi ॥ 10 ॥",
           "translation": "O Drāpē (evil dispeller), O Lord of food (Andhasaspate), O poor one (Daridran), O blue and red one (Nīlalōhita)! May there be no fear for these men and these cattle; may none of them suffer any harm.\nO Rudra, your form which is auspicious, which is benign, which is the panacea for all the world, which is the remedy of Rudra—with that, be gracious to us for our life.\nWe offer this prayer with devotion to the powerful Rudra, the matted-haired one (Kapardin), the destroyer of enemies (Kṣayadvīrāya), so that there may be welfare for our two-footed and four-footed creatures, and all prosperity and health in this village.\nO Rudra, be gracious to us and bestow happiness upon us. We worship you, the destroyer of enemies, with salutations. May we attain that happiness and peace which Manu, our father, attained when he worshipped. \nDo not slay our great ones, nor our little ones, nor our growing ones, nor our grown ones. O Rudra, do not slay our father, nor our mother, nor our dear bodies. O Rudra, do not harm our children, nor our grandchildren, nor our lives, nor our cows, nor our horses.\nO Rudra, in your anger, do not slay our heroes. We worship you, the offerer of oblations, with salutations. May your blessing be with us, O destroyer of enemies, which averts the slayer of cows and the slayer of men.\nProtect us and speak favorably for us, O God, and grant us a refuge that is widespread. Praise the renowned one, the mountain-dweller (Gartasadam), the youth (Yuvānam), who is terrible like a tiger, fierce to attack. O Rudra, be gracious to the supplicator, may your armies be turned away from us and slay others.\nMay the striking force of Rudra avoid us, and may the fierce malice of the hateful one pass us by. Withdraw your steady arrows from the wealthy worshippers. O bountiful one, be kind to our children and grandchildren. \nO most bountiful (Mīḍhuṣṭama), most auspicious (Śivatama), be auspicious and kind to us. Having placed your weapon on the highest tree, come, clothed in your skin, holding your Pināka (bow). \nO scatterer of evil (Vikirida), O blood-red one (Vilōhita), salutations to you, O Bhagavan. May your thousand weapons be directed away from us. Your thousands upon thousands of weapons are on your two arms. O Bhagavan, the ruler of them, make their faces turn away (from us)."
@@ -245,8 +244,8 @@
         {
           "id": "rudra-11",
           "verse_number": "11th Anuvaka",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 976,
+          "endTime": 1084,
           "original": "स॒हस्रा॑णि सहस्र॒शो ये रु॒द्रा अधि॒ भूम्या᳚म् ।\nतेषाग्ं॑ सहस्रयोज॒ने-ऽव॒धन्वा॑नि तन्मसि ।\nअ॒स्मिन्म॑ह॒त्य॑र्ण॒वें᳚-ऽतरि॑क्षे भ॒वा अधि॑ ।\nनील॑ग्रीवा-श्शिति॒कण्ठा᳚-श्श॒र्वा अ॒धः, क्ष॑माच॒राः ।\nनील॑ग्रीवा-श्शिति॒कण्ठा॒ दिवग्ं॑ रु॒द्रा उप॑श्रिताः ।\nये वृ॒क्षेषु॑ स॒स्पिञ्ज॑रा॒ नील॑ग्रीवा॒ विलो॑हिताः ।\nये भू॒ताना॒मधि॑पतयो विशि॒खासः॑ कप॒र्दि॑नः ।\nये अन्ने॑षु वि॒विध्य॑न्ति॒ पात्रे॑षु॒ पिब॑तो॒ जनान्॑ ।\nये प॒था-म्प॑थि॒रक्ष॑य ऐलबृ॒दा॑ य॒व्युधः॑ ।\nये ती॒र्थानि॑ प्र॒चर॑न्ति सृ॒काव॑न्तो निष॒ङ्गिणः॑ ।\nय ए॒ताव॑न्तश्च॒ भूयाग्ं॑सश्च॒ दिशो॑ रु॒द्रा वि॑तस्थि॒रे ।\nतेषाग्ं॑ सहस्रयोज॒ने-ऽव॒धन्वा॑नि तन्मसि ।\nनमो॑ रु॒ध्रेभ्यो॒ ये पृ॑थि॒व्यां-येँ᳚-ऽन्तरि॑क्षे॒ ये दि॒वि येषा॒मन्नं॒-वाँतो॑ व॒र्​ष॒मिष॑व॒स्तेभ्यो॒ दश॒ प्राची॒र्दश॑ दक्षि॒णा दश॑ प्र॒तीची॒-र्दशो-दी॑ची॒-र्दशो॒र्ध्वास्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु॒ ते य-न्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तं-वोँ॒ जम्भे॑ दधामि॥ ११॥",
           "transliteration": "sa̠hasrā̍ṇi sahasra̠śō yē ru̠drā adhi̠ bhūmyā̎m ।\ntēṣāg̍ṃ sahasrayōja̠nē-‘va̠dhanvā̍ni tanmasi ।\na̠sminma̍ha̠tya̍rṇa̠vē̎m-‘tari̍kṣē bha̠vā adhi̍ ।\nnīla̍grīvā-śśiti̠kaṇṭhā̎-śśa̠rvā a̠dhaḥ, kṣa̍mācha̠rāḥ ।\nnīla̍grīvā-śśiti̠kaṇṭhā̠ divag̍ṃ ru̠drā upa̍śritāḥ ।\nyē vṛ̠kṣēṣu̍ sa̠spiñja̍rā̠ nīla̍grīvā̠ vilō̍hitāḥ ।\nyē bhū̠tānā̠madhi̍patayō viśi̠khāsa̍ḥ kapa̠rdi̍naḥ ।\nyē annē̍ṣu vi̠vidhya̍nti̠ pātrē̍ṣu̠ piba̍tō̠ janān̍ ।\nyē pa̠thā-mpa̍thi̠rakṣa̍ya ailabṛ̠dā̍ ya̠vyudha̍ḥ ।\nyē tī̠rthāni̍ pra̠chara̍nti sṛ̠kāva̍ntō niṣa̠ṅgiṇa̍ḥ ।\nya ē̠tāva̍ntaścha̠ bhūyāg̍ṃsaścha̠ diśō̍ ru̠drā vi̍tasthi̠rē ।\ntēṣāg̍ṃ sahasrayōja̠nē-‘va̠dhanvā̍ni tanmasi ।\nnamō̍ ru̠dhrēbhyō̠ yē pṛ̍thi̠vyāṃ yē̎-‘ntari̍kṣē̠ yē di̠vi yēṣā̠manna̠ṃ vātō̍ va̠r​ṣa̠miṣa̍va̠stēbhyō̠ daśa̠ prāchī̠rdaśa̍ dakṣi̠ṇā daśa̍ pra̠tīchī̠-rdaśō-dī̍chī̠-rdaśō̠rdhvāstēbhyō̠ nama̠stē nō̍ mṛḍayantu̠ tē ya-ndvi̠ṣmō yaścha̍ nō̠ dvēṣṭi̠ taṃ vō̠ jambhē̍ dadhāmi ॥ 11 ॥",
           "translation": "Thousands and thousands of Rudras who dwell upon the earth—we unstring the bows of those Rudras a thousand Yojanas away. Bhava and Śarva, blue-necked and white-throated, who dwell in this great ocean, in the mid-region, and who walk upon the earth below. \nThe Rudras, blue-necked and white-throated, who are dependent on the heaven. Those Rudras who are yellowish-green like tender grass on the trees, blue-necked and blood-red. Those who are the Lords of all beings, shaven-headed or matted-haired (Kapardin).\nThose who strike men while they are eating and drinking from vessels. Those who are the protectors of paths (Pathirakṣaya), givers of food (Ailabṛdā), and slayers of enemies (Yavyudhaḥ). Those who roam in the sacred bathing places (Tīrthāni), carrying swords (Sṛkāvantaḥ) and quivers (Niṣaṅgiṇaḥ).\nTo those Rudras—who are this many and more—who are spread throughout the directions, we unstring their bows a thousand Yojanas away. Salutations to the Rudras, those who are on the earth, those in the mid-region, and those in the heaven, whose food is sustenance, whose wind is wind, and whose arrows are rain—to them, ten salutations to the East, ten to the South, ten to the West, ten to the North, and ten upwards. Salutations to them! May they be gracious to us. The one whom we hate, and the one who hates us—him, we place into your jaws."
@@ -254,8 +253,8 @@
         {
           "id": "rudra-conclusion",
           "verse_number": "Conclusion and Śānti Pāṭha",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 1085,
+          "endTime": 1184,
           "original": "त्र्य॑म्बकं-यँजामहे सुग॒न्धि-म्पु॑ष्टि॒वर्ध॑नम् ।\nउ॒र्वा॒रु॒कमि॑व॒ बन्ध॑नान्मृत्यो॑र्मुक्षीय॒ मा-ऽमृता᳚त् ।\nयो रु॒द्रो अ॒ग्नौ यो अ॒प्सु य ओष॑धीषु॒ यो रु॒द्रो विश्वा॒ भुव॑ना वि॒वेश॒ तस्मै॑ रु॒द्राय॒ नमो॑ अस्तु ।\nतमु॑ ष्टु॒हि॒ य-स्स्वि॒षुस्सु॒धन्वा॒ यो विश्व॑स्य॒ क्षय॑ति भेष॒जस्य॑ ।\nयक्ष्वा᳚म॒हे सौ᳚मन॒साय॑ रु॒द्र-न्नमो᳚भिर्दे॒वमसु॑र-न्दुवस्य ।\nअ॒य-म्मे॒ हस्तो॒ भग॑वान॒य-म्मे॒ भग॑वत्तरः ।\nअ॒य-म्मे᳚ वि॒श्वभे᳚षजो॒-ऽयग्ं शि॒वाभि॑मर्​शनः ।\nये ते॑ स॒हस्र॑म॒युत॒-म्पाशा॒ मृत्यो॒ मर्त्या॑य॒ हन्त॑वे ।\nतान् य॒ज्ञस्य॑ मा॒यया॒ सर्वा॒नव॑ यजामहे ।\nमृ॒त्यवे॒ स्वाहा॑ मृ॒त्यवे॒ स्वाहा᳚ ॥ ११॥\nओ-न्नमो भगवते रुद्राय विष्णवे मृत्यु॑र्मे पा॒हि ॥\nप्राणाना-ङ्ग्रन्थिरसि रुद्रो मा॑ विशा॒न्तकः ।\nतेनान्नैना᳚प्य॒ायस्व ॥\nनमो रुद्राय विष्णवे मृत्यु॑र्मे पा॒हि ॥\nसदाशि॒वोम् ।\nॐ शान्ति॒-श्शान्ति॒-श्शान्तिः॑ ।",
           "transliteration": "trya̍mbakaṃ yajāmahē suga̠ndhi-mpu̍ṣṭi̠vardha̍nam ।\nu̠rvā̠ru̠kami̍va̠ bandha̍nānmṛtyō̍rmukṣīya̠ mā-‘mṛtā̎t ।\nyō ru̠drō a̠gnau yō a̠psu ya ōṣa̍dhīṣu̠ yō ru̠drō viśvā̠ bhuva̍nā vi̠vēśa̠ tasmai̍ ru̠drāya̠ namō̍ astu ।\ntamu̍ ṣṭu̠hi̠ ya-ssvi̠ṣussu̠dhanvā̠ yō viśva̍sya̠ kṣaya̍ti bhēṣa̠jasya̍ ।\nyakṣvā̎ma̠hē sau̎mana̠sāya̍ ru̠dra-nnamō̎bhirdē̠vamasu̍ra-nduvasya ।\na̠ya-mmē̠ hastō̠ bhaga̍vāna̠ya-mmē̠ bhaga̍vattaraḥ ।\na̠ya-mmē̎ vi̠śvabhē̎ṣajō̠-‘yagṃ śi̠vābhi̍mar​śanaḥ ।\nyē tē̍ sa̠hasra̍ma̠yuta̠-mpāśā̠ mṛtyō̠ martyā̍ya̠ hanta̍vē ।\ntān ya̠jñasya̍ mā̠yayā̠ sarvā̠nava̍ yajāmahē ।\nmṛ̠tyavē̠ svāhā̍ mṛ̠tyavē̠ svāhā̎ ॥ 11 ॥\nō-nnamō bhagavatē rudrāya viṣṇavē mṛtyu̍rmē pā̠hi ॥\nprāṇānā-ṅgranthirasi rudrō mā̍ viśā̠ntakaḥ ।\ntēnānnēnā̎pyāya̠sva ॥\nnamō rudrāya viṣṇavē mṛtyu̍rmē pā̠hi ॥\nsadāśi̠vōm ।\nōṃ śānti̠-śśānti̠-śśānti̍ḥ ।",
           "translation": "We worship Tryambaka (the three-eyed one), the fragrant (Sugandhim) and the cherisher of prosperity (Puṣṭivardhanam). May I be freed from the bondage of death, like a cucumber from its stalk, but not from immortality. \nThat Rudra who is in the fire (Agni), who is in the waters (Apsu), who is in the herbs (Oṣadhīṣu), that Rudra who has entered all the worlds (Bhuvana)—to that Rudra be salutation. \nPraise him, who has good arrows, a good bow, and who dispels the disease of the whole world. Let us worship Rudra for peace of mind, let us worship the divine power with salutations. \nThis hand of mine is blessed, this hand of mine is more blessed. This hand of mine is a universal panacea, this is a soothing touch. \nThe thousands, the ten thousands of snares of Mṛtyu (death) to strike mortals—all those, we loosen through the power of the Yajña. Svāhā to Mṛtyu, Svāhā to Mṛtyu. \nOm, salutations to the venerable Rudra, who is Viṣṇu. Protect me from death. \nYou are the knot of the vital breaths; may Rudra, the destroyer, not enter me. With that food, may you be nourished. Salutations to Rudra, who is Viṣṇu. Protect me from death. \nSadāśivom. Om peace, peace, peace."
@@ -271,8 +270,8 @@
         {
           "id": "chm-1",
           "verse_number": "Anuvāka 1",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 0,
+          "endTime": 67,
           "original": "ॐ अग्ना॑विष्णो स॒जोष॑से॒माव॑र्धन्तु वा॒-ङ्गिरः॑ ।\nद्यु॒म्नैर्वाजे॑भि॒राग॑तम् ।\nवाज॑श्च मे प्रस॒वश्च॑ मे॒\nप्रय॑तिश्च मे॒ प्रसि॑तिश्च मे\nधी॒तिश्च॑ मे क्रतु॑श्च मे॒\nस्वर॑श्च मे॒ श्लोक॑श्च मे\nश्रा॒वश्च॑ मे॒ श्रुति॑श्च मे॒\nज्योति॑श्च मे॒ सुव॑श्च मे\nप्रा॒णश्च॑ मे-ऽपा॒नश्च॑ मे\nव्या॒नश्च॒ मे-ऽसु॑श्च मे\nचि॒त्त-ञ्च॑ म॒ आधी॑त-ञ्च मे॒\nवाक्च॑ मे॒ मन॑श्च मे॒\nचक्षु॑श्च मे॒ श्रोत्र॑-ञ्च मे॒\nदक्ष॑श्च मे॒ बल॑-ञ्च म॒\nओज॑श्च मे॒ सह॑श्च म॒\nआयु॑श्च मे ज॒रा च॑ म\nआ॒त्मा च॑ मे त॒नूश्च॑ मे॒\nशर्म॑ च मे॒ वर्म॑ च॒ मे-ऽङ्गा॑नि च मे॒-ऽस्थानि॑ च मे॒\nपरूग्ं॑षि च मे॒ शरी॑राणि च मे ॥ १॥",
           "transliteration": "ōṃ agnā̍viṣṇō sa̠jōṣa̍sē̠māva̍rdhantu vā̠-ṅgira̍ḥ ।\ndyu̠mnairvājē̍bhi̠rāga̍tam ।\nvāja̍ścha mē prasa̠vaścha̍ mē̠\npraya̍tiścha mē̠ prasi̍tiścha mē\ndhī̠tiścha̍ mē kratu̍ścha mē̠\nsvara̍ścha mē̠ ślōka̍ścha mē\nśrā̠vaścha̍ mē̠ śruti̍ścha mē̠\njyōti̍ścha mē̠ suva̍ścha mē\nprā̠ṇaścha̍ mē-‘pā̠naścha̍ mē\nvyā̠naścha̠ mē-‘su̍ścha mē\nchi̠tta-ñcha̍ ma̠ ādhī̍ta-ñcha mē̠\nvākcha̍ mē̠ mana̍ścha mē̠\nchakṣu̍ścha mē̠ śrōtra̍-ñcha mē̠\ndakṣa̍ścha mē̠ bala̍-ñcha ma̠\nōja̍ścha mē̠ saha̍ścha ma̠\nāyu̍ścha mē ja̠rā cha̍ ma\nā̠tmā cha̍ mē ta̠nūścha̍ mē̠\nśarma̍ cha mē̠ varma̍ cha̠ mē-‘ṅgā̍ni cha mē̠-‘sthāni̍ cha mē̠\nparūg̍ṃṣi cha mē̠ śarī̍rāṇi cha mē ..1..",
           "translation": "O Agni and Vishnu! Delighted together, let these hymns of the Angirasas augment you; come hither with splendor and food! May food be granted to me, and may the urge (to seek it) be granted to me, effort and attainment, thought (understanding) and action (resolve), high tone and renown, hearing and tradition (knowledge), light and heaven, Prana and Apana, Vyana and Asu (life breath), the mind and acquired knowledge, speech and inner thought, sight and hearing, skill and strength, vigor and endurance, life and old age, the Self and the body, protection and armor, limbs and bones, joints and physical bodies."
@@ -280,8 +279,8 @@
         {
           "id": "chm-2",
           "verse_number": "Anuvāka 2",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 68,
+          "endTime": 120,
           "original": "जैष्ठ्य॑-ञ्च म॒ आधि॑पत्य-ञ्च मे\nम॒न्युश्च॑ मे॒ भाम॑श्च॒ मे-ऽम॑श्च॒ मे-ऽम्भ॑श्च मे\nजे॒मा च॑ मे महि॒मा च॑ मे\nवरि॒मा च॑ मे प्रथि॒मा च॑ मे\nव॒र्​ष्मा च॑ मे द्राघु॒या च॑ मे\nवृ॒द्ध-ञ्च॑ मे॒ वृद्धि॑श्च मे\nस॒त्य-ञ्च॑ मे श्र॒द्धा च॑ मे॒\nजग॑च्च मे॒ धन॑-ञ्च मे॒\nवश॑श्च मे॒ त्विषि॑श्च मे\nक्री॒डा च॑ मे॒ मोद॑श्च मे\nजा॒त-ञ्च॑ मे जनि॒ष्यमा॑ण-ञ्च मे\nसू॒क्त-ञ्च॑ मे सुकृ॒त-ञ्च॑ मे\nवि॒त्त-ञ्च॑ मे॒ वेद्य॑-ञ्च मे\nभू॒त-ञ्च॑ मे भवि॒ष्यच्च॑ मे\nसु॒ग-ञ्च॑ मे सु॒पथ॑-ञ्च म\nऋ॒द्ध-ञ्च॑ म ऋद्धि॑श्च मे\nकॢ॒प्त-ञ्च॑ मे॒ कॢप्ति॑श्च मे\nम॒तिश्च॑ मे सुम॒तिश्च॑ मे ॥ २॥",
           "transliteration": "jaiṣṭhya̍-ñcha ma̠ ādhi̍patya-ñcha mē\nma̠nyuścha̍ mē̠ bhāma̍ścha̠ mē-‘ma̍ścha̠ mē-‘mbha̍ścha mē\njē̠mā cha̍ mē mahi̠mā cha̍ mē\nvari̠mā cha̍ mē prathi̠mā cha̍ mē\nva̠r​ṣmā cha̍ mē drāghu̠yā cha̍ mē\nvṛ̠ddha-ñcha̍ mē̠ vṛddhi̍ścha mē\nsa̠tya-ñcha̍ mē śra̠ddhā cha̍ mē̠\njaga̍chcha mē̠ dhana̍-ñcha mē̠\nvaśa̍ścha mē̠ tviṣi̍ścha mē\nkrī̠ḍā cha̍ mē̠ mōda̍ścha mē\njā̠ta-ñcha̍ mē jani̠ṣyamā̍ṇa-ñcha mē\nsū̠kta-ñcha̍ mē sukṛ̠ta-ñcha̍ mē\nvi̠tta-ñcha̍ mē̠ vēdya̍-ñcha mē\nbhū̠ta-ñcha̍ mē bhavi̠ṣyachcha̍ mē\nsu̠ga-ñcha̍ mē su̠patha̍-ñcha ma\nṛ̠ddha-ñcha̍ ma ṛddhi̍ścha mē\nkL​i̠pta-ñcha̍ mē̠ kL​ipti̍ścha mē\nma̠tiścha̍ mē suma̠tiścha̍ mē ॥ 2 ॥",
           "translation": "May superiority (rank) be granted to me, and may sovereignty be granted to me, indignation and wrath, hurt and terror, victory and greatness, excellence and expansion, vastness and longevity, accumulated gain and increase, truth and faith, the world and wealth, control (over others) and brilliance, play and delight, that which is born and that which is yet to be born, good hymns and meritorious deeds, acquired wealth and that which is to be acquired, the past and the future, easy access and a good path, prosperity (obtained) and prosperity (the power to obtain), capability and capacity, understanding and good understanding."
@@ -289,8 +288,8 @@
         {
           "id": "chm-3",
           "verse_number": "Anuvāka 3",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 121,
+          "endTime": 171,
           "original": "श-ञ्च॑ मे॒ मय॑श्च मे\nप्रि॒य-ञ्च॑ मे-ऽनुका॒मश्च॑ मे॒ काम॑श्च मे\nसौमनस॒श्च॑ मे भ॒द्र-ञ्च॑ मे॒\nश्रेय॑श्च मे॒ वस्य॑श्च मे॒\nयश॑श्च मे॒ भग॑श्च मे॒ द्रवि॑ण-ञ्च मे\nय॒न्ता च॑ मे ध॒र्ता च॑ मे॒\nक्षेम॑श्च मे॒ धृति॑श्च मे॒\nविश्व॑-ञ्च मे॒ मह॑श्च मे\nसं॒​विँच्च॑ मे॒ ज्ञात्र॑-ञ्च मे॒\nसूश्च॑ मे प्र॒सूश्च॑ मे॒\nसीर॑-ञ्च मे ल॒यश्च॑ म\nऋ॒त-ञ्च॑ मे॒-ऽमृत॑-ञ्च मे-ऽय॒क्ष्म-ञ्च॒ मे-ऽना॑मयच्च मे\nजी॒वातु॑श्च मे दीर्घायु॒त्व-ञ्च॑ मे-ऽनमि॒त्र-ञ्च॒ मे-ऽभ॑य-ञ्च मे\nसु॒ग-ञ्च॑ मे॒ शय॑न-ञ्च मे\nसू॒षा च॑ मे सु॒दिन॑-ञ्च मे ॥ ३॥",
           "transliteration": "śa-ñcha̍ mē̠ maya̍ścha mē\npri̠ya-ñcha̍ mē-‘nukā̠maścha̍ mē̠ kāma̍ścha mē\nsaumanasa̠ścha̍ mē bha̠dra-ñcha̍ mē̠\nśrēya̍ścha mē̠ vasya̍ścha mē̠\nyaśa̍ścha mē̠ bhaga̍ścha mē̠ dravi̍ṇa-ñcha mē\nya̠ntā cha̍ mē dha̠rtā cha̍ mē̠\nkṣēma̍ścha mē̠ dhṛti̍ścha mē̠\nviśva̍-ñcha mē̠ maha̍ścha mē\nsa̠ṃvichcha̍ mē̠ jñātra̍-ñcha mē̠\nsūścha̍ mē pra̠sūścha̍ mē̠\nsīra̍-ñcha mē la̠yaścha̍ ma\nṛ̠ta-ñcha̍ mē̠-‘mṛta̍-ñcha mē-‘ya̠kṣma-ñcha̠ mē-‘nā̍mayachcha mē\njī̠vātu̍ścha mē dīrghāyu̠tva-ñcha̍ mē-‘nami̠tra-ñcha̠ mē-‘bha̍ya-ñcha mē\nsu̠ga-ñcha̍ mē̠ śaya̍na-ñcha mē\nsū̠ṣā cha̍ mē su̠dina̍-ñcha mē ॥ 3 ॥",
           "translation": "May happiness (from outside) be granted to me, and bliss (from within) be granted to me, pleasantness and that which is according to my wish, desire, goodwill and goodness, merit and greater abundance, fame and fortune, and wealth. May the controller be granted to me, and the supporter, security and firmness, the universe and greatness, perfect knowledge and the means of knowledge, the begetter and progeny, plough and rest (leisure). May the eternal law be granted to me, and immortality, freedom from consumption and freedom from disease, life-span and long life, freedom from enemies and fear, comfortable access and rest (a bed), good birth and a good day."
@@ -298,8 +297,8 @@
         {
           "id": "chm-4",
           "verse_number": "Anuvāka 4",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 172,
+          "endTime": 229,
           "original": "ऊर्क्च॑ मे सू॒नृता॑ च मे॒\nपय॑श्च मे॒ रस॑श्च मे\nघृ॒त-ञ्च॑ मे॒ मधु॑ च मे॒\nसग्धि॑श्च मे॒ सपी॑तिश्च मे\nकृ॒षिश्च॑ मे॒ वृष्टि॑श्च मे॒\nजैत्र॑-ञ्च म॒ औद्भि॑द्य-ञ्च मे\nर॒यिश्च॑ मे॒ राय॑श्च मे\nपु॒ष्ट-ञ्च मे॒ पुष्टि॑श्च मे\nवि॒भु च॑ मे प्र॒भु च॑ मे\nब॒हु च॑ मे॒ भूय॑श्च मे\nपू॒र्ण-ञ्च॑ मे पू॒र्णत॑र-ञ्च॒ मे-ऽक्षि॑तिश्च मे॒ कूय॑वाश्च॒ मे-ऽन्न॑-ञ्च॒ मे-ऽक्षु॑च्च मे\nव्री॒हय॑श्च मे॒ यवा᳚श्च मे॒\nमाषा᳚श्च मे॒ तिला᳚श्च मे\nमु॒द्गाश्च॑ मे ख॒ल्वा᳚श्च मे\nगो॒धूमा᳚श्च मे म॒सुरा᳚श्च मे\nप्रि॒यङ्ग॑वश्च॒ मे-ऽण॑वश्च मे\nश्या॒माका᳚श्च मे नी॒वारा᳚श्च मे ॥ ४॥",
           "transliteration": "ūrkcha̍ mē sū̠nṛtā̍ cha mē̠\npaya̍ścha mē̠ rasa̍ścha mē\nghṛ̠ta-ñcha̍ mē̠ madhu̍ cha mē̠\nsagdhi̍ścha mē̠ sapī̍tiścha mē\nkṛ̠ṣiścha̍ mē̠ vṛṣṭi̍ścha mē̠\njaitra̍-ñcha ma̠ audbhi̍dya-ñcha mē\nra̠yiścha̍ mē̠ rāya̍ścha mē\npu̠ṣṭa-ñcha mē̠ puṣṭi̍ścha mē\nvi̠bhu cha̍ mē pra̠bhu cha̍ mē\nba̠hu cha̍ mē̠ bhūya̍ścha mē\npū̠rṇa-ñcha̍ mē pū̠rṇata̍ra-ñcha̠ mē-‘kṣi̍tiścha mē̠ kūya̍vāścha̠ mē-‘nna̍-ñcha̠ mē-‘kṣu̍chcha mē\nvrī̠haya̍ścha mē̠ yavā̎ścha mē̠\nmāṣā̎ścha mē̠ tilā̎ścha mē\nmu̠dgāścha̍ mē kha̠lvā̎ścha mē\ngō̠dhūmā̎ścha mē ma̠surā̎ścha mē\npri̠yaṅga̍vaścha̠ mē-‘ṇa̍vaścha mē\nśyā̠mākā̎ścha mē nī̠vārā̎ścha mē ॥ 4 ॥",
           "translation": "May invigorating strength be granted to me, and sweet speech, milk and juice (savour), ghee and honey, eating together and drinking together, cultivation and rain, victory and spontaneous growth of herbs, wealth (cattle) and riches (gold/gems), good nutrition (material) and nourishment (health), pervasive power and supreme power, much and more, fulfillment and greater fulfillment, imperishableness and inferior grain, food and hunger (control over hunger). May rice grains be granted to me, and barley, black beans and sesame seeds, green grams and vetches, wheat and lentils, millet and panic seeds, wild rice and wild millet."
@@ -307,8 +306,8 @@
         {
           "id": "chm-5",
           "verse_number": "Anuvāka 5",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 230,
+          "endTime": 279,
           "original": "अश्मा॑ च मे॒ मृत्ति॑का च मे\nगि॒रय॑श्च मे॒ पर्व॑ताश्च मे॒\nसिक॑ताश्च मे॒ वन॒स्पत॑यश्च मे॒\nहिर॑ण्य-ञ्च॒ मे-ऽय॑श्च मे॒\nसीस॑-ञ्च॒ मे त्रपु॑श्च मे\nश्या॒म-ञ्च॑ मे लो॒ह-ञ्च॑ मे-ऽग्निश्च॑ म\nआप॑श्च मे वी॒रुध॑श्च म॒ ओष॑धयश्च मे\nकृष्टप॒च्य-ञ्च॑ मे-ऽकृष्टपच्य-ञ्च॑ मे\nग्रा॒म्याश्च॑ मे प॒शव॑ आर॒ण्याश्च॑ य॒ज्ञेन॑ कल्पन्तां\nवि॒त्त-ञ्च॑ मे॒ वित्ति॑श्च मे\nभू॒त-ञ्च॑ मे॒ भूति॑श्च मे॒\nवसु॑ च मे वस॒तिश्च॑ मे॒\nकर्म॑ च मे॒ शक्ति॑श्च॒ मे-ऽर्थ॑श्च म॒\nएम॑श्च म इति॑श्च मे॒ गति॑श्च मे ॥ ५॥",
           "transliteration": "aśmā̍ cha mē̠ mṛtti̍kā cha mē\ngi̠raya̍ścha mē̠ parva̍tāścha mē̠\nsika̍tāścha mē̠ vana̠spata̍yaścha mē̠\nhira̍ṇya-ñcha̠ mē-‘ya̍ścha mē̠\nsīsa̍-ñcha̠ mē trapu̍ścha mē\nśyā̠ma-ñcha̍ mē lō̠ha-ñcha̍ mē-‘gniścha̍ ma\nāpa̍ścha mē vī̠rudha̍ścha ma̠ ōṣa̍dhayaścha mē\nkṛṣṭapa̠chya-ñcha̍ mē-‘kṛṣṭapachya-ñcha̍ mē\ngrā̠myāścha̍ mē pa̠śava̍ āra̠ṇyāścha̍ ya̠jñēna̍ kalpantāṃ\nvi̠tta-ñcha̍ mē̠ vitti̍ścha mē\nbhū̠ta-ñcha̍ mē̠ bhūti̍ścha mē̠\nvasu̍ cha mē vasa̠tiścha̍ mē̠\nkarma̍ cha mē̠ śakti̍ścha̠ mē-‘rtha̍ścha ma̠\nēma̍ścha ma iti̍ścha mē̠ gati̍ścha mē ॥ 5 ॥",
           "translation": "May stone be granted to me, and clay, hills and mountains, sand and large forest trees, gold and bronze, lead and tin, dark iron and red copper, and fire. May waters be granted to me, and creepers, and herbs, cultivated crops and wild crops. May the domestic animals and wild animals be prepared (for the sacrifice) by the sacrifice. May acquired wealth be granted to me, and the means of acquisition, existence and power, treasure and dwelling place, religious rite and power, and purpose, movement (going), arrival (reaching the destination), and the path."
@@ -316,8 +315,8 @@
         {
           "id": "chm-6",
           "verse_number": "Anuvāka 6",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 280,
+          "endTime": 331,
           "original": "अ॒ग्निश्च॑ म॒ इन्द्र॑श्च मे॒\nसोम॑श्च म॒ इन्द्र॑श्च मे\nसवि॒ता च॑ म॒ इन्द्र॑श्च मे॒\nसर॑स्वती च म॒ इन्द्र॑श्च मे\nपू॒षा च॑ म॒ इन्द्र॑श्च मे॒\nबृह॒स्पति॑श्च म॒ इन्द्र॑श्च मे\nमि॒त्रश्च॑ म॒ इन्द्र॑श्च मे॒\nवरु॑णश्च म॒ इन्द्र॑श्च मे॒\nत्वष्ठा॑ च म॒ इन्द्र॑श्च मे\nधा॒ता च॑ म॒ इन्द्र॑श्च मे॒\nविष्णु॑श्च म॒ इन्द्र॑श्च मे-ऽश्विनौ॑ च म॒ इन्द्र॑श्च मे\nम॒रुत॑श्च म॒ इन्द्र॑श्च मे॒\nविश्वे॑ च मे दे॒वा इन्द्र॑श्च मे\nपृथि॒वी च॑ म॒ इन्द्र॑श्च मे-ऽन्तरि॑क्ष-ञ्च म॒ इन्द्र॑श्च मे\nद्यौश्च॑ म॒ इन्द्र॑श्च मे॒\nदिश॑श्च म॒ इन्द्र॑श्च मे\nमू॒र्धा च॑ म॒ इन्द्र॑श्च मे\nप्र॒जाप॑तिश्च म॒ इन्द्र॑श्च मे ॥ ६॥",
           "transliteration": "a̠gniścha̍ ma̠ indra̍ścha mē̠\nsōma̍ścha ma̠ indra̍ścha mē\nsavi̠tā cha̍ ma̠ indra̍ścha mē̠\nsara̍svatī cha ma̠ indra̍ścha mē\npū̠ṣā cha̍ ma̠ indra̍ścha mē̠\nbṛha̠spati̍ścha ma̠ indra̍ścha mē\nmi̠traścha̍ ma̠ indra̍ścha mē̠\nvaru̍ṇaścha ma̠ indra̍ścha mē̠\ntvaṣṭhā̍ cha ma̠ indra̍ścha mē\ndhā̠tā cha̍ ma̠ indra̍ścha mē̠\nviṣṇu̍ścha ma̠ indra̍ścha mē-‘śvinau̍ cha ma̠ indra̍ścha mē\nma̠ruta̍ścha ma̠ indra̍ścha mē̠\nviśvē̍ cha mē dē̠vā indra̍ścha mē\npṛthi̠vī cha̍ ma̠ indra̍ścha mē-‘ntari̍kṣa-ñcha ma̠ indra̍ścha mē\ndyauścha̍ ma̠ indra̍ścha mē̠\ndiśa̍ścha ma̠ indra̍ścha mē\nmū̠rdhā cha̍ ma̠ indra̍ścha mē\npra̠jāpa̍tiścha ma̠ indra̍ścha mē ॥ 6 ॥",
           "translation": "May Agni and Indra be granted to me, Soma and Indra, Savitr and Indra, Sarasvati and Indra, Pūṣan and Indra, Bṛhaspati and Indra, Mitra and Indra, Varuṇa and Indra, Tvaṣṭr and Indra, Dhātṛ and Indra, Viṣṇu and Indra, the Aśvins and Indra, the Maruts and Indra, the Viśve Devas and Indra, Earth and Indra, Atmosphere and Indra, Sky and Indra, directions and Indra, the highest point (Mūrdhā) and Indra, Prajāpati and Indra."
@@ -325,8 +324,8 @@
         {
           "id": "chm-7",
           "verse_number": "Anuvāka 7",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 332,
+          "endTime": 384,
           "original": "अ॒ग्ं॒शुश्च॑ मे र॒श्मिश्च॒ मे-ऽदा᳚भ्यश्च॒ मे-ऽधि॑पतिश्च म\nउपा॒ग्ं॒शुश्च॑ मे-ऽन्तर्या॒मश्च॑ म\nऐन्द्रवाय॒वश्च॑ मे मैत्रावरु॒णश्च॑ म\nआश्वि॒नश्च॑ मे प्रतिप्र॒स्थान॑श्च मे\nशु॒क्रश्च॑ मे म॒न्थी च॑ म\nआग्रय॒णश्च॑ मे वैश्वदे॒वश्च॑ मे\nध्रु॒वश्च॑ मे वैश्वान॒रश्च॑ म\nऋतुग्र॒हाश्च॑ मे-ऽतिग्रा॒ह्या᳚श्च म\nऐन्द्रा॒ग्नश्च॑ मे वैश्वदे॒वश्च॑ मे\nमरुत्व॒तीया᳚श्च मे माहे॒न्द्रश्च॑ म\nआदि॒त्यश्च॑ मे सावि॒त्रश्च॑ मे\nसारस्व॒तश्च॑ मे पौ॒ष्णश्च॑ मे\nपात्नीव॒तश्च॑ मे हारियोज॒नश्च॑ मे ॥ ७॥",
           "transliteration": "a̠gṃ̠śuścha̍ mē ra̠śmiścha̠ mē-‘dā̎bhyaścha̠ mē-‘dhi̍patiścha ma\nupā̠gṃ̠śuścha̍ mē-‘ntaryā̠maścha̍ ma\naindravāya̠vaścha̍ mē maitrāvaru̠ṇaścha̍ ma\nāśvi̠naścha̍ mē pratipra̠sthāna̍ścha mē\nśu̠kraścha̍ mē ma̠nthī cha̍ ma\nāgraya̠ṇaścha̍ mē vaiśvadē̠vaścha̍ mē\ndhru̠vaścha̍ mē vaiśvāna̠raścha̍ ma\nṛtugra̠hāścha̍ mē-‘tigrā̠hyā̎ścha ma\naindrā̠gnaścha̍ mē vaiśvadē̠vaścha̍ mē\nmarutva̠tīyā̎ścha mē māhē̠ndraścha̍ ma\nādi̠tyaścha̍ mē sāvi̠traścha̍ mē\nsārasva̠taścha̍ mē pau̠ṣṇaścha̍ mē\npātnīva̠taścha̍ mē hāriyōja̠naścha̍ mē ॥ 7 ॥",
           "translation": "May the Aṁśu (Soma vessel) and the Raśmi (Soma ray) be granted to me, the Adābhya (vessel) and the Adhipati (vessel). May the Upāṁśu (libation) and the Antaryāma (libation) be granted to me. May the Aindravāyava (Graha) and the Maitrāvaruṇa (Graha) be granted to me. May the Āśvina (Graha) and the Pratiprasthāna (Graha) be granted to me. May the Śukra (Graha) and the Manthin (Graha) be granted to me. May the Āgrayaṇa (Graha) and the Vaiśvadeva (Graha) be granted to me. May the Dhruva (Graha) and the Vaiśvānara (Graha) be granted to me. May the Ṛtugrahas (seasonal libations) and the Atigrāhyas (extra libations) be granted to me. May the Aindrāgna (Graha) and the Vaiśvadeva (Graha) be granted to me. May the Marutvatīyas (Graha) and the Māhendra (Graha) be granted to me. May the Āditya (Graha) and the Sāvitra (Graha) be granted to me. May the Sārasvata (Graha) and the Pauṣṇa (Graha) be granted to me. May the Pātnīvata (Graha) and the Hāriyojana (Graha) be granted to me. (All these are names of Soma cups/libations used in the Soma sacrifice.)"
@@ -334,8 +333,8 @@
         {
           "id": "chm-8",
           "verse_number": "Anuvāka 8",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 385,
+          "endTime": 422,
           "original": "इ॒ध्मश्च॑ मे ब॒र्​हिश्च॑ मे॒\nवेदि॑श्च मे॒ दिष्णि॑याश्च मे॒\nस्रुच॑श्च मे चम॒साश्च॑ मे॒\nग्रावा॑णश्च मे॒ स्वर॑वश्च म\nउपर॒वाश्च॑ मे-ऽधि॒षव॑णे च मे\nद्रोणकल॒शश्च॑ मे वाय॒व्या॑नि च मे\nपूत॒भृच्च॑ म आधव॒नीय॑श्च म॒\nआग्नी᳚ध्र-ञ्च मे हवि॒र्धान॑-ञ्च मे\nगृ॒हाश्च॑ मे॒ सद॑श्च मे पुरो॒डाशा᳚श्च मे\nपच॒ताश्च॑ मे-ऽवभृथश्च॑ मे स्वगाका॒रश्च॑ मे ॥ ८॥",
           "transliteration": "i̠dhmaścha̍ mē ba̠r​hiścha̍ mē̠\nvēdi̍ścha mē̠ diṣṇi̍yāścha mē̠\nsrucha̍ścha mē chama̠sāścha̍ mē̠\ngrāvā̍ṇaścha mē̠ svara̍vaścha ma\nupara̠vāścha̍ mē-‘dhi̠ṣava̍ṇē cha mē\ndrōṇakala̠śaścha̍ mē vāya̠vyā̍ni cha mē\npūta̠bhṛchcha̍ ma ādhava̠nīya̍ścha ma̠\nāgnī̎dhra-ñcha mē havi̠rdhāna̍-ñcha mē\ngṛ̠hāścha̍ mē̠ sada̍ścha mē purō̠ḍāśā̎ścha mē\npacha̠tāścha̍ mē-‘vabhṛthaścha̍ mē svagākā̠raścha̍ mē ॥ 8 ॥",
           "translation": "May the fuel (wood) be granted to me, and the sacred grass (barhis), the altar (vedi) and the special hearths (diṣṇiya), the sacrificial ladles (sruc) and the Soma cups (camasa), the pressing stones (grāva) and the other stones (svara), the deep trenches (uparava) and the pressing boards (adhiṣavaṇa). May the Drona-kalaśa (Soma vessel) and the Vāyavyas (vessels) be granted to me, the Pūtabhṛt (purifying vessel) and the Ādhavanīya (mixing vessel), the Āgnīdhra (priest's place) and the Havirdhāna (cart shed), the sheds and the assembly hall (sadas), the sacrificial cakes (puroḍāśa), the things to be cooked, the final purification bath (avabhṛtha), and the exclamation of 'svagā' (for offering)."
@@ -343,8 +342,8 @@
         {
           "id": "chm-9",
           "verse_number": "Anuvāka 9",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 423,
+          "endTime": 459,
           "original": "अ॒ग्निश्च॑ मे घ॒र्मश्च॑ मे॒-ऽर्कश्च॑ मे॒\nसूर्य॑श्च मे प्रा॒णश्च॑ मे-ऽश्वमे॒धश्च॑ मे\nपृथि॒वी च॒ मे-ऽदि॑तिश्च मे॒ दिति॑श्च मे॒\nद्यौश्च॑ मे॒ शक्व॑रीर॒ङ्गुल॑यो॒ दिश॑श्च मे\nय॒ज्ञेन॑ कल्पन्ता॒मृक्च॑ मे॒\nसाम॑ च मे॒ स्तोम॑श्च मे॒\nयजु॑श्च मे दी॒क्षा च॑ मे॒\nतप॑श्च म ऋ॒तुश्च॑ मे\nव्र॒त-ञ्च॑ मे-ऽहोरा॒त्रयो᳚र्वृ॒ष्ट्या बृ॑हद्रथन्त॒रे च॒ मे\nय॒ज्ञेन॑ कल्पेताम् ॥ ९॥",
           "transliteration": "a̠gniścha̍ mē gha̠rmaścha̍ mē̠-‘rkaścha̍ mē̠\nsūrya̍ścha mē prā̠ṇaścha̍ mē-‘śvamē̠dhaścha̍ mē\npṛthi̠vī cha̠ mē-‘di̍tiścha mē̠ diti̍ścha mē̠\ndyauścha̍ mē̠ śakva̍rīra̠ṅgula̍yō̠ diśa̍ścha mē\nya̠jñēna̍ kalpantā̠mṛkcha̍ mē̠\nsāma̍ cha mē̠ stōma̍ścha mē̠\nyaju̍ścha mē dī̠kṣā cha̍ mē̠\ntapa̍ścha ma ṛ̠tuścha̍ mē\nvra̠ta-ñcha̍ mē-‘hōrā̠trayō̎rvṛ̠ṣṭyā bṛ̍hadrathanta̠rē cha̠ mē\nya̠jñēna̍ kalpētām ॥ 9 ॥",
           "translation": "May Agni (fire) be granted to me, and Ghārma (the hot milk libation), the Arkā (sun) and the Sūrya (sun), Prāṇa (life-breath) and the Aśvamedha (horse sacrifice). May Earth be granted to me, and Aditi (boundless freedom) and Diti (limitation), Sky, the Śakvarī fingers (the digits of the hand), and the directions. May the Ṛk verses be prepared (by the sacrifice), and the Sāma (melodies), the Stoma (hymns of praise), the Yajus (prose formulas), the Dīkṣā (consecration), penance (Tapas), the season (Ṛtu), the sacred vow (Vrata). May the Bṛhat and Rathantara Sāmans (famous Sāman melodies) through the rain of day and night be prepared by the sacrifice."
@@ -352,8 +351,8 @@
         {
           "id": "chm-10",
           "verse_number": "Anuvāka 10",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 460,
+          "endTime": 519,
           "original": "गर्भा᳚श्च मे व॒त्साश्च॑ मे॒\nत्र्यवि॑श्च मे त्र्य॒वीच॑ मे\nदित्य॒वाट् च॑ मे दित्यौ॒ही च॑ मे॒\nपञ्चा॑विश्च मे पञ्चा॒वी च॑ मे\nत्रिव॒त्सश्च॑ मे त्रिव॒त्सा च॑ मे\nतुर्य॒वाट् च॑ मे तुर्यौ॒ही च॑ मे\nपष्ठ॒वाट् च॑ मे पष्ठौ॒ही च॑ म\nउ॒क्षा च॑ मे व॒शा च॑ म\nऋष॒भश्च॑ मे वे॒हच्च॑ मे-ऽन॒ड्वाञ्च मे\nधे॒नुश्च॑ म॒ आयु॑र्य॒ज्ञेन॑ कल्पतां\nप्रा॒णो य॒ज्ञेन॑ कल्पतामपा॒नो य॒ज्ञेन॑ कल्पतां॒\nव्या॒नो य॒ज्ञेन॑ कल्पतां॒\nचक्षु॑र्य॒ज्ञेन॑ कल्पता॒ग्॒ श्रोत्रं॑-यँ॒ज्ञेन॑ कल्पतां॒\nमनो॑ य॒ज्ञेन॑ कल्पतां॒\nवाग्य॒ज्ञेन॑ कल्पतामा॒त्मा य॒ज्ञेन॑ कल्पतां\nय॒ज्ञो य॒ज्ञेन॑ कल्पताम् ॥ १०॥",
           "transliteration": "garbhā̎ścha mē va̠tsāścha̍ mē̠\ntryavi̍ścha mē trya̠vīcha̍ mē\nditya̠vāṭ cha̍ mē dityau̠hī cha̍ mē̠\npañchā̍viścha mē pañchā̠vī cha̍ mē\ntriva̠tsaścha̍ mē triva̠tsā cha̍ mē\nturya̠vāṭ cha̍ mē turyau̠hī cha̍ mē\npaṣṭha̠vāṭ cha̍ mē paṣṭhau̠hī cha̍ ma\nu̠kṣā cha̍ mē va̠śā cha̍ ma\nṛṣa̠bhaścha̍ mē vē̠hachcha̍ mē-‘na̠ḍvāñcha mē\ndhē̠nuścha̍ ma̠ āyu̍rya̠jñēna̍ kalpatāṃ\nprā̠ṇō ya̠jñēna̍ kalpatāmapā̠nō ya̠jñēna̍ kalpatā̠ṃ\nvyā̠nō ya̠jñēna̍ kalpatā̠ṃ\nchakṣu̍rya̠jñēna̍ kalpatā̠g̠ śrōtra̍ṃ ya̠jñēna̍ kalpatā̠ṃ\nmanō̍ ya̠jñēna̍ kalpatā̠ṃ\nvāgya̠jñēna̍ kalpatāmā̠tmā ya̠jñēna̍ kalpatāṃ\nya̠jñō ya̠jñēna̍ kalpatām ॥ 10 ॥",
           "translation": "May embryo (garbha) be granted to me, and calves (vatsa), three-year-old steer and heifer (tryavi and tryavī), two-year-old steer and heifer (dityavāṭ and dityauhī), five-year-old steer and heifer (pañcāvi and pañcāvī), three-year-old male and female (trivatsa and trivatsā), four-year-old steer and heifer (turyavāṭ and turyauhī), six-year-old steer and heifer (paṣṭhavāṭ and paṣṭauhī). May bull (ukṣā) be granted to me, and barren cow (vaśā), male bull (ṛṣabha), abortive cow (vehat), draft ox (anaḍvān), milch cow (dhenu). May life (āyu) be prepared by the sacrifice. May Prāṇa be prepared by the sacrifice, Apāna be prepared by the sacrifice, Vyāna be prepared by the sacrifice, sight be prepared by the sacrifice, hearing be prepared by the sacrifice, mind be prepared by the sacrifice, speech be prepared by the sacrifice, the self (ātman) be prepared by the sacrifice, the sacrifice itself be prepared by the sacrifice."
@@ -361,8 +360,8 @@
         {
           "id": "chm-11",
           "verse_number": "Anuvāka 11",
-          "startTime": null,
-          "endTime": null,
+          "startTime": 520,
+          "endTime": 587,
           "original": "एका॑ च मे ति॒स्रश्च॑ मे॒\nपञ्च॑ च मे स॒प्त च॑ मे॒\nनव॑ च म॒ एका॑दश च मे॒\nत्रयो॑दश च मे॒ पञ्च॑दश च मे\nस॒प्तद॑श च मे॒ नव॑दश च म॒\nएक॑विग्ंशतिश्च मे॒ त्रयो॑विग्ंशतिश्च मे॒\nपञ्च॑विग्ंशतिश्च मे स॒प्तविग्ं॑शतिश्च मे॒\nनव॑विग्ंशतिश्च म॒ एक॑त्रिग्ंशच्च मे॒\nत्रय॑स्त्रिग्ंशच्च मे॒ चत॑स्रश्च मे॒-ऽष्टौ च॑ मे॒\nद्वाद॑श च मे॒ षोड॑श च मे\nविग्ंश॒तिश्च॑ मे॒ चतु॑र्विग्ंशतिश्च मे॒-ऽष्टाविग्ं॑शतिश्च मे॒\nद्वात्रिग्ं॑शच्च मे॒ षट्-त्रिग्ं॑शच्च मे\nचत्वारि॒ग्ं॒शच्च॑ मे॒ चतु॑श्चत्वारिग्ंशच्च मे-ऽष्टाच॑त्वारिग्ंशच्च मे॒\nवाज॑श्च प्रस॒वश्चा॑पि॒जश्च\nक्रतु॑श्च॒ सुव॑श्च मू॒र्धा च॒\nव्यश्नि॑यश्चान्त्याय॒नश्चान्त्य॑श्च\nभौव॒नश्च॒ भुव॑न॒श्चाधि॑पतिश्च ॥ ११॥",
           "transliteration": "ēkā̍ cha mē ti̠sraścha̍ mē̠\npañcha̍ cha mē sa̠pta cha̍ mē̠\nnava̍ cha ma̠ ēkā̍daśa cha mē̠\ntrayō̍daśa cha mē̠ pañcha̍daśa cha mē\nsa̠ptada̍śa cha mē̠ nava̍daśa cha ma̠\nēka̍vigṃśatiścha mē̠ trayō̍vigṃśatiścha mē̠\npañcha̍vigṃśatiścha mē sa̠ptavig̍ṃśatiścha mē̠\nnava̍vigṃśatiścha ma̠ ēka̍trigṃśachcha mē̠\ntraya̍strigṃśachcha mē̠ chata̍sraścha mē̠-‘ṣṭau cha̍ mē̠\ndvāda̍śa cha mē̠ ṣōḍa̍śa cha mē\nvigṃśa̠tiścha̍ mē̠ chatu̍rvigṃśatiścha mē̠-‘ṣṭāvig̍ṃśatiścha mē̠\ndvātrig̍ṃśachcha mē̠ ṣaṭ-trig̍ṃśachcha mē\nchatvāri̠g̠ṃśachcha̍ mē̠ chatu̍śchatvārigṃśachcha mē-‘ṣṭācha̍tvārigṃśachcha mē̠\nvāja̍ścha prasa̠vaśchā̍pi̠jaścha\nkratu̍ścha̠ suva̍ścha mū̠rdhā cha̠\nvyaśni̍yaśchāntyāya̠naśchāntya̍ścha\nbhauva̠naścha̠ bhuva̍na̠śchādhi̍patiścha ॥ 11 ॥",
           "translation": "May one be granted to me, and three, and five, and seven, and nine, and eleven, and thirteen, and fifteen, and seventeen, and nineteen, and twenty-one, and twenty-three, and twenty-five, and twenty-seven, and twenty-nine, and thirty-one, and thirty-three (odd numbers for Stomas). May four be granted to me, and eight, and twelve, and sixteen, and twenty, and twenty-four, and twenty-eight, and thirty-two, and thirty-six, and forty, and forty-four, and forty-eight (even numbers for Stomas). May food (Vāja) be granted, and quickening (Prasava), and conquest (Abhijit), and will (Kratu), and heaven (Suva), and summit (Mūrdhā), and pervasiveness (Vyaśniya), and the final point (Antyāyana), and the end (Antya), the Earth (Bhauvana), the World (Bhuvana), and the Overlord (Adhipati)."
@@ -370,7 +369,7 @@
         {
           "id": "chm-12",
           "verse_number": "Śānti Pāṭha (Conclusion)",
-          "startTime": null,
+          "startTime": 588,
           "endTime": null,
           "original": "ॐ इडा॑ देव॒हू-र्मनु॑र्यज्ञ॒नी-र्बृह॒स्पति॑रुक्थाम॒दानि॑\nशग्ंसिष॒द्विश्वे॑ दे॒वा-स्सू᳚क्त॒वाचः॒ पृथि॑विमात॒र्मा\nमा॑ हिग्ंसी॒र्म॒धु॑ मनिष्ये॒ मधु॑ जनिष्ये॒\nमधु॑ वक्ष्यामि॒ मधु॑ वदिष्यामि॒\nमधु॑मती-न्दे॒वेभ्यो॒ वाच॒मुद्यासग्ंशुश्रूषे॒ण्या᳚म्\nमनु॒ष्ये᳚भ्य॒स्तं\nमा॑ दे॒वा अ॑वन्तु शो॒भायै॑ पि॒तरो-ऽनु॑मदन्तु ॥\nॐ शान्ति॒-श्शान्ति॒-श्शान्तिः॑ ॥",
           "transliteration": "ōṃ iḍā̍ dēva̠hū-rmanu̍ryajña̠nī-rbṛha̠spati̍rukthāma̠dāni̍\nśagṃsiṣa̠dviśvē̍ dē̠vā-ssū̎kta̠vācha̠ḥ pṛthi̍vimāta̠rmā\nmā̍ higṃsī̠rma̠dhu̍ maniṣyē̠ madhu̍ janiṣyē̠\nmadhu̍ vakṣyāmi̠ madhu̍ vadiṣyāmi̠\nmadhu̍matī-ndē̠vēbhyō̠ vācha̠mudyāsagṃśuśrūṣē̠ṇyā̎m\nmanu̠ṣyē̎bhya̠staṃ\nmā̍ dē̠vā a̍vantu śō̠bhāyai̍ pi̠tarō-‘nu̍madantu ॥\nōṃ śānti̠-śśānti̠-śśānti̍ḥ ॥",
