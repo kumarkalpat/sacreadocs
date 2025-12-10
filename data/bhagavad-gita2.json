@@ -2669,7 +2669,7 @@
           "id": "bg_6_6",
           "verse_number": 6,
           "startTime": 3005,
-          "endTime": 3016,
+          "endTime": 3017,
           "original": "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः ।\nअनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ॥ ६ ॥",
           "transliteration": "bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ |\nanātmanas tu śhatrutve vartetātmaiva śhatru-vat || 6 ||",
           "translations": {
@@ -2679,8 +2679,8 @@
         {
           "id": "bg_6_7",
           "verse_number": 7,
-          "startTime": 3017,
-          "endTime": null,
+          "startTime": 3018,
+          "endTime": 3029,
           "original": "जितात्मनः प्रशान्तस्य परमात्मा समाहितः ।\nशीतोष्णसुखदुःखेषु तथा मानापमानयोः ॥ ७ ॥",
           "transliteration": "jitātmanaḥ praśhāntasya paramātmā samāhitaḥ |\nśhītoṣhṇa-sukha-duḥkheṣhu tathā mānāpamānayoḥ || 7 ||",
           "translations": {
@@ -2690,8 +2690,8 @@
         {
           "id": "bg_6_8",
           "verse_number": 8,
-          "startTime": 115,
-          "endTime": 129,
+          "startTime": 3030,
+          "endTime": 3042,
           "original": "ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः ।\nयुक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चनः ॥ ८ ॥",
           "transliteration": "jñāna-vijñāna-tṛptātmā kūṭastho vijitendriyaḥ |\nyukta ity uchyate yogī sama-loṣhṭāśhma-kāñchanaḥ || 8 ||",
           "translations": {
@@ -2701,8 +2701,8 @@
         {
           "id": "bg_6_9",
           "verse_number": 9,
-          "startTime": 130,
-          "endTime": 143,
+          "startTime": 3043,
+          "endTime": 3053,
           "original": "सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु ।\nसाधुष्वपि च पापेषु समबुद्धिर्विशिष्यते ॥ ९ ॥",
           "transliteration": "suhṛn-mitrāry-udāsīna-madhyastha-dveṣhya-bandhuṣhu |\nsādhuṣhv api cha pāpeṣhu sama-buddhir viśiṣhyate || 9 ||",
           "translations": {
@@ -2712,8 +2712,8 @@
         {
           "id": "bg_6_10",
           "verse_number": 10,
-          "startTime": 144,
-          "endTime": 158,
+          "startTime": 3054,
+          "endTime": 3065,
           "original": "योगी युञ्जीत सततमात्मानं रहसि स्थितः ।\nएकाकी यतचित्तात्मा निराशीरपरिग्रहः ॥ १० ॥",
           "transliteration": "yogī yuñjīta satatam ātmānaṁ rahasi sthitaḥ |\nekākī yata-chittātmā nirāśhīr aparigrahaḥ || 10 ||",
           "translations": {
@@ -2723,8 +2723,8 @@
         {
           "id": "bg_6_11",
           "verse_number": 11,
-          "startTime": 159,
-          "endTime": 172,
+          "startTime": 3066,
+          "endTime": 3077,
           "original": "शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः ।\nनात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् ॥ ११ ॥",
           "transliteration": "śhuchau deśhe pratiṣhṭhāpya sthiram āsanam ātmanaḥ |\nnātyuchchritaṁ nāti-nīchaṁ chailājina-kuśhottaram || 11 ||",
           "translations": {
@@ -2734,8 +2734,8 @@
         {
           "id": "bg_6_12",
           "verse_number": 12,
-          "startTime": 173,
-          "endTime": 187,
+          "startTime": 3078,
+          "endTime": 3089,
           "original": "तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः ।\nउपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये ॥ १२ ॥",
           "transliteration": "tatraikāgraṁ manaḥ kṛtvā yata-chittendriya-kriyaḥ |\nupaviśhyāsane yuñjyād yogam ātma-viśhuddhaye || 12 ||",
           "translations": {
@@ -2745,8 +2745,8 @@
         {
           "id": "bg_6_13",
           "verse_number": 13,
-          "startTime": 188,
-          "endTime": 203,
+          "startTime": 3090,
+          "endTime": 3102,
           "original": "समं कायशिरोग्रीवं धारयन्नचलं स्थिरः ।\nसम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् ॥ १३ ॥",
           "transliteration": "samaṁ kāya-śhiro-grīvaṁ dhārayann achalaṁ sthiraḥ |\nsamprekṣhya nāsikāgraṁ svaṁ diśhaśh chānavalokayan || 13 ||",
           "translations": {
@@ -2756,8 +2756,8 @@
         {
           "id": "bg_6_14",
           "verse_number": 14,
-          "startTime": 204,
-          "endTime": 215,
+          "startTime": 3103,
+          "endTime": 3115,
           "original": "प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः ।\nमनः संयम्य मच्चित्तो युक्त आसीत मत्परः ॥ १४ ॥",
           "transliteration": "praśhāntātmā vigata-bhīr brahmachāri-vrate sthitaḥ |\nmanaḥ saṁyamya mach-chitto yukta āsīta mat-paraḥ || 14 ||",
           "translations": {
@@ -2767,8 +2767,8 @@
         {
           "id": "bg_6_15",
           "verse_number": 15,
-          "startTime": 216,
-          "endTime": 231,
+          "startTime": 3116,
+          "endTime": 3127,
           "original": "युञ्जन्नेवं सदात्मानं योगी नियतमानसः ।\nशान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ॥ १५ ॥",
           "transliteration": "yuñjann evaṁ sadātmānaṁ yogī niyata-mānasaḥ |\nśhāntiṁ nirvāṇa-paramāṁ mat-saṁsthām adhigachchhati || 15 ||",
           "translations": {
@@ -2778,8 +2778,8 @@
         {
           "id": "bg_6_16",
           "verse_number": 16,
-          "startTime": 232,
-          "endTime": 245,
+          "startTime": 3128,
+          "endTime": 3139,
           "original": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः ।\nन चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन ॥ १६ ॥",
           "transliteration": "nātyaśhnatas tu yogo 'sti na chaikāntam anaśhnataḥ |\nna chāti-svapna-śhīlasya jāgrato naiva chārjuna || 16 ||",
           "translations": {
@@ -2789,8 +2789,8 @@
         {
           "id": "bg_6_17",
           "verse_number": 17,
-          "startTime": 246,
-          "endTime": 259,
+          "startTime": 3140,
+          "endTime": 3151,
           "original": "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु ।\nयुक्तस्वप्नावबोधस्य योगो भवति दुःखहा ॥ १७ ॥",
           "transliteration": "yuktāhāra-vihārasya yukta-cheṣhṭasya karmasu |\nyukta-svapnāvabodhasya yogo bhavati duḥkha-hā || 17 ||",
           "translations": {
@@ -2800,8 +2800,8 @@
         {
           "id": "bg_6_18",
           "verse_number": 18,
-          "startTime": 260,
-          "endTime": 273,
+          "startTime": 3152,
+          "endTime": 3163,
           "original": "यदा विनियतं चित्तमात्मन्येवावतिष्ठते ।\nनिःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा ॥ १८ ॥",
           "transliteration": "yadā viniyataṁ chittam ātmany evāvatiṣhṭhate |\nniḥspṛhaḥ sarva-kāmebhyo yukta ity uchyate tadā || 18 ||",
           "translations": {
@@ -2811,8 +2811,8 @@
         {
           "id": "bg_6_19",
           "verse_number": 19,
-          "startTime": 274,
-          "endTime": 288,
+          "startTime": 3164,
+          "endTime": 3175,
           "original": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता ।\nयोगिनो यतचित्तस्य युञ्जतो योगमात्मनः ॥ १९ ॥",
           "transliteration": "yathā dīpo nivāta-stho neṅgate sopamā smṛtā |\nyogino yata-chittasya yuñjato yogam ātmanaḥ || 19 ||",
           "translations": {
@@ -2822,8 +2822,8 @@
         {
           "id": "bg_6_20",
           "verse_number": 20,
-          "startTime": 289,
-          "endTime": 301,
+          "startTime": 3176,
+          "endTime": 3187,
           "original": "यत्रोपरमते चित्तं निरुद्धं योगसेवया ।\nयत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति ॥ २० ॥",
           "transliteration": "yatroparamate chittaṁ niruddhaṁ yoga-sevayā |\nyatra chaivātmanātmānaṁ paśhyann ātmani tuṣhyati || 20 ||",
           "translations": {
@@ -2833,8 +2833,8 @@
         {
           "id": "bg_6_21",
           "verse_number": 21,
-          "startTime": 302,
-          "endTime": 316,
+          "startTime": 3188,
+          "endTime": 3198,
           "original": "सुखमात्यन्तिकं यत्तद्बुद्धिग्राह्यमतीन्द्रियम् ।\nवेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः ॥ २१ ॥",
           "transliteration": "sukham ātyantikaṁ yat tad buddhi-grāhyam atīndriyam |\nvetti yatra na chaivāyaṁ sthitaśh chalati tattvataḥ || 21 ||",
           "translations": {
@@ -2844,8 +2844,8 @@
         {
           "id": "bg_6_22",
           "verse_number": 22,
-          "startTime": 317,
-          "endTime": 330,
+          "startTime": 3199,
+          "endTime": 3210,
           "original": "यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः ।\nयस्मिन्स्थितो न दुःखेन गुरुणापि विचाल्यते ॥ २२ ॥",
           "transliteration": "yaṁ labdhvā chāparaṁ lābhaṁ manyate nādhikaṁ tataḥ |\nyasmin sthito na duḥkhena guruṇāpi vichālyate || 22 ||",
           "translations": {
@@ -2855,8 +2855,8 @@
         {
           "id": "bg_6_23",
           "verse_number": 23,
-          "startTime": 331,
-          "endTime": 346,
+          "startTime": 3211,
+          "endTime": 3222,
           "original": "तं विद्याद्दुःखसंयोगवियोगं योगसंज्ञितम् ।\nस निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा ॥ २३ ॥",
           "transliteration": "taṁ vidyād duḥkha-saṁyoga-viyogaṁ yoga-saṁjñitam |\nsa niśhchayena yoktavyo yogo 'nirviṇṇa-chetasā || 23 ||",
           "translations": {
@@ -2866,8 +2866,8 @@
         {
           "id": "bg_6_24",
           "verse_number": 24,
-          "startTime": 347,
-          "endTime": 359,
+          "startTime": 3223,
+          "endTime": 3233,
           "original": "सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः ।\nमनसैवेन्द्रियग्रामं विनियम्य समन्ततः ॥ २४ ॥",
           "transliteration": "saṅkalpa-prabhavān kāmāns tyaktvā sarvān aśheṣhataḥ |\nmanasaivendriya-grāmaṁ viniyamya samantataḥ || 24 ||",
           "translations": {
@@ -2877,8 +2877,8 @@
         {
           "id": "bg_6_25",
           "verse_number": 25,
-          "startTime": 360,
-          "endTime": 374,
+          "startTime": 3234,
+          "endTime": 3246,
           "original": "शनैः शनैरुपरमेद्बुद्ध्या धृतिगृहीतया ।\nआत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत् ॥ २५ ॥",
           "transliteration": "śhanaiḥ śhanair uparamed buddhyā dhṛti-gṛhītayā |\nātma-saṁsthaṁ manaḥ kṛtvā na kiñchid api chintayet || 25 ||",
           "translations": {
@@ -2888,8 +2888,8 @@
         {
           "id": "bg_6_26",
           "verse_number": 26,
-          "startTime": 375,
-          "endTime": 387,
+          "startTime": 3247,
+          "endTime": null,
           "original": "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।\nततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ॥ २६ ॥",
           "transliteration": "yato yato niśhcharati manaśh chañchalam asthiram |\ntatas tato niyamyaitad ātmany eva vaśhaṁ nayet || 26 ||",
           "translations": {
