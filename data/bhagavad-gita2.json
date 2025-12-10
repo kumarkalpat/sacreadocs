@@ -2614,7 +2614,7 @@
           "id": "bg_6_1",
           "verse_number": 1,
           "startTime": 2930,
-          "endTime": null,
+          "endTime": 2954,
           "original": "श्रीभगवानुवाच\nअनाश्रितः कर्मफलं कार्यं कर्म करोति यः ।\nस सन्न्यासी च योगी च न निरग्निर्न चाक्रियः ॥ १ ॥",
           "transliteration": "śhrī bhagavān uvācha\nanāśhritaḥ karma-phalaṁ kāryaṁ karma karoti yaḥ |\nsa sannyāsī cha yogī cha na niragnir na chākriyaḥ || 1 ||",
           "translations": {
@@ -2624,8 +2624,8 @@
         {
           "id": "bg_6_2",
           "verse_number": 2,
-          "startTime": 27,
-          "endTime": 41,
+          "startTime": 2955,
+          "endTime": 2968,
           "original": "यं सन्न्यासमिति प्राहुर्योगं तं विद्धि पाण्डव ।\nन ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन ॥ २ ॥",
           "transliteration": "yaṁ sannyāsam iti prāhur yogaṁ taṁ viddhi pāṇḍava |\nna hy asannyasta-saṅkalpo yogī bhavati kaśhchana || 2 ||",
           "translations": {
@@ -2635,8 +2635,8 @@
         {
           "id": "bg_6_3",
           "verse_number": 3,
-          "startTime": 42,
-          "endTime": 56,
+          "startTime": 2969,
+          "endTime": 2979,
           "original": "आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते ।\nयोगारूढस्य तस्यैव शमः कारणमुच्यते ॥ ३ ॥",
           "transliteration": "ārurukṣhor muner yogaṁ karma kāraṇam uchyate |\nyogārūḍhasya tasyaiva śhamaḥ kāraṇam uchyate || 3 ||",
           "translations": {
@@ -2646,8 +2646,8 @@
         {
           "id": "bg_6_4",
           "verse_number": 4,
-          "startTime": 57,
-          "endTime": 70,
+          "startTime": 2980,
+          "endTime": 2990,
           "original": "यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते ।\nसर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते ॥ ४ ॥",
           "transliteration": "yadā hi nendriyārtheṣhu na karmasv anuṣhajjate |\nsarva-saṅkalpa-sannyāsī yogārūḍhas tadocyate || 4 ||",
           "translations": {
@@ -2657,8 +2657,8 @@
         {
           "id": "bg_6_5",
           "verse_number": 5,
-          "startTime": 71,
-          "endTime": 85,
+          "startTime": 2991,
+          "endTime": 3004,
           "original": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत् ।\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ॥ ५ ॥",
           "transliteration": "uddhared ātmanātmānaṁ nātmānam avasādayet |\nātmaiva hy ātmano bandhur ātmaiva ripur ātmanaḥ || 5 ||",
           "translations": {
@@ -2668,8 +2668,8 @@
         {
           "id": "bg_6_6",
           "verse_number": 6,
-          "startTime": 86,
-          "endTime": 99,
+          "startTime": 3005,
+          "endTime": 3016,
           "original": "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः ।\nअनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ॥ ६ ॥",
           "transliteration": "bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ |\nanātmanas tu śhatrutve vartetātmaiva śhatru-vat || 6 ||",
           "translations": {
@@ -2679,8 +2679,8 @@
         {
           "id": "bg_6_7",
           "verse_number": 7,
-          "startTime": 100,
-          "endTime": 114,
+          "startTime": 3017,
+          "endTime": null,
           "original": "जितात्मनः प्रशान्तस्य परमात्मा समाहितः ।\nशीतोष्णसुखदुःखेषु तथा मानापमानयोः ॥ ७ ॥",
           "transliteration": "jitātmanaḥ praśhāntasya paramātmā samāhitaḥ |\nśhītoṣhṇa-sukha-duḥkheṣhu tathā mānāpamānayoḥ || 7 ||",
           "translations": {
