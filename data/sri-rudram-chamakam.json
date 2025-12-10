@@ -1,9 +1,7 @@
 {
   "id": "sri-rudram-chamakam",
   "name": "Chamakam",
-  "audioUrl": "https://music.youtube.com/watch?v=UWRmJmTGcTE&si=1ZCwtyvZbqWJLD0d",
-  "audioSource": "Challakere Brothers - Youtube Music",
-  "verses_count": 17,
+  "verses_count": 12,
   "verses": [
         {
           "id": "chm-1",
