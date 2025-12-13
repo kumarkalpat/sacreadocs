@@ -22,7 +22,7 @@
     "introduction": "The Hanuman Chalisa is a Hindu devotional hymn addressed to Lord Hanuman, a devout follower of Lord Rama and a central character in the epic Ramayana. Composed in the Awadhi language by the 16th-century poet Tulsidas, it is one of the most widely recited Hindu texts, revered for its power to invoke courage, strength, and protection.\n\nThe word 'Chalisa' derives from 'Chalis,' meaning forty in Hindi, referring to the 40 main verses (Chaupais) that form the core of the prayer. The complete recitation is traditionally counted as 43 sections, including two preliminary couplets (Dohas) that set the stage, and one final couplet that concludes the invocation.\n\nThe text glorifies Hanuman's immense strength, wisdom, celibacy, and unwavering devotion to Lord Rama. Reciting the Chalisa is believed to ward off evil spirits and negativity, alleviate suffering, and grant the devotee the virtues of knowledge and fortitude, making it a powerful spiritual anchor for millions of devotees worldwide.",
     "path": "hanuman-chalisa.json",
     "coverImage": "images/hanuman-chalisa.png",
-    "collections": ["Stotras", "Devotional"],
+    "collections": ["Stotras"],
     "deities": ["Hanuman", "Rama"],
     "occasions": ["Protection", "Courage", "Strength", "Daily Prayer"],
     "times": ["Daily"]
@@ -36,7 +36,7 @@
     "introduction": "The Lalita Sahasranama is one of the most sacred texts in Shaktism, dedicated to the Hindu Mother Goddess Lalita Tripurasundari, the form of the Divine Mother (Shakti) who governs the three worlds. This hymn appears in the Uttara Khanda of the Brahmanda Purana and is presented as a conversation between the sage Agastya and Lord Hayagriva (an incarnation of Vishnu).\n\nUnlike other Sahasranamas (thousand names) which may contain repetitive or manufactured names, the Lalita Sahasranama is unique because it is said to have been composed by the Goddess herself at the request of the Vagdevatas (Goddesses of Speech), ensuring its flawless and supreme nature.\n\nRecitation of the Sahasranama is central to the worship of Lalita and is believed to grant spiritual merit, prosperity, and liberation (moksha). The names systematically describe the Goddess's physical attributes, her divine weapons (like the sugarcane bow and flowery arrows), her glorious pastimes, and her role as the ultimate creator, maintainer, and destroyer of the universe.",
     "path": "lalita-sahasranamam.json",
     "coverImage": "images/lalita-sahasranamam.png",
-    "collections": ["Stotras", "Devotional"],
+    "collections": ["Stotras"],
     "deities": ["Lalita Tripurasundari", "Devi", "Shakti"],
     "occasions": ["Spiritual Merit", "Prosperity", "Liberation", "Festivals"],
     "times": ["Daily"]
@@ -50,7 +50,7 @@
     "introduction": "The Shiva Tandava Stotram is a Sanskrit hymn of praise to the Hindu God Shiva, often attributed to Ravana, the Rakshasa King of Lanka and a devoted follower of Shiva. The hymn is renowned for its intense, alliterative meter (Pañcacamara Jati), which mimics the powerful rhythm of Shiva's furious cosmic dance, the Tandava.\n\nComposed in a highly evocative and descriptive language, the stotram captures the duality of Shiva—the terrifying destroyer of ignorance and the benevolent bestower of blessings. It details his fierce appearance, including his matted locks holding the Ganga, the crescent moon on his head, the venomous serpents encircling his body, and the fire blazing on his forehead.\n\nRecitation of the Shiva Tandava Stotram is believed to bring immense courage, devotion, and freedom from fear.",
     "path": "shiva-tandava-stotram.json",
     "coverImage": "images/shiva-tandava.png",
-    "collections": ["Stotras", "Devotional"],
+    "collections": ["Stotras"],
     "deities": ["Shiva"],
     "occasions": ["Courage", "Devotion", "Fearlessness", "Maha Shivaratri"],
     "times": ["Daily", "Evening"]
@@ -64,7 +64,7 @@
     "introduction": "The Sri Vishnu Sahasranama Stotram (The Hymn of a Thousand Names of Vishnu) is one of the most sacred and revered hymns in Hinduism. It is a list of 1,000 names of Vishnu, one of the main deities in Hinduism and the Supreme Being in Vaishnavism. The most popular version of the Vishnu Sahasranama is found in the Anushasana Parva (Chapter 149) of the ancient Indian epic, the Mahabharata.\n\nThe hymn is traditionally attributed to Sage Vyasa, the legendary author of the Mahabharata. It originates in the context of the Kurukshetra war, where Yudhishthira, the eldest of the Pandavas, seeks spiritual guidance from Bhishma Pitamaha, who lies on a bed of arrows. Yudhishthira asks Bhishma: 'Who is the one supreme God in the world? Who is the one supreme refuge for all? By praising whom can humans attain auspiciousness? What is the greatest Dharma among all dharmas? By chanting what can a living being be freed from the bondage of samsara (cycle of birth and death)?'\n\nBhishma responds by reciting the thousand names of Lord Vishnu, extolling His divine qualities, attributes, and actions. Each name in the Sahasranama encapsulates a profound philosophical meaning, describing Vishnu's omnipresence, omnipotence, benevolence, and various cosmic roles. Chanting these names is believed to confer immense spiritual and material benefits, including peace of mind, freedom from fear, purification from sins, and ultimate liberation (moksha).",
     "path": "vishnu-sahasranamam.json",
     "coverImage": "images/vishnu-sahasranamam.png",
-    "collections": ["Stotras", "Devotional"],
+    "collections": ["Stotras"],
     "deities": ["Vishnu"],
     "occasions": ["Peace of Mind", "Fearlessness", "Liberation", "Prosperity", "Daily Prayer"],
     "times": ["Daily"]
@@ -78,7 +78,7 @@
     "introduction": "The Soundarya Lahari ('Waves of Beauty') is a famous Sanskrit literary work attributed to Adi Shankara. It is a devotional poem of one hundred verses (shlokas) praising Goddess Parvati as the supreme divine mother, depicted in various aspects of beauty, grace, and power. The first 41 verses are known as 'Ananda Lahari' (Waves of Bliss), focusing on the Kundalini yoga and the mystical aspects of the Sri Chakra. The remaining 59 verses are called 'Soundarya Lahari' (Waves of Beauty), describing the physical beauty of the Goddess from head to toe. It is a profound work that blends devotion, Tantric philosophy, and aesthetics, revered by devotees and scholars alike for its lyrical beauty and spiritual depth.",
     "path": "soundarya-lahari.json",
     "coverImage": "images/soundarya-lahari.png",
-    "collections": ["Stotras", "Devotional"],
+    "collections": ["Stotras"],
     "deities": ["Parvati", "Devi", "Shakti"],
     "occasions": ["Spiritual Depth", "Beauty", "Grace", "Devotion"],
     "times": ["Daily"]
@@ -106,7 +106,7 @@
     "introduction": "Aditya Hrudayam (Sanskrit: आदित्यहृदयम्, romanized: adityahṛdayam) is a devotional hymn in praise of Surya, the Sun God, and is a significant stotra in Hinduism. It means 'The Heart of Aditya' (Aditya refers to Surya). This hymn was recited by the sage Agastya to Rama on the battlefield before his fight with Ravana, to bestow victory upon him. It is found in the Yuddha Kanda of the Valmiki Ramayana. Chanting this hymn is believed to bring courage, victory, prosperity, and good health. It comprises 31 verses that describe the Sun God's glory, His various names, and the benefits of His worship.",
     "path": "aditya-hridayam.json",
     "coverImage": "images/aditya_hridayam.png",
-    "collections": ["Stotras", "Devotional"],
+    "collections": ["Stotras"],
     "deities": ["Surya", "Rama"],
     "occasions": ["Courage", "Victory", "Prosperity", "Health", "Daily Prayer"],
     "times": ["Morning", "Daily"]
@@ -120,7 +120,7 @@
     "introduction": "The Ganapati Atharvashirsha (also known as the Ganapati Upanishad) is a Sanskrit text and a minor Upanishad of Hinduism, specifically associated with the Atharvaveda. It is a late Upanishadic text dedicated to **Lord Ganesha**, the deity of intellect, wisdom, and the remover of obstacles. The text elevates Ganesha to the status of **Brahman**, the Supreme Reality, asserting that he is the essence of all existence, the creator, sustainer, and destroyer of the universe. Chanting this hymn is considered highly meritorious, leading to spiritual fulfillment, success, and liberation (Moksha). The text is generally considered to have ten core verses (mantras) preceded by a Shanti Mantra (Peace Invocation) and followed by a PhalaSruti (statement of benefits).",
     "path": "ganapati-atharvashirsha.json",
     "coverImage": "images/ganapati.png",
-    "collections": ["Sūktams", "Mantra", "Devotional"],
+    "collections": ["Sūktams", "Mantra"],
     "deities": ["Ganesha"],
     "occasions": ["Obstacle Removal", "Wisdom", "Success", "Beginnings"],
     "times": ["Daily"]
@@ -162,7 +162,7 @@
     "introduction": "The Rudrashtakam is a famous Sanskrit devotional hymn (stotra) composed by Goswami Tulsidas, the author of the Ramcharitmanas. It is dedicated to Lord Shiva, who is addressed here as Rudra. The hymn is known for its beautiful descriptions of Shiva's form and qualities, and is often recited to seek protection, purity of mind, and liberation. It consists of eight main verses (shlokas) and a concluding verse (phala shruti).",
     "path": "rudrashtakam.json",
     "coverImage": "images/rudrashtakam.png",
-    "collections": ["Stotras", "Devotional"],
+    "collections": ["Stotras"],
     "deities": ["Shiva", "Rudra"],
     "occasions": ["Protection", "Purity of Mind", "Liberation", "Maha Shivaratri"],
     "times": ["Daily"]
@@ -176,7 +176,7 @@
     "audioSource": "Archive.org",
     "path": "sri-suktam.json",
     "coverImage": "images/sri-suktam.png",
-    "collections": ["Sūktams", "Mantra", "Devotional"],
+    "collections": ["Sūktams", "Mantra"],
     "deities": ["Lakshmi", "Devi", "Agni"],
     "occasions": ["Prosperity", "Wealth", "Auspiciousness", "Divine Feminine"],
     "times": ["Daily"]
@@ -190,7 +190,7 @@
     "audioSource": "Challakere Brothers - Youtube Music",
     "path": "durga-suktam.json",
     "coverImage": "images/durga-suktam.png",
-    "collections": ["Sūktams", "Mantra", "Devotional"],
+    "collections": ["Sūktams", "Mantra"],
     "deities": ["Durga", "Devi", "Shakti", "Agni"],
     "occasions": ["Protection", "Obstacle Removal", "Prosperity", "Navaratri"],
     "times": ["Daily"]
@@ -204,7 +204,7 @@
     "audioSource": "Archive.org",
     "path": "medha-suktam.json",
     "coverImage": "images/medha-suktam.png",
-    "collections": ["Sūktams", "Mantra", "Devotional"],
+    "collections": ["Sūktams", "Mantra"],
     "deities": ["Medha Devi", "Sarasvati", "Agni", "Indra", "Ashvins"],
     "occasions": ["Wisdom", "Intellect", "Memory", "Learning"],
     "times": ["Daily", "Student Life"]
@@ -218,7 +218,7 @@
     "audioSource": "SP Balasubramanam - Youtube Music",
     "path": "lingashtakam.json",
     "coverImage": "images/lingashtakam.png",
-    "collections": ["Stotras", "Devotional"],
+    "collections": ["Stotras"],
     "deities": ["Shiva"],
     "occasions": ["Bliss", "Salvation", "Maha Shivaratri"],
     "times": ["Daily"]
@@ -232,7 +232,7 @@
     "audioSource": "Sri Venkatesa Suprabhatam · M.s. Subbulakshmi · Youtube",
     "path": "venkateswara-suprabhatam.json",
     "coverImage": "images/venkateswara.png",
-    "collections": ["Stotras", "Devotional", "Mantra"],
+    "collections": ["Stotras", "Mantra"],
     "deities": ["Venkatesvara", "Vishnu"],
     "occasions": ["Daily Prayer", "Blessings", "Early Morning Ritual"],
     "times": ["Morning", "Daily"]
@@ -246,7 +246,7 @@
     "audioSource": "Archive.org",
     "path": "skanda-sashti-kavacham.json",
     "coverImage": "images/skanda-sashti-kavacham.png",
-    "collections": ["Stotras", "Devotional"],
+    "collections": ["Stotras"],
     "deities": ["Murugan", "Skanda", "Karttikeya", "Subramanya"],
     "occasions": ["Protection", "Healing", "Against Evil", "Skanda Sashti Festival"],
     "times": ["Daily"]
@@ -262,7 +262,7 @@
     "audioSource": "Bala Murali - Archive.org",
     "path": "kanakadhara-stotram.json",
     "coverImage": "images/kanakadhara-stotram.png",
-    "collections": ["Stotras", "Devotional"],
+    "collections": ["Stotras"],
     "deities": ["Mahalakshmi", "Lakshmi"],
     "occasions": ["Prosperity", "Wealth", "Spiritual Fulfillment"],
     "times": ["Daily"]
@@ -277,7 +277,7 @@
     "audioSource": "MS Subbulakshmi and Radha Viswanathan - Youtube Music",
     "path": "ganesha-pancharatnam.json",
     "coverImage": "images/ganapati.png",
-    "collections": ["Stotras", "Devotional", "Mantra"],
+    "collections": ["Stotras", "Mantra"],
     "deities": ["Ganesha"],
     "occasions": ["Obstacle Removal", "Success", "Prosperity", "Spiritual Realization", "Beginnings"],
     "times": ["Daily"]
@@ -292,7 +292,7 @@
     "audioSource": "Rajalakshmee Sanjay - Youtube Music",
     "path": "mahishasura-mardini.json",
     "coverImage": "images/mahishasura-mardini.png",
-    "collections": ["Stotras", "Devotional"],
+    "collections": ["Stotras"],
     "deities": ["Durga", "Devi", "Shakti"],
     "occasions": ["Victory over Evil", "Protection", "Obstacle Removal", "Navaratri"],
     "times": ["Daily", "Navaratri"]
@@ -307,7 +307,7 @@
     "audioSource": "ISKCON Bangalore - Youtube Music",
     "path": "narasimha-kavacham.json",
     "coverImage": "images/narasimha.png",
-    "collections": ["Stotras", "Devotional"],
+    "collections": ["Stotras"],
     "deities": ["Narasimha", "Vishnu"],
     "occasions": ["Protection", "Fearlessness", "Destruction of Evil"],
     "times": ["Daily"]
